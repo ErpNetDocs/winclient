@@ -124,7 +124,18 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "qzFSh9PdyRTHsa6c3aVjbQ=="
+          "hash": "nru6LlIj2ugMpx4JXjgoQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/more-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/more-button.png"
         }
       },
       "is_incremental": false,
@@ -137,6 +148,62 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/overview.html",
           "hash": "YsXJaFVHjf1NXzvoKV/MKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/save-layout-as.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/save-layout-as.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/save-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/save-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/save-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/save-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/view-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/view-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/working-with-views.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/working-with-views.html",
+          "hash": "Pkbo8bLaAoir5DxBD62kXg=="
         }
       },
       "is_incremental": false,
