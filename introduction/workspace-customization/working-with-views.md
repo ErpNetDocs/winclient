@@ -6,7 +6,7 @@ Selecting the desired View is done by clicking it in the Command Ribbon >> View.
 
 ![View Tab](view-tab.png)
 
-When there are more saved Views than the section can show (4, or 2 when the window is smaller), then the whole list could be seen by clicking the button  .
+When there are more saved Views than the section can show (4, or 2 when the window is smaller), then the whole list could be seen by clicking the button ![More Button](more-button.png).
 
 ## View Types
 
@@ -26,6 +26,9 @@ When it is necessary to save the changes in a View, different than the currently
 ![Save View](save-view.png)
  
 This option opens a new dialog window where you can set your saving preferences. If you would like the View to be named, click the respective “Named Layout” checkbox and give it a name. Otherwise, the View will be saved as a Standard View.
+
+![Save Layout As](save-layout-as.png)
+
 If the View is not specifically saved, the system would ask if you would like to save it when closing the form. If not, the changes would be lost.
 
 ## More actions
@@ -38,5 +41,4 @@ Other actions you could potentially perform with Views (from the Command Ribbon 
 - System view permissions – allows you to view and/or change the System view permissions
 - Panel permissions – allows you to view and/or change the Panel permissions
 - Load layout from file – works when there is a previously saved layout. The system applies it to the currently selected View of the form. It could only be used for the same form (which means you cannot load a Sales form View on the Invoices form)
-- Save layout to file – saves the currently configured view in a file which could be sent over (via email or IM programs) and/or loaded in another database (for the same form)
-
+- Save layout to file – saves the currently configured view in a file which could be sent over (via email or IM programs) and/or loaded in another database (for the same for
