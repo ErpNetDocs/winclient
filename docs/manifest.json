@@ -37,6 +37,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/more-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/more-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/save-layout-as.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/save-layout-as.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/save-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/save-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/save-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/save-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/view-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/view-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
@@ -203,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-views.html",
-          "hash": "Pkbo8bLaAoir5DxBD62kXg=="
+          "hash": "QbhAN3jevk6NTervhT+OlQ=="
         }
       },
       "is_incremental": false,
