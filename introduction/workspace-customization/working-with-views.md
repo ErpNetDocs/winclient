@@ -45,4 +45,4 @@ Other actions you could potentially perform with Views (from the Command Ribbon 
 - System view permissions – allows you to view and/or change the System view permissions
 - Panel permissions – allows you to view and/or change the Panel permissions
 - Load layout from file – works when there is a previously saved layout. The system applies it to the currently selected View of the form. It could only be used for the same form (which means you cannot load a Sales form View on the Invoices form)
-- Save layout to file – saves the currently configured view in a file which could be sent over (via email or IM programs) and/or loaded in another database (for the same for
+- Save layout to file – saves the currently configured view in a file which could be sent over (via email or IM programs) and/or loaded in another database (for the same form).
