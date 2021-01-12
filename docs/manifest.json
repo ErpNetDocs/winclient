@@ -163,6 +163,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/keyboard-shortcuts.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/keyboard-shortcuts.html",
+          "hash": "o094kMNQNsxoO7ageP92ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/overview.md",
       "output": {
         ".html": {
@@ -179,7 +191,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "nru6LlIj2ugMpx4JXjgoQA=="
+          "hash": "IUl8EgRhiqkJjKlfV9NOJA=="
         }
       },
       "is_incremental": false,
