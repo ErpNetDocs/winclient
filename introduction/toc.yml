@@ -1,4 +1,6 @@
 - name: Overview
   href: overview.md
+- name: Keyboard Shortcuts
+  href: keyboard-shortcuts.md
 - name: Customize the Workspace
   href: workspace-customization/toc.yml
