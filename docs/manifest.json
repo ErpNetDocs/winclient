@@ -37,10 +37,65 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/floating-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/floating-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/floating-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/floating-window.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/hide-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/hide-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/workspace-customization/more-button.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/workspace-customization/more-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/panel-left-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/panel-left-position.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/panel-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/panel-position.png"
         }
       },
       "is_incremental": false,
@@ -81,10 +136,44 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/show-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/show-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/workspace-customization/view-tab.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/workspace-customization/view-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace-customization/visible-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace-customization/visible-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction/workspace-customization/working-with-panels.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction/workspace-customization/working-with-panels.html",
+          "hash": "08OUaoOfS4RG3dcOcYakdw=="
         }
       },
       "is_incremental": false,
@@ -186,12 +275,67 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/show-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/show-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "IUl8EgRhiqkJjKlfV9NOJA=="
+          "hash": "9EH83ASUMzXn8BKgAt92OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/visible-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/visible-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/floating-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/floating-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/floating-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/floating-window.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/hide-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/hide-panel.png"
         }
       },
       "is_incremental": false,
@@ -215,6 +359,28 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/overview.html",
           "hash": "YsXJaFVHjf1NXzvoKV/MKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/panel-left-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/panel-left-position.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/panel-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/panel-position.png"
         }
       },
       "is_incremental": false,
@@ -255,10 +421,44 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/show-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/show-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/workspace-customization/view-tab.png",
       "output": {
         "resource": {
           "relative_path": "introduction/workspace-customization/view-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/visible-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/visible-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/working-with-panels.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/working-with-panels.html",
+          "hash": "XPxmyFr+aNGUsQDxpq7SGQ=="
         }
       },
       "is_incremental": false,
