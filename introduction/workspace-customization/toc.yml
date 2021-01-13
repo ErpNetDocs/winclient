@@ -2,4 +2,5 @@
   href: overview.md
 - name: Working with Views
   href: working-with-views.md
-  
+- name: Working with Panels
+  href: working-with-panels.md
