@@ -1,11 +1,11 @@
-# Working with Panels 
+# Working with panels 
 
 The panels are logically grouped sets of fields. They are part of the forms, which contain information from different logical entities in @@winclientfull. The panels are usually combined in regions. If you need to edit the Panels, the Customize Current View mode should be active.
 
 > [!note]
 > If you need to edit the Panels, the Customize Current View mode should be active.
 
-## Showing and hiding Panels
+## Showing and hiding panels
 
 If you would like to show or hide some Panels, go to Command Ribbon >> View >> Visible panels.
 
@@ -19,7 +19,7 @@ If you need to hide a panel, click on its name in the list – the panel will ge
 
 ![Show Panel](show-panel.png)
 
-## Arranging Panels
+## Arranging panels
 
 You could move the panels from one region to another by dragging them. In a single region you could have more than one visible panels. Only one of the panels will be focused and its fields will be shown. If you would like focus another panel, you could click on its panel name. You will initially see the panel, which was visible when the View was saved. If you would like to change the initially visible panel, you could enter the Customize Current View mode, open the desired panel, and then save the change. 
 
@@ -33,7 +33,7 @@ If you select Left, the panel names will move from the top side to the left side
 
 In a similar way, you could position the panel names on the right or on the bottom of the region.
 
-## Floating Panels
+## Floating panels
 
 By default, the panels reside within a region in the main form. When necessary, you could pop the panel out in a special form. In such a case, they are called floating Panels.
 
