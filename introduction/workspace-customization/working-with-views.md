@@ -1,4 +1,4 @@
-# Working with Views
+# Working with views
 
 When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a View. The View is a specific named appearance of a system’s form. You could have multiple Views for the same form and each of them could be easily opened with a single mouse click.
 
@@ -10,7 +10,7 @@ Selecting the desired View is done by clicking it in the Command Ribbon >> View.
 
 When there are more saved Views than the section can show (4, or 2 when the window is smaller), then the whole list could be seen by clicking the button ![More Button](more-button.png).
 
-## View Types
+## View types
 
 ERP.net has different types of Views – Standard and Named, for a User, Role or All Users.
 
@@ -18,7 +18,7 @@ There are two Standard Views – one for All Users and one for the specific User
 
 The Views, created by a User (in brackets behind the name of a View you can see the User who created it), could be opened and edited only by that specific User. They are not visible to the rest of the users in the system (including administrators). The Views, assigned to a Role (in the form “View name (Role name)”) could be opened and edited by any user, who has that role assigned or by an administrator. The All Users Views could be opened by all users of the system and edited only by administrators.
 
-## Saving Views
+## Saving views
 
 You can save your modified View using one of the following methods – by clicking the “Save layout changes” button or by using the “Save current view as…” option.
 The function “Save layout changes” is used by clicking the respective button in the View tab of the Command Ribbon. This way the changes are saved in the currently selected View.
