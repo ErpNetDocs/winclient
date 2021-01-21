@@ -6,16 +6,13 @@ Here is a list of the most commonly used commands.
 
 - Definition
 
-
 ![commands-definition-of.png](Definition)
     
 - New document   
 
-
 ![commands-new-document.png](New document)
 
 - Modify document state
-
 
 Command Ribbon >> Home:
 
@@ -23,13 +20,11 @@ Command Ribbon >> Home:
  
 - Print 
 
-
 Command Ribbon >> Home:
 
 ![commands-print.png](Print)
  
 - Create child document
-
 
 Command Ribbon >> Relations:
 
@@ -37,6 +32,7 @@ Command Ribbon >> Relations:
 
 - Change View
 
+Command Ribbon >> View
 
 ![commands-change-view.png](Change View)
 
@@ -44,22 +40,25 @@ Command Ribbon >> Relations:
 
 - Show data
 
-
 Command Ribbon >> Home:
  
 ![commands-show-data.png](Show data)
 
 - Create new
 
-
 Command Ribbon >> Home:
 
 ![commands-new-sales-order.png](Create new sales order)
 
+- Open document
+
+Command Ribbon >> Home
+
+![commands-open.png](Open document)
+
 ## General
 
 - Change Enterprise company
-
 
 Main Menu >> Command Ribbon >> Home:
 
@@ -69,22 +68,19 @@ Or File menu >> Settings >> Change Enterprise Company and Location…
 
 ![commands-settings-change-company.png](Change Enterprise company from Settings)
  
-- Change branch
-
+- Change location
 
 Main Menu >> Command Ribbon >> Home:
 
-![commands-change-branch.png](Change branch)
+![commands-change-location.png](Change location)
  
 - Change current role
-
 
 Main Menu >> Command Ribbon >> Home: 
 
 ![commands-change-role.png](Change Role)
 
 - Change of style
-
 
 Main Menu >> Command Ribbon >> Home: 
  
