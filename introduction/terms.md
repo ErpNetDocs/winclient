@@ -1,4 +1,4 @@
-#Most Commonly Used Terms
+#Most commonly used terms
 
 In @@winclientfull, there are some special terms. This topic briefly explains the most common ones. You can use it as a dictionary, until you get used to them:
 
