@@ -1,9 +1,10 @@
 - name: Overview
   href: overview.md
+- name: Most commonly used terms
+  href: terms.md
+- name: Most commonly used commands
+  href: commands.md
 - name: Keyboard shortcuts
   href: keyboard-shortcuts.md
 - name: Customize the workspace
   href: workspace-customization/toc.yml
-- name: Most commonly used terms
-  href: terms.md
-  
