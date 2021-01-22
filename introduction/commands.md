@@ -64,7 +64,7 @@ Main Menu >> Command Ribbon >> Home:
 
 ![Change Enterprise company](pictures/change-company.png)
 
-Or File menu >> Settings >> Change Enterprise Company and Location…
+Or File menu >> Settings >> Change Enterprise company and location…
 
 ![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
