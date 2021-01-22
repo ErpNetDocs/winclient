@@ -1,6 +1,6 @@
 # Command Ribbon 
 
-The Command Ribbon is a modern alternative to the classic menus. The actions in it are visualized through buttons. It is easy to use with a single tap or mouse click. What is special about the Command Ribbon in @@winclientfull is its adaptive context. The buttons change and provide specific functions, needed for the workflow you are currently working with. This way, you always see the exact buttons you need.
+The <b>Command Ribbon</b> is a modern alternative to the classic menus. The actions in it are visualized through buttons. It is easy to use with a single tap or mouse click. What is special about the Command Ribbon in @@winclientfull is its <b>adaptive context</b>. The buttons change and provide specific functions, needed for the workflow you are currently working with. This way, you always see the exact buttons you need.
  
 ![The command ribbon](pictures/command-ribbon.png)
 
@@ -12,7 +12,7 @@ The Command Ribbon has two main states - minimized (compact) and expanded. You c
  
 ![Minimize the Ribbon with a button](pictures/minimize-ribbon-button.png) 
 
-Another way you can minimize the Command Ribbon is with right click on the Customize Quick Access Toolbar button. Choose the function Minimize the Ribbon there:
+Another way you can minimize the Command Ribbon is with right click on the Customize Quick Access Toolbar button. Choose the function <b>Minimize the Command Ribbon</b> there:
 
 ![Minimize the Ribbon with an action](pictures/minimize-ribbon-action.png) 
 
