@@ -84,4 +84,4 @@ Main Menu >> Command Ribbon >> Home:
 
 Main Menu >> Command Ribbon >> Home: 
  
-![Change of style](pictures/change-style.png)
+![Change of style](pictures/style.png)
