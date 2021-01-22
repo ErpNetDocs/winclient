@@ -6,7 +6,7 @@ Here is a list of the most commonly used commands.
 
 - Definition
 
-![Definition](Pictures\definition-of.png)
+![Definition](pictures/definition-of.png)
     
 - New document   
 
