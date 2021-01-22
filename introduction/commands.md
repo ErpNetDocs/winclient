@@ -34,7 +34,7 @@ Command Ribbon >> Relations:
 
 Command Ribbon >> View
 
-![Change view](pictures/change-view.png)
+![Change view](pictures/views.png)
 
 ## Navigators
 
