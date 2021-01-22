@@ -1,4 +1,4 @@
-#Most commonly used commands
+# Most commonly used commands
 
 Here is a list of the most commonly used commands.
 
@@ -6,7 +6,7 @@ Here is a list of the most commonly used commands.
 
 - Definition
 
-![commands-definition-of.png](Definition)
+![Definition](Pictures\definition-of.png)
     
 - New document   
 
