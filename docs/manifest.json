@@ -202,6 +202,171 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/change-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/change-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/change-role.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/change-role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/create-child.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/create-child.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/definition-of.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/definition-of.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/modify-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/modify-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/new-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/new-sales-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/open.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/open.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/settings-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/settings-change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/style.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/views.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/views.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/show-panel.png",
       "output": {
         "resource": {
@@ -427,11 +592,189 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/command-ribbon.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/command-ribbon.html",
+          "hash": "iJr0+wFOfDgQ2eKIE8GIrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/commands.md",
       "output": {
         ".html": {
           "relative_path": "introduction/commands.html",
           "hash": "Er8GvvKOaDfHsZw3BlW8pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/dashboard/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/dashboard/overview.html",
+          "hash": "71FKb52AWaUD9IgcpaLSbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/dashboard-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/dashboard-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/documentation-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/help-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/products-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/quick-access-tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/remote-support-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/system-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/touch-only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/what's-new-icon.png"
         }
       },
       "is_incremental": false,
@@ -496,6 +839,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/command-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/command-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/create-child.png",
       "output": {
         "resource": {
@@ -522,6 +876,39 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/minimize-ribbon-action.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/minimize-ribbon-action.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/minimize-ribbon-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/minimize-ribbon-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/minimized-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/minimized-ribbon.png"
         }
       },
       "is_incremental": false,
@@ -584,6 +971,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/ribbon-file.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/ribbon-file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/ribbon-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/ribbon-home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/settings-change-company.png",
       "output": {
         "resource": {
@@ -632,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "d3rC5tQ/Xksy/LiJvyOLHA=="
+          "hash": "mQrYritzxOpL65UFGJJ7pw=="
         }
       },
       "is_incremental": false,
@@ -644,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "y3o9PoHiB7J2HqGSPzSWxA=="
+          "hash": "MEn9jebPELBzPjJh0Y2n4w=="
         }
       },
       "is_incremental": false,
