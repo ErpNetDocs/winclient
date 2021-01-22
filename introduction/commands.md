@@ -10,31 +10,31 @@ Here is a list of the most commonly used commands.
     
 - New document   
 
-![commands-new-document.png](New document)
+![New document](pictures/new-document.png)
 
 - Modify document state
 
 Command Ribbon >> Home:
 
-![commands-modify-document.png](Modify document)
+![Modify document](pictures/modify-document.png)
  
 - Print 
 
 Command Ribbon >> Home:
 
-![commands-print.png](Print)
+![Print](pictures/print.png)
  
 - Create child document
 
 Command Ribbon >> Relations:
 
-![commands-create-child.png](Create child document)
+![Create child document](pictures/create-child.png)
 
 - Change View
 
 Command Ribbon >> View
 
-![commands-change-view.png](Change View)
+![Change view](pictures/change-view.png)
 
 ## Navigators
 
@@ -42,19 +42,19 @@ Command Ribbon >> View
 
 Command Ribbon >> Home:
  
-![commands-show-data.png](Show data)
+![Show data](pictures/show-data.png)
 
 - Create new
 
 Command Ribbon >> Home:
 
-![commands-new-sales-order.png](Create new sales order)
+![Create new sales order](pictures/new-sales-order.png)
 
 - Open document
 
 Command Ribbon >> Home
 
-![commands-open.png](Open document)
+![Open document](pictures/open.png)
 
 ## General
 
@@ -62,26 +62,26 @@ Command Ribbon >> Home
 
 Main Menu >> Command Ribbon >> Home:
 
-![commands-change-company.png](Change Enterprise company)
+![Change Enterprise company](pictures/change-company.png)
 
 Or File menu >> Settings >> Change Enterprise Company and Location…
 
-![commands-settings-change-company.png](Change Enterprise company from Settings)
+![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
 - Change location
 
 Main Menu >> Command Ribbon >> Home:
 
-![commands-change-location.png](Change location)
+![Change location](pictures/change-location.png)
  
 - Change current role
 
 Main Menu >> Command Ribbon >> Home: 
 
-![commands-change-role.png](Change Role)
+![Change Role](pictures/change-role.png)
 
 - Change of style
 
 Main Menu >> Command Ribbon >> Home: 
  
-![commands-change-style.png](Change of style)
+![Change of style](pictures/change-style.png)
