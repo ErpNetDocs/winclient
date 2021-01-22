@@ -37,6 +37,171 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-change-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-change-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-change-role.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-change-role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-change-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-change-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-create-child.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-create-child.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-definition-of.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-definition-of.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-modify-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-modify-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-new-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-new-sales-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-open.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-open.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-settings-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-settings-change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/commands-style.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/commands-style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/show-panel.png",
       "output": {
         "resource": {
@@ -261,180 +426,12 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-change-company.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-change-company.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-change-location.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-change-location.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-change-role.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-change-role.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-change-view.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-change-view.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-create-child.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-create-child.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-definition-of.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-definition-of.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-home.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-home.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-modify-document.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-modify-document.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-new-document.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-new-document.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-new-sales-order.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-new-sales-order.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-open.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-open.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-print.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-print.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-settings-change-company.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-settings-change-company.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-show-data.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-show-data.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/commands-style.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/commands-style.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/commands.md",
       "output": {
         ".html": {
           "relative_path": "introduction/commands.html",
-          "hash": "gUrLeOvSnmMpaL8p0SgZGA=="
+          "hash": "Er8GvvKOaDfHsZw3BlW8pg=="
         }
       },
       "is_incremental": false,
@@ -465,12 +462,177 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/change-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/change-location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/change-role.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/change-role.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/create-child.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/create-child.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/definition-of.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/definition-of.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/home.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/modify-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/modify-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/new-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/new-sales-order.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/open.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/open.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/settings-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/settings-change-company.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/style.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/views.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/views.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "introduction/terms.md",
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "uWaDUSlnnb0Bg0jU1eeW1g=="
+          "hash": "d3rC5tQ/Xksy/LiJvyOLHA=="
         }
       },
       "is_incremental": false,
