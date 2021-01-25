@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "GFmzuDbYS6CLo8uLsCibJw=="
+          "hash": "dKLlgEqBMdzXkiQ/GndIGA=="
         }
       },
       "is_incremental": false,
@@ -202,6 +202,160 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/dashboard-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/dashboard-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/documentation-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/help-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/products-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/quick-access-tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/remote-support-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/system-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/touch-only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/dashboard/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/dashboard/pictures/what's-new-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/change-company.png",
       "output": {
         "resource": {
@@ -235,6 +389,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/command-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/command-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/create-child.png",
       "output": {
         "resource": {
@@ -261,6 +426,39 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/minimize-ribbon-action.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/minimize-ribbon-action.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/minimize-ribbon-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/minimize-ribbon-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/minimized-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/minimized-ribbon.png"
         }
       },
       "is_incremental": false,
@@ -316,6 +514,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/ribbon-file.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/ribbon-file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/ribbon-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/ribbon-home.png"
         }
       },
       "is_incremental": false,
@@ -536,7 +756,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/erpnet.html",
-          "hash": "RJZkN1VYVyoQ5DIm3US4EA=="
+          "hash": "f81VdudYuyo/YX6Dl3CDxA=="
         }
       },
       "is_incremental": false,
@@ -548,7 +768,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/name.html",
-          "hash": "CY/UOlsd0OLzdr82ilfPkQ=="
+          "hash": "G1BNok/DdUNxEzRQOzlTOw=="
         }
       },
       "is_incremental": false,
@@ -560,7 +780,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/winclient.html",
-          "hash": "pFMzGzMebYjnKSl+BJjJNA=="
+          "hash": "bSTCMigDE7bZnIpkTTo4Zw=="
         }
       },
       "is_incremental": false,
@@ -572,7 +792,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/winclientfull.html",
-          "hash": "GwTi1JUTdnTY5t36daswRA=="
+          "hash": "pnbtxD2KEL2Ti+6ZoxADFA=="
         }
       },
       "is_incremental": false,
@@ -584,7 +804,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "HuIonJt5hcHQlaBU+n4ipA=="
+          "hash": "aV0iQejPL2ETLFRUwNKTbA=="
         }
       },
       "is_incremental": false,
@@ -596,7 +816,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "iJr0+wFOfDgQ2eKIE8GIrQ=="
+          "hash": "RYX6YFmZ2EzcohMGDTUqPQ=="
         }
       },
       "is_incremental": false,
@@ -608,7 +828,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/commands.html",
-          "hash": "Er8GvvKOaDfHsZw3BlW8pg=="
+          "hash": "GNIO2UP/vGXqwWQt54poKQ=="
         }
       },
       "is_incremental": false,
@@ -620,7 +840,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/dashboard/overview.html",
-          "hash": "71FKb52AWaUD9IgcpaLSbg=="
+          "hash": "yaoZYRedNQyseskh78lw0A=="
         }
       },
       "is_incremental": false,
@@ -786,7 +1006,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-shortcuts.html",
-          "hash": "wFOIKOjiWYm87MGiSxRTXA=="
+          "hash": "k+o8cDNtmU/wdPtS6y4jRQ=="
         }
       },
       "is_incremental": false,
@@ -798,7 +1018,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/overview.html",
-          "hash": "+M9J7zLr6eXw32VsabYToA=="
+          "hash": "aV8qfxU3PbPlG7rU76gPAQ=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1261,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "mQrYritzxOpL65UFGJJ7pw=="
+          "hash": "2Tkx3tk2kBdNLJ00rm/ZPQ=="
         }
       },
       "is_incremental": false,
@@ -1109,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/overview.html",
-          "hash": "YsXJaFVHjf1NXzvoKV/MKg=="
+          "hash": "V5pIX8029J/plD51OjwqAQ=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1429,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-panels.html",
-          "hash": "0N5aqfIoMn+Ik50taw833g=="
+          "hash": "jBrBqi9zbmTix29XtwJooA=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1441,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-views.html",
-          "hash": "N+7ZzNhgk5REJlvjY7YJwQ=="
+          "hash": "mBdCevEyXf0wdxyhFsgvKA=="
         }
       },
       "is_incremental": false,
@@ -1242,10 +1462,12 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.56.3.0 to 2.56.5.0.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
