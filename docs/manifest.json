@@ -1257,6 +1257,40 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/system-forms/definition-form.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/system-forms/definition-form.html",
+          "hash": "k8rGXuYyq9FH1SC3MRldbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/system-forms/pictures/definition-form-customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/system-forms/pictures/definition-form-customer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/system-forms/pictures/definition-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/system-forms/pictures/definition-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/terms.md",
       "output": {
         ".html": {

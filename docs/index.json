@@ -49,6 +49,11 @@
     "title": "Introduction to ERP.net Windows Desktop Client | ERP.net Windows Client",
     "keywords": "Introduction to ERP.net Windows Desktop Client This section contains introduces the user to the world of ERP.net Windows Desktop Client. It provides an explanation of the most commonly used terms, system-specific concepts and shows the most frequently used commands and work techniques."
   },
+  "introduction/system-forms/definition-form.html": {
+    "href": "introduction/system-forms/definition-form.html",
+    "title": "Definition System Form | ERP.net Windows Client",
+    "keywords": "Definition System Form With the Definition System Form , you can edit the characteristics of a nomenclature - product, client, storage, document types, etc. Depending on the nomenclature, the Definition Form contains different panels with specific characteristics. For example, if you are creating a new product, you would get a panel describing that product, one for choosing the technology for its manufacturing, etc. When you are filling out a Definition Form for a customer, you would see panels for entering contact information, props, panels, containing your entire history with that customer, and more."
+  },
   "introduction/terms.html": {
     "href": "introduction/terms.html",
     "title": "Most commonly used terms | ERP.net Windows Client",
