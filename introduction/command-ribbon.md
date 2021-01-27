@@ -18,6 +18,6 @@ Another way you can minimize the command ribbon is with right click on the Custo
 
 ![Minimize the ribbon with an action](pictures/minimize-ribbon-action.png) 
 
-When the ribbon is in its compact state, you would see only the names of the pages. When you hover over the ribbon, it would go back to its extended state, until you move away the cursor:
+When the ribbon is in its compact state, you would see only the names of the pages. When click on some of the tabs the ribbon go back to its extended state, until you click on one of its buttons or click somewhere outside the ribbon:
 
 ![Minimized ribbon](pictures/minimized-ribbon.png) 
