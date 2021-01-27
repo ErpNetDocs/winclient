@@ -1,10 +1,10 @@
 # Dashboard
 
-The <b>Dashboard</b> shows the different system forms you will need when working with the @@winclientfull.
+The <b>Dashboard</b> shows the different system forms you will need when working with @@winclientfull.
 
 ![The Dashboard](pictures/dashboard.png)
 
-See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system Form is open (Document, Navigator/Reference, or Definition) and what the positioning of the cursor is, the Command Ribbon will contain different pages with tools for managing the currently active Form.
+See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system Form is open (Document, Navigator/Reference or Definition) and what the positioning of the cursor is, the Command Ribbon will contain different pages with tools for managing the currently active Form.
  
 ![Command Ribbon](pictures/dashboard-ribbon.png) 
  
@@ -29,7 +29,7 @@ The Help button opens the following menu:
 The menu has 3 sections:
 
 1. User help
-- ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the [Shortcut F1](~/introduction/keyboard-shortcuts.md) on your keyboard.
+- ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the hotkey F1 on your keyboard.
 - ![What's new icon](pictures/what's-new-icon.png) <b>What’s New</b> - describes the new features of the system.
 - ![Remote support icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through this icon.
 
