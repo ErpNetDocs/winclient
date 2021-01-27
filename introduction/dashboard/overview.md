@@ -29,13 +29,11 @@ The Help button opens the following menu:
 The menu has 3 sections:
 
 1. User help
-
 - ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the hotkey F1 on your keyboard.
 - ![What's new icon](pictures/what's-new-icon.png) <b>What’s New</b> - describes the new features of the system.
 - ![Remote support icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through this icon.
 
 2. System optimization
-
 - ![Mouse and Keyboard](pictures/mouse-and-keyboard.png) <b>Mouse and Keyboard</b> – choose when working with a computer.
 - ![Mouse, Keyboard and Touch](pictures/mouse-keyboard-and-touch.png) <b>Mouse, Keyboard and Touch</b> – choose when working with touch devices that are connected with a mouse and a keyboard.
 - ![Touch Only](pictures/touch-only.png) <b>Touch Only</b> – choose with touchscreen devices, like smartphones or tablets. The higher access rights, the more options for working with the system.  
