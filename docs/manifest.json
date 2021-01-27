@@ -598,6 +598,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/system-forms/pictures/definition-form-customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/system-forms/pictures/definition-form-customer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/system-forms/pictures/definition-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/system-forms/pictures/definition-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/visible-panels.png",
       "output": {
         "resource": {
@@ -816,7 +838,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "RYX6YFmZ2EzcohMGDTUqPQ=="
+          "hash": "uJKUYbrwX0QmpseVQb/J/g=="
         }
       },
       "is_incremental": false,
@@ -1307,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "MEn9jebPELBzPjJh0Y2n4w=="
+          "hash": "9+xOT72H1y7rU/lOPsCWww=="
         }
       },
       "is_incremental": false,
