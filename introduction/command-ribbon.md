@@ -6,7 +6,7 @@ What is special about the command ribbon in @@winclientfull is its <b>adaptive c
  
 ![The command ribbon](pictures/command-ribbon.png)
 
-The command ribbon contains two main pages - Home and File, which you can find in any system Form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the Command Ribbon there.
+The command ribbon contains two main pages - Home and File, which you can find in any system form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon there.
 
 ![Command ribbon home](pictures/ribbon-home.png)     ![Command ribbon file](pictures/ribbon-file.png) 
 
@@ -14,7 +14,7 @@ The command ribbon has two main states - minimized (compact) and expanded. You c
  
 ![Minimize the ribbon with a button](pictures/minimize-ribbon-button.png) 
 
-Another way you can minimize the command ribbon is with right click on the Customize Quick Access Toolbar button. Choose the function <b>Minimize the ribbon</b> there:
+Another way you can minimize the command ribbon is with right click on the Customize Quick Access Toolbar button. Choose the function <b>Minimize the Ribbon</b> there:
 
 ![Minimize the ribbon with an action](pictures/minimize-ribbon-action.png) 
 
