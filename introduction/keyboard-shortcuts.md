@@ -1,3 +1,6 @@
+---
+uid: keyboard-shortcuts
+---
 # Keyboard shortcuts
 
 The current topic contains a list with the Keyboard Shortcuts which can be used for performing special operations in the Windows Client.
