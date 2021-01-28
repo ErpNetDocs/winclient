@@ -29,7 +29,7 @@ The Help button opens the following menu:
 The menu has 3 sections:
 
 1. User help
-- ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the hotkey F1 on your keyboard.
+- ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the @keyboard-shortcuts F1.
 - ![What's new icon](pictures/what's-new-icon.png) <b>What’s New</b> - describes the new features of the system.
 - ![Remote support icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through this icon.
 
