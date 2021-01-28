@@ -4,6 +4,9 @@ references:
 - uid: erpnet
   name: erpnet
   href: includes/erpnet.html
+- uid: keyboard-shortcuts
+  name: Keyboard shortcuts
+  href: introduction/keyboard-shortcuts.html
 - uid: name
   name: name
   href: includes/name.html
