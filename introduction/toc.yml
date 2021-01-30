@@ -10,5 +10,7 @@
   href: dashboard/toc.yml
 - name: Command ribbon
   href: command-ribbon.md
+- name: System forms
+  href: system-forms/toc.yml
 - name: Customize the workspace
   href: workspace-customization/toc.yml
