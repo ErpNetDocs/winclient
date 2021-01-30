@@ -1,6 +1,8 @@
 - name: Overview
   href: overview.md
-- name: Working with views
+- name: Working with Views
   href: working-with-views.md
-- name: Working with panels
+- name: Working with Regions
+  href: working-with-regions.md
+- name: Working with Panels
   href: working-with-panels.md
