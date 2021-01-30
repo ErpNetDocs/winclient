@@ -858,11 +858,57 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/dashboard/file-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/dashboard/file-page.html",
+          "hash": "lqCa2Y7+mR72mG/JsP7GNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/dashboard/main-menu.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/dashboard/main-menu.html",
+          "hash": "AkabTJX4EHBTOswU3+GHZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/dashboard/overview.md",
       "output": {
         ".html": {
           "relative_path": "introduction/dashboard/overview.html",
           "hash": "MAZdCWTEOV3MeY+tnSaaMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/close-and-save-all.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/close-and-save-all.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/create-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/create-new-document.png"
         }
       },
       "is_incremental": false,
@@ -903,10 +949,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/delete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/dashboard/pictures/documentation-icon.png",
       "output": {
         "resource": {
           "relative_path": "introduction/dashboard/pictures/documentation-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/exit.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/exit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/file-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/file-page.png"
         }
       },
       "is_incremental": false,
@@ -936,6 +1015,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/log-off.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/log-off.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/main-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/main-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/main-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/main-sections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/main-subsections.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/main-subsections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/dashboard/pictures/mouse-and-keyboard.png",
       "output": {
         "resource": {
@@ -951,6 +1085,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/dashboard/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/open-url.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/open-url.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/print-properties-send.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/print-properties-send.png"
         }
       },
       "is_incremental": false,
@@ -980,10 +1136,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/recent.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/recent.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/dashboard/pictures/remote-support-icon.png",
       "output": {
         "resource": {
           "relative_path": "introduction/dashboard/pictures/remote-support-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/dashboard/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/dashboard/pictures/settings.png"
         }
       },
       "is_incremental": false,
@@ -1283,7 +1461,19 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/definition-form.html",
-          "hash": "k8rGXuYyq9FH1SC3MRldbg=="
+          "hash": "qitHYxgjzwVQJdsfA0WqHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/system-forms/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/system-forms/overview.html",
+          "hash": "Fgt78lM7cUO/DqTEhTkpcQ=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1519,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "9+xOT72H1y7rU/lOPsCWww=="
+          "hash": "TkTDz8PPKboHZaVJkMo7aQ=="
         }
       },
       "is_incremental": false,
@@ -1415,6 +1605,160 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/change-fix-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/change-fix-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/changed-fix-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/changed-fix-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/create-new-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/create-new-region.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/created-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/created-region.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/cursor-change.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/cursor-change.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/fixing-button-low.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/fixing-button-low.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/fixing-button-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/fixing-button-up.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/multiple-pannels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/multiple-pannels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/regions.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/regions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/remove-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/remove-region.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/resize-regions.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/resize-regions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/resized-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/resized-region.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/separation-line.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/separation-line.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/workspace-customization/save-layout-as.png",
       "output": {
         "resource": {
@@ -1486,6 +1830,18 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-panels.html",
           "hash": "jBrBqi9zbmTix29XtwJooA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/working-with-regions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/working-with-regions.html",
+          "hash": "1bQudN/qG5OeoTkKXPmj7Q=="
         }
       },
       "is_incremental": false,
