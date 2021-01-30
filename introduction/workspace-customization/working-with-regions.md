@@ -52,7 +52,7 @@ Resize a Region by dragging the dividing line between that Region and another on
 
 3. Release the line and the Region will change.
 
-## Fixing a Region
+## Fix a Region
 
 When resizing Regions (and also resizing the window of the @@winclientfull), you set which Region will change its size and which one will remain with a fixed size. 
 Visually we show this with the button ![Fixing button](pictures/fixing-button-up.png) at the top right corner, and respectively ![Fixing button down](pictures/fixing-button-low.png) at the bottom left corner. 
