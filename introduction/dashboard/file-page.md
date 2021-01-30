@@ -1,4 +1,4 @@
-# File Menu
+# File Page
 
 In the File Page, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
