@@ -1,6 +1,6 @@
 # Working with Regions
 
-The <b>Regions</b> are the places on the Dashboard containing Panels. You can change their size and position for each System Form separately. <br>
+The <b>Regions</b> are places on the Dashboard that contain Panels. You can change their size and position for each System Form separately. <br>
 To personalize the Regions, you need to have <b>Customize Current View</b> mode activated.
 
 ![Regions](pictures/regions.png) 
