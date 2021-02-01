@@ -1,5 +1,7 @@
 - name: Overview
   href: overview.md
+- name: Customize Current View
+  href: customize-current-view.md
 - name: Working with Views
   href: working-with-views.md
 - name: Working with Regions
