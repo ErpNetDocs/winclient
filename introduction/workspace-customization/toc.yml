@@ -10,4 +10,5 @@
   href: working-with-panels.md
 - name: Working with Fields
   href: working-with-fields.md
-  
+- name: Open in a separate window
+  href: open-in-a-separate-window.md
