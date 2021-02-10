@@ -37,10 +37,10 @@ Depending on your preferences, you can position the Quick Access Toolbar above o
 1. Click the arrow on the right ![Arrow](pictures/arrow.png) or right click the Toolbar;
 2. Select “Show Quick Access Toolbar Below the Ribbon”:
 
-![Show Quick Access Toolbar Below the Ribbon](pictures/below-the-ribbon.png)
+![Show Quick Access Toolbar Below the Ribbon](pictures/above-the-ribbon.png)
 
 3. The Quick Access Toolbar gets positioned below the Command Ribbon for all Forms:
 
-![Show Quick Access Toolbar Above the Ribbon](pictures/above-the-ribbon.png)
+![Show Quick Access Toolbar Above the Ribbon](pictures/below-the-ribbon.png)
 
 You can show the Quick Access Toolbar Above the Ribbon in a similar way.
