@@ -1488,6 +1488,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "edit-mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "edit-mode.html",
+          "hash": "WzFPPsxdqARkrFXWAz71vA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "includes/erpnet.md",
       "output": {
@@ -1929,6 +1944,228 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/filtering/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/filtering/overview.html",
+          "hash": "+ED4cKRzxyL2osd1RYyKWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/clear-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/clear-filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/column.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/field-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/max-row-count.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/max-row-count.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/refresh.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/refresh.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/search-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/search-panel.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/timeout.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/timeout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/view-filter-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/view-filter-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/view-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/view-filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/overview.html",
+          "hash": "wVvIfsUghelTp4HHUoZSjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/first-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/first-record.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/last-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/last-record.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/next-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/next-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/next-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/next-record.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/previous-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/previous-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/previous-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/previous-record.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/record-navigation-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/record-navigation-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/record-navigation.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/record-navigation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/overview.md",
       "output": {
         ".html": {
@@ -2000,6 +2237,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/definition-of.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/edit-mode.png"
         }
       },
       "is_incremental": false,
@@ -2385,12 +2633,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "lEDhW+zbTeejbBhx3J5skg=="
+          "hash": "y5fIxxrkyzotPecRZcBkxQ=="
         }
       },
       "is_incremental": false,
@@ -2415,6 +2666,18 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/customize-quick-access.html",
           "hash": "3DtoO5TO5j0dfsbWv3LDxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/default-values.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/default-values.html",
+          "hash": "S0uJMXIdAWjCnwaAkNAxNg=="
         }
       },
       "is_incremental": false,
@@ -2578,6 +2841,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/clear-default-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/clear-default-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/workspace-customization/pictures/create-new-region.png",
       "output": {
         "resource": {
@@ -2626,6 +2900,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/workspace-customization/pictures/customize-fields.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/default-value-cases.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/default-value-cases.png"
         }
       },
       "is_incremental": false,
@@ -2901,6 +3186,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/workspace-customization/pictures/separation-line.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace-customization/pictures/set-default-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace-customization/pictures/set-default-value.png"
         }
       },
       "is_incremental": false,
