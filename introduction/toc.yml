@@ -14,3 +14,5 @@
   href: system-forms/toc.yml
 - name: Customize the workspace
   href: workspace-customization/toc.yml
+- name: Edit mode
+  href: edit-mode.md
