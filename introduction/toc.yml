@@ -16,3 +16,6 @@
   href: workspace-customization/toc.yml
 - name: Edit mode
   href: edit-mode.md
+- name: Navigators
+  href: navigators/toc.yml
+  
