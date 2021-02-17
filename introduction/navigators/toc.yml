@@ -4,4 +4,5 @@
   href: filtering/toc.yml
 - name: Summing
   href: summing.md
-  
+- name: Sorting
+  href: sorting.md
