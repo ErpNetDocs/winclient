@@ -18,4 +18,5 @@
   href: edit-mode.md
 - name: Navigators
   href: navigators/toc.yml
-  
+- name: Documents
+  href: documents.md
