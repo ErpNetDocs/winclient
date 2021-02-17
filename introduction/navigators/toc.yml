@@ -2,3 +2,6 @@
   href: overview.md
 - name: Filtering
   href: filtering/toc.yml
+- name: Summing
+  href: summing.md
+  
