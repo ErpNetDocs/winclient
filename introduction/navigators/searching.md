@@ -1,4 +1,4 @@
-# Finding 
+# Searching 
 
 The Find tool can easily go through large amounts of data for you. You can search in various ways: 
 through the Filtering Row, the Search Navigation button, or with Quick Search. 
