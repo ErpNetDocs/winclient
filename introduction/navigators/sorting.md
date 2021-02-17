@@ -17,7 +17,7 @@ When you sort the information in a column, you will see an arrow showing the app
 Another way of Sorting is by clicking in the column’s name (every following click will switch between the directions). <br>
 You can also sort by <b>multiple columns</b>. 
 
-![Ascening](pictures/ascening.png)
+![Ascening](pictures/ascending.png)
 
 The main sorting is the first one, while every following one depends on the main one. After you apply the sorting on the first column, the program will use the following columns to organize repeating values. 
 
