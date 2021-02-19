@@ -2351,6 +2351,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/edit-mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/edit-mode.html",
+          "hash": "btHV8Jie01uSX3ojArt4CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/keyboard-shortcuts.md",
       "output": {
         ".html": {
@@ -2485,6 +2497,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/grouping.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/grouping.html",
+          "hash": "Hyg+jpVyryFlyRNL9IkD9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/navigators/overview.md",
       "output": {
         ".html": {
@@ -2501,6 +2525,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/pictures/ascending.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/closed-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/closed-group.png"
         }
       },
       "is_incremental": false,
@@ -2563,6 +2598,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/group-levels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/group-levels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/grouping-by-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/grouping-by-column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/grouping.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/pictures/last-record.png",
       "output": {
         "resource": {
@@ -2611,6 +2679,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/pictures/numeric-sorted-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/open-all-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/open-all-groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/pictures/open-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/pictures/open-groups.png"
         }
       },
       "is_incremental": false,
@@ -3253,15 +3343,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "CS0G8Fl/wgPC98FicNBt/Q=="
+          "hash": "IZf34nGrVs/g234Pr5cGCw=="
         }
       },
       "is_incremental": false,
