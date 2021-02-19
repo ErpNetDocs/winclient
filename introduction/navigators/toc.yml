@@ -2,6 +2,8 @@
   href: overview.md
 - name: Filtering
   href: filtering/toc.yml
+- name: Grouping
+  href: grouping.md
 - name: Summing
   href: summing.md
 - name: Sorting
