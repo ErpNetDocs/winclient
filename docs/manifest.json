@@ -631,6 +631,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/closed-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/closed-group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/pictures/descening.png",
       "output": {
         "resource": {
@@ -686,6 +697,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/group-levels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/group-levels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/grouping-by-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/grouping-by-column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/grouping.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/pictures/last-record.png",
       "output": {
         "resource": {
@@ -734,6 +778,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/pictures/numeric-sorted-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/open-all-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/open-all-groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/pictures/open-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/pictures/open-groups.png"
         }
       },
       "is_incremental": false,
