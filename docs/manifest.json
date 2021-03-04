@@ -2441,6 +2441,33 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/filtering/customizing-filters.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/filtering/customizing-filters.html",
+          "hash": "ApdcjuJ6lQNTGUQaYG7nvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/filtering/filtering-by-values.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/filtering/filtering-by-values.html",
+          "hash": "AAR7qTMbN4RGnZjFJX+Yww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/navigators/filtering/overview.md",
       "output": {
         ".html": {
@@ -2475,10 +2502,65 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/customer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/customizing-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/customizing-filters.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/down-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/down-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/field-value.png",
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/filtering-by-cell-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/filtering-by-cell-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/filtering-by-column-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/filtering-by-column-values.png"
         }
       },
       "is_incremental": false,
@@ -2508,6 +2590,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/right-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/right-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/right-click-filtering.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/right-click-filtering.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/search-panel.png",
       "output": {
         "resource": {
@@ -2523,6 +2627,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/filtering/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/show-hide-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/show-hide-filters.png"
         }
       },
       "is_incremental": false,
@@ -3414,7 +3529,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "IZf34nGrVs/g234Pr5cGCw=="
+          "hash": "4G2o2yiaOI8SCRAWcSb72A=="
         }
       },
       "is_incremental": false,
