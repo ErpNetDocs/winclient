@@ -532,10 +532,65 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/customer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/customizing-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/customizing-filters.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/down-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/down-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filtering-by-cell-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filtering-by-cell-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filtering-by-column-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filtering-by-column-values.png"
         }
       },
       "is_incremental": false,
@@ -565,6 +620,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/right-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/right-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/right-click-filtering.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/right-click-filtering.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/search-panel.png",
       "output": {
         "resource": {
@@ -580,6 +657,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/show-hide-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/show-hide-filters.png"
         }
       },
       "is_incremental": false,
