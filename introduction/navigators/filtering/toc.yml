@@ -2,3 +2,5 @@
   href: overview.md
 - name: Customizing Filters
   href: customizing-filters.md
+- name: Filtering by values
+  href: filtering-by-values.md
