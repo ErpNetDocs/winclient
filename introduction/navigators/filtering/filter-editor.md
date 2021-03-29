@@ -13,7 +13,7 @@ Edit the filters by using the following buttons:
 -	![Add a condition](pictures/add-a-contition.png)  - add a condition; 
 -	![Edit button](pictures/edit-button.png) - edit the comparison field or add a value;   
 -	![Remove button](pictures/remove-button.png) - remove the filter; 
--	![Change the field](pictures/change-the-field.png) - change the filed;
+-	![Change the field](pictures/change-the-field.png) - change the field;
 -	![Change the condition](pictures/change-the-condition.png)  - change the condition.
 
 <b>For example:</b> <br>
