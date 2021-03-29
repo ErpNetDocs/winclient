@@ -1,6 +1,6 @@
 - name: Overview
   href: overview.md
-- name: Customizing Filters
+- name: Customizing filters
   href: customizing-filters.md
 - name: Filtering by values
   href: filtering-by-values.md
