@@ -6,4 +6,5 @@
   href: filtering-by-values.md
 - name: Filter editor
   href: filter-editor.md
-  
+- name: Filtering by row
+  href: filtering-by-row.md 
