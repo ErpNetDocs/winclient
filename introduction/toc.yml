@@ -20,3 +20,6 @@
   href: navigators/toc.yml
 - name: Documents
   href: documents/toc.yml
+- name: Tablet view settings
+  href: tablet-view-settings.md
+  
