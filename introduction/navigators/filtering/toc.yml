@@ -4,3 +4,6 @@
   href: customizing-filters.md
 - name: Filtering by values
   href: filtering-by-values.md
+- name: Filter editor
+  href: filter-editor.md
+  
