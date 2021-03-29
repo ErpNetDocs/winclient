@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Filtering by values | ERP.net Windows Client </title>
+    <title>Filter editor | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Filtering by values | ERP.net Windows Client ">
+    <meta name="title" content="Filter editor | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.6.0">
     
     <link rel="shortcut icon" href="../../../favicon.ico">
@@ -77,29 +77,23 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="filtering-by-values">Filtering by values</h1>
+<h1 id="filter-editor">Filter editor</h1>
 
-<p>You can <b>filter by values</b> when you have set a criteria in the Search panel. This can help you search for single or multiple records among the loaded data in the Navigator. There are two variations of this method – Filtering by column values or Filtering by cell values.</p>
-<h2 id="filtering-by-column-values">Filtering by column values</h2>
-<p>In order to filter by one or two values from a single column, click the button at the upper right corner of the column's header:<br>
-<img src="pictures/customer.png" alt="Customer"><br>
-In the drop down menu, you can select the values to filter by. Choose the ones you want to appear by putting a check mark in front of them:</p>
-<p><img src="pictures/filtering-by-column-values.png" alt="Filtering by column values"></p>
-<p>After applying the filter, you will only see the rows where the selected fields have the chosen value.</p>
-<blockquote>
-<p><b>Note:</b>
-You can filter by more than one column. Nested filters will use the current filter as a base for each additional one, and this way the amount of returned data will be even smaller. To make it clearer, read the nested filters with the connective &quot;and&quot;. For example: &quot;All the sales that are clients of SMAC Ltd and are from the date 12.02.2012.&quot;</p>
-</blockquote>
-<h2 id="filtering-by-cell-values">Filtering by cell values</h2>
-<p>In order to filter data by a specific cell value in the Navigator, you can mark the cell with the wanted value and press the according filtering button from the Command Ribbon:</p>
-<p><img src="pictures/filtering-by-cell-values.png" alt="Filtering by cell values"></p>
+<p>You can use the <b>filter editor</b> in the Navigators of ERP.net Windows Desktop Client to narrow down the filter that you are using for limiting the number of shown records. In order to use it, you must apply a filter for the data. To bring up the filter editor, click on the row with the filter description and then Edit Filter.</p>
+<p><img src="pictures/edit-filter.png" alt="Edit Filter"></p>
+<p>Give the filter editor conditions, which has to be true for the resulting records that will show. Conditions will be possible for every field.</p>
+<p><img src="pictures/filter-editor.png" alt="Filter Editor"></p>
+<p>Every condition contains a field name and a value or a field for comparison. <br>
+Edit the filters by using the following buttons:</p>
 <ul>
-<li><b>Filter by</b> – after selecting this button, only the rows containing the selected cell value will show;</li>
-<li><b>Hide</b> – after selecting this button, the program will hide all the rows containing the selected cell value. Only the rows that DO NOT contain the selected cell value will show;</li>
-<li><b>Clear Filter</b> – by selecting this button you will clear the selected filter and you will see the data in the Navigator in its initial form.
-You can bring up the same functions by right clicking on a specific cell in the Navigator:</li>
+<li><img src="pictures/add-a-contition.png" alt="Add a condition">  - add a condition;</li>
+<li><img src="pictures/edit-button.png" alt="Edit button"> - edit the comparison field or add a value;</li>
+<li><img src="pictures/remove-button.png" alt="Remove button"> - remove the filter;</li>
+<li><img src="pictures/change-the-field.png" alt="Change the field"> - change the field;</li>
+<li><img src="pictures/change-the-condition.png" alt="Change the condition">  - change the condition.</li>
 </ul>
-<p><img src="pictures/right-click-filtering.png" alt="Right click filtering"></p>
+<p><b>For example:</b> <br>
+You can match conditions with the keywords AND &amp; OR. If you want the result to answer both conditions <b>simultaneously</b> (read it with the connective word “<b>and</b>”), use <b>AND</b>. If you want to see results, which answer <b>one of the two conditions</b> (read it with the connective word “<b>or</b>”), use <b>OR</b>.</p>
 </article>
           </div>
           
@@ -108,7 +102,7 @@ You can bring up the same functions by right clicking on a specific cell in the 
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/navigators/filtering/filtering-by-values.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/navigators/filtering/filter-editor.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

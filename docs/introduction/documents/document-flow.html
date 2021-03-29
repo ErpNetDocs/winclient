@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Document flow | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Document flow | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.6.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="document-flow">Document flow</h1>
+
+<p><b>The document flow</b> describes the hierarchy of a given process - the order in which you create the documents. It has only one document for a <b>start – the master document</b>, and a variety of child documents that you create from the master document. According to its place in the document flow (and the current document), you can set almost every document to be a master, parent or child document.</p>
+<h2 id="master-document">Master document</h2>
+<p>The master document is a document that initiates a given process. It is an absolute category, and it does not depend on the current document. It is not created by other documents (it does not have a parent document). The master document is only one for every process.</p>
+<h2 id="parent-document">Parent document</h2>
+<p>Parent document is a document that you can use to create another document. It is a relative category, and it depends on the current document. You can use the parent document as a child document for another document. The documents usually have only one parent document. It is possible for you to connect one document to other documents in the document flow, but these documents will not be real parent documents. The master document is a parent document for the documents that you have created right under its level. <br>
+For example: in the document route A &gt; B &gt; C, A is the parent for B, B is the parent of C.</p>
+<h2 id="child-documents">Child documents</h2>
+<p>Child documents are documents that you create from another document. It is a relative category and these documents depend on the current document. Documents might have a variety of child documents. The child document can be a parent document for another document. <br>
+For example: In the document route A &gt; B &gt; C, B is a child document of A, C is a child document of B. B can also be seen as the parent document of C.</p>
+<h2 id="relations-menu-in-the-command-ribbon">Relations menu in the command ribbon</h2>
+<p>You can also see the hierarchy of documents not only in the document flow but also in the relations menu in the command ribbon. We have optimized it for work with touch and to provide quick access to the documents in the flow.</p>
+<p><img src="pictures/relations-menu.png" alt="Relations menu"></p>
+<p>The master document is at the far left part of the command ribbon - we have separated it from the rest with an arrow. The parent document is right after the master document. We have marked the master and parent document with an arrow pointing upwards. The child documents are at the right part of the separation line after the parent document. We have marked the child documents’ icons with an arrow pointing downwards.
+You can move to a more distant branch of the structure (child document of a child document or a parent document of a parent document) by clicking on the lower part (the name and arrow next to it). A list of the child documents will display (or of the parent documents respectively). This way, you can look through the entire tree.</p>
+<h2 id="document-flow-1">Document flow</h2>
+<p>You can view the document flow in the document flow panel. The panel is standard for all document types. It consists of a tree structure of all the documents, starting with the current one.</p>
+<p><img src="pictures/document-flow.png" alt="Document flow"></p>
+<p>To open a document from the Document flow, right-click on the desired document and select “Open document”. When you right-click on a document you can also:</p>
+<ul>
+<li>Show Void Documents – if you select that, the voided documents will display as well;</li>
+<li>Show Transitional Documents - if you check that option, the transitional documents will display as well;</li>
+<li>Refresh – refreshes the document flow.</li>
+</ul>
+<p>The structure of the document flow begins from the current document. Under every document, you can see its child documents. In order to see the parent document, you have to press the expand button in front of “Created By”. The master document is the document that does not have an expand button in front of “Created By”. The document flow panel is convenient for a quick overview of the document flow.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/documents/document-flow.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
