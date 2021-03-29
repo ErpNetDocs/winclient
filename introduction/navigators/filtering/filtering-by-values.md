@@ -7,7 +7,7 @@ In order to filter by one or two values from a single column, click the button a
 ![Customer](pictures/customer.png)  
 In the drop down menu, you can select the values to filter by. Choose the ones you want to appear by putting a check mark in front of them:
 
-![ Filtering by column values](pictures/filtering-by-column-values.png.png)  
+![Filtering by column values](pictures/filtering-by-column-values.png)  
 
 After applying the filter, you will only see the rows where the selected fields have the chosen value. 
 
@@ -17,11 +17,11 @@ After applying the filter, you will only see the rows where the selected fields 
 ## Filtering by cell values
 In order to filter data by a specific cell value in the Navigator, you can mark the cell with the wanted value and press the according filtering button from the Command Ribbon: 
 
-![ Filtering by cell values](pictures/filtering-by-cell-values.png.png)
+![Filtering by cell values](pictures/filtering-by-cell-values.png)
  
 -	<b>Filter by</b> – after selecting this button, only the rows containing the selected cell value will show; 
 -	<b>Hide</b> – after selecting this button, the program will hide all the rows containing the selected cell value. Only the rows that DO NOT contain the selected cell value will show;
 -	<b>Clear Filter</b> – by selecting this button you will clear the selected filter and you will see the data in the Navigator in its initial form. 
 You can bring up the same functions by right clicking on a specific cell in the Navigator:
 
-![ Right click filtering](pictures/right-click-filtering.png)
+![Right click filtering](pictures/right-click-filtering.png)
