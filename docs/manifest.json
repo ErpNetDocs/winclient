@@ -510,6 +510,94 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/document-flow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/document-flow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/document-state.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/document-state.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/relations-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/relations-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/user-state.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/user-state.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/void.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/void.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/add-a-contition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/add-a-contition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/change-the-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/change-the-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/change-the-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/change-the-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/clear-filter.png",
       "output": {
         "resource": {
@@ -565,10 +653,43 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/edit-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/edit-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/edit-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/edit-filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filter-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filter-editor.png"
         }
       },
       "is_incremental": false,
@@ -598,6 +719,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filtering-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filtering-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/max-row-count.png",
       "output": {
         "resource": {
@@ -613,6 +745,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/refresh.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/remove-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/remove-button.png"
         }
       },
       "is_incremental": false,
@@ -657,6 +800,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/show-data.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/show-filter-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/show-filter-row.png"
         }
       },
       "is_incremental": false,
@@ -1192,10 +1346,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/optimization.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/optimization.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/print.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/products-tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/products-tablet-view.png"
         }
       },
       "is_incremental": false,
@@ -1218,6 +1394,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/ribbon-home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/sales-tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/sales-tablet-view.png"
         }
       },
       "is_incremental": false,
@@ -1251,6 +1438,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/style.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/tablet-view.png"
         }
       },
       "is_incremental": false,
