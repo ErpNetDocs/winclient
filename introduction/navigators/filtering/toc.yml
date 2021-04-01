@@ -8,3 +8,6 @@
   href: filter-editor.md
 - name: Filtering by row
   href: filtering-by-row.md 
+- name: Period expressions
+  href: period-expressions.md 
+  
