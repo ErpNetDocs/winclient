@@ -1,6 +1,6 @@
 # Period expressions
 
-To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field “Period for xxxx”. If the needed field does not show in the standard view, you can enable/show it first.
+To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field “Period for XXXX”. If the needed field does not show in the standard view, you can enable/show it first.
 
 To elaborate, you can set expressions for days, months and years in the following ways:
 -	Absolute expressions for periods - set an <b>absolute</b> (fixed, specific) period
@@ -8,7 +8,7 @@ To elaborate, you can set expressions for days, months and years in the followin
 -	Mixed expressions for periods - they contain an absolute and a relative expression together
 -	Graphic editor – allows you to choose from a calendar
 
-The period will present itself as Starting date and End date in the fields “From xxxxx” and “To xxxxxx” when you set a period in one of these ways.
+The period will present itself as Starting date and End date in the fields “From XXXX” and “To XXXX” when you set a period in one of these ways.
 
 ![Filtering period](pictures/filtering-period.png)
  
