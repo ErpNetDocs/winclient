@@ -157,3 +157,5 @@ If you need a period “from the beginning of January to the end of March”, en
 ![Graph editor](pictures/graph-editor.png)
  
 If you need a period “from the beginning of January 2019 to the end of June 2021”, enter “1” and “19” on the left and “6” and “21” on the right:
+
+![Example with years](pictures/examples-years.png)
