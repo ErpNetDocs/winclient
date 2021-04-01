@@ -2865,6 +2865,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/filtering/period-expressions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/filtering/period-expressions.html",
+          "hash": "4gzpKcy2cFBNTW6xXv6nFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/add-a-contition.png",
       "output": {
@@ -2976,10 +2988,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/example-months.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/example-months.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/examples-one-day.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/examples-one-day.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/examples-seven-days-ago.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/examples-seven-days-ago.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/examples-t.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/examples-t.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/examples-years.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/examples-years.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/field-value.png",
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/filter-calendar.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/filter-calendar.png"
         }
       },
       "is_incremental": false,
@@ -3020,10 +3098,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/filtering-period.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/filtering-period.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/filtering-row.png",
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/filtering/pictures/filtering-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/graph-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/graph-editor.png"
         }
       },
       "is_incremental": false,
@@ -3046,6 +3146,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/filtering/pictures/refresh.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/relative-periods-examples.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/relative-periods-examples.png"
         }
       },
       "is_incremental": false,
@@ -4070,7 +4181,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "Hdj5HAUbnMmbjH6Z3IJw8A=="
+          "hash": "36B6nnjXNc9t7ahvOoT7WA=="
         }
       },
       "is_incremental": false,
@@ -4793,12 +4904,10 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because docfx version changed from 2.56.6.0 to 2.56.7.0.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "DocfxVersionChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
