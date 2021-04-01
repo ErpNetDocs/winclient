@@ -152,10 +152,10 @@ The panel of the years is under the number pad for the months. It shows 4 years 
 
 <b>Example:</b>
 
-If you need a period “from the beginning of January to the end of March”, enter “1” on the left and “3” on the right:
+If you need the period “from the beginning of January to the end of March”, enter “1” on the left and “3” on the right:
 
 ![Expample with months](pictures/example-months.png)
  
-If you need a period “from the beginning of January 2019 to the end of June 2021”, enter “1” and “19” on the left and “6” and “21” on the right:
+If you need the period “from the beginning of January 2019 to the end of June 2021”, enter “1” and “19” on the left and “6” and “21” on the right:
 
 ![Example with years](pictures/examples-years.png)
