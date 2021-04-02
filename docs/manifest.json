@@ -675,10 +675,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/example-months.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/example-months.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/examples-one-day.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/examples-one-day.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/examples-seven-days-ago.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/examples-seven-days-ago.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/examples-t.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/examples-t.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/examples-years.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/examples-years.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filter-calendar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filter-calendar.png"
         }
       },
       "is_incremental": false,
@@ -719,10 +785,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/filtering-period.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/filtering-period.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/filtering/pictures/filtering-row.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/filtering-row.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/graph-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/graph-editor.png"
         }
       },
       "is_incremental": false,
@@ -745,6 +833,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/filtering/pictures/refresh.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/filtering/pictures/relative-periods-examples.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/filtering/pictures/relative-periods-examples.png"
         }
       },
       "is_incremental": false,
