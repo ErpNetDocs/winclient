@@ -6,7 +6,7 @@ As an example, we will set all payments, overdue with more than 30 days, to show
 
 <b>Home Menu -> Finance -> Payments -> Payments Status </b>
 
-The <b>Payments Status</b> navigator shows the payments due to/from us for different contractors – customers, suppliers.
+The <b>Payments Status</b> navigator shows the payments due to/from your company for different contractors – customers, suppliers.
 
 1.	Click on <b>Show Data</b> and then right-click on the rows of the Navigator. From the displayed menu select Customize fields; 
 2.	The <b> Customize fields</b> window will open, then you need to click on the <b>Expression Format Conditions </b> button: 
