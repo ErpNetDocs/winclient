@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Conditional coloring by row | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Conditional coloring by row | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.8.0">
+    
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
+    
+    <meta property="docfx:rel" content="../../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="conditional-coloring-by-row">Conditional coloring by row</h1>
+
+<p>This procedure will show you how to view the rows of overdue payments in color (for any navigator).</p>
+<p>As an example, we will set all payments, overdue with more than 30 days, to show up in red. For that purpose, you can first open the respective menu:</p>
+<p><b>Home Menu -&gt; Finance -&gt; Payments -&gt; Payments Status </b></p>
+<p>The <b>Payments Status</b> navigator shows the payments due to/from your company for different contractors – customers, suppliers.</p>
+<ol>
+<li>Click on <b>Show Data</b> and then right-click on the rows of the Navigator. From the displayed menu select Customize fields;</li>
+<li>The <b> Customize fields</b> window will open, then you need to click on the <b>Expression Format Conditions </b> button:</li>
+</ol>
+<p><img src="pictures/customize-fileds.png" alt="Customize fields"></p>
+<p>A window will open for you to enter the desired conditions:</p>
+<p><img src="pictures/format-conditions.png" alt="Format Conditions"></p>
+<ol start="3">
+<li>Click on <b>Add</b> to open a new window. Here, select the Fields option. In the small, middle section you will see all fields that you can use to set conditional coloring for:</li>
+</ol>
+<p><img src="pictures/condition-expression-editor.png" alt="Condition expression editor"></p>
+<p>As an example, we will set all payments, overdue with over 30 days, to light up in red. For that purpose, double click on the option <b> “Overdue Days” </b> (it will get added to the expression at the top of the window). Then manually type in “&gt; 30” (the greater-than sign and the number 30, without the quotes) after [Overdue Days].</p>
+<p>Click on the <b>“OK”</b> button</p>
+<p><img src="pictures/overdue-days.png" alt="Overdue Days"></p>
+<ol start="4">
+<li>After you set the condition, you need to choose a color:</li>
+</ol>
+<p><img src="pictures/select-color.png" alt="Selecting color"></p>
+<ol start="5">
+<li>With that, the program will color all payments overdue with more than 30 days in red.</li>
+</ol>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/navigators/coloring/coloring-by-row.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
+  </body>
+</html>

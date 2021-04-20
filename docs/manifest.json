@@ -2905,6 +2905,118 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/coloring/coloring-by-row.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/coloring/coloring-by-row.html",
+          "hash": "2cIimiJ91WcXzP+z7MWReg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/coloring/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/coloring/overview.html",
+          "hash": "/51vuh3t6A1cOHPbxWITlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/coloring.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/coloring.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/condition-expression-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/condition-expression-editor.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/customize-fileds.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/customize-fileds.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/format-conditions.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/format-conditions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/greater-than-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/greater-than-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/new-sales-orders.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/new-sales-orders.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/overdue-days.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/overdue-days.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/select-color.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/select-color.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/navigators/filtering/customizing-filters.md",
       "output": {
         ".html": {
@@ -4280,7 +4392,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "36B6nnjXNc9t7ahvOoT7WA=="
+          "hash": "FFqYXNf0ze8vufVKEunVWQ=="
         }
       },
       "is_incremental": false,
