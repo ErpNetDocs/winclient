@@ -1,6 +1,6 @@
-# Conditional Coloring
+# Conditional coloring
 
-<b>Conditional Coloring</b> allows you to change the color and font in any field for the different Reports, Navigators, and Document Forms by a preset condition. It helps the visual comprehension of the information. You can set it for a single cell, the entire row, or a specific cell in an already colored row. 
+<b>Conditional coloring</b> allows you to change the color and font in any field for the different Reports, Navigators, and Document Forms by a preset condition. It helps the visual comprehension of the information. You can set it for a single cell, the entire row, or a specific cell in an already colored row. 
  
 ![Coloring](pictures/coloring.png)
 
