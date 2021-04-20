@@ -11,7 +11,7 @@ The <b>Payments Status</b> navigator shows the payments due to/from us for diffe
 1.	Click on <b>Show Data</b> and then right-click on the rows of the Navigator. From the displayed menu select Customize fields; 
 2.	The <b> Customize fields</b> window will open, then you need to click on the <b>Expression Format Conditions </b> button: 
 
-![Customize fields](pictures/ customize-fileds.png)
+![Customize fields](pictures/customize-fileds.png)
  
 A window will open for you to enter the desired conditions:
 
