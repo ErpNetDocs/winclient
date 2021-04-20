@@ -10,3 +10,6 @@
   href: sorting.md
 - name: Searching
   href: searching.md
+- name: Conditional coloring
+  href: coloring/overview.md
+  
