@@ -1,3 +1,7 @@
 - name: Overview
   href: overview.md
-  
+- name: Coloring by row
+  href: coloring-by-row.md
+- name: Coloring by cell
+  href: coloring-by-cell.md
+    
