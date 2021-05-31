@@ -2993,6 +2993,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/coloring/coloring-by-cell.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/coloring/coloring-by-cell.html",
+          "hash": "i/zL7Mb/fzyuyYJwi48phQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/navigators/coloring/coloring-by-row.md",
       "output": {
         ".html": {
@@ -3005,11 +3017,45 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/navigators/coloring/conditional-formatting.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/navigators/coloring/conditional-formatting.html",
+          "hash": "zY4g5lM6Udo63Z4WAm2DdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/navigators/coloring/overview.md",
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/overview.html",
           "hash": "klHlBsuR03Zu3YgTBXxT7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/amount-to-pay.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/amount-to-pay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/colored-cell.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/colored-cell.png"
         }
       },
       "is_incremental": false,
@@ -3050,6 +3096,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/format-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/format-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/coloring/pictures/format-conditions.png",
       "output": {
         "resource": {
@@ -3076,6 +3133,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/coloring/pictures/new-sales-orders.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/new-state-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/new-state-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold.png"
         }
       },
       "is_incremental": false,
@@ -4480,7 +4559,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "FFqYXNf0ze8vufVKEunVWQ=="
+          "hash": "B4t7MTaK6xZg7I91RVSiBA=="
         }
       },
       "is_incremental": false,
