@@ -565,6 +565,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/amount-to-pay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/amount-to-pay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/colored-cell.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/colored-cell.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/coloring.png",
       "output": {
         "resource": {
@@ -598,6 +620,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/format-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/format-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/format-conditions.png",
       "output": {
         "resource": {
@@ -624,6 +657,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/coloring/pictures/new-sales-orders.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/new-state-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/new-state-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold.png"
         }
       },
       "is_incremental": false,
