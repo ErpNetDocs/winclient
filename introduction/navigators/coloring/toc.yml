@@ -4,4 +4,5 @@
   href: coloring-by-row.md
 - name: Coloring by cell
   href: coloring-by-cell.md
-    
+- name: Conditional formatting
+  href: conditional-formatting.md    
