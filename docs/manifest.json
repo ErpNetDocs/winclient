@@ -4597,15 +4597,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/terms.md",
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "Km7cL8ur98YsnekK/ucBcA=="
+          "hash": "IbSmJLQf+ol2WvxLQwcUIw=="
         }
       },
       "is_incremental": false,
