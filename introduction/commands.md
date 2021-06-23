@@ -4,33 +4,33 @@ Here is a list of the most commonly used commands.
 
 ## Documents  
 
-- Definition
+- Definition - opens the definition of the selected entity.
 
 ![Definition](pictures/definition-of.png)
     
-- New document   
+- New document - usually available in the document navigators, used to create new documents.
 
 ![New document](pictures/new-document.png)
 
-- Modify document state
+- Change a document state - the set butttons with which we can change the document state to "Planned", "FirmPlanned", "Released" ... or void a document
 
 Command Ribbon >> Home:
 
 ![Modify document](pictures/modify-document.png)
  
-- Print 
+- Print - opens a print preview of the default Printout layout. The dropdown contains printing modes and a list with all availabe printout layouts for this record.
 
 Command Ribbon >> Home:
 
 ![Print](pictures/print.png)
  
-- Create child document
+- Create child document - used to create a sub-document i.e. the next document of the document flow. Opens a list with all available document types, which can be created from the current document, according to the preset document routes.
 
 Command Ribbon >> Relations:
 
 ![Create child document](pictures/create-child.png)
 
-- Change View
+- Change View - used to change and  navigate between the available [Views](workspace-customization/working-with-views.md).
 
 Command Ribbon >> View
 
@@ -38,19 +38,19 @@ Command Ribbon >> View
 
 ## Navigators
 
-- Show data
+- Show data - loads the data into the navigator, according to the specified filters into the filter panel.
 
 Command Ribbon >> Home:
  
 ![Show data](pictures/show-data.png)
 
-- Create new
+- Create new - used to create a new record of the particular entity.
 
 Command Ribbon >> Home:
 
 ![Create new sales order](pictures/new-sales-order.png)
 
-- Open document
+- Open document - opens the single form of the selected document.
 
 Command Ribbon >> Home
 
@@ -58,7 +58,7 @@ Command Ribbon >> Home
 
 ## General
 
-- Change Enterprise company
+- Change Enterprise company - opens a drop down list with the Enterrise companies available into the datatabase.
 
 Main Menu >> Command Ribbon >> Home:
 
@@ -68,19 +68,19 @@ Or File menu >> Settings >> Change Enterprise company and location…
 
 ![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
-- Change location
+- Change location - opens a dropdown list with the Company Locations of the selected Enterprise Company.
 
 Main Menu >> Command Ribbon >> Home:
 
 ![Change location](pictures/change-location.png)
  
-- Change current role
+- Change current role - opens a dropdown list with the roles available for the particular user
 
 Main Menu >> Command Ribbon >> Home: 
 
 ![Change Role](pictures/change-role.png)
 
-- Change of style
+- Change of style - used to change the visual style i.e. theme of the @@winclientfull
 
 Main Menu >> Command Ribbon >> Home: 
  
