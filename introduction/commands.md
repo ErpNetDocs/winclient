@@ -10,7 +10,7 @@ Here is a list of the most commonly used commands.
     
 - New document - usually available in the document navigators, used to create new documents.
 
-![New document](pictures/new-document.png)
+![New document](pictures/new-sales-order.png)
 
 - Change a document state - the set of butttons with which you can change the document state to "Planned", "FirmPlanned", "Released" ... or void a document
 
