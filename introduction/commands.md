@@ -74,7 +74,7 @@ Main Menu >> Command Ribbon >> Home:
 
 ![Change location](pictures/change-location.png)
  
-- Change current role - opens a dropdown list with the roles available for the particular user
+- Change current role - opens a dropdown list with the roles available for the particular user.
 
 Main Menu >> Command Ribbon >> Home: 
 
