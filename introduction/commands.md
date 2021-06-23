@@ -7,7 +7,6 @@ Here is a list of the most commonly used commands.
 - Definition - opens the definition of the selected entity.
 
 ![Definition](pictures/definition-of.png)
-<br/>
     
 - New document - usually available in the document navigators, used to create new documents.
 
