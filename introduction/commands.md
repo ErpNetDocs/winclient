@@ -12,7 +12,7 @@ Here is a list of the most commonly used commands.
 
 ![New document](pictures/new-document.png)
 
-- Change a document state - the set butttons with which we can change the document state to "Planned", "FirmPlanned", "Released" ... or void a document
+- Change a document state - the set of butttons with which you can change the document state to "Planned", "FirmPlanned", "Released" ... or void a document
 
 Command Ribbon >> Home:
 
@@ -24,7 +24,7 @@ Command Ribbon >> Home:
 
 ![Print](pictures/print.png)
  
-- Create child document - used to create a sub-document i.e. the next document of the document flow. Opens a list with all available document types, which can be created from the current document, according to the preset document routes.
+- Create child document - used to manually create a sub-document i.e. the next document of the document flow. Opens a list with all available document types, which can be created from the current document, according to the preset document routes.
 
 Command Ribbon >> Relations:
 
@@ -58,7 +58,7 @@ Command Ribbon >> Home
 
 ## General
 
-- Change Enterprise company - opens a drop down list with the Enterrise companies available into the datatabase.
+- Change Enterprise company - opens a drop down list with the Enterrise Companies available into the datatabase.
 
 Main Menu >> Command Ribbon >> Home:
 
@@ -68,7 +68,7 @@ Or File menu >> Settings >> Change Enterprise company and location…
 
 ![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
-- Change location - opens a dropdown list with the Company Locations of the selected Enterprise Company.
+- Change location - used to change the Enteprise company in which you are currenly working. Contains a dropdown list with the Company locations of the selected Enterprise company.
 
 Main Menu >> Command Ribbon >> Home:
 
