@@ -58,7 +58,7 @@ Command Ribbon >> Home
 
 ## General
 
-- Change Enterprise company - used to change the Enteprise company in which you are currenly working. Opens a drop down list with the enterrise companies available into the datatabase.
+- Change Enterprise company - used to change the enteprise company in which you are currenly working. Opens a drop down list with the enterprise companies available into the datatabase.
 
 Main Menu >> Command Ribbon >> Home:
 
