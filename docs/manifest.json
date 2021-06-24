@@ -2581,351 +2581,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/commands.html",
-          "hash": "zeo4ELSgAcjq0CsvfEADGw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/dashboard/file-page.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/dashboard/file-page.html",
-          "hash": "uVQTvI+WD3PXpPcz4NZZhw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/dashboard/main-menu.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/dashboard/main-menu.html",
-          "hash": "FVpSJdaG0vKlNIxBHnDchQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/dashboard/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/dashboard/overview.html",
-          "hash": "evNzzWdDnyF8cY728MV5fA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/close-and-save-all.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/close-and-save-all.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/create-new-document.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/create-new-document.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/dashboard-ribbon.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/dashboard-ribbon.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/dashboard-search.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/dashboard-search.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/dashboard.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/dashboard.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/delete.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/delete.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/documentation-icon.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/documentation-icon.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/exit.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/exit.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/file-page.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/file-page.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/help-menu.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/help-menu.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/language.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/language.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/log-off.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/log-off.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/logo.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/logo.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/main-menu.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/main-menu.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/main-sections.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/main-sections.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/main-subsections.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/main-subsections.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/mouse-and-keyboard.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/mouse-and-keyboard.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/mouse-keyboard-and-touch.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/mouse-keyboard-and-touch.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/open-url.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/open-url.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/print-properties-send.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/print-properties-send.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/products-search.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/products-search.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/quick-access-tool.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/quick-access-tool.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/recent.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/recent.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/remote-support-icon.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/remote-support-icon.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/settings.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/settings.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/system-forms.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/system-forms.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/touch-only.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/touch-only.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/dashboard/pictures/what's-new-icon.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/dashboard/pictures/what's-new-icon.png"
+          "hash": "/nctx1YHMJufqSvSnpzg7Q=="
         }
       },
       "is_incremental": false,
@@ -4602,7 +4258,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "1ZOlYd9Q4WZmZ02Y9LdHDg=="
+          "hash": "ZfbWv50LQJnT9yuY6wDw8Q=="
         }
       },
       "is_incremental": false,
@@ -4614,7 +4270,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "nIVM6GUk4P+JhJr86IbMiA=="
+          "hash": "BD/8iWJ4hhp1FyzG/t2wYg=="
         }
       },
       "is_incremental": false,
@@ -5317,6 +4973,350 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-views.html",
           "hash": "hl7xhYcufzH6IMWHoEN3KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace/file-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace/file-page.html",
+          "hash": "gGlLH7s7j4yeNXCZm2zuDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace/index.html",
+          "hash": "MGxc3mbKhtjzGMwjAP60Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace/main-menu.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace/main-menu.html",
+          "hash": "qjG3nIH/fD88btITAAtinw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/close-and-save-all.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/close-and-save-all.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/create-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/create-new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/dashboard-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/dashboard-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/delete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/documentation-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/exit.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/exit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/file-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/file-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/help-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/log-off.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/log-off.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-sections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-subsections.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-subsections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/open-url.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/open-url.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/print-properties-send.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/print-properties-send.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/products-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/quick-access-tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/recent.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/recent.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/remote-support-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/system-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/touch-only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/what's-new-icon.png"
         }
       },
       "is_incremental": false,
