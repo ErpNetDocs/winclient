@@ -50,6 +50,6 @@ English and Bulgarian are there by default, but the program allows you to add mu
 
 ### System forms
 
-You can open more than one system form on the dashboard:
+You can open more than one system form on the workspace:
 
 ![System forms](pictures/system-forms.png)
