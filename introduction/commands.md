@@ -18,7 +18,7 @@ Command Ribbon >> Home:
 
 ![Modify document](pictures/modify-document.png)
  
-- Print - opens a print preview of the default Printout layout. The dropdown contains printing modes and a list with all availabe printout layouts for this record.
+- Print - opens a print preview of the default printout layout. The dropdown contains printing modes and a list with all availabe printout layouts for this record.
 
 Command Ribbon >> Home:
 
@@ -58,7 +58,7 @@ Command Ribbon >> Home
 
 ## General
 
-- Change Enterprise company - used to change the Enteprise company in which you are currenly working. Opens a drop down list with the Enterrise Companies available into the datatabase.
+- Change Enterprise company - used to change the Enteprise company in which you are currenly working. Opens a drop down list with the enterrise companies available into the datatabase.
 
 Main Menu >> Command Ribbon >> Home:
 
@@ -68,7 +68,7 @@ Or File menu >> Settings >> Change Enterprise company and location…
 
 ![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
-- Change location - used to change the Enteprise company location in which you are currenly working. Contains a dropdown list with the Company locations of the selected Enterprise company.
+- Change location - used to change the enteprise company location in which you are currenly working. Contains a dropdown list with the company locations of the selected enterprise company.
 
 Main Menu >> Command Ribbon >> Home:
 
