@@ -1,14 +1,16 @@
-# Dashboard
+# Workspace
 
-The <b>Dashboard</b> shows the different system forms you will need when working with @@winclientfull.
+The <b>Workspace</b> includes the main menu and the different ribbons, tabs and system forms you will need when working with @@winclientfull.
+
+Here is a pucture of the [main menu](main-menu.md).
 
 ![The Dashboard](pictures/dashboard.png)
 
-See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system Form is open (Document, Navigator/Reference or Definition) and what the positioning of the cursor is, the Command Ribbon will contain different pages with tools for managing the currently active Form.
+See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system form is open (document, navigator/report or definition) and what the positioning of the cursor is, the <b>command ribbon</b> will contain different pages with tools for managing the currently active form.
  
 ![Command Ribbon](pictures/dashboard-ribbon.png) 
  
-Above the Command Ribbon, you can find additional tools that allow you to do quick search, open the user documentation, or choose the system language. 
+Above the command ribbon, you can find additional tools that allow you to do quick search, open the user documentation, or choose the system language. 
 
 ![Search](pictures/dashboard-search.png)
 
@@ -16,7 +18,7 @@ Above the Command Ribbon, you can find additional tools that allow you to do qui
 
 ![Quick access tool](pictures/quick-access-tool.png)
  
-In this field, you can search for Documents, Contractors, Products, and program menus in the current Enterprise company. Press Space and type a part of your searched text. You cannot search for voided documents. Limited number of relative matches will show up under the field (if your searched document exists, you will find it there).
+In this field, you can search for documents, contractors, products, and program menus in the current enterprise company. Press Space and type a part of your searched text. You cannot search for voided documents. Limited number of relative matches will show up under the field. This means that even if your searched document, contractor, etc. is not amoung the results it may still exist in the database.
  
 ![Products search](pictures/products-search.png)
  
