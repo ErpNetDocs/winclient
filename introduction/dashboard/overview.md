@@ -1,8 +1,8 @@
 # Workspace
 
-The <b>Workspace</b> includes the main menu and the different ribbons, tabs and system forms you will need when working with @@winclientfull.
+The <b>Workspace</b> includes the [main menu](main-menu.md) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
 
-Here is a pucture of the [main menu](main-menu.md).
+Here is a pucture of the main menu.
 
 ![The Dashboard](pictures/dashboard.png)
 
