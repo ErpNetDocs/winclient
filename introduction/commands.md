@@ -30,7 +30,7 @@ Command Ribbon >> Relations:
 
 ![Create child document](pictures/create-child.png)
 
-- Change View - used to change and  navigate between the available [Views](workspace-customization/working-with-views.md).
+- Change View - used to change and  navigate between the available [views](workspace-customization/working-with-views.md).
 
 Command Ribbon >> View
 
