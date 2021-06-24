@@ -6,8 +6,9 @@
   href: commands.md
 - name: Keyboard shortcuts
   href: keyboard-shortcuts.md
-- name: Dashboard
-  href: dashboard/toc.yml
+- name: Workspace
+  href: workspace/toc.yml
+  topicHref: workspace/index.md
 - name: Command ribbon
   href: command-ribbon.md
 - name: System forms
