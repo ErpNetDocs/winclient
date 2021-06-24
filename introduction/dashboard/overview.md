@@ -1,6 +1,6 @@
 # Workspace
 
-The <b>Workspace</b> includes the [main menu](main-menu.md) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
+The <b>workspace</b> includes the [main menu](main-menu.md) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
 
 Here is a pucture of the main menu.
 
@@ -33,7 +33,8 @@ The menu has 3 sections:
 1. User help
 - ![Documentation icon](pictures/documentation-icon.png) <b>Documentation</b> - holds the user manual for working with @@winclientfull. Another way to access the documentation is the @keyboard-shortcuts F1.
 - ![What's new icon](pictures/what's-new-icon.png) <b>What’s New</b> - describes the new features of the system.
-- ![Remote support icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through this icon.
+- ![Remote Support (Team Viewer) icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through the built-in Team Viewer.
+- ![Remote Support (Windows Quick Assist) icon](pictures/remote-support-icon.png) <b>Remote support</b> - access remote support through Windows Quick Assist.
 
 2. System optimization
 - ![Mouse and Keyboard](pictures/mouse-and-keyboard.png) <b>Mouse and Keyboard</b> – choose when working with a computer.
