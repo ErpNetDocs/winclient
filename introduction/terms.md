@@ -7,7 +7,7 @@ In @@winclientfull, there are some special terms. This topic briefly explains th
 - Enterprise company – the current company you work with;
 - [Region](workspace-customization/working-with-regions.md) – an area of the screen, a frame, in which you can place different Panels;
 - [Panel](workspace-customization/working-with-panels.md) – a part of a Form, which contains independent meaning;
-- [View](workspace-customization/working-with-views.md)– the appearance of the Form, which is saved under a certain name;
+- [View](workspace-customization/working-with-views.md)– the appearance of the form, which is saved under a certain name;
 - Document flow – all documents that describe a given process;
 - Main document – the document that sets the beginning of a document chain;
 - Parent document – a document from which another document is created;
