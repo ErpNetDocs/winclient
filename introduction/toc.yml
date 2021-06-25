@@ -16,6 +16,7 @@
   topicHref: system-forms/index.md
 - name: Customize the workspace
   href: workspace-customization/toc.yml
+  topicHref: workspace-customization/index.md
 - name: Edit mode
   href: edit-mode.md
 - name: Navigators
