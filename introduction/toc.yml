@@ -13,6 +13,7 @@
   href: command-ribbon.md
 - name: System forms
   href: system-forms/toc.yml
+  topicHref: system-forms/index.md
 - name: Customize the workspace
   href: workspace-customization/toc.yml
 - name: Edit mode
