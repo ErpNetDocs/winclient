@@ -2479,6 +2479,314 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/close-and-save-all.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/close-and-save-all.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/create-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/create-new-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/dashboard-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/dashboard-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/dashboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/delete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/documentation-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/exit.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/exit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/file-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/file-page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/help-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/log-off.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/log-off.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-sections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-subsections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-subsections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/open-url.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/open-url.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/print-properties-send.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/print-properties-send.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/products-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/quick-access-tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/recent.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/recent.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/remote-support-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/system-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/touch-only.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/what's-new-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
@@ -4052,11 +4360,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/system-forms/overview.md",
+      "source_relative_path": "introduction/system-forms/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/system-forms/overview.html",
-          "hash": "NmPmZGptX61gdCPnQz+43g=="
+          "relative_path": "introduction/system-forms/index.html",
+          "hash": "H/yv0tQ0M4FKqH/d0vYbsw=="
         }
       },
       "is_incremental": false,
@@ -4253,12 +4561,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/terms.md",
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "ZfbWv50LQJnT9yuY6wDw8Q=="
+          "hash": "bX9O6wABbhCcgIqKnzxW3A=="
         }
       },
       "is_incremental": false,
@@ -4270,7 +4581,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "BD/8iWJ4hhp1FyzG/t2wYg=="
+          "hash": "ijjKsPJbYEIsuDNMlvHygQ=="
         }
       },
       "is_incremental": false,
@@ -4346,6 +4657,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/index.html",
+          "hash": "1L0f9yt1KD2oGjyplMMsfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "introduction/workspace-customization/more-button.png",
       "output": {
@@ -4363,18 +4686,6 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/open-in-a-separate-window.html",
           "hash": "8srcMx8HPE6fOgtW9OzZnA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/workspace-customization/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/workspace-customization/overview.html",
-          "hash": "Li9vmBAUfjxoGnH64/xKKg=="
         }
       },
       "is_incremental": false,
@@ -4960,7 +5271,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-regions.html",
-          "hash": "5Xr5As2sCkAwu4RYKWdF2A=="
+          "hash": "s8YKx9WMOD/nhT0fVgSctA=="
         }
       },
       "is_incremental": false,
