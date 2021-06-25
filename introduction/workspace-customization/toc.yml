@@ -1,18 +1,18 @@
 - name: Overview
   href: overview.md
-- name: Customize Current View
+- name: Customize current view
   href: customize-current-view.md
-- name: Working with Views
+- name: Working with views
   href: working-with-views.md
 - name: Working with Regions
   href: working-with-regions.md
-- name: Working with Panels
+- name: Working with panels
   href: working-with-panels.md
-- name: Working with Fields
+- name: Working with fields
   href: working-with-fields.md
 - name: Open in a separate window
   href: open-in-a-separate-window.md
-- name: Customize Quick Access
+- name: Customize quick access
   href: customize-quick-access.md
-- name: Default Values
+- name: Default values
   href: default-values.md
