@@ -25,7 +25,7 @@ Other features of the Home document page are:
 -	<b>Context menu</b> - displays a list of commands, related to a selected system form element. You can also open the context menu by right-clicking on the element.
 The first component in the Context menu is the Definition of the selected element.
  
-![Definition of](pictures/definition-of.png)
+![Definition](pictures/definition.png)
 
 For example, when you click on the Customer field (in the Header of the Offer Document), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
  
