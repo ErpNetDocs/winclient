@@ -510,6 +510,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/connect-to-customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/connect-to-customer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/data-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/data-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/definition-more.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/definition-more.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/definition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/definition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/document-flow.png",
       "output": {
         "resource": {
@@ -532,6 +576,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/document-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/document-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/freeze-columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/freeze-columns.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/frozen-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/frozen-column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/functions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/functions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/home-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/home-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/navigators-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/navigators-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/print.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/relations-menu.png",
       "output": {
         "resource": {
@@ -543,10 +664,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/relations-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/relations-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/reports-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/reports-tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/start.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/start.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/user-state.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/documents/pictures/user-state.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/view-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/view-tab.png"
         }
       },
       "is_incremental": false,
