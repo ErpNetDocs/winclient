@@ -3025,12 +3025,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "hhWBY2KgnIM4qlfLp6IWCw=="
+          "hash": "GFRbWHxCVH/oxXN4kU838g=="
         }
       },
       "is_incremental": false,
@@ -3335,6 +3338,18 @@
         ".html": {
           "relative_path": "introduction/edit-mode.html",
           "hash": "WCC2bEjSctkZ9d0ngWNMhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/index.html",
+          "hash": "hJPFxQr5LXlBoLIPKMQvJQ=="
         }
       },
       "is_incremental": false,
@@ -4391,18 +4406,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/overview.html",
-          "hash": "yG5aIdAVuTW5I5k7wrgW4Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "introduction/pictures/change-company.png",
       "output": {
@@ -4923,7 +4926,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "ijjKsPJbYEIsuDNMlvHygQ=="
+          "hash": "b5JPzkyIQ3z4R4Lb+XyXjA=="
         }
       },
       "is_incremental": false,
@@ -5987,12 +5990,30 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "step-by-step/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/toc.html",
+          "hash": "t2psqzSybSqSMcgHqZsimQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "/LMV37xzshRzr+5cvyUhqw=="
+          "hash": "YD5glRMmlwUa9e3ISYaDdQ=="
         }
       },
       "is_incremental": false,
