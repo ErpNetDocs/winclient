@@ -27,7 +27,7 @@
   "index.html": {
     "href": "index.html",
     "title": "Welcome to the ERP.net Windows Desktop Client Documentation | ERP.net Windows Client",
-    "keywords": "Welcome to the ERP.net Windows Desktop Client Documentation This documentation contains information about the user interface and how to use the ERP.net Windows Desktop Client. For information and deep dive in the business logic of ERP.net, check the Technical Documentation . Topics Introduction to ERP.net Windows Desktop Client - explanation of commonly used terms, concepts and commands. Step by step guides Specific functionality - forms, which are specific to the Windows Client Other documentations Technical Documentation - business logic and implementation information. Domain Model - reference information about the business entities. Developer Documentation - information for developers."
+    "keywords": "Welcome to the ERP.net Windows Desktop Client Documentation This documentation contains information about the user interface and how to use the ERP.net Windows Desktop Client. For information and deep dive in the business logic of ERP.net, check the Technical Documentation . Topics Introduction to ERP.net Windows Desktop Client - explanation of commonly used terms, concepts and commands. Step by step guides - easy to follow step by step guides for common tasks. Specific functionality - forms, which are specific to the Windows Client Other documentations For more information about ERP.net, you can view: Technical Documentation - business logic and implementation information. Domain Model - reference information about the business entities. Developer Documentation - information for developers."
   },
   "introduction/command-ribbon.html": {
     "href": "introduction/command-ribbon.html",
@@ -63,6 +63,11 @@
     "href": "introduction/edit-mode.html",
     "title": "Edit Mode | ERP.net Windows Client",
     "keywords": "Edit Mode There is a big difference between the Change Current View mode and the Edit Mode . The Change Current View mode is used to set the way Forms appear, while Edit Mode is about the information (data). Activating the Edit Mode allows you to edit that information. The two modes are not interconnected. You have separate access for them so that Change Current View mode could be off while Edit Mode is on or vice versa (furthermore, both modes could be active or not). By default, Documents open with active Edit Mode, while Navigators and Definitions open with the mode deactivated. You can set all Forms to open with active Edit Mode automatically, if needed. You need Edit Mode to be active to change the information in the Forms. You can activate or deactivate the mode in the Command Ribbon >> Home >> Edit Mode (or with hotkey F2 ). Note that not all Navigators have Edit Mode (Sales, Invoices, etc.)."
+  },
+  "introduction/index.html": {
+    "href": "introduction/index.html",
+    "title": "Introduction to ERP.net Windows Desktop Client | ERP.net Windows Client",
+    "keywords": "Introduction to ERP.net Windows Desktop Client This section contains introduces the user to the world of ERP.net Windows Desktop Client. It provides an explanation of the most commonly used terms, system-specific concepts and shows the most frequently used commands and work techniques."
   },
   "introduction/keyboard-shortcuts.html": {
     "href": "introduction/keyboard-shortcuts.html",
@@ -143,11 +148,6 @@
     "href": "introduction/navigators/summing.html",
     "title": "Summing | ERP.net Windows Client",
     "keywords": "Summing You will find summing useful for collecting total values for your data. Summing is one of the Navigator tools for analysis. It can benefits any managing activity in your company. You can sum, based on the shown data in the navigator. It doesn’t matter if the data is in a group or not. To add a total value , right-click on a title row in the chart. Select the Summary menu and choose what result you need: After you choose the Sum option, the total Sum will appear under the respective column. If there is an active Grouping, the total Sum will appear next to the name of that group. You can Sum only one time while the Form is open, or save the Sum in the View (and autoload the Sum value every time you open the Form). If you don’t have the Change Current View mode active, all the sums you make will disappear after you close the program. To save the sums in the View, you need to be in Change Current View mode and click on Save layout changes ."
-  },
-  "introduction/overview.html": {
-    "href": "introduction/overview.html",
-    "title": "Introduction to ERP.net Windows Desktop Client | ERP.net Windows Client",
-    "keywords": "Introduction to ERP.net Windows Desktop Client This section contains introduces the user to the world of ERP.net Windows Desktop Client. It provides an explanation of the most commonly used terms, system-specific concepts and shows the most frequently used commands and work techniques."
   },
   "introduction/system-forms/definition-form.html": {
     "href": "introduction/system-forms/definition-form.html",
