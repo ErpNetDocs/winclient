@@ -3025,15 +3025,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "GFRbWHxCVH/oxXN4kU838g=="
+          "hash": "WAf9AlesiWGyC/3SXVFUog=="
         }
       },
       "is_incremental": false,
@@ -5990,30 +5987,36 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "step-by-step/toc.yml",
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/index.md",
       "output": {
         ".html": {
-          "relative_path": "step-by-step/toc.html",
-          "hash": "t2psqzSybSqSMcgHqZsimQ=="
+          "relative_path": "step-by-step/index.html",
+          "hash": "j6ehQzoGJOXRUH0CY3QQpw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
+      "type": "Toc",
+      "source_relative_path": "step-by-step/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/toc.html",
+          "hash": "okpXJpGveI4L5phU3UbyAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "YD5glRMmlwUa9e3ISYaDdQ=="
+          "hash": "m2r2i0qJfH9+khlfELThQw=="
         }
       },
       "is_incremental": false,

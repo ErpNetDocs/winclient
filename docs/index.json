@@ -243,5 +243,10 @@
     "href": "README.html",
     "title": "Welcome to the ERP.net Windows Desktop Client Documentation | ERP.net Windows Client",
     "keywords": "Welcome to the ERP.net Windows Desktop Client Documentation The documentation uses DocFX to build."
+  },
+  "step-by-step/index.html": {
+    "href": "step-by-step/index.html",
+    "title": "Step by step guides | ERP.net Windows Client",
+    "keywords": "Step by step guides This section contains easy to follow step by step guides for common tasks. To view a guide, select it from the menu."
   }
 }
