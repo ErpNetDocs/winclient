@@ -1,3 +1,6 @@
 - name: Topics
   href: introduction/
-  topicHref: introduction/overview.md
+  topicHref: introduction/index.md
+- name: Step By Step
+  href: step-by-step/
+  topicHref: step-by-step/index.md
