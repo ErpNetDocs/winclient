@@ -1,5 +1,7 @@
 - name: Overview
   href: overview.md
+- name: Document command ribbon
+  href: document-command-ribbon.md
 - name: Document state
   href: document-state.md
 - name: Document flow
