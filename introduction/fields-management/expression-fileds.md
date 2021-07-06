@@ -23,7 +23,7 @@ A <b>formula editor</b> opens. It is separated into three regions – the first 
 
 The value in the new field will be summed by the formula: <b>Amount to pay</b> – <b>Lines total</b> = <b>VAT</b> field
 
-![Expression fields form](pictures/Caluculated-fform.png)
+![Expression fields form](pictures/Calculated-fform.png)
 
 Click <b>OK</b> to close the <b>Expression editor</b> or the <b>Expression fields </b> form. 
 
