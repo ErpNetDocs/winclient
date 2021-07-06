@@ -1,7 +1,7 @@
 # Multilanguage fields 
 
 <b>Multilanguage fields</b> are text fields usually present in the nomenclatures (name, description). You can transliterate the values in these fields using the <b>Text translations</b> form. 
-Open the form by clicking the ![…](pictures/….png) button or by selecting it in the dropdown menu:
+Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
 
 ![Dropdown menu](pictures/dd-menut.png) 
 
@@ -9,7 +9,7 @@ Open the form by clicking the ![…](pictures/….png) button or by selecting it
 - by opening a ‘Product group’ form
 - by opening a ‘Product group’ field
 - by selecting the function from the dropdown menu or
-- by clicking the ![…](pictures/….png)  button
+- by clicking the ![…](pictures/dots.png)  button
 
 ![Identificator](pictures/identificator.png)
 
