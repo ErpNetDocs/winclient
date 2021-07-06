@@ -77,7 +77,11 @@ An image can also be created using the built-in <b>picture editor</b>, suitable 
 
 ## <b>Condition field</b>
 
+![Condition field](pictures/filter-condition.png)
+
 It shows the filtering conditions that can be set using the filter in the navigator. 
+
+![Filter](pictures/filter.png)
 
 ## <b>Drop-down list field with a tree structure </b>
 This field contains a tree-structured drop-down list. The list includes other sublists, which become available when the lines marked with ‘+’ expand.
