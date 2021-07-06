@@ -4,8 +4,8 @@
   href: field-types.md
 - name: Multilanguage fields
   href: multilanguage-fields.md
-- name: Expression types
-  href: expression-types.md
+- name: Expression fields
+  href: expression-fields.md
 - name: Default values management
   href: default-values-management.md
 - name: Customize fields
