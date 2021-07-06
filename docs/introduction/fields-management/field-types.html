@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Field types | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Field types | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="field-types">Field types</h1>
+
+<h2 id="text-field"><b>Text field</b></h2>
+<p>This is a field displaying text that can be entered and edited by the customer.</p>
+<p><img src="pictures/text-field.png" alt="Text field"></p>
+<h2 id="long-text-field"><b>Long text field</b></h2>
+<p>This is a field with a drop-down window, where longer text is displayed. The text can be entered and edited by the customer.</p>
+<p><img src="pictures/longtext-field.png" alt="Long text field"></p>
+<h2 id="drop-down-list-field"><b>Drop-down list field</b></h2>
+<p>The field contains a drop-down list of predefined values, amongst which the customer can choose. It is not possible to enter values that are not included in the list.</p>
+<p><img src="pictures/ddlist-field1.png" alt="Drop-down list field"></p>
+<p>There are three ways to search amongst the values this type of field displays:</p>
+<ul>
+<li><p>using the scrollbar located on the right side of the list. Preferable when the list is short.</p>
+</li>
+<li><p>by typing the first letters of the text. The system will show all the values with names starting that way.</p>
+</li>
+<li><p>by entering a ‘space’ before a word the value has in its name. The ‘space’ would replace an indefinite number of symbols. Thus, the system would locate those values no matter where the word typed in the bar stands in the name. Take, as an example the ‘OOD’ abbreviation entered in the search bar with a ‘space’ before.The system would locate all the clients registered as a private limited company.</p>
+</li>
+</ul>
+<p><img src="pictures/searching-values.png" alt="Searching"></p>
+<h2 id="drop-down-list-field-with-no-predefined-values"><b>Drop-down list field with no predefined values</b></h2>
+<p>This field contains a list of values, which are not predefined but recorded during previous work upon the same type of document. In other words, any value that has been entered in the current session will add up to the other values in the records, creating a list of suggested options, unless they double.</p>
+<p><img src="pictures/recorded-values.png" alt="Recorded values"></p>
+<h2 id="checkbox"><b>Checkbox</b></h2>
+<p>The checkbox has three values – ‘checked’, ‘unchecked’ and ‘void’. When selected, a check appears in the box. If it is not selected, the box remains clear. If the box contains a grey square, this means there is no value for the field – it is neither ‘checked’, nor ‘unchecked’. To undo the cancellation, click on the icon <img src="pictures/xicon.png" alt="xicon">.</p>
+<p><img src="pictures/checked.png" alt="Checked"> <img src="pictures/unchecked.png" alt="Unchecked">
+<img src="pictures/void.png" alt="Void"></p>
+<h2 id="drop-down-checkbox-list-"><b>Drop-down checkbox list </b></h2>
+<p>This field contains a drop down list, е.g. <b>Party name</b> list in the <b>Invoice navigator</b></p>
+<p><img src="pictures/dd-clist.png" alt="Dropdown checkbox"></p>
+<h2 id="numeric-field"><b>Numeric field</b></h2>
+<p>Only numeric values can be entered in this field. Whole and decimal numbers are entered using either the calculator pad or the keyboard.</p>
+<p><img src="pictures/num-field.png" alt="Numeric field"></p>
+<h2 id="datetime-field"><b>Datetime field</b></h2>
+<p>It defines date and time.
+Date can be entered from calendar or manually using the keyboard in the following order: dd.mm.yyyy. (d - date,m - month, y - year). The month can be written out in words following the same order (e.g. 5 July 2020). There is a clock face aside the calendar for scheduling the time of the document.</p>
+<p><img src="pictures/datetime-field.png" alt="Datetime field"></p>
+<h2 id="file-attachment-field"><b>File Attachment field</b></h2>
+<p>This field allows files to be uploaded, thus connecting the program with a database file.</p>
+<p><img src="pictures/file-attachment.png" alt="File attachment"></p>
+<p>There are two ways to attach the file:</p>
+<ul>
+<li>Embedded file – when attached, the contents of the file will be copied to the database</li>
+<li>File location (stores only the path to the file) – the file itself will not be copied to the database but can be located on the file server)</li>
+</ul>
+<p><img src="pictures/file-path.png" alt="File path"></p>
+<h2 id="picture-field"><b>Picture field</b></h2>
+<p>A picture can be inserted in the field.</p>
+<p><img src="pictures/insert-image.png" alt="Insert image"></p>
+<p>An image can also be created using the built-in <b>picture editor</b>, suitable for tablet users.</p>
+<p><img src="pictures/graph-edit.png" alt="Graphics editor"></p>
+<h2 id="condition-field"><b>Condition field</b></h2>
+<p><img src="pictures/filter-condition.png" alt="Condition field"></p>
+<p>It shows the filtering conditions that can be set using the filter in the navigator.</p>
+<p><img src="pictures/filter.png" alt="Filter"></p>
+<h2 id="drop-down-list-field-with-a-tree-structure-"><b>Drop-down list field with a tree structure </b></h2>
+<p>This field contains a tree-structured drop-down list. The list includes other sublists, which become available when the lines marked with ‘+’ expand.</p>
+<p><img src="pictures/expand-ddlist.png" alt="Expand Dropdown List"></p>
+<h2 id="drop-down-list-field-with-a-tree-structure-for-checkboxes"><b>Drop-down list field with a tree structure for checkboxes</b></h2>
+<p>The field contains a tree-structured drop-down list with checkboxes – e.g. for product group selection in the <b>Order Lines navigator</b></p>
+<p><img src="pictures/tree-checklist.png" alt="Tree Checklist"></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/field-types.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
