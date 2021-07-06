@@ -26,10 +26,6 @@ There are three ways to search amongst the values this type of field displays:
 
 ![Searching](pictures/searching-values.png) 
 
-## <b>A drop-down list field with no predefined values</b>
-
-![Recorded list](pictures/recorded-list.png)
-
 ## <b>Drop-down list field with no predefined values</b>
 This field contains a list of values, which are not predefined but recorded during previous work upon the same type of document. In other words, any value that has been entered in the current session will add up to the other values in the records, creating a list of suggested options, unless they double. 
 
