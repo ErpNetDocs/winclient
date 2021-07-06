@@ -1,11 +1,1 @@
-- name: Overview
-  href: index.md
-- name: Field types
-  href: field-types.md
-- name: Multilanguage fields
-  href: multilanguage-fields.md
-- name: Expression types
-  href: expression-types.md
-- name: Default values management
-  href: default-values-management.md
-  
+
