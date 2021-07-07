@@ -730,6 +730,578 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/Calculated-fform.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/Calculated-fform.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/EF-FORM.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/EF-FORM.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/checked.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/checked.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/clear-defaultvalue1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/clear-defaultvalue1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/close-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/close-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/customize-fform.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/customize-fform.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/customize-ficon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/customize-ficon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/customize-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/customize-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/datetime-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/datetime-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/dd-clist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/dd-clist.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/dd-menut.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/dd-menut.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/ddlist-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/ddlist-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/ddlist-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/ddlist-field1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/delete-rows.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/delete-rows.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/dots.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/dots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/down-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/down-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/etc.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/etc.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expand-abutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expand-abutton.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expand-ddlist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expand-ddlist.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expf-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expf-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expression-fbutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expression-fbutton.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expression-formula.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expression-formula.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/file-attachment.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/file-attachment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/file-path.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/file-path.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/filter-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/filter-condition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/fmp.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/fmp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/fp-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/fp-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/graph-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/graph-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/identificator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/identificator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/insert-image.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/insert-image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/invisible.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/invisible.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/longtext-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/longtext-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/longtext-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/longtext-field1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/ltf.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/ltf.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/newVAT-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/newVAT-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/num-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/num-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/propertiesbutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/propertiesbutton.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/recorded-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/recorded-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/searching-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/searching-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/set-defaultvalue1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/set-defaultvalue1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/sf-datetime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/sf-datetime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/sf-numbers.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/sf-numbers.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/text-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/text-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/text-translations.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/text-translations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/tick-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/tick-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/tree-checklist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/tree-checklist.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/unchecked.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/unchecked.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/up-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/up-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/value-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/value-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/void.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/void.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/xicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/xicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/amount-to-pay.png",
       "output": {
         "resource": {
