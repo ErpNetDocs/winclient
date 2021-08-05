@@ -1,4 +1,4 @@
-# Sales order
+# Sales Order
 
 Sales Order is a document, intended for the sale of goods to customers.
 
