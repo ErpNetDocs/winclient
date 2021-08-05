@@ -7219,11 +7219,194 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "step-by-step/activity.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/activity.html",
+          "hash": "8GQnNN2x+V+0bX/jtmyg8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/document-flow.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/document-flow.html",
+          "hash": "vmRRGV0SnGn3KBM5fbtUYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "step-by-step/index.md",
       "output": {
         ".html": {
           "relative_path": "step-by-step/index.html",
           "hash": "j6ehQzoGJOXRUH0CY3QQpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/invoice-order.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/invoice-order.html",
+          "hash": "i/hRePdGbzoWgsTw8tSB2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/Subject.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/Subject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/Systemtype.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/Systemtype.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activitynavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activitynavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/createnewactivity.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/createnewactivity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/deadlinetime.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/deadlinetime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/documentnumber.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/documentnumber.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/endtime.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/endtime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/releasethedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/releasethedocument.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/starttime.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/starttime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/purchase-order.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/purchase-order.html",
+          "hash": "pPDXP+2NBTPmRA+NG2vM0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/receiving-order.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/receiving-order.html",
+          "hash": "wzKCKBuvV4j1V8vKNIwlJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/sales-invoice.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/sales-invoice.html",
+          "hash": "2lzfFCNNk704fndOV4XQQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "step-by-step/sales-order.md",
+      "output": {
+        ".html": {
+          "relative_path": "step-by-step/sales-order.html",
+          "hash": "UdhKI/OmgiyCFD6Tc3q0Ig=="
         }
       },
       "is_incremental": false,

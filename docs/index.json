@@ -274,9 +274,44 @@
     "title": "Welcome to the ERP.net Windows Desktop Client Documentation | ERP.net Windows Client",
     "keywords": "Welcome to the ERP.net Windows Desktop Client Documentation The documentation uses DocFX to build."
   },
+  "step-by-step/activity.html": {
+    "href": "step-by-step/activity.html",
+    "title": "Activity | ERP.net Windows Client",
+    "keywords": "Activity The Activity document is used to enter a specific activity and mark the result of it. To create “Activity” go to Customers >> Contacts & Tasks >> Create New Activity ![Activity](pictures/Create New Activity.png) Fill in the following fields: System Type - you can set whether to be Communication, Meeting or Task. ![Activity](pictures/System Type.png) Subject - you can enter a short text that will be the topic of the activity. Start Time - you can set the date and time for starting the activity. ![Activity](pictures/Start Time.png) End Time - you can enter the date and time for ending the activity, the Deadline Time field will be calculated automatically ![Activity](pictures/End Time.png) Deadline Time - you can enter the planned duration in minutes, then the End Time field will be calculated automatically. ![Activity](pictures/Deadline Time.png) After filling in the data Release the document. ![Activity](pictures/Release the document.png) ##To view all created Activities: Go to Customers >> Contacts & Tasks >> Activities Navigator Press the Display button. All created activities will be loaded. ![Activity](pictures/Activity Navigator.png) By double-clicking on the selected activity, you can open it to view it."
+  },
+  "step-by-step/document-flow.html": {
+    "href": "step-by-step/document-flow.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
+  },
   "step-by-step/index.html": {
     "href": "step-by-step/index.html",
     "title": "Step by step guides | ERP.net Windows Client",
     "keywords": "Step by step guides This section contains easy to follow step by step guides for common tasks. To view a guide, select it from the menu."
+  },
+  "step-by-step/invoice-order.html": {
+    "href": "step-by-step/invoice-order.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
+  },
+  "step-by-step/purchase-order.html": {
+    "href": "step-by-step/purchase-order.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
+  },
+  "step-by-step/receiving-order.html": {
+    "href": "step-by-step/receiving-order.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
+  },
+  "step-by-step/sales-invoice.html": {
+    "href": "step-by-step/sales-invoice.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
+  },
+  "step-by-step/sales-order.html": {
+    "href": "step-by-step/sales-order.html",
+    "title": "| ERP.net Windows Client",
+    "keywords": ""
   }
 }
