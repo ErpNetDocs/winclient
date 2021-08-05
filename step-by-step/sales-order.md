@@ -48,12 +48,11 @@ In the standard operating model, the system is set to continue with an Invoice O
 
 Go to <b>Customers >> Sales >> Orders Navigator </b>
 
-![Sales Order](pictures/Ordersnavigator.png)
-
-
 - Press the Display Button.
 
 - A list of all issued sales will appear.
+
+![Sales Order](pictures/Ordersnavigator.png)
 
 - By double-clicking on the selected sale you can open it to view it.
 
