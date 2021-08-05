@@ -2,7 +2,7 @@
 
 A Receiving Order document reflects a purchase made by a supplier and aims to increase availability. Most often the Receiving Order is crated as a result of a Purchase Order (link)
 
-To create Receiving Order go to <b>Logistics >> Procurement >> Create New Receiving Order </b>
+To create Receiving Order, go to <b>Logistics >> Procurement >> Create New Receiving Order </b>
  
 ![Receiving Order](pictures/Createnewreceivingorder.png)
 
