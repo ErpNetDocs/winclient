@@ -3534,6 +3534,105 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Subject.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Subject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Systemtype.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Systemtype.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/activitynavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/activitynavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/createnewactivity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/createnewactivity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/deadlinetime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/deadlinetime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/documentnumber.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/documentnumber.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/endtime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/endtime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/releasethedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/releasethedocument.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/starttime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/starttime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "log_codes": [
         "InvalidFileLink"
       ],
@@ -7322,32 +7421,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "step-by-step/pictures/documentnumber.png",
-      "output": {
-        "resource": {
-          "relative_path": "step-by-step/pictures/documentnumber.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/endtime.png",
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/endtime.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "step-by-step/pictures/releasethedocument.png",
-      "output": {
-        "resource": {
-          "relative_path": "step-by-step/pictures/releasethedocument.png"
         }
       },
       "is_incremental": false,
