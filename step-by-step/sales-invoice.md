@@ -10,7 +10,11 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 
 -	From the **command bar**, go to the **Links tab** and click the **Create Invoice** button.
 
--	The generated invoice will be displayed on the screen. After filling in the data, **release** the document.
+-	The generated invoice will be displayed on the screen.
+
+-	**Release** the document.
+ 
+![Purchase Order](pictures/Releasethedocument.png)
 
 -	Press the **Print** button in order to print the invoice.
 
@@ -27,6 +31,8 @@ To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> 
 -	The generated invoice will be displayed on the screen. 
   
 - **Release** the invoice.
+
+![Purchase Order](pictures/Releasethedocument.png)
   
 -	Press the **Print** button in order to print the invoice.
 
