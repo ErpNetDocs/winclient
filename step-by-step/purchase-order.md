@@ -59,6 +59,6 @@ A list of **all** Purchase orders will appear.
  
 ![Purchase Order](pictures/Purchaseordernavigator.png)
 
-If you **double-click** a selected activity, you can open and view it.
+If you **double-click** a selected Purchase Order, you can open and view it.
 
 
