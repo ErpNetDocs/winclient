@@ -1,60 +1,61 @@
 # Sales Order
 
-Sales Order is a document, intended for the sale of goods to customers.
+The Sales Order document is intended for the **selling** of goods to customers.
 
-To create a sale order go to <b> Customers >> Sales >> Create New Sales Order </b>
+To create a Sales Order, go to <b>Customers >> Sales >> Create New Sales Order</b>
  
 ![Sales Order](pictures/Createsalesorder.png)
 
-Fill in the following fields:
+Let's fill in the following fields:
 
--	<b> Customer </b>- from the drop-down list, select the customer you are selling to. 
+-	<b>Customer</b> - from the dropdown, choose the customer you're going to sell to. 
  
 ![Sales Order](pictures/Customers.png)
 
--	<b> Store </b> -  you can fill in the field in the header of the document, or you can fill in the sales rows, for each row separately.
+-	<b>Store</b> - you can fill in the field in the **header** of the document, or you can fill it in the **sales rows**, for each row separately.
  
 ![Sales Order](pictures/Storing.png)
 
--	<b>Product code </b>- select the product for sale.
+-	<b>Product code </b> - from the dropdown, select the product for sale.
 
--	<b>Product name</b> - when filling in the code, the name is filled in automatically.
+-	<b>Product name</b> - if you choose the code, this name is generated automatically.
  
 ![Sales Order](pictures/ppp.png)
 
--	<b>Quantity</b> - the quantity sold.
+-	<b>Quantity</b> - this is the sold quantity.
  
 ![Sales Order](pictures/Quantities.png)
 
--	<b>Measurement Unit Name</b>- the unit of measure of quantity sold.
+-	<b>Measurement Unit Name</b> - here, indicate the unit of measure of the purchased quantity.
  
 ![Sales Order](pictures/Measurements.png)
 
--	<b>Unit price</b> - the unit price of the products sold.
+-	<b>Unit price</b> - this is the price unit of the sold quantity.
  
 ![Sales Order](pictures/Uniprice.png)
 
--	 <b>Amount to pay</b> - the default value is the product of unit price and quantity. If you enter a value in the “Amount to pay” field, then the unit price will be recalculated.
+-	 <b>Amount to pay</b> - by default, this is a **product** of the unit price and the quantity. 
+	
+Other values lead to a **recalculation** of the unit price.
  
 ![Sales Order](pictures/Amountpay.png)
 
-## After filling in the data, Release the document.
+After filling in the data, **release** the document.
  
 ![Sales Order](pictures/Releasethedocu.png)
 
-In the standard operating model, the system is set to continue with an Invoice Order.
+In the standard operating model, the system is set to continue with an [Invoice Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/invoice-order.md).
 
-## To view all issued Sales:
+To view all issued Sales, go to <b>Customers >> Sales >> Orders Navigator</b>.
 
-Go to <b>Customers >> Sales >> Orders Navigator </b>
+- Press the **Display** button.
 
-- Press the Display Button.
-
-- A list of all issued sales will appear.
+- A list of **all** issued sales will appear.
 
 ![Sales Order](pictures/Ordersnavigator.png)
 
-- By double-clicking on the selected sale you can open it to view it.
+If you double-click the selected sale, you can open and view it.
+
 
 
 
