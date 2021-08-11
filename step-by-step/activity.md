@@ -32,7 +32,7 @@ After filling in the data, **release** the document
  
 ![Activity](pictures/releasethedocument.png)
 
-To view all created Activities, go to   <b> Customers  >>  Contacts & Tasks  >>  Activities Navigator  </b>
+To view all created Activities, go to <b>Customers  >>  Contacts & Tasks  >>  Activities Navigator</b>.
 
 Press the **Display** button.
 
