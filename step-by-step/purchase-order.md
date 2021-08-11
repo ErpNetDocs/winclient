@@ -54,9 +54,9 @@ According to the standard operating model, the system is set to **continue** wit
 
 To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator</b>.
 
-Press the **Display** Button.
+- Press the **Display** Button.
 
-A list of **all** Purchase orders will appear.
+- A list of **all** Purchase orders will appear.
  
 ![Purchase Order](pictures/Purchaseordernavigator.png)
 
