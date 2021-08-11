@@ -6,7 +6,7 @@ To create an Activity, go to <b>Customers  >>  Contacts & Tasks  >> Create New A
 
 ![Activity](pictures/createnewactivity.png)
 
-Fill in the following fields:
+Let's fill in the following fields:
 
 -	<b>System Type </b> - you can set it as either **Communication**, **Meeting** or **Task**.
  
