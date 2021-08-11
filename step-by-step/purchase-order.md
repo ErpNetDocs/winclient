@@ -1,63 +1,64 @@
 # Purchase Order
 
-The Purchase Order document is used to procure certain goods, products and materials by purchasing from an external supplier.
+The Purchase Order document is used to **procure** goods, products and materials by purchasing them from an **external supplier**.
 
-To create Purchase Order go to <b> Logistics >> Procurement >> Create New Purchase Order </b>
+To create a Purchase Order go to <b>Logistics >> Procurement >> Create New Purchase Order</b>.
 
  
 ![Purchase Order](pictures/Createnewpurchaseorder.png)
 
-Fill in the following fields:
+Let's fill in the following fields:
 
--	<b>Supplier</b> - from which supplier it is planned to buy the goods
+-	<b>Supplier</b> - this is the supplier from which you plan to buy the goods.
  
 ![Purchase Order](pictures/Supplier.png)
 
--	<b>Store</b> - in which store the goods should be credited.
+-	<b>Store</b> - this is the store in which the goods will be credited.
  
 ![Purchase Order](pictures/Store.png)
 
--	<b>Document Number</b> - indicate the number of the purchase order, if known.
+-	<b>Document No</b> - here, indicate the number of the purchase order, if available.
  
 ![Purchase Order](pictures/Documentnumber.png)
 
--	<b>Product code</b> - select the product for purchase.
+-	<b>Product code</b> - from the dropdown, select the product for purchase.
  
 ![Purchase Order](pictures/Productcodeandproductname.png)
 
--	<b>Product name </b>- when filling in the code, the name is filled in automatically.
+-	<b>Product Name </b>- if you choose the code, this name is generated automatically.
 
--	<b>Quantity </b>- the quantity purchased.
+-	<b>Quantity </b> - this is the purchased quantity.
  
 ![Purchase Order](pictures/Quantity.png)
 
--	<b> Measurement Unit Name </b> - the unit of measure of the quantity purchased.
+-	<b> Measurement Unit Name </b> - here, indicate the unit of measure of the purchased quantity.
  
 ![Purchase Order](pictures/Measurementunitname.png)
 
--	<b>Unit price</b> - the unit price of the quantity purchased. 
+-	<b>Unit price</b> - this is the price unit of the purchased quantity. 
  
 ![Purchase Order](pictures/Unitprice.png)
 
--	<b>Amount to pay</b> - the default value is the product of unit price and quantity. If you enter a value in the “Amount to Pay” field, then the unit price will be recalculated.
+-	<b>Amount to pay</b> - by default, this is a **product** of the unit price and the quantity. 
+	
+Other values lead to a **recalculation** of the unit price.
  
 ![Purchase Order](pictures/Amounttopay.png)
 
-After filling in the data, release the document.
+After filling in the data, **release** the document.
  
 ![Purchase Order](pictures/Releasethedocument.png)
 
-In the standard operating model, the system is set to continue with Receiving Order.
+According to the standard operating model, the system is set to **continue** with a Receiving Order.
 
-To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator </b>
+To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator</b>.
 
--	Press the **Display** Button
+Press the **Display** Button
 
--	A list of all Purchase orders created will appear.
+A list of **all** Purchase orders will appear.
  
 ![Purchase Order](pictures/Purchaseordernavigator.png)
 
--	By double-clicking on the selected order you can open it to view it.
-
+If you **double-click** a selected activity, you can open and view it.
 
 
