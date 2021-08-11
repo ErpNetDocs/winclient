@@ -26,7 +26,7 @@ If the field is left blank, a store can be found for each item in the **Purchase
  
 ![Purchase Order](pictures/Productcodeandproductname.png)
 
-- <b>Product Name </b>- if you choose the code, this name is generated automatically.
+- <b>Product Name </b> - if you choose the code, this name is generated automatically.
 
 - <b>Quantity </b> - this is the purchased quantity.
  
