@@ -26,7 +26,7 @@ Let's fill in the following fields:
  
 ![Sales Order](pictures/Quantities.png)
 
--	<b>Measurement Unit Name</b> - here, indicate the unit of measure of the purchased quantity.
+-	<b>Measurement Unit Name</b> - here, indicate the unit of measure of the sold quantity.
  
 ![Sales Order](pictures/Measurements.png)
 
