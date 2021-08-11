@@ -4,9 +4,7 @@ An Invoice order is an **intermediate document** between a [Sale Order](https://
 
 It indicates that an **invoice** must be created. 
 
-The standard model of work is to **generate** an Invoice Order from the [Sale Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/sales-order.md). When creating the document, the rows from the Sale Order are automatically **copied** to the rows of the Invoice Order. 
-
-As a result, we get an **Invoice document**.
+The standard model of work is to **generate** an Invoice Order from the [Sale Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/sales-order.md). When creating the document, the rows from the Sale Order are automatically **copied** to the rows of the Invoice Order. As a result, we get an **Invoice document**.
 
  
 ![Invoice Order](pictures/Salesorderss.png)
