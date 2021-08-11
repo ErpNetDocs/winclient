@@ -1,5 +1,5 @@
 # Activity
-The Activity document is used to enter a specific activity and mark its result.
+The Activity document is used to **enter** a specific activity and **mark** its result.
 
 To create an Activity, go to <b>Customers  >>  Contacts & Tasks  >> Create New Activity </b>.
  
