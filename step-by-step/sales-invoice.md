@@ -14,7 +14,7 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 
 -	Press the **Print** button in order to print the invoice.
 
-To create an Invoice through the **Invoicing Navigator**, go to <<b>>Customers>>Invoicing>>Invoicing<</b>>.
+To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> Invoicing >> Invoicing</b>.
   
 - Click the **Display** button.
   
@@ -30,7 +30,7 @@ To create an Invoice through the **Invoicing Navigator**, go to <<b>>Customers>>
   
 -	Press the **Print** button in order to print the invoice.
 
-To view all issued invoices, go to <b>Customers>>Invoicing>>Invoices Navigator</b>.
+To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigator</b>.
   
 - Click the **Display** button.
   
