@@ -26,12 +26,12 @@ Fill in the following fields:
 ![Purchase Order](pictures/Productcodeandproductname.png)
 
 -	<b>Product name </b>- when filling in the code, the name is filled in automatically.
+
 -	<b>Quantity </b>- the quantity purchased.
  
 ![Purchase Order](pictures/Quantity.png)
 
 -	<b> Measurement Unit Name </b> - the unit of measure of the quantity purchased.
-
  
 ![Purchase Order](pictures/Measurementunitname.png)
 
@@ -43,20 +43,17 @@ Fill in the following fields:
  
 ![Purchase Order](pictures/Amounttopay.png)
 
-## After filling in the data, Release the document.
+After filling in the data, release the document.
  
 ![Purchase Order](pictures/Releasethedocument.png)
 
 In the standard operating model, the system is set to continue with Receiving Order.
 
-## To view all issued Purchase Orders:
+To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator </b>
 
--	Go to <b>Logistics >> Procurement >> Purchase Orders Navigator </b>
-
--	Press the Display Button
+-	Press the **Display** Button
 
 -	A list of all Purchase orders created will appear.
-
  
 ![Purchase Order](pictures/Purchaseordernavigator.png)
 
