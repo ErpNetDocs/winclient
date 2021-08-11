@@ -12,7 +12,9 @@ Let's fill in the following fields:
  
 ![Purchase Order](pictures/Supplier.png)
 
-- <b>Store</b> - this is the store in which the goods will be credited.
+- <b>Store Name</b> - this is the store in which the goods will be credited. 
+ 
+If the field is left blank, a store can be found for each item in the **Purchase Order Lines** panel.
  
 ![Purchase Order](pictures/Store.png)
 
