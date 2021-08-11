@@ -8,7 +8,7 @@ To create a Receiving Order, go to <b>Logistics >> Procurement >> Create New Rec
  
 ![Receiving Order](pictures/Createnewreceivingorder.png)
 
-Fill in the following fields:
+Let's fill in the following fields:
 
 - <b>Supplier</b> - this is the supplier from which you plan to buy the goods.
  
@@ -52,9 +52,9 @@ After filling in the data, **release** the document.
  
 ![Receiving Order](pictures/Releasethedoc.png)
 
-To view all issued Receiving Orders, press the **Display** button.
+- To view all issued Receiving Orders, press the **Display** button.
 
-A list of **all** Receiving orders will appear.
+- A list of **all** Receiving orders will appear.
  
 ![Receiving Order](pictures/Receivingordersnavigator.png)
 
