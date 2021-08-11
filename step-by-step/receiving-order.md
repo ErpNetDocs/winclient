@@ -14,7 +14,7 @@ Let's fill in the following fields:
  
 ![Receiving Order](pictures/Supplier.png)
 
--	<b>Store Name</b> - this is the store in which the goods will be credited.
+-	<b>Store</b> - this is the store in which the goods will be credited.
 
 If the field is left blank, a store can be found for each item in the **Receiving Order Lines** panel.
  
