@@ -50,11 +50,11 @@ After filling in the data, **release** the document.
  
 ![Purchase Order](pictures/Releasethedocument.png)
 
-According to the standard operating model, the system is set to **continue** with a Receiving Order.
+According to the standard operating model, the system is set to **continue** with a [Receiving Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/receiving-order.md).
 
 To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator</b>.
 
-Press the **Display** Button
+Press the **Display** Button.
 
 A list of **all** Purchase orders will appear.
  
