@@ -34,9 +34,9 @@ After filling in the data, **release** the document
 
 To view all created Activities, go to <b>Customers  >>  Contacts & Tasks  >>  Activities Navigator</b>.
 
-Press the **Display** button.
+- Press the **Display** button.
 
-All created activities will be loaded.
+- All created activities will be loaded.
  
 ![Activity](pictures/activitynavigator.png)
 
