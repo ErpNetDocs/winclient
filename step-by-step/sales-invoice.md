@@ -1,56 +1,45 @@
 # Sales Invoice
 
-A Sales Invoice document can be created from an Invoicing Order document or through the Invoicing navigator.
+A Sales Invoice document can be created **from** an [Invoice Order document](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/invoice-order.md) or **through** the Invoicing navigator.
 
-## To create a Sales Invoice document from an Invoicing Order document:
+To create a Sales Invoice document from an **Invoice Order document**, open the Sale for which you want to place an Invoice.
 
--	Open the Sale for which you want to place an Invoice.
+-	In the **Document Flow** panel, find the Sales Invoice.
 
--	In the Document Flow, find the Sales Invoice.
+-	Right-click to open it.
 
--	Right-click on it - Open.
+-	From the **command bar**, go to the **Links tab** and click the **Create Invoice** button.
 
--	The Sales Invoice will open.
+-	The generated invoice will be displayed on the screen. After filling in the data, **release** the document.
 
--	On the command bar, go to the Links tab.
+-	Press the **Print** button in order to print the invoice.
 
--	Click the Create Invoice button.
-
--	The generated invoice will be displayed on the screen.
-
--	Release the invoice.
-
--	Press the Print button to print the invoice.
-
-## To create an Invoice through the Invoicing Navigator:
-
--	Go to <<b>> Customers>>Invoicing>>Invoicing <</b>>
+To create an Invoice through the **Invoicing Navigator**, go to <<b>>Customers>>Invoicing>>Invoicing<</b>>.
   
--	Click the Display Button.
+- Click the **Display** button.
   
--	A list will be loaded in which you can view the uninvoiced items provided for future invoicing. These items are created through Published Invoicing Order documents to which no invoice has been issued.
+- You can see a list of uninvoiced items provided for **future** invoicing. They are created through **Published Invoice Order** documents, to which no invoice has been issued.
   
--	Tick the Invoicing column for the lines for which you want to create an invoice.
+- Tick the **Invoicing column** for the lines for which you want to create an invoice.
   
--	Click the Create Invoice button.
+-	Click the **Create Invoice** button. 
   
--	The generated invoice will be displayed on the screen.
+-	The generated invoice will be displayed on the screen. 
   
--	Release the invoice.
+- **Release** the invoice.
   
--	To print the invoice, press the Print button.
+-	Press the **Print** button in order to print the invoice.
 
-##To view all invoices issued:
-
-  -	Go to <b> Customers>>Invoicing>>Invoices Navigator </b>
+To view all issued invoices, go to <b>Customers>>Invoicing>>Invoices Navigator</b>.
   
--	Click the Display button
+- Click the **Display** button.
   
--	A list of all issued invoices will be loaded
+- A list of **all** issued invoices will appear.
   
 ![Picture](pictures/Invoicingnavigator.png) 
 
--	By double-clicking on the selected invoice, you can open it to view it.
+If you double-click the selected invoice, you can open and view it.
+
 
 
 
