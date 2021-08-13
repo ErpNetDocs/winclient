@@ -1,5 +1,5 @@
 
-# Default values management
+# Default Values Management
 
 The <b>Set as default value</b> function is used to avoid repeated entering of data for similar objects.
 
