@@ -4,7 +4,9 @@ The <b>Set as default value</b> function is used to avoid repeated entering of t
 
 To pick a Default Value, go to the field of choice, right button-click and select function <b> Default Value→ Set as default value</b>  from the context menu.
 
-Note: the <b>Default Value</b> function requires to be enabled </b>Customize current view</b> function ![Customize current view](pictures/customize-view.png) 
+Note: the <b>Default Value</b> function requires to be enabled </b>Customize current view</b> function 
+
+![Customize current view](pictures/customize-view.png) 
 
 ![Set default value](pictures/set-defaultvalue1.png)
 
@@ -25,14 +27,9 @@ Go to the field of choice. Right button-click and select the <b>Clear default va
 
 ![Clear default value](pictures/clear-defaultvalue1.png) 
 
-
 The <b>Field Default Values</b> navigator opens up. Another way to open it is: <b>Main menu→Setup→Tools→Field Default Values</b>
 
 ![Delete rows](pictures/delete-rows.png)
-
-
-
-
 
 Mark the row in the panel with a left button-mouse click. Right button-click to select the <b>Delete rows</b> function.
 
