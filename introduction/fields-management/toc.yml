@@ -10,3 +10,6 @@
   href: default-values-management.md
 - name: Customize fields
   href: customize-fields.md  
+- name: Setting Deleting Default Values
+  href: setting-deleting-default-values.md
+
