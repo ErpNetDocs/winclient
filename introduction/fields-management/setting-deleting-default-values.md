@@ -1,10 +1,10 @@
 # Setting/Deleting Default Values
 
-The <b>set as default value</b> function is used to avoid repeated entering of the data for objects alike.
+The <b>Set as default value</b> function is used to avoid repeated entering of the data for objects alike.
 
-To pick a default value, go to the field of choice, right button-click and select function <b> Default Value→ set as default value</b>  from the context menu.
+To pick a Default Value, go to the field of choice, right button-click and select function <b> Default Value→ Set as default value</b>  from the context menu.
 
-Note: the <b>Default Value</b> function requires to be enabled </b>customize current view</b> function ![Customize current view](pictures/customize-view.png) 
+Note: the <b>Default Value</b> function requires to be enabled </b>Customize current view</b> function ![Customize current view](pictures/customize-view.png) 
 
 ![Set default value](pictures/set-defaultvalue1.png)
 
@@ -19,9 +19,9 @@ Press the ‘OK’ button to save the options selected.
 
 <b>Example</b> :
 
-The customer wants to set a ‘bank transfer’ payment option as default in a ‘Sales order’ document. Select the following options: ’for the current user’ and’ for the current document type’. Any time a new ‘Sales order’ document is opened, the ‘bank transfer’ value will automatically appear in the <b>Payment Type</b> field. 
-The <b>clear default value</b> function clears the data that has been set as default.
-Go to the field of choice. Right button-click and select the <b>clear default value</b> function from the menu.
+The customer wants to set a ‘Bank Transfer’ payment option as default in a ‘Sales order’ document. Select the following options: ’For the current user’ and’ for the current document type’. Any time a new ‘Sales Order’ document is opened, the ‘Bank Transfer’ value will automatically appear in the <b>Payment Type</b> field. 
+The <b>Clear default value</b> function clears the data that has been set as default.
+Go to the field of choice. Right button-click and select the <b>Clear default value</b> function from the menu.
 
 ![Clear default value](pictures/clear-defaultvalue1.png) 
 
@@ -34,7 +34,7 @@ The <b>Field Default Values</b> navigator opens up. Another way to open it is: <
 
 
 
-Mark the row in the panel with a left button-mouse click. Right button-click to select the <b>delete rows</b> function.
+Mark the row in the panel with a left button-mouse click. Right button-click to select the <b>Delete rows</b> function.
 
 <b>Example</b> :
 
