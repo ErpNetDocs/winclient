@@ -5,7 +5,9 @@ The <b>Set as default value</b> function is used to avoid repeated entering of d
 
 To pick a default value, go to the field of choice, right-click it and select the function <b> Default value→ Set as default value</b> from the context menu.
 
-Note: the <b>default value</b> function requires enabled </b>Customize Current View</b> mode ![Customize current view](pictures/customize-view.png)  
+Note: the <b>default value</b> function requires enabled </b>Customize Current View</b> mode.
+
+![Customize current view](pictures/customize-view.png)  
 
 ![Set default value](pictures/set-defaultvalue1.png) 
 
