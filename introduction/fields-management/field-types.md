@@ -1,5 +1,5 @@
 
-# Field types
+# Field Types
 ## <b>Text field</b>
 
 This is a field displaying text that can be entered and edited by the customer.
