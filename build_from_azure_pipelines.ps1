@@ -27,6 +27,11 @@ if ($lastexitcode -eq 1) {
     git remote add ssh $remote
 }
 
+Write-Host "Discard local changes to all files, permanently"
+git reset --hard
+Write-Host "Undo local staged changes"
+git reset HEAD
+
 Write-Host "Getting Latest Changes"
 git checkout master
 git pull --rebase
