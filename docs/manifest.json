@@ -3535,6 +3535,336 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Amountpay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Amountpay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Amounttopay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Amounttopay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Amounttopays.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Amounttopays.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Createinvoices.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Createinvoices.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Createnewpurchaseorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Createnewpurchaseorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Createnewreceivingorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Createnewreceivingorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Createsalesorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Createsalesorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Customers.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Customers.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Documentflow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Documentflow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Documentflowopendocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Documentflowopendocument.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Documentnumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Documentnumb.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Invoicess.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Invoicess.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Invoicingnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Invoicingnavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Measurements.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Measurements.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Measurementunitname.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Measurementunitname.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Measurementunitnames.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Measurementunitnames.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Ordersnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Ordersnavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Productcodeandproductname.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Productcodeandproductname.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Productcodeandproductnames.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Productcodeandproductnames.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Purchaseordernavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Purchaseordernavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Quantities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Quantity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Quantity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Quantitys.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Quantitys.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Receivingordersnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Receivingordersnavigator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Releasethedoc.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Releasethedoc.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Releasethedocu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Releasethedocu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Salesorderss.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Salesorderss.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Store.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Store.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Stores.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Stores.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Storing.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Storing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/Subject.png",
       "output": {
         "resource": {
@@ -3546,10 +3876,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Supplier.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Supplier.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/Systemtype.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/Systemtype.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Uniprice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Uniprice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Unitprice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Unitprice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/Unitprices.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/Unitprices.png"
         }
       },
       "is_incremental": false,
@@ -3605,6 +3979,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/endtime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ppp.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ppp.png"
         }
       },
       "is_incremental": false,
@@ -4078,6 +4463,18 @@
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
           "hash": "VOqzCLWGAznxSJ42HrvkNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/fields-management/notifications-system.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/fields-management/notifications-system.html",
+          "hash": "8cd6xhyDNEzcVtDKdqk7Hw=="
         }
       },
       "is_incremental": false,
@@ -4677,6 +5074,21 @@
         ".html": {
           "relative_path": "introduction/fields-management/toc.html",
           "hash": "dF07q9p+/TF/I8alZTl1eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "introduction/fields-management/user-system-setting.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/fields-management/user-system-setting.html",
+          "hash": "/qQ2BKPEBK+aCqN2u2bP0Q=="
         }
       },
       "is_incremental": false,
