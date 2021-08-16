@@ -1,4 +1,4 @@
-# Notifications system 
+# Notifications System 
 The notifications system in @@name informs the user about the current or upcoming events. The notifications might be for:
 - a new email
 - a reminder for a task that has to be done
