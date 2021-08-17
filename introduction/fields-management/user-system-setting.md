@@ -1,80 +1,66 @@
 # User System Setting 
 
 
-In the **Settings** the user can select a previously set range of functions or customize the system on their own. 
-
+In **Settings**, users can select a previously set range of functions or customize the system on their own. 
 
 ![System setting](pictures/system-settings.png)
 
+## Optimize the user interface 
 
-
-## Optimize the user interface to be used
-
-
-The *@@name* system is supported on any device, such as a personal computer operating with a mouse and a keyboard, devices having a touch-screen (smartphones and tablets) or in a  mixed- working mode
-- *with mouse and keyboard* - the interface elements are more compact so that as many elements could fit on the working plot.
-- *with mouse, keyboard and occasional touch on screen* - some of the elements are enlarged so it would be handier when working with the touch-screen, while others are in a form suitable for operating with a mouse and a keyboard.
-- *on tablet with touch only* - buttons, tabs and any other elements activated by touch are  enlarged. The working plot fits much less of them, but they come handier. The elements designed for a mouse and keyboard operation remain hidden.
-
+The *@@name* system is supported by every device, including personal computers operating with a mouse and a keyboard, touch-screen devices (smartphones and tablets) and mixed devices.
+- **with mouse and keyboard** - interface elements are more compact so that as many could fit into the working plot as possible.
+- **with mouse, keyboard and occasional touch screen** - some of the elements are enlarged so it would be handy when using touch-screen, while others are in a form suitable for operating with a mouse and a keyboard.
+- **on tablet with touch only** - buttons, tabs and other elements activated by touch are enlarged. The working plot fits fewer of them, but they're easy to reach. The elements designed for a mouse and keyboard operation are hidden.
 
 ## User interface complexity
 
+This term represents the Complexity of the interface according to the rights of the user in thе system.
 
-This term signifies the complexity of the interface according to the rights given to the user in this system. This option has the following hierarchy:
-- Basic user – No Navigator or Edit menu in the command ribbon.  There are some restrictions in the visualisation of the ‘View’ or ‘Data’ tabs. The ‘    ‘menu is  visible, yet the user can’t refresh or edit. The ‘ Functions’ tab is visible as well, still having some restrictions. 
-- Advanced user -  The user has access to the Navigation menu in the command ribbon. They can copy, paste, cut, group and sum. In the ‘  ‘ menu they can edit and refresh. 
-- Super user – All of the menus and functions the Advanced user has the access to are available for the super user. They can also view canceled and transit documents, change default values for given fields  and work with expression fields and distribution of the additional sums. 
-- Administrator – has full access rights for the system and  all the settings. 
+This option has the following hierarchy:
+- **Basic user** – no access to the Navigator or Edit menu in the command ribbon. There are some restrictions in the visualisation of the *View* or *Data* tabs. The ‘  ‘ menu is visible, but the user can’t refresh or edit. The *Functions* tab is visible as well, with some limitations in place. 
+- **Advanced user** - has access to the Navigator in the command ribbon. Can copy, paste, cut, group and sum. In the ‘  ‘ menu, the user can also edit and refresh. 
+- **Super user** – аll menus and functions the Advanced user has access to are available. This user can also view cancelled and transit documents, change default values for given fields and work with expression fields and distribution of additional sums. 
+- **Administrator** – has full access to the system and its settings. 
 
-Touch- screen interface and Complexity of the interface can be opened from the **Help** button  as well. 
+The touch-screen interface and Complexity of the interface can be opened from the **Help** button as well. 
 
 ## Visual settings
-The first section of settings is related to the possibility for fitting the interface to the working  of the user.
+The first section of settings is related to the possibility of fitting the interface into the working of the user.
 
 - **Use Start Screen** 
-- **Show form descriptions** - If the option is marked with a tick the system description will appear
+- **Show form descriptions** - If the option is ticked, the system description will appear.
 
 ![Form description](pictures/form-description.png)
 
-
-- **Show form status bar** -if the field is ticked, the status bar will appear at the bottom of the document forms. It gives information about the current form. The statuses can be changed with the status bar. 
+- **Show form status bar** - if the field is ticked, the status bar will appear at the bottom of the document forms. It gives information about the current form. Statuses can be changed from the status bar. 
 
 ![Status bar](pictures/status-bar.png)
 
-
-- **Show the elapsed working time of the current task** – a clock, tracking the working time for the task will show up in the button of the fast task list 
-
+- **Show the elapsed working time of the current task** – a clock which tracks the working time of the task will show up inside the button of the Fast task list. 
 
 ![Time](pictures/time.png)
 
-- **Show navigation buttons row** – having this field marked with a tick, will get additional buttons such as *Open record*, *New record*, *Print* etc. to show up in the bar in the Navigators under the record table. Thus, the Navigator will get the appearance of the one in system version 2 or older .
+- **Show navigation buttons row** – if the field is ticked, it will expand additional buttons, such as *Open record*, *New record*, and *Print*, inside the Navigator bar, under the Record table. Thus, the Navigator will look like the one in system version 2 or older.
 
 ![Navigation buttons](pictures/navigation-buttons.png)
 
-
-- **Use simple layout for filter panels** – when marked with a tick, the names of the fields in the 
-Filtering panel will appear gray until the insertion of a value. When we do so, the names will disappear while the values remain visible. This optimizes the size of the panel in width. 
+- **Use simple layout for filter panels** – if ticked, the names of the fields in the *Filtering* panel will appear grey until a value is inserted. When that's done, the names disappear, but the values remain in place. This optimizes the size of the panel in width. 
 
 ![Simple layout](pictures/simple-layout.png)
 
-Detailed look in the Filtering panel will let both the values and the names of the filtering fields be visible.
+A detailed look into the *Filtering* panel will reveal the values and names of the filtering fields.
 
 ![Detailed look](pictures/detailed-look.png)
 
-
-- **Open definition forms in ‘Edit mode’** - the definition and navigator forms will appear locked when Edit mode is not active by default. Data cannot be edited as a prevention from faulty changes. The user can make corrections only  in *Edit mode*. When marking the *Open forms in Edit mode* option with a tick, the definition forms will automatically open with an activated *Edit mode*. This will make the work of the user frequently applying changes in the definitions in the system easier. 
-
+- **Open definition forms in ‘Edit mode’** - the definition and navigator forms will be locked if Edit mode is not active by default. Data cannot be edited so that potential faulty changes are prevented. Users can make corrections only in *Edit mode*. When ticking the *Open forms in Edit mode* option, the definition forms will automatically open with an activated *Edit mode*. This will ease the work of users who frequently apply changes to the definitions.
 
 ![Edit mode](pictures/edit-mode.png)
 
-- **Show filtering buttons** - if the field is ticked, filtering by a *certain cell value* will be available for each Navigator. 
-
+- **Show filtering buttons** - if the field is ticked, filtering by a certain *cell value* will be available for each Navigator. 
 
 ![Filter buttons](pictures/filter-buttons.png)
 
-
-- **Query Save on close** - Having this option ticked would mean that a confirmation panel will show up when closing a document tab, asking whether or not the user would like to save the changes they have made in the document.
-
+- **Query Save on close** - Having this option ticked means that a confirmation panel will show up whenever a document tab is closed. It would ask whether or not the user would like to save the changes they have made in the document.
 
 ![Save on query](pictures/save-on-query.png)
 
@@ -82,18 +68,18 @@ Detailed look in the Filtering panel will let both the values and the names of t
 - **Enable debug log** 
 
 ## System settings 
-- **Refresh cache** – when working with the system, a fraction of the data is saved on the PC and is later extracted from it. This will accelerate the workflow, although some data might not have been updated to the most recent version.When Refreshing cache, data is extracted from the server thus providing the latest information.
-- **Memory Usage** - a new window ‘Memory optimization’ will appear when clicking on the button. The selection should be based on the parameters of the computer the user is working on or whether the device is slower with a faster network, vice versa or they are nearly equal. 
-- **Change Enterprise company and location** - this function allows switching the Company  company** or the branch they are working with. The function can be enabled through the **command ribbon** as well. 
-- **Change  password** -  here, the user can change their login password for the system. This function can be also opened through the *Settings* menu. 
+- **Refresh cache** – when working with the system, a fraction of the data is saved on the PC and later extracted from it. This accelerates the workflow, but some data might not be updated to the most recent version. When Refreshing cache, data is extracted from the server, thus providing the latest information.
+- **Memory Usage** - if the button is clicked, a new ‘Memory optimization’ window will appear. Selection should be based on the parameters of the computer the user is working on, whether the device is slower on a faster network, vice versa, or nearly equal. 
+- **Change Enterprise company and location** - this function allows switching the Company to the branch users are working with. The function can be enabled from the **command ribbon** as well. 
+- **Change password** - here, users can change their login passwords for the system. This function can also be opened from the *Settings* menu. 
 - **Show remoting log** 
-- **Exec stats** - used for analysing the work in the system. The journal gives information about the program functions called in and their execution time. Read more about **how to work** with Execution statistics
+- **Exec stats** - used for analysing the work in the system. The journal gives information about called-in program functions and their execution time. Read more about **how to work** with Execution statistics.
 - **Network Test**  
 
 
 ## Notifications settings
-**@@name** is a system created with the purpose of securing and making business management easier. Live Notifications system aids the work of the user with its functions - creating reminders or receiving notifications in real time. Thus the user would not bother constantly thinking about when and what  needs to be done.  Entering the task in the system would be enough. The user can turn off some of the notifications, which will accelerate the work of the system. 
-- **Enable real-time notifications** -  if the option is marked, the notification system will be **enabled** showing real time notifications, such as reminders, emails or system notifications etc. Enabling the option would influence the whole system and all kinds of notifications. 
-- **Notify for reminders** - by marking the option, showing reminders is allowed. Turning the reminder option on or off does not influence the email notifications.
-- **Notify for new mail** - marking the option with a tick enables email notifications. Turning it on or on does not influence Reminders
+**@@name** is a system created with the purpose of securing and making business management easier. Live Notifications aid the work of the user. The system creates reminders or receiving notifications in real-time. The user does not think about when and what needs to be done. Entering a task in the system would be enough. Some of the notifications can be turned off, which will accelerate the work of the system. 
+- **Enable real-time notifications** -  if this option is checked, the Notification system will be **enabled**, showing real time notifications, such as reminders, emails or system notifications. 
+- **Notify for reminders** - if checked, it allows reminders to be shown. Turning it on or off does not affect the email notifications.
+- **Notify for new mail** - ticking the option enables email notifications. Turning it on or off does not affect reminders.
 - **Performance benchmarking mode** 
