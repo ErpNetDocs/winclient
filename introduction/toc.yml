@@ -25,4 +25,6 @@
   href: documents/toc.yml
 - name: Tablet view settings
   href: tablet-view-settings.md
+- name: Fields management
+  href: fields-management/toc.yml
   
