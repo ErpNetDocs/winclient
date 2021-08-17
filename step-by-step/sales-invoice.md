@@ -53,13 +53,13 @@ To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> 
 ![Release](pictures/printinvoice1.png)
 
 To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigator</b>.
+
+![Picture](pictures/Invoicingnavigator.png) 
   
 - Click the **Display** button.
   
 - A list of **all** issued invoices will appear.
   
-![Picture](pictures/Invoicingnavigator.png) 
-
 If you double-click the selected invoice, you can open and view it.
 
 ![Release](pictures/salinvoice.png)
