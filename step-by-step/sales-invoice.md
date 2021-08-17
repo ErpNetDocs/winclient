@@ -26,6 +26,8 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 
 ![Release](pictures/printicon.png)
 
+![Release](pictures/invoiceonthescreen.png)
+
 To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> Invoicing >> Invoicing</b>.
 
 ![Release](pictures/customersinvoicing1.png)
