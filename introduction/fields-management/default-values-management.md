@@ -3,9 +3,11 @@
 
 The <b>Set as default value</b> function is used to avoid repeated entering of data for similar objects.
 
-To pick a default value, go to the field of choice, right-click it and select the function <b> Default value→ Set as default value</b> from the context menu.
+To pick a default value, go to the field of choice, right-click it and from the context menu, select the function 
 
-Note: the <b>default value</b> function requires enabled </b>Customize Current View</b> mode.
+<b>Default Value→ Set as default value</b>.
+
+> Note: the default value function requires enabled <b>Customize Current View</b> mode.
 
 ![Customize current view](pictures/customize-view.png)  
 
