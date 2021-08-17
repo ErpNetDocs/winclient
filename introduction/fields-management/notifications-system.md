@@ -1,19 +1,19 @@
 # Notifications System 
-The notifications system in @@name informs the user about the current or upcoming events. The notifications might be for:
-- a new email
-- a reminder for a task that has to be done
-- an incoming call
+The notifications system in @@name informs users about current or upcoming events. Notifications may be prompted for:
+- new emails
+- reminders for tasks that need to be done
+- incoming calls
 
-To receive notifications, *Notifications settings* must be **enabled**.
+For notifications to be received, *Notifications settings* must be **enabled**.
 
-When entering the system , a new notification shows up to notify for a new email, an incoming call or an expired task.
+Upon entering the system, notifications will pop up for new emails, incoming calls or expired tasks.
 
-By clicking on the notification, a document related to the event opens up – an **email**, an  **Activity** document or а record for the **Subject** (for an incoming call).
+Once a notification is clicked, a document related to the event opens up. It could be an **email**, an **Activity** document or a record for the **Subject** (for incoming calls).
 
-In case the user does not open the notifications right after entering the system they move up above the command ribbon as icons. The appearance of the icon depends on the type of the event. 
+If the user does not open the notifications right away, they move above the command ribbon and become icons. Their appearance depends on the type of the event. 
 
-The icon disappears after being opened.
+The icon disappears after it's opened.
 
-In case the user wants to ignore the notification received, select command ‘Dismiss all’.
+In case the user wants to ignore the received notification, the command *Dismiss all* must be **selected**.
 
 
