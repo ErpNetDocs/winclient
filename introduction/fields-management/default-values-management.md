@@ -17,20 +17,30 @@ To pick a default value, go to the field of choice, right-click it and from the 
 
 ![Value form](pictures/value-form.png)   
 
-Press the ‘OK’ button to save the selected options. 
+Press **OK** to save the selected options. 
 
-<b>Example</b> :
-You want to set a ‘bank transfer’ payment option as default in a ‘Sales order’ document. Select the following options: ’for the current user’ and ‘for the current document type’. Any time you open a new ‘Sales order’ document, the ‘bank transfer’ value will automatically appear in the <b>Payment Type</b> field. 
-The <b>Clear default value</b> function clears the data that has been set as default. To use that functionality - go to the field of choice, right-click it and select the <b>Clear default value</b> function from the menu.
+<b>Example 1:</b>
+
+You want to set *Bank transfer* as default payment option in a **Sales order** document. 
+
+- Select the following: ***for the current user*** and ***for the current document type***. 
+
+Any time you open a new **Sales order** document, the *Bank transfer* value will automatically appear in the <b>Payment Type</b> field. 
+
+The <b>Clear default value</b> function clears the data set as default. 
+
+- To use that functionality, go to the field of choice, right-click it and select <b>Clear default value</b> from the menu.
 
 ![Clear default value](pictures/clear-defaultvalue1.png)  
 
-The <b>field default values</b> navigator opens up. Another way to open it is through: <b>Main menu→Setup→Tools→Field default values</b>
+The <b>Default Values</b> navigator opens up. Another way to open it is through: <b>Main menu→Setup→Tools→Field Default Values</b>
+ 
+Mark the row in the panel with a mouse click, then right-click and select the <b>Delete Rows</b> function.
 
 ![Delete rows](pictures/delete-rows.png)
- 
-Mark the row in the panel with a mouse click, then right-click and select the <b>delete rows</b> function.
 
-<b>Example</b> :
+<b>Example 2:</b>
 
-The default value that you set – ‘Bank transfer’ in the ‘Payment type’ field of the ‘Sales order’ document, has to be cleared. After clearing the default value following the above mentioned steps, when you open a ‘Sales order’ document you will see the ‘Payment type’ field empty.
+The default value that you set – *Bank transfer*, in the *Payment type* field of the **Sales order** document, needs to be cleared. 
+
+After clearing the default value following the steps above, if you open a **Sales order** document, *Payment type* will be empty.
