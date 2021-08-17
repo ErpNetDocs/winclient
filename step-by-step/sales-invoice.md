@@ -7,18 +7,28 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 -	In the **Document Flow** panel, find the Sales Invoice.
 
 -	Right-click to open it.
+ 
+![Release](pictures/documentflowopeninvoice.png)
 
 -	From the **command bar**, go to the **Links tab** and click the **Create Invoice** button.
 
+![Release](pictures/createnewinvoiceorder.png)
+
 -	The generated invoice will be displayed on the screen.
+ 
+![Release](pictures/invoice1.png)
 
 -	**Release** the document.
  
-![Purchase Order](pictures/Releasethedocument.png)
+![Release](pictures/releasedocument.png)
 
 -	Press the **Print** button in order to print the invoice.
 
+![Release](pictures/printicon.png)
+
 To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> Invoicing >> Invoicing</b>.
+
+![Release](pictures/customersinvoicing1.png)
   
 - Click the **Display** button.
   
@@ -27,14 +37,20 @@ To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> 
 - Tick the **Invoicing column** for the lines for which you want to create an invoice.
   
 -	Click the **Create Invoice** button. 
+ 
+![Release](pictures/createnewinvoiceorder.png)
   
 -	The generated invoice will be displayed on the screen. 
   
 - **Release** the invoice.
-
-![Purchase Order](pictures/Releasethedocument.png)
+ 
+![Release](pictures/releasedocument.png)
   
 -	Press the **Print** button in order to print the invoice.
+ 
+![Release](pictures/toprintwide.png)
+
+![Release](pictures/printinvoice1.png)
 
 To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigator</b>.
   
@@ -46,7 +62,7 @@ To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigat
 
 If you double-click the selected invoice, you can open and view it.
 
-
+![Release](pictures/invoiceopened.png)
 
 
 
