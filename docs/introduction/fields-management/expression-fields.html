@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Fields management | ERP.net Windows Client </title>
+    <title>Expression Fields | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Fields management | ERP.net Windows Client ">
+    <meta name="title" content="Expression Fields | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,17 +77,30 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="fields-management">Fields management</h1>
+<h1 id="expression-fields">Expression Fields</h1>
 
-<p>You can use <b>fields management</b> when working with one panel.</p>
-<p>In this section you can learn more about:</p>
+<p><b>Expression fields</b> are fields, created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.</p>
+<p><img src="pictures/expression-formula.png" alt="Expression formula"></p>
+<p>Open the expression fields form from: <b>Data→Expression fields</b></p>
+<p><img src="pictures/expf-ribbon.png" alt="Expression fields ribbon"></p>
+<p><b>Example</b>:</p>
 <ul>
-<li><a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/field-types.md">Field types</a></li>
-<li><a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/multilanguage-fields.md">Multilanguage fields</a></li>
-<li><a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/expression-fields.md">Expression fields</a></li>
-<li><a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/default-values-management.md">Default values management</a></li>
-<li><a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/customize-fields.md">Customize fields</a></li>
+<li><b>Field name</b>: VAT</li>
+<li><b>Title</b>: VAT</li>
+<li><b>Formula</b>: press the <img src="pictures/etc.png" alt="etc">  button</li>
 </ul>
+<p>A <b>formula editor</b> opens. It is separated into three regions – the first one shows the formula; the middle one – various actions than can be executed; the last one is a fields panel where the fields included in the formula can be selected.</p>
+<p><b>Example</b> :</p>
+<ul>
+<li>select <b>Amount to pay</b></li>
+<li>select the ‘<b>-</b>’ symbol</li>
+<li>select <b>Lines total</b></li>
+</ul>
+<p>The value in the new field will be summed by the formula: <b>Amount to pay</b> – <b>Lines total</b> = <b>VAT</b> field</p>
+<p><img src="pictures/Calculated-fform.png" alt="Expression fields form"></p>
+<p>Click <b>OK</b> to close the <b>Expression editor</b> or the <b>Expression fields </b> form.</p>
+<p>The <b>VAT</b> field shows up in the data panel.</p>
+<p><img src="pictures/newVAT-field.png" alt="New field"></p>
 </article>
           </div>
           
@@ -96,7 +109,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/fields-management/expression-fields.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

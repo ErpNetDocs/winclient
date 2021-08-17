@@ -4402,7 +4402,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/customize-fields.html",
-          "hash": "y0zlO6hbB0PGQZqR4bRymQ=="
+          "hash": "xovbwNrQuq06rs6lJqdEzQ=="
         }
       },
       "is_incremental": false,
@@ -4414,7 +4414,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/default-values-management.html",
-          "hash": "iIbN3xNzQszK6OFdNdTs6A=="
+          "hash": "GczC6+pR2ZLjvW00JRFd9A=="
         }
       },
       "is_incremental": false,
@@ -4422,11 +4422,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/fields-management/expression-fileds.md",
+      "source_relative_path": "introduction/fields-management/expression-fields.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/fields-management/expression-fileds.html",
-          "hash": "SS37xI2r4G6taK9oODQUEg=="
+          "relative_path": "introduction/fields-management/expression-fields.html",
+          "hash": "n/9OrviYkJQMMyzDGb/P+w=="
         }
       },
       "is_incremental": false,
@@ -4438,7 +4438,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/field-types.html",
-          "hash": "d76G+08MsTp3PnMrlQtH9g=="
+          "hash": "x+BleuWAjZPf6/KYxsvTxw=="
         }
       },
       "is_incremental": false,
@@ -4450,7 +4450,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/index.html",
-          "hash": "m+bbGUSghxs6GTbtgXYY5Q=="
+          "hash": "2ydMOmi8aDmbUadb2NqJHA=="
         }
       },
       "is_incremental": false,
@@ -4462,7 +4462,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "VOqzCLWGAznxSJ42HrvkNQ=="
+          "hash": "IJZUONzGdIfL7Vs6I4uYGQ=="
         }
       },
       "is_incremental": false,
@@ -4474,7 +4474,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/notifications-system.html",
-          "hash": "8cd6xhyDNEzcVtDKdqk7Hw=="
+          "hash": "IjnJjA9beGoyoe7jcnydeA=="
         }
       },
       "is_incremental": false,
@@ -4636,6 +4636,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/detailed-look.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/fields-management/pictures/dots.png",
       "output": {
         "resource": {
@@ -4651,6 +4662,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/down-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/edit-mode.png"
         }
       },
       "is_incremental": false,
@@ -4746,6 +4768,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/filter-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/fields-management/pictures/filter-condition.png",
       "output": {
         "resource": {
@@ -4772,6 +4805,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/fmp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/form-description.png"
         }
       },
       "is_incremental": false,
@@ -4867,6 +4911,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/navigation-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/fields-management/pictures/newVAT-field.png",
       "output": {
         "resource": {
@@ -4904,6 +4959,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/recorded-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/save-on-query.png"
         }
       },
       "is_incremental": false,
@@ -4955,6 +5021,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/simple-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/status-bar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/system-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/fields-management/pictures/text-field.png",
       "output": {
         "resource": {
@@ -4981,6 +5080,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/tick-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/time.png"
         }
       },
       "is_incremental": false,
@@ -5058,37 +5168,19 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/setting-deleting-default-values.html",
-          "hash": "MJi285MjIfAETYSYSpgyWw=="
+          "hash": "tyqydFsajPqFwFarRMHRQg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "introduction/fields-management/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/fields-management/toc.html",
-          "hash": "dF07q9p+/TF/I8alZTl1eg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/fields-management/user-system-setting.md",
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/user-system-setting.html",
-          "hash": "/qQ2BKPEBK+aCqN2u2bP0Q=="
+          "hash": "QK4d3VYLBLiHpEZ98yoZGg=="
         }
       },
       "is_incremental": false,
@@ -6677,7 +6769,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "mxUbQUaoSlWAHCcwp+FL7A=="
+          "hash": "iSyF3oaHEM5hehe/vC9tYA=="
         }
       },
       "is_incremental": false,
@@ -8211,10 +8303,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/createnewinvoiceorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/createnewinvoiceorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/customersinvoicing.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/customersinvoicing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/customersinvoicing1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/customersinvoicing1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/deadlinetime.png",
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/deadlinetime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/documentflowopeninvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/documentflowopeninvoice.png"
         }
       },
       "is_incremental": false,
@@ -8233,6 +8369,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/invoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/invoice1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/invoiceonthescreen.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/invoiceonthescreen.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/invoiceopened.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/invoiceopened.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/openthesale.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/openthesale.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/openthesale1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/openthesale1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/ppp.png",
       "output": {
         "resource": {
@@ -8244,10 +8435,76 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/printicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/printicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/printinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/printinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/printinvoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/printinvoice1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/releasedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/releasedocument.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/starttime.png",
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/starttime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/toprintwide.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/toprintwide.png"
         }
       },
       "is_incremental": false,
@@ -8281,15 +8538,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "step-by-step/sales-invoice.md",
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-invoice.html",
-          "hash": "B0NIuDURUU7QokYHNetVlg=="
+          "hash": "ZxSHJZ58sSr1ebLOkMi6GA=="
         }
       },
       "is_incremental": false,
