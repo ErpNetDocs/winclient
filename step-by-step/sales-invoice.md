@@ -62,7 +62,7 @@ To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigat
 
 If you double-click the selected invoice, you can open and view it.
 
-![Release](pictures/invoiceopened.png)
+![Release](pictures/salinvoice.png)
 
 
 
