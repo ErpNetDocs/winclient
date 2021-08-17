@@ -14,7 +14,7 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 
 - The Sales Invoice will open.
 
-![Release](pictures/invoice.png)
+![Release](pictures/invoice1.png)
 
 -	From the **command bar**, go to the **Links tab** and click the **Create Invoice** button.
 
