@@ -4,9 +4,7 @@ A Sales Invoice document can be created **from** an [Invoice Order document](htt
 
 To create a Sales Invoice document from an **Invoice Order document**, open the Sale for which you want to place an Invoice.
 
--	In the **Document Flow** panel, find the Sales Invoice.
-
--	Right-click to open it.
+-	In the **Document Flow** panel, find the Sales Invoice. Right-click to open it.
  
 ![Release](pictures/documentflowopeninvoice.png)
 
