@@ -17,7 +17,7 @@ The *@@name* system is supported by every device, including personal computers o
 This term represents the Complexity of the interface according to the rights of the user in thе system.
 
 This option has the following hierarchy:
-- **Basic user** – no access to the Navigator or Edit menu in the command ribbon. There are some restrictions in the visualisation of the *View* or *Data* tabs. The ‘  ‘ menu is visible, but the user can’t refresh or edit. The *Functions* tab is visible as well, with some limitations in place. 
+- **Basic user** – no access to the Navigator or Edit menu in the command ribbon. There are restrictions in the visualisation of the *View* or *Data* tabs. The ‘  ‘ menu is visible, but the user can’t refresh or edit. The *Functions* tab is visible as well, with some limitations in place. 
 - **Advanced user** - has access to the Navigator in the command ribbon. Can copy, paste, cut, group and sum. In the ‘  ‘ menu, the user can also edit and refresh. 
 - **Super user** – аll menus and functions the Advanced user has access to are available. This user can also view cancelled and transit documents, change default values for given fields and work with expression fields and distribution of additional sums. 
 - **Administrator** – has full access to the system and its settings. 
@@ -71,7 +71,7 @@ A detailed look into the *Filtering* panel will reveal the values and names of t
 - **Refresh cache** – when working with the system, a fraction of the data is saved on the PC and later extracted from it. This accelerates the workflow, but some data might not be updated to the most recent version. When Refreshing cache, data is extracted from the server, thus providing the latest information.
 - **Memory Usage** - if the button is clicked, a new ‘Memory optimization’ window will appear. Selection should be based on the parameters of the computer the user is working on, whether the device is slower on a faster network, vice versa, or nearly equal. 
 - **Change Enterprise company and location** - this function allows switching the Company to the branch users are working with. The function can be enabled from the **command ribbon** as well. 
-- **Change password** - here, users can change their login passwords for the system. This function can also be opened from the *Settings* menu. 
+- **Change password** - here, users can change their login passwords. This function can also be opened from the *Settings* menu. 
 - **Show remoting log** 
 - **Exec stats** - used for analysing the work in the system. The journal gives information about called-in program functions and their execution time. Read more about **how to work** with Execution statistics.
 - **Network Test**  
