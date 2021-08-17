@@ -5,11 +5,15 @@
 - name: Multilanguage fields
   href: multilanguage-fields.md
 - name: Expression fields
-  href: expression-fields.md
+  href: expression-fileds.md
 - name: Default values management
   href: default-values-management.md
 - name: Customize fields
   href: customize-fields.md  
-- name: Setting Deleting Default Values
+- name: Setting deleting default values
   href: setting-deleting-default-values.md
-
+- name: User system setting
+  href: user-system-setting.md
+- name: Notifications system
+  href: notifications-system.md
+  
