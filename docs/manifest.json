@@ -884,6 +884,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/detailed-look.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/fields-management/pictures/dots.png",
       "output": {
         "resource": {
@@ -899,6 +910,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/fields-management/pictures/down-arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/edit-mode.png"
         }
       },
       "is_incremental": false,
@@ -994,6 +1016,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/filter-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/fields-management/pictures/filter-condition.png",
       "output": {
         "resource": {
@@ -1020,6 +1053,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/fields-management/pictures/fmp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/form-description.png"
         }
       },
       "is_incremental": false,
@@ -1115,6 +1159,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/navigation-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/fields-management/pictures/newVAT-field.png",
       "output": {
         "resource": {
@@ -1152,6 +1207,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/fields-management/pictures/recorded-values.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/save-on-query.png"
         }
       },
       "is_incremental": false,
@@ -1203,6 +1269,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/simple-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/status-bar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/system-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/fields-management/pictures/text-field.png",
       "output": {
         "resource": {
@@ -1229,6 +1328,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/fields-management/pictures/tick-show.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/time.png"
         }
       },
       "is_incremental": false,
@@ -3953,10 +4063,54 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/createnewinvoiceorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/createnewinvoiceorder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/customersinvoicing.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/customersinvoicing.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/customersinvoicing1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/customersinvoicing1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/deadlinetime.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/deadlinetime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/documentflowopeninvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/documentflowopeninvoice.png"
         }
       },
       "is_incremental": false,
@@ -3986,10 +4140,109 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/invoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/invoice1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/invoiceonthescreen.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/invoiceonthescreen.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/invoiceopened.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/invoiceopened.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/openthesale.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/openthesale.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/openthesale1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/openthesale1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/ppp.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/ppp.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/printicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/printicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/printinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/printinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/printinvoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/printinvoice1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/releasedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/releasedocument.png"
         }
       },
       "is_incremental": false,
@@ -4008,10 +4261,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/starttime.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/starttime.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/toprintwide.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/toprintwide.png"
         }
       },
       "is_incremental": false,
