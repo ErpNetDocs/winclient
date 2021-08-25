@@ -3469,6 +3469,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-menu-customers-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-menu-customers-sections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-menu-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-menu-groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-menu-start-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-menu-start-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/workspace/pictures/main-menu-start.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/workspace/pictures/main-menu-start.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/workspace/pictures/main-menu.png",
       "output": {
         "resource": {
