@@ -79,16 +79,71 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="main-menu">Main Menu</h1>
 
-<p>Using the <b>Main Menu</b>, you can easily navigate the different modules and open navigators or documents. You have access to it at any time through the ERP.net Windows Desktop Client icon <img src="pictures/logo.png" alt="Logo">. You will only see the Forms that you have access to.</p>
+<p>The <strong>Main Menu</strong> is the default page that will open after starting the ERP.net Windows Desktop Client. Using it, you can easily
+navigate between the different modules or to open navigators and documents. You have access to it at any time through
+the ERP.net Windows Desktop Client icon <img src="pictures/logo.png" alt="Logo">.</p>
 <p><img src="pictures/main-menu.png" alt="Main Menu"></p>
-<p>On the left, you will see the 6 main sections, together with the Setup and the program modules,  spread across the sections. <br>
-When you  enter the program for the first time, you will see the first module open by default. <br>
-Each following time you will see the last used module open.</p>
-<p><img src="pictures/main-sections.png" alt="Main Sections"></p>
-<p>On the right side, you will usually see three subsections: Documents, Reports, and Definitions.<br>
-You can create and use them from within the respective module. <br>
-Enther a Navigator or a Definition by clicking on its name or the icon in front of it.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>According to your security access level and settings you will only see the sections you have access to.</p>
+</div>
+<h2 id="menu-navigation">Menu navigation</h2>
+<p>On the left you will see the menu navigation, containing the different application sections. For convenience,
+they are grouped into several top-level groups (also called <em>tabs</em>):</p>
+<ul>
+<li><code>START</code> - provides fast access for commonly used pages which summarize data.</li>
+<li>Main program modules. Each one in a separate group.</li>
+<li><code>SETUP</code> - workflow, system and application specific tuning.</li>
+</ul>
+<p><img src="pictures/main-menu-groups.png" alt="Main Menu Groups"></p>
+<p>Each group contains the actual application sections. When you click on a group, it will expand and its available
+sections (i.e. modules) will appear. You can see in the picture below- the <code>CUSTOMERS</code> group is selected and its related
+modules are shown beneath.</p>
+<p><img src="pictures/main-menu-customers-sections.png" alt="CUSTOMERS Sections"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>When you start ERP.net Windows Desktop Client for the first time, you will see the first module opened by default
+(<code>CUSTOMERS-&gt;SALES</code>, according to the picture above). Each following time the application will
+remember the last used module and will select it automatically after start.</p>
+</div>
+<h2 id="menu-page">Menu page</h2>
+<p>On the right you can see the rest of the page- the contents of the selected module from the navigation. The content is
+usually divided into three subsections:</p>
+<ul>
+<li>Documents</li>
+<li>Reports</li>
+<li>Definitions</li>
+</ul>
+<p>Below each subsection there is list of links, which represent specific actions in the context of the selected module.
+E.g. you can open a <code>Navigator</code>, create a new document or open a specific report.</p>
 <p><img src="pictures/main-subsections.png" alt="Main Subsections"></p>
+<h2 id="start">START</h2>
+<p><code>START</code> is the first available group in the menu navigation. It differs from the other groups in the following aspects:</p>
+<ul>
+<li>It doesn't contain application modules, but direct links to the most commonly used summarization panels.</li>
+<li>It is fully customizable! You have a set of possible panel types and you can choose which ones will be included.</li>
+<li>Each panel opens in the same page. You don't need to switch between different tabs.</li>
+</ul>
+<p><img src="pictures/main-menu-start.png" alt="Main Menu Start Section"></p>
+<p>Due to the fact that the <strong>Main Menu</strong> supports <code>Views</code>, you can customize the contents of the <code>START</code> group.
+From the list with available panels you can select the ones you wish to be part of the <code>START</code>.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If there are no visible panels, the <code>START</code> group will be empty and therefore will not be displayed.</p>
+</div>
+<p>For more information how to customize a <code>View</code>, please check out our separate docs topic:
+<a href="../workspace-customization/working-with-views.html">Customize the workspace / Working with views</a>.</p>
+<p>In addition to the customization, some panels content depends on the <code>View</code>, of which is part of. An example for this
+is the <code>Dashboard</code> panel. You can create multiple views with totally different set of tiles for each <code>Dashboard</code>. It
+will be restored the way you configured it each time you change the current <code>View</code>.</p>
+<p>In contrast, some other panels don't work this way. E.g. the <code>Timeline</code>- will show its content, regardless of the current <code>View</code> and
+any other customizations.</p>
+<p><img src="pictures/main-menu-start-panels.png" alt="Main Menu Start Section"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>When ERP.net Windows Desktop Client starts for the first time, the <code>START</code> group will not show. This is because
+by default there are no visible panels. They need to be configured initially in the way you want.</p>
+</div>
 </article>
           </div>
           

@@ -7782,7 +7782,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/main-menu.html",
-          "hash": "qjG3nIH/fD88btITAAtinw=="
+          "hash": "tUv2GHiJWekExcmYfC7t0g=="
         }
       },
       "is_incremental": false,
@@ -7926,6 +7926,50 @@
       "output": {
         "resource": {
           "relative_path": "introduction/workspace/pictures/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-menu-customers-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-menu-customers-sections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-menu-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-menu-groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-menu-start-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-menu-start-panels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/workspace/pictures/main-menu-start.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/workspace/pictures/main-menu-start.png"
         }
       },
       "is_incremental": false,
