@@ -48,7 +48,7 @@ Other values lead to a **recalculation** of the unit price.
 
 After filling in the data, **release** the document.
  
-![Purchase Order](pictures/Releasedocument.png)
+![Purchase Order](pictures/releasedocument.png)
 
 According to the standard operating model, the system is set to **continue** with a [Receiving Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/receiving-order.md).
 
