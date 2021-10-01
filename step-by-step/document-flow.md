@@ -9,10 +9,10 @@ To open a document, right-click and select **Open document**.
 
  
 
-![Document Flow](pictures/Documentflow.png)
+![Document Flow](pictures/df1.png)
 
 
  
 
-![Document Flow](pictures/Documentflowopendocument.png)
+![Document Flow](pictures/df2.png)
 
