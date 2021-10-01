@@ -50,7 +50,7 @@ Other values lead to a **recalculation** of the unit price.
 
 After filling in the data, **release** the document.
  
-![Receiving Order](pictures/releasedocument (1).png)
+![Receiving Order](pictures/releasedocument.png)
 
 - To view all issued Receiving Orders, press the **Display** button.
 
