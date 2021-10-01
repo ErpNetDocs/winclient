@@ -8196,15 +8196,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "step-by-step/activity.md",
       "output": {
         ".html": {
           "relative_path": "step-by-step/activity.html",
-          "hash": "7rSAra43s/dAw+0QpGIaNw=="
+          "hash": "QMF6S/xjuN7y2LG8DmwA0w=="
         }
       },
       "is_incremental": false,
@@ -8216,7 +8213,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/document-flow.html",
-          "hash": "856NlpCFnGgk32iqPv4Pkw=="
+          "hash": "t7Vw9P22rrBQ0C1qqo6IgQ=="
         }
       },
       "is_incremental": false,
@@ -8240,7 +8237,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/invoice-order.html",
-          "hash": "Ke1S0FZ02MGXxIdlsPOS7g=="
+          "hash": "w+Y8RQSlBK4v4IPx1gJ0YQ=="
         }
       },
       "is_incremental": false,
@@ -8644,6 +8641,94 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity4.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity5.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity6.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity7.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/activity8.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/activity8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/activitynavigator.png",
       "output": {
         "resource": {
@@ -8710,6 +8795,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/df1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/df1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/df2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/df2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/documentflowopeninvoice.png",
       "output": {
         "resource": {
@@ -8765,6 +8872,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/io1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/io1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/io2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/io2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/io3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/io3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/openthesale.png",
       "output": {
         "resource": {
@@ -8780,6 +8920,94 @@
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/openthesale1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po4.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po6.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po7.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/po8.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/po8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/poo5.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/poo5.png"
         }
       },
       "is_incremental": false,
@@ -8874,15 +9102,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "step-by-step/purchase-order.md",
       "output": {
         ".html": {
           "relative_path": "step-by-step/purchase-order.html",
-          "hash": "pDHkZIgdZac1ZGxVLKvmiA=="
+          "hash": "H4KE0z12vUTX8wFC4DjJiw=="
         }
       },
       "is_incremental": false,
