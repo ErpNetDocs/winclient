@@ -44,11 +44,11 @@ If the field is left blank, a store can be found for each item in the **Purchase
 	
 Other values lead to a **recalculation** of the unit price.
  
-![Purchase Order](pictures/Amounttopay.png)
+![Purchase Order](pictures/po9.png)
 
 After filling in the data, **release** the document.
  
-![Purchase Order](pictures/releasedocument.png)
+![Purchase Order](pictures/po10.png)
 
 According to the standard operating model, the system is set to **continue** with a [Receiving Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/receiving-order.md).
 
@@ -58,7 +58,7 @@ To view all issued Purchase Orders, go to <b>Logistics >> Procurement >> Purchas
 
 - A list of **all** Purchase orders will appear.
  
-![Purchase Order](pictures/Purchaseordernavigator.png)
+![Purchase Order](pictures/po0.png)
 
 If you **double-click** the selected order, you can open and view it.
 
