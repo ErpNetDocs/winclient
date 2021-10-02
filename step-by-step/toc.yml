@@ -1,7 +1,5 @@
 - name: Overview
   href: index.md
-- name: Overview
-  href: index.md
 - name: Activity
   href: activity.md
 - name: Document flow
