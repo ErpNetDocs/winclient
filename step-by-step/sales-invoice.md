@@ -6,37 +6,37 @@ To create a Sales Invoice document from an **Invoice Order document**, open the 
 
 -	In the **Document Flow** panel, find the Sales Invoice. 
  
-![Release](pictures/openthesale.png)
+![Release](pictures/si1.png)
 
 - Right-click to open it.
 
-![Release](pictures/documentflowopeninvoice.png)
+![Release](pictures/si3.png)
 
 - The Sales Invoice will open.
 
-![Release](pictures/invoice1.png)
+![Release](pictures/si4.png)
 
 -	From the **command bar**, go to the **Links tab** and click the **Create Invoice** button.
 
-![Release](pictures/createnewinvoiceorder.png)
+![Release](pictures/si5.png)
 
 -	The generated invoice will be displayed on the screen.
  
-![Release](pictures/invoiceonthescreen.png)
+![Release](pictures/si6.png)
 
 -	**Release** the document.
  
-![Release](pictures/releasedocument.png)
+![Release](pictures/si7.png)
 
 -	Press the **Print** button in order to print the invoice.
 
-![Release](pictures/printicon.png)
+![Release](pictures/si8.png)
 
-![Release](pictures/printinvoice1.png)
+![Release](pictures/si9.png)
 
 To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> Invoicing >> Invoicing</b> and click the **Display** button.
 
-![Release](pictures/customersinvoicing.png)
+![Release](pictures/si10.png)
   
 - You can see a list of uninvoiced items provided for **future** invoicing. They are created through **Published Invoice Order** documents, to which no invoice has been issued.
   
@@ -44,25 +44,25 @@ To create an Invoice through the **Invoicing Navigator**, go to <b>Customers >> 
   
 -	Click the **Create Invoice** button. 
  
-![Release](pictures/createnewinvoiceorder.png)
+![Release](pictures/si11.png)
   
 -	The generated invoice will be displayed on the screen. 
 
-![Release](pictures/printinvoice1.png)
+![Release](pictures/si12.png)
   
 - **Release** the invoice.
  
-![Release](pictures/releasedocument.png)
+![Release](pictures/si13.png)
   
 -	Press the **Print** button in order to print the invoice.
  
-![Release](pictures/printicon.png)
+![Release](pictures/si14.png)
 
-![Release](pictures/printinvoice1.png)
+![Release](pictures/si15.png)
 
 To view all issued invoices, go to <b>Customers >> Invoicing >> Invoices Navigator</b> and click the **Display** button.
 
-![Picture](pictures/Invoicingnavigator.png) 
+![Picture](pictures/si16.png) 
     
 - A list of **all** issued invoices will appear.
   
