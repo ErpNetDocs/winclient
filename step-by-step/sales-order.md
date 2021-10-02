@@ -54,7 +54,7 @@ To view all issued Sales, go to <b>Customers >> Sales >> Orders Navigator</b>.
 
 ![Sales Order](pictures/so11.png)
 
-If you double-click the selected sale, you can open and view it.
+If you **double-click** the selected sale, you can open and view it.
 
 
 
