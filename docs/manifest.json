@@ -4382,10 +4382,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/po0.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/po0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/po1.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/po1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/po10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/po10.png"
         }
       },
       "is_incremental": false,
@@ -4459,6 +4481,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/po9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/po9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/poo5.png",
       "output": {
         "resource": {
@@ -4514,6 +4547,138 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder0.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/purchaseorder9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/purchaseorder9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/releasedocument (1).png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/releasedocument (1).png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/releasedocument.png",
       "output": {
         "resource": {
@@ -4536,10 +4701,395 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/ro9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/ro9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/salinvoice.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si11.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si11.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si12.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si12.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si13.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si13.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si14.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si14.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si15.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si15.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si16.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so11.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so11.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/so9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/so9.png"
         }
       },
       "is_incremental": false,
