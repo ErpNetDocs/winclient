@@ -1,8 +1,8 @@
 - name: Overview
   href: index.md
-- name: Most commonly used terms
+- name: Common terms
   href: terms.md
-- name: Most commonly used commands
+- name: Common commands
   href: commands.md
 - name: Keyboard shortcuts
   href: keyboard-shortcuts.md
