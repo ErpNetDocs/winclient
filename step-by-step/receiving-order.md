@@ -1,10 +1,10 @@
-# Receiving Order
+# Receiving order
 
-A Receiving Order document **reflects** purchases made by a supplier and aims to **increase** availability. 
+A receiving order document reflects purchases made by a supplier and aims to increase availability. 
 
-Most often, it is created **as a result** of a [Purchase Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/purchase-order.md).
+Most often, it is created as a result of a **[purchase order](https://docs.erp.net/winclient/step-by-step/purchase-order.html)**.
 
-To create a Receiving Order, go to <b>Logistics >> Procurement >> Create New Receiving Order</b>.
+To create a receiving order, go to <b>Logistics >> Procurement >> Create New Receiving Order</b>.
  
 ![Receiving Order](pictures/ro1.png)
 
@@ -52,11 +52,11 @@ After filling in the data, **release** the document.
  
 ![Receiving Order](pictures/releasedocument.png)
 
-- To view all issued Receiving Orders, press the **Display** button.
+- To view all issued receiving orders, press the **Display** button.
 
-- A list of **all** Receiving orders will appear.
+- A list of **all** receiving orders will appear.
  
 ![Receiving Order](pictures/ro10.png)
 
-If you **double-click** the selected order, you can open and view it.
+If you click the selected order, you can open and view it.
 
