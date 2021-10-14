@@ -44,7 +44,7 @@ To create an invoice, go to **Customers >> Invoicing** and click the **Create Ne
 
 ![Release](pictures/salesinvo2.png)
   
-- Tick the **Invoicing** column for the lines you want to create an invoice for.
+- Tick the **Invoice** column for the lines you want to create an invoice for.
 
 ![Release](pictures/salesinvo3.png)
   
