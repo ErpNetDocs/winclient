@@ -41,14 +41,20 @@ To create an invoice, go to **Customers >> Invoicing** and click the **Create Ne
 ![Release](pictures/salinvo8.png)
   
 - You can see a list of uninvoiced items provided for future invoicing. They are created through publiushed invoice order documents, to which no invoice has been issued.
+
+![Release](pictures/salesinvo2.png)
   
 - Tick the **Invoicing** column for the lines you want to create an invoice for.
+
+![Release](pictures/salesinvo3.png)
   
 -	Click the **Create Invoice** button. 
  
-![Release](pictures/si11.png)
+![Release](pictures/salesinvo1.png)
   
 -	The generated invoice will be displayed on the screen. 
+
+![Release](pictures/salesinvo4.png)
   
 - **Release** the invoice.
  
