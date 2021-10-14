@@ -44,7 +44,7 @@ After filling in the data, **release** the document.
  
 ![Sales Order](pictures/so10.png)
 
-In the standard operating model, the system is set to continue with an [invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html).
+In the standard operating model, the system is set to continue with an **[invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html)**.
 
 To view all issued Sales, go to **Customers >> Sales >> Orders Navigator**.
 
