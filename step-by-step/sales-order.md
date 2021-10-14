@@ -1,8 +1,8 @@
-# Sales Order
+# Sales order
 
-The Sales Order document is intended for the **selling** of goods to customers.
+A sales order document is intended for the **selling** of goods to customers.
 
-To create a Sales Order, go to <b>Customers >> Sales >> Create New Sales Order</b>
+To create it, go to **Customers >> Sales >> Create New Sales Order**
  
 ![Sales Order](pictures/so1.png)
 
@@ -44,9 +44,9 @@ After filling in the data, **release** the document.
  
 ![Sales Order](pictures/so10.png)
 
-In the standard operating model, the system is set to continue with an [Invoice Order](https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/invoice-order.md).
+In the standard operating model, the system is set to continue with an [invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html).
 
-To view all issued Sales, go to <b>Customers >> Sales >> Orders Navigator</b>.
+To view all issued Sales, go to **Customers >> Sales >> Orders Navigator**.
 
 - Press the **Display** button.
 
