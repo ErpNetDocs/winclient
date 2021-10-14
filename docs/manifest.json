@@ -9686,6 +9686,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/io4.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/io4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/io5.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/io5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/openthesale.png",
       "output": {
         "resource": {
@@ -10126,10 +10148,142 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesnvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesnvo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesnvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesnvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo5.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo6.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo7.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo8.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/salinvoice.png",
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/si.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/si.png"
         }
       },
       "is_incremental": false,
@@ -10218,6 +10372,17 @@
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/si16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/si2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/si2.png"
         }
       },
       "is_incremental": false,
@@ -10462,7 +10627,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-invoice.html",
-          "hash": "s4lK5NRL1sw5ufahpfQlqg=="
+          "hash": "SmAA9e80jAz393Of/Cp8rQ=="
         }
       },
       "is_incremental": false,
