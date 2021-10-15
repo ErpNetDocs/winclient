@@ -1,0 +1,10 @@
+- name: Overview
+  href: index.md
+- name: Fast barcode panel commands
+  href: fast-commands.md
+- name: GS1-128 Barcode command handler
+  href: barcode-handler.md
+- name: Barcode modes
+  href: barcode-modes/toc.yml
+  topicHref: barcode-modes/index.md
+  
