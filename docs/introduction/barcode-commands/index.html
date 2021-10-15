@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Barcode commands | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Barcode commands | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="barcode-commands">Barcode commands</h1>
+
+<p>A barcode label is a special symbol to represent human readable information such as a product number or a lot number in machine readable format. In ERP.net barcode labels could be used through the Barcode commands panel. This panel allows very quick and operational work with barcode labels via barcode reader in the forms containing product lines. The product can be added in the lines by using their product name, part number or a product code (using Coding systems). Information such as <em>quantity</em>, <em>lot</em>or <em>the serial number</em> cab also be inputted.</p>
+<h2 id="the-barcode-tab">The barcode tab</h2>
+<p>The Barcode tab is accessible only if the Barcode commands panel is visible in the view. It contains several buttons which redound to the work of the panel, but it also contains a <em>Settings button</em>. When pressed, it opens the <em>Settings window</em> where we can edit the list of the barcode command handlers with different options (such as ‘Use lots’, for example) which are or can be activated.</p>
+<blockquote>
+<p><strong>[!Note:]</strong> It is very important to remember that the Barcode Settings are individually set &gt;for each View (the selected options are saved in the View).</p>
+</blockquote>
+<p>There also is a <em>Command list</em> button for convenience, loading the list with the ‘easy access’ commands that are recognized by the panel. For more information, see <strong>Fast barcode panel commands</strong>.</p>
+<h2 id="barcode-commands-handlers">Barcode commands handlers</h2>
+<p>Different barcode command handlers by which the information from the barcode label is recognized can be activated from the Barcode Settings in the <em>Barcode tab</em>. Currently, there are three types of handlers – <strong>General (quantity, product name…)</strong>, **Other <strong>(GS1-128 Barcode command handler</strong>, <strong>Mettler Toledo / EAN-13 BPRO)</strong> and <strong>Coding systems</strong> (user defined). The barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered by using <em>Drag and Drop</em>.</p>
+<h2 id="barcode-panel-options">Barcode panel options</h2>
+<p>Two additional options can also be activated in the barcode setting in the <em>Barcode tab</em> – <strong>Use lots</strong> and <strong>Use serial numbers</strong>.</p>
+<ul>
+<li>If ‘Use lots’ is on, when the system recognizes the product (if the product is allowed or required to use lots), it does not create a line immediately, but changes the barcode panel mode and waits until information  about the lot number is received. The lot number can be added via barcode label, manually in the main field or from the drop-down list in the lot field.</li>
+<li>If ‘Use serial numbers’ is on, when the system recognizes the product (if the product is serialized), it does not create a line immediately, but changes the barcode panel mode and waits until information about the serial number is received. The lot number can be added via barcode label and manually in the main field or in the serial number field.</li>
+</ul>
+<h2 id="barcode-panel-modes">Barcode panel modes</h2>
+<p>The barcode panel supports multiple modes which allow entering quantities, lots and serial numbers. For more information, see <strong>Barcode panel modes.</strong></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

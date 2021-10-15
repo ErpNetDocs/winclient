@@ -4360,6 +4360,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/io4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/io4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/io5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/io5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/openthesale.png",
       "output": {
         "resource": {
@@ -4811,10 +4833,142 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesnvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesnvo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesnvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesnvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/salinvoice.png",
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si.png"
         }
       },
       "is_incremental": false,
@@ -4903,6 +5057,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/si16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/si2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/si2.png"
         }
       },
       "is_incremental": false,
@@ -5194,6 +5359,141 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-handler.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-handler.html",
+          "hash": "o5cHCV6178kEkaA1XbcY+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/index.html",
+          "hash": "W5R3SGnNRaXzNo4FCS4MYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/list-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/list-numbers.html",
+          "hash": "Dtk1W8ZPhzIeygPnUUH0Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/lot-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/lot-number.html",
+          "hash": "tE37KZgaqgCPTcyRdUCr2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "invalid-note-section"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/range-end.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/range-end.html",
+          "hash": "Y4pdAf+tgtpAdqsLqrh4Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/range-start.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/range-start.html",
+          "hash": "ZTzwDjQsmE5QRYKZHTlxrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/sequence-end.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/sequence-end.html",
+          "hash": "VJwAvaiL++EK8JwnUTvH5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/sequence-start.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/sequence-start.html",
+          "hash": "SZEmujS8zTvOA3KePfAcJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/serial-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/serial-number.html",
+          "hash": "TdGc2BjHfxaIFFBgTMzoaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/fast-commands.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/fast-commands.html",
+          "hash": "PK20Pnf9IIo0WOKJeTEcrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/index.html",
+          "hash": "w7NPpF0fs+osKpW3zxijIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "introduction/command-ribbon.md",
       "output": {
         ".html": {
@@ -5211,6 +5511,18 @@
         ".html": {
           "relative_path": "introduction/commands.html",
           "hash": "/nctx1YHMJufqSvSnpzg7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/create-a-copy.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/create-a-copy.html",
+          "hash": "BykvU7csTsLqZur+DGZNyA=="
         }
       },
       "is_incremental": false,
@@ -5491,6 +5803,42 @@
         ".html": {
           "relative_path": "introduction/edit-mode.html",
           "hash": "WCC2bEjSctkZ9d0ngWNMhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/expression-fields/functions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/expression-fields/functions.html",
+          "hash": "CD2CsG+iniWL7w3V+YugbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/expression-fields/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/expression-fields/index.html",
+          "hash": "eU/e6c/SJPBeD0FrKGJ4GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/expression-fields/operators.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/expression-fields/operators.html",
+          "hash": "KoMFB92+WvcMw4XwBEKD6w=="
         }
       },
       "is_incremental": false,
@@ -7349,6 +7697,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/paste-functions.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/paste-functions.html",
+          "hash": "BR8ddpbzd+OVZBKyIITKjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "introduction/pictures/change-company.png",
       "output": {
@@ -7869,7 +8229,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "TjxoIYd0rECDip6+dHb+Wg=="
+          "hash": "QlnNwrDTgN9v+jyRWehsMw=="
         }
       },
       "is_incremental": false,
@@ -8982,7 +9342,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/activity.html",
-          "hash": "QMF6S/xjuN7y2LG8DmwA0w=="
+          "hash": "jWVjHMjn+Xwd8IlW2k/4iA=="
         }
       },
       "is_incremental": false,
@@ -8994,7 +9354,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/document-flow.html",
-          "hash": "t7Vw9P22rrBQ0C1qqo6IgQ=="
+          "hash": "KBx2AkJcTq3E9N4YpEDzhg=="
         }
       },
       "is_incremental": false,
@@ -9018,7 +9378,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/invoice-order.html",
-          "hash": "pZ/YCnDY0Y/17+mNJtACYA=="
+          "hash": "WH4wbiL22jWQN4LRWxyYMg=="
         }
       },
       "is_incremental": false,
@@ -10148,6 +10508,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvo1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvo2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvo4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvoice15.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvoice15.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvoice16.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvoice16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesinvoice9.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesinvoice9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "step-by-step/pictures/salesnvo.png",
       "output": {
         "resource": {
@@ -10163,6 +10600,17 @@
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/salesnvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salesnvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salesnvo9.png"
         }
       },
       "is_incremental": false,
@@ -10262,6 +10710,17 @@
       "output": {
         "resource": {
           "relative_path": "step-by-step/pictures/salinvo8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "step-by-step/pictures/salinvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "step-by-step/pictures/salinvo9.png"
         }
       },
       "is_incremental": false,
@@ -10603,7 +11062,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/purchase-order.html",
-          "hash": "hL7tkEy40/h2jpFOVvj98A=="
+          "hash": "gAdc0JUHgSPXzYjnZyj30A=="
         }
       },
       "is_incremental": false,
@@ -10615,7 +11074,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/receiving-order.html",
-          "hash": "YCTy3yaM0ItbJ3PrMCdr4g=="
+          "hash": "e+xrVoQ5QGDMer7vmKAapA=="
         }
       },
       "is_incremental": false,
@@ -10627,7 +11086,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-invoice.html",
-          "hash": "SmAA9e80jAz393Of/Cp8rQ=="
+          "hash": "5oicES3NZ2lDnQh8r+HEOg=="
         }
       },
       "is_incremental": false,
@@ -10639,7 +11098,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-order.html",
-          "hash": "GdBnTdqnmKRenePNOHmc/w=="
+          "hash": "rVMJrfqJuh2Gh3dmxPaeNQ=="
         }
       },
       "is_incremental": false,

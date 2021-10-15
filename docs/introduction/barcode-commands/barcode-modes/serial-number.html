@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>LIST of serial numbers (Finally - scan # ADD #) | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="LIST of serial numbers (Finally - scan # ADD #) | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
+    
+    <meta property="docfx:rel" content="../../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="list-of-serial-numbers-finally---scan--add-">LIST of serial numbers (Finally - scan # ADD #)</h1>
+
+<h2 id="about-the-mode">About the mode</h2>
+<p>The LIST of serial numbers (Finally - scan # ADD #) Mode is used for entering a list  of serial numbers. If we are receiving goods, this mode can be used for creating new serial numbers automatically.</p>
+<h2 id="mode-selection">Mode selection</h2>
+<p>The ‘LIST’ of Serial numbers (Finally - scan # ADD #)&quot; mode can be selected:</p>
+<ul>
+<li><strong>manually</strong> from the drop down list in the Barcode panel.</li>
+<li><strong>manually</strong> by entering the <strong>fast command #LIST#</strong> in the main field when the panel is operating in one of the serial number modes.</li>
+<li><strong>automatically</strong> after the selection of the product through the <strong>Main (barcode/command/came) mode</strong> -</li>
+</ul>
+<p>if the ‘Use serial numbers option in the Barcode settings is activated <strong>AND</strong> the products ‘Is serialized’ <strong>AND</strong>:</p>
+<ul>
+<li>it is the first use of the panel after opening the form <strong>AND</strong> the current mode is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel Settings</li>
+</ul>
+<p><strong>OR</strong></p>
+<ul>
+<li>it is <strong>NOT</strong> the first use of the panel after opening the form <strong>AND</strong> the current mode is the last used mode for serial numbers input.</li>
+</ul>
+<h2 id="mode-operation">Mode operation</h2>
+<p>If the List mode is set, <strong>when scanning/adding</strong> a serial number in the main field the following actions are <strong>completed</strong>:</p>
+<p><strong>(0)</strong> scan # ADD # =&gt; <strong>(9)</strong></p>
+<p><strong>[!Note:]</strong> This command means that we want to stop listing serial numbers and to add new product lines. Here, this command is included only for clarity. This is a global command and it will be executed regardless of the mode.</p>
+<p><strong>(1)</strong> Check the form type. If the form type = ‘Receive’ (for more information see ‘Form types and Mode selection’ section in topic <strong>Barcode commands</strong>), then =&gt;** (7)**</p>
+<p><strong>(2)</strong> Look for the serial numbers related to the product set in the field Product. If the serial number exists for the selected product =&gt;** (5)**</p>
+<p><strong>(3)</strong> The serial number does not exist. Clear the code. Wait for another serial number.</p>
+<p><strong>(4)</strong> STOP</p>
+<p><strong>(5)</strong> Add the serial number (separated with comma) to the list of serial numbers in the field ‘Serial numbers’.</p>
+<p><strong>(6)</strong> STOP</p>
+<p><strong>(7)</strong> Create a new serial number. Then =&gt;<strong>(5)</strong></p>
+<p><strong>(8)</strong> STOP</p>
+<p><strong>(9)</strong> Add multiple product lines - one for each serial number listed in the filed ‘Serial numbers’.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/barcode-modes/serial-number.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
+  </body>
+</html>

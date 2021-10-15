@@ -5,19 +5,19 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Sales order | ERP.net Windows Client </title>
+    <title>Lot number mode | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Sales order | ERP.net Windows Client ">
+    <meta name="title" content="Lot number mode | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
-    <link rel="shortcut icon" href="../favicon.ico">
-    <link rel="stylesheet" href="../styles/docfx.vendor.css">
-    <link rel="stylesheet" href="../styles/docfx.css">
-    <link rel="stylesheet" href="../styles/main.css">
-    <meta property="docfx:navrel" content="../toc.html">
-    <meta property="docfx:tocrel" content="toc.html">
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
     
-    <meta property="docfx:rel" content="../">
+    <meta property="docfx:rel" content="../../../">
     
   </head>
   <body data-spy="scroll" data-target="#affix" data-offset="120">
@@ -34,8 +34,8 @@
                 <span class="icon-bar"></span>
               </button>
               
-              <a class="navbar-brand" href="../index.html">
-                <img id="logo" class="svg" src="../logo.svg" alt="">
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
               </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar">
@@ -77,56 +77,20 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="sales-order">Sales order</h1>
+<h1 id="lot-number-mode">Lot number mode</h1>
 
-<p>A sales order document is intended for the <strong>selling</strong> of goods to customers.</p>
-<p>To create it, go to <strong>Customers &gt;&gt; Sales &gt;&gt; Create New Sales Order</strong></p>
-<p><img src="pictures/so1.png" alt="Sales Order"></p>
-<p>Let's fill in the following fields:</p>
-<ul>
-<li><b>Customer</b> - from the dropdown, choose the customer you're going to sell to.</li>
-</ul>
-<p><img src="pictures/so2.png" alt="Sales Order"></p>
-<ul>
-<li><b>Store</b> - you can fill in the field in the <strong>header</strong> of the document, or you can fill it in the <strong>sales rows</strong>, for each row separately.</li>
-</ul>
-<p><img src="pictures/so3.png" alt="Sales Order"></p>
-<ul>
-<li><p><b>Product code </b> - from the dropdown, select the product for sale.</p>
-</li>
-<li><p><b>Product name</b> - if you choose the code, this name is generated automatically.</p>
-</li>
-</ul>
-<p><img src="pictures/so4.png" alt="Sales Order"></p>
-<ul>
-<li><b>Quantity</b> - this is the sold quantity.</li>
-</ul>
-<p><img src="pictures/so6.png" alt="Sales Order"></p>
-<ul>
-<li><b>Measurement Unit Name</b> - here, indicate the unit of measure of the sold quantity.</li>
-</ul>
-<p><img src="pictures/so7.png" alt="Sales Order"></p>
-<ul>
-<li><b>Unit price</b> - this is the price unit of the sold quantity.</li>
-</ul>
-<p><img src="pictures/so8.png" alt="Sales Order"></p>
-<ul>
-<li><b>Amount to pay</b> - by default, this is a <strong>product</strong> of the unit price and the quantity.</li>
-</ul>
-<p>Other values lead to a <strong>recalculation</strong> of the unit price.</p>
-<p><img src="pictures/so9.png" alt="Sales Order"></p>
-<p>After filling in the data, <strong>release</strong> the document.</p>
-<p><img src="pictures/so10.png" alt="Sales Order"></p>
-<p>In the standard operating model, the system is set to continue with an <strong><a href="https://docs.erp.net/winclient/step-by-step/invoice-order.html">invoice order</a></strong>.</p>
-<p>To view all issued Sales, go to <strong>Customers &gt;&gt; Sales &gt;&gt; Orders Navigator</strong>.</p>
-<ul>
-<li><p>Press the <strong>Display</strong> button.</p>
-</li>
-<li><p>A list of <strong>all</strong> issued sales will appear.</p>
-</li>
-</ul>
-<p><img src="pictures/so11.png" alt="Sales Order"></p>
-<p>If you <strong>double-click</strong> the selected sale, you can open and view it.</p>
+<p>If the Lot number mode is set, when scanning/adding a lot number in the main field, the following actions are completed:</p>
+<p><strong>(1)</strong> Look for the lots related to the product set in the field Product. If there is only one lot related to this product =&gt; <strong>(5)</strong> <br></p>
+<p><strong>(2)</strong> More than one lot meet the conditions. Open a drop-down list in the field Lot. The system suggests the user to choose a lot. Once a specific lot is selected=&gt; <strong>(5)</strong><br></p>
+<p><strong>(3)</strong> There is no lot that meets the criteria. Clear the panel - the panel is ready to be used again.</p>
+<p><strong>(4)</strong> STOP</p>
+<p><strong>(5)</strong> Fill in the selected lot in the field ‘Lot’.</p>
+<p><strong>(6)</strong> Check whether the product uses serial numbers. If yes =&gt; <strong>(10)</strong></p>
+<p><strong>(7)</strong> The product does not use a lot or a serial number. Create a new line using current values of the fields in the panel.</p>
+<p><strong>(8)</strong> Switch to the last chosen mode for serial numbers. If not – the mode is chosen according to the following algorithm:</p>
+<p><strong>(9)</strong> If the type of the current form = ‘Receive’, the enabled mode will be mode which is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel Settings .</p>
+<p><strong>(10)</strong> If the type of the current form = ‘Issue’ or ‘Indefinite’, then the enabled mode is ‘Serial number.’</p>
+<p><strong>(11)</strong> STOP.</p>
 </article>
           </div>
           
@@ -135,7 +99,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/sales-order.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/barcode-modes/lot-number.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
@@ -161,8 +125,8 @@
       </footer>
     </div>
     
-    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
-    <script type="text/javascript" src="../styles/docfx.js"></script>
-    <script type="text/javascript" src="../styles/main.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
   </body>
 </html>

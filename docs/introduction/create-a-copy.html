@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Sales order | ERP.net Windows Client </title>
+    <title>Create a copy of a product | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Sales order | ERP.net Windows Client ">
+    <meta name="title" content="Create a copy of a product | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -77,56 +77,22 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="sales-order">Sales order</h1>
+<h1 id="create-a-copy-of-a-product">Create a copy of a product</h1>
 
-<p>A sales order document is intended for the <strong>selling</strong> of goods to customers.</p>
-<p>To create it, go to <strong>Customers &gt;&gt; Sales &gt;&gt; Create New Sales Order</strong></p>
-<p><img src="pictures/so1.png" alt="Sales Order"></p>
-<p>Let's fill in the following fields:</p>
+<p>‘Create a copy’ is a function that is available in the Functions tab (Product's definition). This function allows us to create a new product from the current one. Note that not all data from the base product is copied to the new one. The tables currently copied to the new product are:</p>
 <ul>
-<li><b>Customer</b> - from the dropdown, choose the customer you're going to sell to.</li>
+<li>Identification - only product name is copied. The description is not copied and the part number is inherited by the value of the field &quot;Next part number&quot; of the product group.</li>
+<li>Data</li>
+<li>Product dimensions</li>
+<li>Variants</li>
+<li>Document amounts</li>
+<li>Default store bins for products</li>
+<li>Custom properties</li>
+<li>Product pictures</li>
+<li>Product distribution channels</li>
 </ul>
-<p><img src="pictures/so2.png" alt="Sales Order"></p>
-<ul>
-<li><b>Store</b> - you can fill in the field in the <strong>header</strong> of the document, or you can fill it in the <strong>sales rows</strong>, for each row separately.</li>
-</ul>
-<p><img src="pictures/so3.png" alt="Sales Order"></p>
-<ul>
-<li><p><b>Product code </b> - from the dropdown, select the product for sale.</p>
-</li>
-<li><p><b>Product name</b> - if you choose the code, this name is generated automatically.</p>
-</li>
-</ul>
-<p><img src="pictures/so4.png" alt="Sales Order"></p>
-<ul>
-<li><b>Quantity</b> - this is the sold quantity.</li>
-</ul>
-<p><img src="pictures/so6.png" alt="Sales Order"></p>
-<ul>
-<li><b>Measurement Unit Name</b> - here, indicate the unit of measure of the sold quantity.</li>
-</ul>
-<p><img src="pictures/so7.png" alt="Sales Order"></p>
-<ul>
-<li><b>Unit price</b> - this is the price unit of the sold quantity.</li>
-</ul>
-<p><img src="pictures/so8.png" alt="Sales Order"></p>
-<ul>
-<li><b>Amount to pay</b> - by default, this is a <strong>product</strong> of the unit price and the quantity.</li>
-</ul>
-<p>Other values lead to a <strong>recalculation</strong> of the unit price.</p>
-<p><img src="pictures/so9.png" alt="Sales Order"></p>
-<p>After filling in the data, <strong>release</strong> the document.</p>
-<p><img src="pictures/so10.png" alt="Sales Order"></p>
-<p>In the standard operating model, the system is set to continue with an <strong><a href="https://docs.erp.net/winclient/step-by-step/invoice-order.html">invoice order</a></strong>.</p>
-<p>To view all issued Sales, go to <strong>Customers &gt;&gt; Sales &gt;&gt; Orders Navigator</strong>.</p>
-<ul>
-<li><p>Press the <strong>Display</strong> button.</p>
-</li>
-<li><p>A list of <strong>all</strong> issued sales will appear.</p>
-</li>
-</ul>
-<p><img src="pictures/so11.png" alt="Sales Order"></p>
-<p>If you <strong>double-click</strong> the selected sale, you can open and view it.</p>
+<p>The lots,  serial numbers, product codes, prices, purchase prices and discounts are NOT copied to the new product.</p>
+<p><em><strong>NOTE:</strong></em> Some of the records of the copied panels (such as Custom properties) are loaded after the saving of the new product.</p>
 </article>
           </div>
           
@@ -135,7 +101,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/step-by-step/sales-order.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/create-a-copy.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
