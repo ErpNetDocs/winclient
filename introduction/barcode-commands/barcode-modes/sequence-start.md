@@ -23,11 +23,11 @@ The ‘SEQUENCE START of Serial numbers (from ... count)’ mode can be selected
 - **automatically** after the selection of the product through the **Main (Barcode/Command/Name) mode** - 
 
 if the ‘Use serial numbers’ option in the Barcode settings is activated **AND** the product ‘Is serialized’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ section in topic **Barcode commands**) **AND:**
- - it is the first use of the panel after opening the form **AND** the current mode is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings 
+- * it is the first use of the panel after opening the form **AND** the current mode is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings 
 
 **OR**
 
--  it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
+- *  it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
  
 ## Mode operation
  
