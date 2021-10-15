@@ -27,4 +27,14 @@
   href: tablet-view-settings.md
 - name: Fields management
   href: fields-management/toc.yml
+- name: Barcode commands
+  href: barcode-commands/toc.yml
+  topicHref: barcode-commands/index.md
+- name: Expression fields
+  href: expression-fields/toc.yml
+  topicHref: expression-fields/index.md
+- name: Create a copy of a product
+  href: create-a-copy.md
+- name: Paste rows functions
+  href: paste-functions.md
   
