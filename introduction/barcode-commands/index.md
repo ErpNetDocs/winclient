@@ -9,11 +9,11 @@ The Barcode tab is accessible only if the Barcode commands panel is visible in t
 
 >**[!Note:]** It is very important to remember that the Barcode Settings are individually set >for each View (the selected options are saved in the View).
 
-There also is a *Command list* button for convenience, loading the list with the ‘easy access’ commands that are recognized by the panel. For more information, see **Fast barcode panel commands**.
+There also is a *Command list* button for convenience, loading the list with the ‘easy access’ commands that are recognized by the panel. For more information, see **[Fast barcode panel commands](https://docs.erp.net/winclient/introduction/barcode-commands/fast-commands.html)**.
 
 ## Barcode commands handlers
 
-Different barcode command handlers by which the information from the barcode label is recognized can be activated from the Barcode Settings in the *Barcode tab*. Currently, there are three types of handlers – **General (quantity, product name…)**, **Other **(GS1-128 Barcode command handler**, **Mettler Toledo / EAN-13 BPRO)** and **Coding systems** (user defined). The barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered by using *Drag and Drop*.
+Different barcode command handlers by which the information from the barcode label is recognized can be activated from the Barcode Settings in the *Barcode tab*. Currently, there are three types of handlers – **General (quantity, product name…)**, **Other **([GS1-128 Barcode command handler](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-handler.html)**, **Mettler Toledo / EAN-13 BPRO)** and **Coding systems** (user defined). The barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered by using *Drag and Drop*.
 
 ## Barcode panel options
 
@@ -23,6 +23,6 @@ Different barcode command handlers by which the information from the barcode lab
 
 ## Barcode panel modes
 
-The barcode panel supports multiple modes which allow entering quantities, lots and serial numbers. For more information, see **Barcode panel modes.**
+The barcode panel supports multiple modes which allow entering quantities, lots and serial numbers. For more information, see **[Barcode panel modes](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/index.html).**
 
 
