@@ -16,4 +16,6 @@
   href: serial-number.md
 - name: Serial number mode
   href: serial-number-mode.md
+- name: Main (barcode/command/name) mode
+  href: main-mode.md
  
