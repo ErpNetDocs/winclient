@@ -12,8 +12,6 @@
   href: sequence-end.md
 - name: SEQUENCE START of Serial numbers (from ... count)
   href: sequence-start.md
-- name: LIST of serial numbers (Finally - scan # ADD #)
-  href: serial-number.md
 - name: Serial number mode
   href: serial-number-mode.md
 - name: Main (barcode/command/name) mode
