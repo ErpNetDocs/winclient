@@ -4833,6 +4833,83 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvo1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvo2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvo4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvoice15.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvoice15.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvoice16.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvoice16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesinvoice9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesinvoice9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/salesnvo.png",
       "output": {
         "resource": {
@@ -4848,6 +4925,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/salesnvo3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salesnvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salesnvo9.png"
         }
       },
       "is_incremental": false,
@@ -4947,6 +5035,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/step-by-step/pictures/salinvo8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/step-by-step/pictures/salinvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/step-by-step/pictures/salinvo9.png"
         }
       },
       "is_incremental": false,
@@ -5406,6 +5505,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/main-mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/barcode-modes/main-mode.html",
+          "hash": "c+DgCjDyWl5FObjrV0We0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "log_codes": [
         "invalid-note-section"
       ],
@@ -5458,11 +5569,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/serial-number.md",
+      "source_relative_path": "introduction/barcode-commands/barcode-modes/serial-number-mode.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/serial-number.html",
-          "hash": "TdGc2BjHfxaIFFBgTMzoaQ=="
+          "relative_path": "introduction/barcode-commands/barcode-modes/serial-number-mode.html",
+          "hash": "4WIs9bnOv8Iqo8uxIjSjAA=="
         }
       },
       "is_incremental": false,
@@ -5474,7 +5585,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/fast-commands.html",
-          "hash": "PK20Pnf9IIo0WOKJeTEcrA=="
+          "hash": "/H/IYapVszA1b8J7TnhTFA=="
         }
       },
       "is_incremental": false,
@@ -5486,7 +5597,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/index.html",
-          "hash": "w7NPpF0fs+osKpW3zxijIQ=="
+          "hash": "ssSrTfaakVYsjJU1n3n+jA=="
         }
       },
       "is_incremental": false,
@@ -8229,7 +8340,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "QlnNwrDTgN9v+jyRWehsMw=="
+          "hash": "tsiZrfdfsKVI+2tnVYLwCQ=="
         }
       },
       "is_incremental": false,

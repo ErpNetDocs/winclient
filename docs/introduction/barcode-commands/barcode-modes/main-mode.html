@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Main (barcode/command/name) mode | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Main (barcode/command/name) mode | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
+    
+    <meta property="docfx:rel" content="../../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="main-barcodecommandname-mode">Main (barcode/command/name) mode</h1>
+
+<p>When the Main (Barcode/command/name) mode is set, when scanning/adding a code in the main field, the following actions are completed:</p>
+<p><strong>(1)</strong> Look for a product that relates to the particular code. If there is only one product, and it meets the conditions =&gt;<strong>(4)</strong></p>
+<p><strong>(2)</strong> Open a drop-down list in the field Product containing the products filtered by the scanned code. The system suggests the user to choose a product. Once a specific product is selected =&gt; <strong>(4)</strong></p>
+<p><strong>(3)</strong> STOP</p>
+<p><strong>(4)</strong> A specific product has been selected. Check whether the product uses lots. If yes =&gt;** (8)**</p>
+<p><strong>(5)</strong> Check whether the product uses serial numbers. If yes =&gt; <strong>(10)</strong></p>
+<p><strong>(6)</strong> The product does not use lots or serial numbers. Add the record to the form:</p>
+<p>A new line using current values of the fields in the panel is created (for example Quantity = 5 Product = XXX).</p>
+<blockquote>
+<p>[<strong>!NOTE</strong>]: When adding a new product line, then the panel is ‘cleared’ and ready to be &gt;used again. The mode is ‘Main’.</p>
+</blockquote>
+<p><strong>(7)</strong> STOP</p>
+<p><strong>(8)</strong> Turn on ‘Lot’ mode.</p>
+<p><strong>(9)</strong> STOP</p>
+<p><strong>(10)</strong> Switch to the last chosen mode for serial numbers. If not (it is the first use of the panel after the opening of the form)  – the mode is chosen according to the following algorithm:</p>
+<p><strong>(11)</strong> If the type of the current form = ‘Receive’, the enabled mode will be mode which is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings</p>
+<p><strong>(12)</strong> If the type of the current form = ‘Issue’ or ‘Indefinite’, ‘, the enabled mode will be ‘Serial number.’</p>
+<p><strong>(13)</strong> STOP</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/barcode-modes/main-mode.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
+  </body>
+</html>
