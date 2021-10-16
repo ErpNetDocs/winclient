@@ -1,4 +1,4 @@
-# Serial numbers 
+# LIST of serial numbers (Finally - scan # ADD #)
 
 ## About the mode
  
