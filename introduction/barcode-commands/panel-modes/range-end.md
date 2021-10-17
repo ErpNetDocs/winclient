@@ -77,21 +77,17 @@ If **RANGE END** mode is set, when scanning/adding a value in the main field, th
  
 **(8)** Add new lines using current values of the fields in the panel.
  
-**Message1**:
-
+**Message1**:<br>
 The "{0}" mode is available only when all lines in the form are with the movement type "Receipt".
 , {0} - ModeName
  
-**Message2**:
-
+**Message2**:<br>
 Invalid serial number range. The range should be in the format: START_NUMBER ... END_NUMBER
  
-**Message3**:
-
+**Message3**:<br>
 Invalid serial number range. The non-digit prefixes of the start number and the end number are different.
 
-**Message4**:
-
+**Message4**:<br>
 Invalid serial number range. The range exceeds 1000 elements.
 
 
