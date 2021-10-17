@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Barcode panel modes | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Barcode panel modes | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
+    
+    <meta property="docfx:rel" content="../../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="barcode-panel-modes">Barcode panel modes</h1>
+
+<p>The Barcode panel supports several modes of operation:</p>
+<ul>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a></strong> - selection of a product and a quantity.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/lot-number.html">Lot number mode</a></strong> - selection of a lot.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html">Serial number mode</a></strong> - selection of a single serial number.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/list-numbers.html">LIST of serial numbers</a></strong> - quick scan of several serial numbers.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START of serial numbers</a></strong> - selection of a starting serial number when creating a range of serial numbers.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html">RANGE END of serial numbers</a></strong> - selection of an ending serial number when creating a range of serial numbers.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html">SEQUENCE START of serial numbers</a></strong> - selection of a starting serial number when creating a sequence of serial numbers.</li>
+<li><strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html">SEQUENCE END of serial numbers</a></strong> - selection of a count of numbers when creating a sequence of serial numbers.</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p>There is a separate subtopic for each mode giving more details about its usage and operation.</p>
+</div>
+<h2 id="form-types-and-mode-selection">Form types and mode selection</h2>
+<p>Some of the modes are available only when the current form is in a specific type. There are three types: ‘Receive’, ‘Issue or ‘Indefinite’.</p>
+<p>The current form type could be seen after refreshing the Movement Type button in the <strong>Barcode tab</strong>.</p>
+<p>Generally, the form types are defined by whether all lines in the Main lines panel are for receiving goods, for issuing goods or for both. Usually, the direction of the document forms is pretty clear. Sales orders , for example, are ‘Issue’ type forms and purchase orders are ‘Receive’ type forms. The situation is a bit more complicated when the form is actually a navigator, such as <em>Execute store orders</em>. This navigator could contain both ‘Receive’ and ‘Issue’ lines. In those cases, the form type depends on the filtering. If the we have applied such filters that in the navigator lines there are only lines with a ‘receipt’ direction , then the form type is ‘Receive’ and vice versa. If in the navigator are loaded lines with both directions, the form type is ‘Indefinite’.</p>
+<p>Barcode modes can be selected:</p>
+<ul>
+<li><strong>manually</strong>  - the user can switch between the different modes from the drop-down list in the main field of the panel.</li>
+<li><strong>automatically</strong> - for the serial number modes, there is also an automatic switching between modes. The switching is activated as the selection of the product is mostly influenced by the value of the <em>Default mode for serial numbers input</em> field in the Barcode panel settings.</li>
+</ul>
+<p>For more information about the automatic switching between modes, please see the topic of the particular mode.</p>
+<ul>
+<li>by entering a <strong>fast command</strong> - the modes for a single serial number, list, range or a sequence of serial numbers could also be selected using a fast command. The commands can be added manually or scanned from the command list.</li>
+</ul>
+<p>For more information, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/fast-commands.html">Fast barcode panel commands</a></strong>.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/panel-modes/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
+  </body>
+</html>

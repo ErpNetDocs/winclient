@@ -79,40 +79,55 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="fast-barcode-panel-commands">Fast barcode panel commands</h1>
 
-<p>For convenience, there is a predefined Command list with the ‘easy access’ commands that are recognized by the barcode panel. <strong>The full list is available in the ERP.net client through the Command list button in the Barcode tab</strong>. The list contains fast command codes/strings and their corresponding barcode labels i.e. the commands can be entered manually or scanned from the barcode labels. The list can be printed and attached to the working area, so it can be easily accessible during daily work with the barcode scanner.</p>
-<p>The list contains commands allowing to add specific quantity for a product, entering a line, changing the serial number modes in the panel and oth.</p>
-<p>##List of fast commands</p>
-<h3 id="quantity-commands">Quantity commands:**</h3>
+<p>For convenience, there is a predefined command list with ‘easy-access’ commands that are recognized by the Barcode panel.</p>
 <ul>
-<li>*- Resets the entered quantity.</li>
-<li>q*, where ‘q’ is a number i.e. 1, 10, 50, 500..:<br>
--Adds the entered number (q) to the current value of the Barcode panel’s quantity field.</br>
--When scanned in combination of a product code (q*productCode) – adds a new line with the entered product and Quantity equal to entered number(q).<br></li>
+<li><p>The full list is available in the ERP.net client through the <strong>Command list button</strong> in the <strong>Barcode tab</strong>.</p>
+</li>
+<li><p>The list contains fast command codes/strings and their corresponding barcode labels i.e. the commands can be entered manually or scanned from the barcode labels.</p>
+</li>
+<li><p>The list can be printed and attached to the working area, so it can be easily accessible during daily work with the barcode scanner.</p>
+</li>
+<li><p>The list contains commands allowing to add specific quantity for a product, entering a line, changing the serial number modes in the panel, and others.</p>
+</li>
 </ul>
-<blockquote>
-<p>**[!Note:]**The barcodes for some of the most frequenty used quantities are available in &gt;the predefined list that can be downloaded form the Command list button in the Barcode
-tab ERP.net client. If the desired quantity is present in this list, then it can be directly &gt;scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, &gt;thequantities are sequentially scanned until the desired number is reached.</p>
-</blockquote>
+<h2 id="list-of-fast-commands">List of fast commands</h2>
+<h3 id="quantity-commands">Quantity commands:</h3>
+<ul>
+<li><p>*, which resets the entered quantity.</p>
+</li>
+<li><p>q*, where ‘q’ is a number i.e. 1, 10, 50, 500..:<br></p>
+<ul>
+<li><p>q* adds the entered number (q) to the current value of the Barcode panel’s <strong>Quantity</strong> field.<br></p>
+</li>
+<li><p>When scanned in combination with a product code (q*productCode), it adds a new line with the entered product and quantity equal to entered number(q).<br></p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the <strong>Command list</strong> button in the barcode tab ERP.net Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.</p>
+</div>
 <p><em><strong>Example:</strong></em> We want to execute 52 PCS of product code ‘0001’.</p>
-<p><strong>Method 1</strong>: We can scan the product label and consequently the quantity barcodes from the Command list  for ‘50*’ and end then for ‘2*’. The final quantity is 50 + 2, which is exactly 52;<br></p>
-<p><strong>Method 2:</strong> We can scan the product label and then enter manually the command ‘52*’.<br></p>
-<p><strong>Method 3:</strong> We can enter manually the command ‘52*0001’<br></p>
+<p><strong>Method 1</strong>: We can scan the product label and consequently the quantity barcodes from the command list for ‘50*’ and end then for ‘2*’. The final quantity is 50 + 2, which is exactly 52;<br></p>
+<p><strong>Method 2:</strong> We can scan the product label and then manually enter the command ‘52*’.<br></p>
+<p><strong>Method 3:</strong> We can manually enter the command ‘52*0001’<br></p>
 <h3 id="operational-commands">Operational commands:</h3>
 <ul>
-<li>#ADD# - Adds the data entered in the barcode panel as a new line e.g. new document line, input data line, etc.</li>
-<li>#CLEAR# - Clears all value from the fields in the barcode panel.</li>
-<li>#SKIP# - Skips the entering of lot or serial number and adds the data entered in the barcode panel as a new line.</li>
-<li>#UNDO# - Deletes the last line (new document line, input data line, etc.) created through the barcode panel.</li>
+<li>#ADD# - Adds the data entered in the Barcode panel as a new line e.g. new document line, input data line, etc.</li>
+<li>#CLEAR# - Clears all value from the fields in the Barcode panel.</li>
+<li>#SKIP# - Skips the entering of lot or serial number and adds the data entered in the Barcode panel as a new line.</li>
+<li>#UNDO# - Deletes the last line (new document line, input data line, etc.) created through the Barcode panel.</li>
 <li>#FINISH# - Completes the data entering and creates a new document. It is available only for functional navigators.</li>
 </ul>
 <h3 id="serial-number-commands">Serial number commands:</h3>
 <ul>
-<li>#SERIAL# - Switches to Serial number mode for entering a single serial number. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number.html">Serial number mode</a></strong>.</li>
-<li>#LIST# - Switches to LIST of Serial mumbers mode used for entering serial numbers until the # ADD # command is executed. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number.html">LIST of Serial numbers (Finally - Scan # ADD #)</a></strong>.</li>
-<li>#RNGSTART# - Switches to RANGE START of Serial numbers (from ... to) mode for entering of the starting serial number when creating a range of serial numbers. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START of Serial numbers (from ... to)</a></strong>.</li>
-<li>#RNGEND# - Switches to RANGE END of Serial numbers (from ... to) mode for the ending serial number when creating a range of serial numbers. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html">RANGE END of Serial numbers (from ... to)</a></strong>.</li>
-<li>#SEQSTART# - Switches to SEQUENCE START of Serial numbers (from ... count) mode used for entering of the starting serial number when creating a sequence of serial numbers. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html">SEQUENCE START of Serial numbers (from ... count)</a></strong>.</li>
-<li>#SEQEND# - Switches to SEQUENCE END of Serial numbers (from ... count) Mode for entering of the count of numbers when creating a sequence of serial numbers. For more information about the mode, see <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html">SEQUENCE END of Serial numbers (from ... count)</a></strong>.</li>
+<li>#SERIAL# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html">Serial number mode</a></strong> used for entering a single serial number.</li>
+<li>#LIST# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/list-numbers.html">LIST of serial numbers mode</a></strong> used for entering serial numbers until the # ADD # command is executed.</li>
+<li>#RNGSTART# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START of serial numbers mode</a></strong> used for entering the starting serial number when creating a range of serial numbers.</li>
+<li>#RNGEND# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html">RANGE END of serial numbers mode</a></strong> used for entering the ending serial number when creating a range of serial numbers.</li>
+<li>#SEQSTART# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html">SEQUENCE START of serial numbers mode</a></strong> used for entering the starting serial number when creating a sequence of serial numbers.</li>
+<li>#SEQEND# - Switches to <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html">SEQUENCE END of serial numbers mode</a></strong> used for entering of the count of numbers when creating a sequence of serial numbers.</li>
 </ul>
 </article>
           </div>

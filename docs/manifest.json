@@ -5458,122 +5458,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-handler.md",
+      "source_relative_path": "introduction/barcode-commands/command-handler.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-handler.html",
-          "hash": "o5cHCV6178kEkaA1XbcY+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/index.html",
-          "hash": "W5R3SGnNRaXzNo4FCS4MYw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/list-numbers.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/list-numbers.html",
-          "hash": "Dtk1W8ZPhzIeygPnUUH0Mw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/lot-number.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/lot-number.html",
-          "hash": "tE37KZgaqgCPTcyRdUCr2g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/main-mode.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/main-mode.html",
-          "hash": "c+DgCjDyWl5FObjrV0We0Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "invalid-note-section"
-      ],
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/range-end.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/range-end.html",
-          "hash": "Y4pdAf+tgtpAdqsLqrh4Jg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/range-start.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/range-start.html",
-          "hash": "ZTzwDjQsmE5QRYKZHTlxrA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/sequence-end.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/sequence-end.html",
-          "hash": "VJwAvaiL++EK8JwnUTvH5w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/sequence-start.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/sequence-start.html",
-          "hash": "SZEmujS8zTvOA3KePfAcJg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/barcode-commands/barcode-modes/serial-number-mode.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/barcode-commands/barcode-modes/serial-number-mode.html",
-          "hash": "4WIs9bnOv8Iqo8uxIjSjAA=="
+          "relative_path": "introduction/barcode-commands/command-handler.html",
+          "hash": "UJfbqCkCJVp+N+AKgnpxYg=="
         }
       },
       "is_incremental": false,
@@ -5585,7 +5474,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/fast-commands.html",
-          "hash": "/H/IYapVszA1b8J7TnhTFA=="
+          "hash": "uVBRyRBf/Z2tmioqyLaIYA=="
         }
       },
       "is_incremental": false,
@@ -5597,7 +5486,115 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/index.html",
-          "hash": "ssSrTfaakVYsjJU1n3n+jA=="
+          "hash": "kTgd0SzPWJD8PTB+mAXj6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/index.html",
+          "hash": "VXtUfxujbY0LAV3GhTwPuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/list-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/list-numbers.html",
+          "hash": "hxzVGlp6rBRwDZQV1BEulg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/lot-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/lot-number.html",
+          "hash": "Tz3GK4VVdOrMOaygUE2amw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/main-mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/main-mode.html",
+          "hash": "FQijK3dwUeNG/xzrR5j5TA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/range-end.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/range-end.html",
+          "hash": "ubO6+VwMcZ6TwNwjzHhbGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/range-start.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/range-start.html",
+          "hash": "bkr1Kn5zqBu+FJ1VFZo+BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/sequence-end.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/sequence-end.html",
+          "hash": "/AZg3betYuKjXgn9fyfabQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/sequence-start.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/sequence-start.html",
+          "hash": "lHdMfn+AfUdykFOogQj0Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/barcode-commands/panel-modes/serial-number-mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/barcode-commands/panel-modes/serial-number-mode.html",
+          "hash": "7VGj5Ck8OJcqdZVq1aOfSg=="
         }
       },
       "is_incremental": false,
@@ -5633,7 +5630,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/create-a-copy.html",
-          "hash": "BykvU7csTsLqZur+DGZNyA=="
+          "hash": "FrcKE/Ktar8P4qBuvC9B0Q=="
         }
       },
       "is_incremental": false,
@@ -5925,7 +5922,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/functions.html",
-          "hash": "CD2CsG+iniWL7w3V+YugbA=="
+          "hash": "ko1E6HiJMSIogrrvBNBzHg=="
         }
       },
       "is_incremental": false,
@@ -5937,7 +5934,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/index.html",
-          "hash": "eU/e6c/SJPBeD0FrKGJ4GA=="
+          "hash": "6pf/jlwxGEh3C8E8Yor3Hw=="
         }
       },
       "is_incremental": false,
@@ -5949,7 +5946,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/operators.html",
-          "hash": "KoMFB92+WvcMw4XwBEKD6w=="
+          "hash": "polbZaX2i0gFik+lmEfw7w=="
         }
       },
       "is_incremental": false,
@@ -7813,7 +7810,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/paste-functions.html",
-          "hash": "BR8ddpbzd+OVZBKyIITKjg=="
+          "hash": "iQJpV/jQxHX3SwCWK3+jFg=="
         }
       },
       "is_incremental": false,
@@ -8335,12 +8332,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "introduction/toc.yml",
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "tsiZrfdfsKVI+2tnVYLwCQ=="
+          "hash": "mVjtLJhq/9BKFBobHK/ztA=="
         }
       },
       "is_incremental": false,

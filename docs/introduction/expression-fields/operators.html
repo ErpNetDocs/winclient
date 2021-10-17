@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Expression fields &#8211; operators | ERP.net Windows Client </title>
+    <title>Operators | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Expression fields &#8211; operators | ERP.net Windows Client ">
+    <meta name="title" content="Operators | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,65 +77,53 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="expression-fields--operators">Expression fields – operators</h1>
+<h1 id="operators">Operators</h1>
 
 <p>Every expression consists of at least one operand and can have one or more operators. Operands are values, whereas operators are symbols that represent particular actions.</p>
-<h3 id="when-we-create-comparison-expressions-the-following-operators-are-allowed">When we create comparison expressions, the following operators are allowed:</h3>
-<ul>
-<li>'&lt;' - <strong>Less than operator</strong></li>
-</ul>
-<p>Returns True if the left operand is less than the right operand.<br>
-<em>Example</em>: 3 &lt; 4 // true</p>
-<ul>
-<li>'&gt;' - <strong>Greater than operator</strong></li>
-</ul>
-<p>Returns True if the left operand is greater than the right operand.<br>
-<em>Example</em>: 4 &gt; 3 // true</p>
-<ul>
-<li>'&lt;=' - <strong>Less than or equal to operator</strong></li>
-</ul>
-<p>Returns True if the left operand is less than or equal to the right operand.<br>
-<em>Example</em>: 3 &lt;= 4 // true</br>
+<h2 id="when-we-create-comparison-expressions-the-following-operators-are-allowed">When we create comparison expressions, the following operators are allowed</h2>
+<h3 id="---less-than-operator">'&lt;' - Less than operator</h3>
+<p>Returns True if the left operand is less than the right operand.</p>
+<p><em>Example</em>: 3 &lt; 4 // true</p>
+<h3 id="---greater-than-operator">'&gt;' - Greater than operator</h3>
+<p>Returns True if the left operand is greater than the right operand.</p>
+<p><em>Example</em>: 4 &gt; 3 // true</p>
+<h3 id="---less-than-or-equal-to-operator">'&lt;=' - Less than or equal to operator</h3>
+<p>Returns True if the left operand is less than or equal to the right operand.</p>
+<p><em>Example</em>: 3 &lt;= 4 // true <br>
 3 &lt;= 3 // true</p>
-<ul>
-<li>'&gt;=' - <strong>Greater than or equal operator</strong></li>
-</ul>
-<p>Returns True if the left operand is greater than or equal to the right operand.<br>
-<em>Example</em>: 4 &gt;= 3 // true</br>
+<h3 id="---greater-than-or-equal-operator">'&gt;=' - Greater than or equal operator</h3>
+<p>Returns True if the left operand is greater than or equal to the right operand.</p>
+<p><em>Example</em>: 4 &gt;= 3 // true <br>
 3 &gt;= 3 // true</p>
-<ul>
-<li>'&lt;&gt;' – <strong>Inequality operator</strong></li>
-</ul>
-<p>Returns True if the operands do not have the same value; otherwise, it returns False.<br>
-<em>Example</em>: 4 &lt;&gt; 3   // true</p>
-<ul>
-<li>'=' – <strong>Equality operator</strong></li>
-</ul>
-<p>Returns True if both operands have the same value; otherwise, it returns False.<br>
-<em>Example</em>: 3 = 3   // true</p>
-<ul>
-<li>** In(,,,) - IN operator**</li>
-</ul>
-<p>Tests if the column value is equal to any one of a specified set of values. The IN operator is useful when you want to compare a column with more than one value. It is similar to an OR condition</p>
-<p><strong>Syntax:</strong> <em>expression</em> In (<em>value1, value2,</em> …), where:
-- <em>expression</em> - expression identifying the field that contains the data you want to evaluate;
-- <em>value1, value2</em> - <em>expression</em> or list of expressions against which you want to evaluate the <em>expression</em>.</p>
+<h3 id="--inequality-operator">'&lt;&gt;' – Inequality operator</h3>
+<p>Returns True if the operands do not have the same value; otherwise, it returns False.</p>
+<p><em>Example</em>: 4 &lt;&gt; 3   // true</p>
+<h3 id="--equality-operator">'=' – Equality operator</h3>
+<p>Returns True if both operands have the same value; otherwise, it returns False.</p>
+<p><em>Example</em>: 3 = 3   // true</p>
+<h3 id="in---in-operator">In(,,,) - IN operator</h3>
+<p>Tests if the column value is equal to any one of a specified set of values. It is useful when you want to compare a column with more than one value. It is similar to an OR condition.</p>
+<p><strong>Syntax:</strong> <em>expression</em> In (<em>value1, value2,</em> …), where:</p>
+<pre><code>       - *expression* - expression identifying the field that contains the data you want to evaluate;
+       - *value1, value2* - *expression* or list of expressions against which you want to evaluate the *expression*.
+</code></pre>
 <p>If the <em>expression</em> is found in the list of values, the In operator returns True; otherwise, it returns False.</p>
-<blockquote>
-<p><strong>[!Note:]</strong> If we are using characters or dates list items, they must be enclosed in single quotation marks ('').</p>
-</blockquote>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If we are using characters or dates list items, they must be enclosed in single quotation marks ('').</p>
+</div>
 <p><em><strong>Example:</strong></em> [Quantity]In(1, 2, 5 )</p>
-<p>The operator will return True for the rows where Quantity is either of '1', ‘2’ or ‘5’; otherwise, it returns False.</p>
-<ul>
-<li><strong>Like() - LIKE operator</strong></li>
-</ul>
+<p>The operator will return True for the rows where the quantity is either of '1', ‘2’ or ‘5’; otherwise, it returns False.</p>
+<h3 id="like---like-operator">Like() - LIKE operator</h3>
 <p>Tests if the column value is similar to specified character(s). The LIKE operator is used to list all rows in a table whose column values match a specified pattern. It is useful when you want to search rows to match a specific pattern, or when you do not know the entire value.</p>
-<p><em><strong>Syntax:</strong></em> <em>expression</em> Like ('<em>pattern</em>'), where:
-- <em>expression</em> - expression identifying the field that contains the data you want to evaluate;
-- <em>pattern</em> - string or character string literal against which <em>expression</em> is compared.</p>
-<blockquote>
-<p><strong>[!Note:]</strong> If we are using characters or dates list items, they must be enclosed in single quotation marks (‘).</p>
-</blockquote>
+<p><em><strong>Syntax:</strong></em> <em>expression</em> Like ('<em>pattern</em>'), where:</p>
+<pre><code>     - *expression* - expression identifying the field that contains the data you want to evaluate;
+     - *pattern* - string or character string literal against which *expression* is compared.
+</code></pre>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If we are using characters or dates list items, they must be enclosed in single quotation marks (‘).</p>
+</div>
 <p>The following table shows how you can use <strong>Like</strong> to test expressions for different patterns.</p>
 <table>
 <thead>
@@ -232,10 +220,10 @@
 </tbody>
 </table>
 <ul>
-<li><p><strong>Concatenation</strong> is allowed using Boolean AND, OR, and NOT operators. The AND operator has precedence over other operators. For example:</p>
-<p>(LastName = 'Smith' OR LastName = 'Jones') AND FirstName = 'John'</p>
-</li>
+<li><strong>Concatenation</strong> is allowed using Boolean AND, OR, and NOT operators. The AND operator has precedence over other operators.</li>
 </ul>
+<p>For example:</p>
+<p>(LastName = 'Smith' OR LastName = 'Jones') AND FirstName = 'John'</p>
 <p>To concatenate a string, use the + character.</p>
 <p>The following arithmetic operators are also supported in expressions:</p>
 <ul>

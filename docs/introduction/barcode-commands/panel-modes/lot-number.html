@@ -5,19 +5,19 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Create a copy of a product | ERP.net Windows Client </title>
+    <title>Lot number mode | ERP.net Windows Client </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Create a copy of a product | ERP.net Windows Client ">
+    <meta name="title" content="Lot number mode | ERP.net Windows Client ">
     <meta name="generator" content="docfx 2.56.9.0">
     
-    <link rel="shortcut icon" href="../favicon.ico">
-    <link rel="stylesheet" href="../styles/docfx.vendor.css">
-    <link rel="stylesheet" href="../styles/docfx.css">
-    <link rel="stylesheet" href="../styles/main.css">
-    <meta property="docfx:navrel" content="../toc.html">
-    <meta property="docfx:tocrel" content="toc.html">
+    <link rel="shortcut icon" href="../../../favicon.ico">
+    <link rel="stylesheet" href="../../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../../styles/docfx.css">
+    <link rel="stylesheet" href="../../../styles/main.css">
+    <meta property="docfx:navrel" content="../../../toc.html">
+    <meta property="docfx:tocrel" content="../../toc.html">
     
-    <meta property="docfx:rel" content="../">
+    <meta property="docfx:rel" content="../../../">
     
   </head>
   <body data-spy="scroll" data-target="#affix" data-offset="120">
@@ -34,8 +34,8 @@
                 <span class="icon-bar"></span>
               </button>
               
-              <a class="navbar-brand" href="../index.html">
-                <img id="logo" class="svg" src="../logo.svg" alt="">
+              <a class="navbar-brand" href="../../../index.html">
+                <img id="logo" class="svg" src="../../../logo.svg" alt="">
               </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar">
@@ -77,26 +77,20 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="create-a-copy-of-a-product">Create a copy of a product</h1>
+<h1 id="lot-number-mode">Lot number mode</h1>
 
-<p><em>Create a copy</em> is a function that is available in the Functions tab (product's definition). This function allows us to create a new product from the current one. Note that not all data from the base product is copied to the new one.</p>
-<p>The tables currently copied to the new product are:</p>
-<ul>
-<li><strong>Identification</strong> - only product name is copied. The description is not copied and the part number is inherited by the value of the field <em>Next part number</em> of the product group.</li>
-<li><strong>Data</strong></li>
-<li><strong>Product dimensions</strong></li>
-<li><strong>Variants</strong></li>
-<li><strong>Document amounts</strong></li>
-<li><strong>Default store bins for products</strong></li>
-<li><strong>Custom properties</strong></li>
-<li><strong>Product pictures</strong></li>
-<li><strong>Product distribution channels</strong></li>
-</ul>
-<p>The lots, serial numbers, product codes, prices, purchase prices and discounts are NOT copied to the new product.</p>
-<div class="NOTE">
-<h5>Note</h5>
-<p>Some of the records of the copied panels (such as Custom properties) are loaded after the saving of the new product.</p>
-</div>
+<p>If this mode is set, when scanning/adding a lot number in the main field, the following actions are completed:</p>
+<p><strong>(1)</strong> Look for the lots related to the product set in the field <em>Product</em>. If there is only one lot related to this product =&gt; <strong>(5)</strong> <br></p>
+<p><strong>(2)</strong> More than one lot meets the conditions. Open a dropdown list in the field <em>Lot</em>. The system recommends the user to choose a lot. Once a specific lot is selected=&gt; <strong>(5)</strong><br></p>
+<p><strong>(3)</strong> There is no lot that meets the criteria. Clear the panel - the panel is ready to be used again.</p>
+<p><strong>(4)</strong> STOP</p>
+<p><strong>(5)</strong> Fill in the selected lot in the field <em>Lot</em>.</p>
+<p><strong>(6)</strong> Check whether the product uses serial numbers. If yes =&gt; <strong>(10)</strong></p>
+<p><strong>(7)</strong> The product does not use a lot or a serial number. Create a new line using current values of the fields in the panel.</p>
+<p><strong>(8)</strong> Switch to the last chosen mode for serial numbers. If not – the mode is chosen according to the following algorithm:</p>
+<p><strong>(9)</strong> If the type of the current form = ‘Receive’, the enabled mode will be the mode selected in the field <em>Default mode for serial numbers input</em> from the Barcode panel settings.</p>
+<p><strong>(10)</strong> If the type of the current form = ‘Issue’ or ‘Indefinite’, then the enabled mode is <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html">Serial number</a></strong>.</p>
+<p><strong>(11)</strong> STOP.</p>
 </article>
           </div>
           
@@ -105,7 +99,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/create-a-copy.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/introduction/barcode-commands/panel-modes/lot-number.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
@@ -131,8 +125,8 @@
       </footer>
     </div>
     
-    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
-    <script type="text/javascript" src="../styles/docfx.js"></script>
-    <script type="text/javascript" src="../styles/main.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../../styles/main.js"></script>
   </body>
 </html>
