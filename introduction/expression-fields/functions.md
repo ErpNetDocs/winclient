@@ -18,7 +18,7 @@ This function is very useful if we want to use custom properties values in calcu
 
 ***Syntax:*** Convert (expression, type), where:
 
--expression - The expression to convert.
+- expression - The expression to convert.
 
 ***Example:*** CONVERT([LinesTotal], 'System.Decimal').  
 
@@ -28,7 +28,7 @@ Gets the length of a string.
 
 ***Syntax***: LEN(*expression*), where:
 
--expression - The string to be evaluated.
+- expression - The string to be evaluated.
 
 ***Example:*** Len([ProductDescription]) 
 
@@ -40,8 +40,8 @@ Checks an expression and either returns it or gives a replacement value.
 
 ***Syntax:*** ISNULL(expression, replacementvalue), where:
 
--expression - The expression to check.
--replacementvalue - If expression is null, a replacement value is returned.
+- expression - The expression to check.
+- replacementvalue - If expression is null, a replacement value is returned.
 
 ***Example:*** IsNull([UnitPrice], 0.00)
 
@@ -53,9 +53,9 @@ Gets one of two values depending on the result of a logical expression.
 
 ***Syntax:*** IIF(expr, truepart, falsepart), where:
 
--expr - The expression to evaluate.
--truepart - The value to return if the expression is true.
--falsepart - The value to return if the expression is false.
+- expr - The expression to evaluate.
+- truepart - The value to return if the expression is true.
+- falsepart - The value to return if the expression is false.
  
  ***Example:*** IIF([LineAmount]>1000, 'Eligible for discount', 'No discount')
  
@@ -69,7 +69,7 @@ Removes all leading and trailing blank characters.
 
 ***Syntax:*** TRIM(expression), where:
 
--expression - The expression that will be trimmed.
+- expression - The expression that will be trimmed.
 
 ***Example:*** TRIM([Notes])
 
@@ -81,9 +81,9 @@ Gets a sub-string of a specified length, starting at a specified point in the st
 
 ***Syntax:*** SUBSTRING(expression, start, length), where:
 
--expression - The source string for the substring.</br>
--start - An integer that defines where the substring starts.</br>
--length - An integer that defines the length of the substring.</br>
+- expression - The source string for the substring.</br>
+- start - An integer that defines where the substring starts.</br>
+- length - An integer that defines the length of the substring.</br>
  
  ***Example:*** SUBSTRING([ProductDescription], 7, 5)
  
