@@ -60,7 +60,7 @@ If the *expression* is found in the list of values, the In operator returns True
 
 ***Example:*** [Quantity]In(1, 2, 5 )
 
-The operator will return True for the rows where Quantity is either of '1', ‘2’ or ‘5’; otherwise, it returns False.
+The operator will return True for the rows where the quantity is either of '1', ‘2’ or ‘5’; otherwise, it returns False.
 
 ### Like() - LIKE operator
 
