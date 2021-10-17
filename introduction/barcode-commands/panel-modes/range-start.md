@@ -1,4 +1,4 @@
-# RANGE START of serial Numbers (from ... to)
+# RANGE START of serial numbers (from ... to)
 
 
 ## About the mode
