@@ -19,6 +19,7 @@ If this mode is set when scanning/adding a code in the main field, the following
 A new line using current values of the fields in the panel is created (for example 'Quantity = 5', 'Product = XXX').
 
 > [!NOTE]
+> 
 > When adding a new product line, the panel is cleared and ready to be used again. The mode is **Main**.
 
 **(7)** STOP
