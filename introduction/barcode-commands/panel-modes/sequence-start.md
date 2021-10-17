@@ -5,7 +5,7 @@
  
 This mode is introduced in Version 2019.1. It is used for **entering a starting serial number** when creating a sequence of an exact count of serial numbers starting from a particular serial number. 
 
-After the selection of the starting number, the system automatically switches to **[SEQUENCE END of Serial numbers (from ... count)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html)** mode in which we should enter the count of numbers that we would like to create.
+After the selection of the starting number, the system automatically switches to **[SEQUENCE END of serial numbers (from ... count)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html)** mode in which we should enter the count of numbers that we would like to create.
 
 ***Example:*** We want to create 5 serial numbers starting from serial number ‘XB0008’. 
 
