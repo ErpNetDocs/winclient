@@ -7,12 +7,12 @@ This mode is introduced in Version 2019.1. It is used for **entering  a starting
 
 ***Example:*** We want to create a range of serial numbers starting from serial number ‘XB0008’ and ending to a serial number ‘XB0012’. In this case we could:
 
-***Note:*** The product has already been selected manually or through the **Main (Barcode/Command/Name) mode**.
+***Note:*** The product has already been selected manually or through the **[Main (barcode/command/name) mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)**.
 1. Select the ‘RANGE START of Serial numbers (from ... to)’ and enter the starting number ’XB0008’.
 2. The system automatically switches to ‘RANGE END of Serial numbers (from ... to)’ mode - enter ’XB0012’</br>
 => the system will create 5 serial numbers - XB0008, XB0009, XB0010, XB0011 and XB0012.
 
-Alternatively, we could skip these steps and use only the ‘RANGE END of Serial numbers (from ... to)’ mode to complete the task. In this case we should enter the string ‘XB0008 ... XB0012’ which will be recognized the same way (for more information see **RANGE END of Serial numbers (from ... to))**.
+Alternatively, we could skip these steps and use only the ‘RANGE END of Serial numbers (from ... to)’ mode to complete the task. In this case we should enter the string ‘XB0008 ... XB0012’ which will be recognized the same way (for more information see **[RANGE END of Serial numbers (from ... to)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html))**.
  
 ## Mode selection
  
@@ -20,15 +20,15 @@ The ‘RANGE START of Serial numbers (from ... to)’ mode can be selected:
 
 - **manually** from the drop down list in the Barcode panel.  
 - **manually** by entering the **fast command #RNGSTART#** in the main field when panel is operating in one of the serial number modes.
-- **automatically** after the selection of the product through the **Main (Barcode/Command/Name) mode** - 
+- **automatically** after the selection of the product through the **[Main (barcode/command/name) mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - 
 
-if the ‘Use serial numbers’ option in the Barcode settings is activated **AND** the products ‘Is serialized’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ section in topic **Barcode commands**) **AND:**
+if the ‘Use serial numbers’ option in the Barcode settings is activated **AND** the products ‘Is serialized’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ section in topic **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**) **AND:**
 
-- it is the first use of the panel after opening the form **AND** the current mode is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings 
+-it is the first use of the panel after opening the form **AND** the current mode is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings 
  
 **OR**
 
--  it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
+-it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
  
 ## Mode operation
  
@@ -40,10 +40,10 @@ If **’RANGE START of Serial numbers (from ... to)’ ** mode is selected, **wh
 
 **Note:** If the field ‘Serial numbers’ already has a value, the value is cleared.
 
-**(3)** Proceed in mode **‘RANGE END of Serial numbers (from ... to)‘**  mode.
+**(3)** Proceed in mode **[RANGE END of Serial numbers (from ... to)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html)**  mode.
  
 **Message1:**
 
 The ‘{0}’ mode is available only when all lines in the form are with movement type ‘Receipt’.</br>
-, {0} - ModeName
+{0} - ModeName
 
