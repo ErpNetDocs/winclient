@@ -1,4 +1,4 @@
-# Expression fields – functions
+# Functions
 
 
 Functions can be used in formulas to perform simple or complex calculations. You can create a formula with a function that obtains its argument from the result of another functions.
