@@ -1,6 +1,6 @@
 # Main (barcode/command/name) mode
 
-When the Main (Barcode/command/name) mode is set, when scanning/adding a code in the main field, the following actions are completed:
+When the Main (barcode/command/name) mode is set, when scanning/adding a code in the main field, the following actions are completed:
 
 **(1)** Look for a product that relates to the particular code. If there is only one product, and it meets the conditions =>**(4)**
 
@@ -8,7 +8,7 @@ When the Main (Barcode/command/name) mode is set, when scanning/adding a code in
 
 **(3)** STOP
 
-**(4)** A specific product has been selected. Check whether the product uses lots. If yes =>** (8)**
+**(4)** A specific product has been selected. Check whether the product uses lots. If yes =>**(8)**
 
 **(5)** Check whether the product uses serial numbers. If yes => **(10)**
 
@@ -26,7 +26,7 @@ A new line using current values of the fields in the panel is created (for examp
 
 **(10)** Switch to the last chosen mode for serial numbers. If not (it is the first use of the panel after the opening of the form)  – the mode is chosen according to the following algorithm:
 
-**(11)** If the type of the current form = ‘Receive’, the enabled mode will be mode which is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings 
+**(11)** If the type of the current form = ‘Receive’, the enabled mode will be mode which is selected in the field ‘Default mode for serial numbers input’ in the Barcode panel settings. 
 
 **(12)** If the type of the current form = ‘Issue’ or ‘Indefinite’, ‘, the enabled mode will be ‘Serial number.’
 
