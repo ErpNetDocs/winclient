@@ -21,12 +21,15 @@
   href: edit-mode.md
 - name: Navigators
   href: navigators/toc.yml
+  topicHref: nagivators/index.md
 - name: Documents
   href: documents/toc.yml
+  topicHref: documents/index.md
 - name: Tablet view settings
   href: tablet-view-settings.md
 - name: Fields management
   href: fields-management/toc.yml
+  topicHref: fields-management/index.md
 - name: Barcode commands
   href: barcode-commands/toc.yml
   topicHref: barcode-commands/index.md
