@@ -30,7 +30,7 @@ The **RANGE START of Serial numbers (from ... to)** mode can be selected:
 - **manually** by entering the **fast command #RNGSTART#** in the main field when panel is operating in one of the serial number modes.
 - **automatically** after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - 
 
-as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the products ‘_Is serialized_’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**) 
+as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the products ‘_Is serialized_’ **AND** the form type is ‘Receive’ (for more information, see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**) 
 
 **AND:**
 
