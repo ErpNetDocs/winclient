@@ -19,7 +19,7 @@ If this mode is set, when scanning/adding a lot number in the main field, the fo
 
 **(8)** Switch to the last chosen mode for serial numbers. If not – the mode is chosen according to the following algorithm:
 
-**(9)** If the type of the current form = ‘Receive’, the enabled mode will be the mode selected in the field _Default mode for serial numbers input_ from the Barcode panel settings .
+**(9)** If the type of the current form = ‘Receive’, the enabled mode will be the mode selected in the field _Default mode for serial numbers input_ from the Barcode panel settings.
 
 **(10)** If the type of the current form = ‘Issue’ or ‘Indefinite’, then the enabled mode is ‘Serial number’.
 
