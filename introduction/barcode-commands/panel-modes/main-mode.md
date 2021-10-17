@@ -1,5 +1,7 @@
 # Main (barcode/command/name) mode
 
+## About the mode
+
 If this mode is set when scanning/adding a code in the main field, the following actions are completed:
 
 **(1)** Look for a product related to the particular code. If there is only one product which meets the conditions =>**(4)**
