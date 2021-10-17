@@ -1,69 +1,91 @@
 # Functions
 
 
-Functions can be used in formulas to perform simple or complex calculations. You can create a formula with a function that obtains its argument from the result of another functions.
-## The following functions are supported:
+Functions can be used in formulas to perform simple or complex calculations. You can create a formula with a function that obtains its argument from the result of another function.
 
-- ### CONVERT()
-Converts an expression of one data type to another. This function is very useful if we want to use custom properties values in calculations. We can use all data types which are available in the drop down list in the Expression fields editor. Data types must be used in the following format 'System.DataType' - they have to be preceded by System and have to be enclosed in single quotation marks ('').
+## The following functions are supported
 
->[**!Note:]**  All conversions are valid with the following exceptions: **Boolean** can be converted to and from **Integer**, **String** and itself only. **DateTime** can be converted to and from **String** and itself only. 
+### CONVERT()
+
+Converts an expression of one data type to another. 
+
+This function is very useful if we want to use custom properties values in calculations. We can use all data types which are available in the dropdown list in the **Expression fields** editor. Data types must be used in the following format 'System.DataType' - they have to be preceded by 'System' and have to be enclosed in single quotation marks ('').
+
+> [!NOTE]
+> 
+> All conversions are valid with the following exceptions:<br> **Boolean** can be converted to and from **integer**, **string** and itself only. <br>
+**DateTime** can be converted to and from **string** and itself only. 
 
 ***Syntax:*** Convert (expression, type), where:
-*-expression* - The expression to convert.
+
+-expression - The expression to convert.
 
 ***Example:*** CONVERT([LinesTotal], 'System.Decimal').  
 
-- ### LEN()
+### LEN()
+
 Gets the length of a string.
 
-***Syntax***: LEN(*expression*), where:</br> 
+***Syntax***: LEN(*expression*), where:
+
 -expression - The string to be evaluated.
 
-***Example:*** Len([ProductDescription]) </br>
+***Example:*** Len([ProductDescription]) 
+
 If the product description is ‘White paper’, the function will return 11.
-- ### ISNULL()
 
-Checks an expression and either returns the checked expression or a replacement value.
+### ISNULL()
 
-***Syntax:*** ISNULL(expression, replacementvalue), where:</br>
--expression - The expression to check.</br>
--replacementvalue - If expression is null, replacementvalue is returned.
+Checks an expression and either returns it or gives a replacement value.
 
-***Example:*** IsNull([UnitPrice], 0.00)</br>
-If the Unit price is 12.00, then the function returns 12.00. If the Unit price is not filled in, then returns 0.00.
+***Syntax:*** ISNULL(expression, replacementvalue), where:
 
-- ### IIF()
+-expression - The expression to check.
+-replacementvalue - If expression is null, a replacement value is returned.
+
+***Example:*** IsNull([UnitPrice], 0.00)
+
+If the unit price is 12.00, then the function returns 12.00. If the unit price is not filled in, it returns 0.00.
+
+### IIF()
 
 Gets one of two values depending on the result of a logical expression.
 
-***Syntax:*** IIF(expr, truepart, falsepart), where:</br>
--expr - The expression to evaluate.</br>
--truepart - The value to return if the expression is true.</br>
--falsepart - The value to return if the expression is false.</br>
+***Syntax:*** IIF(expr, truepart, falsepart), where:
+
+-expr - The expression to evaluate.
+-truepart - The value to return if the expression is true.
+-falsepart - The value to return if the expression is false.
  
- ***Example:*** IIF([LineAmount]>1000, 'Eligible for discount', 'No discount')</br>
-If the Line amount is 2000.00, the function returns ‘Eligible for discount’.</br>
+ ***Example:*** IIF([LineAmount]>1000, 'Eligible for discount', 'No discount')
+ 
+If the Line amount is 2000.00, the function returns ‘Eligible for discount’.
+
 If the Line amount is 800.00, the function returns ‘No discount’.
-- ### TRIM()
+
+### TRIM()
 
 Removes all leading and trailing blank characters.
 
-***Syntax:*** TRIM(expression), where:</br>
--expression - The expression to trim.</br>
+***Syntax:*** TRIM(expression), where:
 
-***Example:*** TRIM([Notes])</br>
-If the note is ‘The warranty is sold separately. ‘, then the function will return ‘The warranty is sold separately.’.
+-expression - The expression that will be trimmed.
 
-- ### SUBSTRING()
+***Example:*** TRIM([Notes])
+
+If the note is ‘The warranty is sold separately. ‘, the function will return ‘The warranty is sold separately.’.
+
+### SUBSTRING()
 
 Gets a sub-string of a specified length, starting at a specified point in the string.
 
-***Syntax:*** SUBSTRING(expression, start, length), where:</br>
+***Syntax:*** SUBSTRING(expression, start, length), where:
+
 -expression - The source string for the substring.</br>
--start - Integer that specifies where the substring starts.</br>
--length - Integer that specifies the length of the substring.</br>
+-start - An integer that defines where the substring starts.</br>
+-length - An integer that defines the length of the substring.</br>
  
- ***Example:*** SUBSTRING([ProductDescription], 7, 5)’</br>
+ ***Example:*** SUBSTRING([ProductDescription], 7, 5)
+ 
 If the Product description is ‘White paper’, then the function will return ‘Paper’.
 
