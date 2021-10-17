@@ -1,4 +1,4 @@
-# Lot number 
+# Lot number mode
 
 If this mode is set, when scanning/adding a lot number in the main field, the following actions are completed:
 
