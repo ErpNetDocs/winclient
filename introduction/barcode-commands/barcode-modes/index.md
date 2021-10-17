@@ -2,7 +2,7 @@
 
 
 The barcode panel supports several modes of operation:
-- **[Main (barcode/command/name)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - selection of a product and a quantity.
+- **[Main (barcode/command/name) mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - selection of a product and a quantity.
 - **[Lot number mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/lot-number.html)** - selection of a lot.
 - **[Serial number mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html)** - selection of a single serial number.
 - **[LIST of serial numbers](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/list-numbers.html)** - quick scan of several serial numbers. 
