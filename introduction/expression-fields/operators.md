@@ -1,4 +1,4 @@
-# Expression fields – operators
+# Operators
 
 
 Every expression consists of at least one operand and can have one or more operators. Operands are values, whereas operators are symbols that represent particular actions. 
