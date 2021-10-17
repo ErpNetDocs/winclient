@@ -1,6 +1,6 @@
 - name: Overview
   href: index.md
-- name: Expression fields – functions
+- name: Functions
   href: functions.md
-- name: Expression fields – operators
+- name: Operators
   href: operators.md
