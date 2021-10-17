@@ -18,7 +18,7 @@ An expression consists of a number of possible elements that you can use, alone 
 
 Those elements include:
 - **Identifiers** - the names of table fields. In the editor, we can refer to a target field in the expressions as we add its ‘Field name’ surrounded by square brackets without spaces;
-- **Operators** - such as + (plus) or - (minus). For more information, see **Expression fields - operators** ;
-- **Functions** - such as IFF or ISNULL. For more information, see **Expression fields - functions**;
+- **Operators** - such as + (plus) or - (minus). For more information, see **[Expression fields - operators](https://docs.erp.net/winclient/introduction/expression-fields/operators.html)** ;
+- **Functions** - such as IFF or ISNULL. For more information, see **[Expression fields - functions](https://docs.erp.net/winclient/introduction/expression-fields/functions.html)**;
 - **Constants**  - values that do not change, such as strings of text, or numbers that are not calculated by an expression.
 
