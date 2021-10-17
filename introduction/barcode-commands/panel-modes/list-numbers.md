@@ -23,7 +23,7 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
  
 ## Mode operation
  
- If List mode is set, when scanning/adding a serial number in the main field, the following actions are completed:
+ If **List** mode is set, when scanning/adding a serial number in the main field, the following actions are completed:
  
 **(0)** scan # ADD # => **(9)**
 
