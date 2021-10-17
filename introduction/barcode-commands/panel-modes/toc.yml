@@ -1,19 +1,19 @@
 - name: Overview
   href: index.md
-- name: LIST of serial numbers (Finally - scan # ADD #)
+- name: LIST of serial numbers 
   href: list-numbers.md
 - name: Lot number mode
   href: lot-number.md
-- name: RANGE END of Serial numbers (from ... to)
+- name: RANGE END of serial numbers
   href: range-end.md
-- name: RANGE START of Serial Numbers (from ... to)
+- name: RANGE START of serial numbers 
   href: range-start.md
-- name: SEQUENCE END of Serial numbers (from ... count)
+- name: SEQUENCE END of serial numbers 
   href: sequence-end.md
-- name: SEQUENCE START of Serial numbers (from ... count)
+- name: SEQUENCE START of serial numbers 
   href: sequence-start.md
 - name: Serial number mode
   href: serial-number-mode.md
-- name: Main (barcode/command/name) mode
+- name: Main mode
   href: main-mode.md
  
