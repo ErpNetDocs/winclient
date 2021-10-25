@@ -3,7 +3,6 @@ An activity document is used to enter a specific activity and mark its result.
 
 To create an activity, go to **Customers >> Contacts & Tasks >> Create New Activity**.
  
-
 ![Activity](pictures/activity1.png)
 
 Let's fill in the following fields:
@@ -20,7 +19,7 @@ Let's fill in the following fields:
  
 ![Activity](pictures/activity4.png)
 
--	<b>End Time</b> - this is where you set the date and time for ending the activity. The **Planned Duration Minutes** will be calculated automatically
+-	<b>End Time</b> - this is where you set the date and time for ending the activity. The **Planned Duration Minutes** will be calculated automatically.
  
 ![Activity](pictures/activity5.png)
 
@@ -41,14 +40,3 @@ To view all created activities, go to **Customers >> Contacts & Tasks >> Activit
 ![Activity](pictures/activity8.png)
 
 If you click a selected activity, you can open and view it.
-
-
-
-
-
-
-
-
-
-
-
