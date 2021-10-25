@@ -5606,7 +5606,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "KfC+lfIA1t9tb0yw3e+KQQ=="
+          "hash": "fTm4tuemAX27Osm1GgPTIg=="
         }
       },
       "is_incremental": false,
@@ -7895,6 +7895,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/expand-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/expand-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/home.png",
       "output": {
         "resource": {
@@ -9453,7 +9464,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/activity.html",
-          "hash": "jWVjHMjn+Xwd8IlW2k/4iA=="
+          "hash": "4zoR6kkwb19fOMOXX3rH3A=="
         }
       },
       "is_incremental": false,
