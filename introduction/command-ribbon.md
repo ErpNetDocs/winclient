@@ -6,9 +6,13 @@ What is special about the command ribbon in @@winclientfull is its <b>adaptive c
  
 ![The command ribbon](pictures/command-ribbon.png)
 
+## Quick access buttons
+
 The command ribbon contains two main pages - Home and File, which you can find in any system form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon there.
 
 ![Command ribbon home](pictures/ribbon-home.png)     ![Command ribbon file](pictures/ribbon-file.png) 
+
+## Minimize the ribbon
 
 The command ribbon has two main states - minimized (compact) and expanded. You can switch between them (minimize or expand it) from the button on the bottom right corner of the command ribbon:
  
@@ -21,6 +25,8 @@ Another way you can minimize the command ribbon is with right click on the Custo
 When the ribbon is in its compact state, you would see only the names of the pages. When click on some of the tabs the ribbon go back to its extended state, until you click on one of its buttons or click somewhere outside the ribbon:
 
 ![Minimized ribbon](pictures/minimized-ribbon.png) 
+
+## Expand the ribbon 
 
 If you would like to expand your ribbon again, you can do it with the little button on the right:
 
