@@ -7,7 +7,7 @@ To create an activity, go to **Customers >> Contacts & Tasks >> Create New Activ
 
 Let's fill in the following fields:
 
--	<b>System Type </b> - you can set it as either **Communication**, **Meeting** or **Task**.
+-	<b>System Type </b> - you can set it as either **Communication**, **Meeting**, or **Task**.
  
 ![Activity](pictures/activity2.png)
 
