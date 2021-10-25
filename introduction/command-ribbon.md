@@ -24,4 +24,4 @@ When the ribbon is in its compact state, you would see only the names of the pag
 
 If you would like to expand your ribbon again, you can do it with the little button on the right:
 
-![Expanded ribbon](pictures/expanded-ribbon.png) 
+![Expand the ribbon](pictures/expand-ribbon.png) 
