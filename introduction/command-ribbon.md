@@ -21,3 +21,7 @@ Another way you can minimize the command ribbon is with right click on the Custo
 When the ribbon is in its compact state, you would see only the names of the pages. When click on some of the tabs the ribbon go back to its extended state, until you click on one of its buttons or click somewhere outside the ribbon:
 
 ![Minimized ribbon](pictures/minimized-ribbon.png) 
+
+If you would like to expand your ribbon again, you can do it with the little button on the right:
+
+![Expanded ribbon](pictures/expanded-ribbon.png) 
