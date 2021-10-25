@@ -20,11 +20,11 @@ Let's fill in the following fields:
  
 ![Activity](pictures/activity4.png)
 
--	<b>End Time</b> - this is where you set the date and time for ending the activity. The **Deadline Time** will be calculated automatically
+-	<b>End Time</b> - this is where you set the date and time for ending the activity. The **Planned Duration Minutes** will be calculated automatically
  
 ![Activity](pictures/activity5.png)
 
--	<b>Deadline Time</b> - define the planned duration in minutes. The **End Time** field will be calculated automatically.
+-	<b>Planned Duration Minutes </b> - define the planned duration in minutes. The **End Time** field will be calculated automatically.
  
 ![Activity](pictures/activity6.png)
 
