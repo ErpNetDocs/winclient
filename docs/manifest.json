@@ -2347,6 +2347,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/expand-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/expand-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/home.png",
       "output": {
         "resource": {
