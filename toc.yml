@@ -4,3 +4,6 @@
 - name: Step By Step
   href: step-by-step/
   topicHref: step-by-step/index.md
+- name: Specific functionality
+  href: specific-functionality/
+  topicHref: specific-functionality/index.md  

@@ -8,7 +8,7 @@ For information and deep dive in the business logic of @@name, check the [Techni
  
 - [Introduction to @@winclientfull](~/introduction/index.md) - explanation of commonly used terms, concepts and commands.
 - [Step by step guides](~/step-by-step/index.md) - easy to follow step by step guides for common tasks.
-- Specific functionality - forms, which are specific to the @@winclient
+- [Specific functionality](~/specific-functionality/index.md) - forms and panels, specific to the @@winclient
 
 ## Other documentations
 
