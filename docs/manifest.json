@@ -3700,6 +3700,72 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-config-empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-config-empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-config.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-config.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-full.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-full.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-google-maps.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-google-maps.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/web-browser-visible-panels-popup.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/web-browser-visible-panels-popup.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/step-by-step/pictures/Amountpay.png",
       "output": {
         "resource": {
