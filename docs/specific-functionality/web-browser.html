@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Web browser | ERP.net Windows Client </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Web browser | ERP.net Windows Client ">
+    <meta name="generator" content="docfx 2.56.9.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="web-browser">Web browser</h1>
+
+<p>They are everywhere. Each form in Windows Client supports up to 3 instances of a web browser panel. You can show them in the usual way - <a href="../introduction/workspace-customization/working-with-panels.html">Customize the workspace / Working with panels.</a></p>
+<p><img src="pictures/web-browser-visible-panels-popup.png" alt="Layout-form-visible-panels"></p>
+<p>Their purpose is quite simple - access and interact with an external web service directly from the Windows Client. See below for an example picture of a customized web browser panel. It's configured to open a location in google maps - the location corresponding to the specific customer record.</p>
+<p><img src="pictures/web-browser-google-maps.png" alt="Web-browser-google-maps"></p>
+<p>This is a very simple example of use, but you can customize the panels to suit your needs. In the next section you can see how a web browser panel can be configured.</p>
+<h2 id="setup">Setup</h2>
+<p>When a web browser panel is in configuration mode, it looks like this:</p>
+<p><img src="pictures/web-browser-config-empty.png" alt="Web-browser-full"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If you need to customize a web browser panel, the Customize Current View mode should be active.</p>
+</div>
+<p>Several additional regions appear to help you configure it. Their names are self explanatory and the main idea is to specify the destination address you want the web browser to open.
+An important detail here is that if the address is not constant (e.g. when you just want to open &quot;google.com&quot;) and depends on certain parameters, then the <a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">string interpolation</a> takes action - integrated functionality in ERP.net.</p>
+<p>In the example with the panel above that shows google maps, the source URL used is:</p>
+<p><a href="https://www.google.com/maps/place/%7BParty.Area.Name:T%7D">https://www.google.com/maps/place/{Party.Area.Name:T}</a></p>
+<p>which is interpolated to:</p>
+<p><a href="https://www.google.com/maps/place/Sofia">https://www.google.com/maps/place/Sofia</a></p>
+<p>That is, it doesn't simply visualize a location on the map, but one that is set on the customer itself.</p>
+<p>For more information on string interpolation you can read in our <a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">separate topic in the documentation</a>.</p>
+<h3 id="source-url">Source URL</h3>
+<p>This is the original (source) target address that will be interpolated. Here you can specify additional parameters that are required (as the location in the example above). Of course, if you just type &quot;google.com&quot; and save the changes, this panel will simply open the site.</p>
+<h3 id="http-headers">HTTP headers</h3>
+<p>Sometimes, usually for web services, you need to specify additional value(s) in the request header. E.g. a secret token, api key, etc... Here you can set all additional headers as they are required.</p>
+<h3 id="parameters">Parameters</h3>
+<p>Contains a list of possible parameters that you can use in the source URL. When you double-click on the desired one, it will be inserted where you are positioned in the source URL input.</p>
+<h3 id="destination-url">Destination URL</h3>
+<p>Practically, the same one as the Source URL, but interpolated. This will be the actual URL, that web browser will open.</p>
+<h2 id="advanced-example">Advanced example</h2>
+<p>Some web services require multiple additional parameters, which must be passed in the URL. The picture below demonstrates it.</p>
+<p><img src="pictures/web-browser-full.png" alt="Web-browser-advanced-example-full"></p>
+<p>The external web service in the example expects several parameters and prints them on the screen. We can obtain these parameters only via string interpolation. Take a closer look at picture below - the source URL and how it's interpolated.</p>
+<p><img src="pictures/web-browser-config.png" alt="Web-browser-full"></p>
+<p>As you see, we need to pass the customer's id, its nationality, the database name and the name of the currently logged user.</p>
+<p>Here is the source URL (string interpolation ready):</p>
+<pre><code>https://mywebservice.com?customerId={Id}&amp;customerNationality={Party.Nationality.Name:T}&amp;databaseName={$dbname}&amp;loggedUser={$user.Name:T}
+</code></pre>
+<p>And the result from the string interpolation:</p>
+<pre><code>https://mywebservice.com?customerId=108aaf46-8371-452d-bf50-ddff75596ad6&amp;customerNationality=Russian Federation&amp;databaseName=DEMODB&amp;loggedUser=John Smith
+</code></pre>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/winclient/blob/master/specific-functionality/web-browser.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

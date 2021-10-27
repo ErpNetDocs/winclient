@@ -5461,7 +5461,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "WAf9AlesiWGyC/3SXVFUog=="
+          "hash": "RnPoM+k6mQeON5phSsfRAQ=="
         }
       },
       "is_incremental": false,
@@ -9471,6 +9471,108 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "specific-functionality/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "specific-functionality/index.html",
+          "hash": "wsTJU/ovU6ZM839qy2R4nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-config-empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-config-empty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-config.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-config.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-full.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-full.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-google-maps.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-google-maps.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-result.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/pictures/web-browser-visible-panels-popup.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/pictures/web-browser-visible-panels-popup.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "specific-functionality/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "specific-functionality/toc.html",
+          "hash": "6jG61/URfuPkEQLeUcbuXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "specific-functionality/web-browser.md",
+      "output": {
+        ".html": {
+          "relative_path": "specific-functionality/web-browser.html",
+          "hash": "jUqidzdIbobvv0cPfMQp2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "step-by-step/activity.md",
       "output": {
         ".html": {
@@ -11255,7 +11357,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "m2r2i0qJfH9+khlfELThQw=="
+          "hash": "3Yfbre+lSxGSlda/JvGmfQ=="
         }
       },
       "is_incremental": false,
