@@ -2,7 +2,7 @@
 
 You can use <b>fields management</b> when working with one panel.
   
-In this section you can learn more about:
+In this section, you can learn more about:
  
 - **[Field types](https://docs.erp.net/winclient/introduction/fields-management/field-types.html)**
 - **[Multilanguage fields](https://docs.erp.net/winclient/introduction/fields-management/multilanguage-fields.html)**
