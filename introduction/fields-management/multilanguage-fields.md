@@ -1,4 +1,4 @@
-# Multilanguage Fields 
+# Multilanguage fields 
 
 <b>Multilanguage fields</b> are text fields usually present in the nomenclatures (name, description). You can transliterate the values in these fields using the <b>Text translations</b> form. 
 Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
