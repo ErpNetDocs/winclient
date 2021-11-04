@@ -10,7 +10,7 @@ The **Serial number mode** mode can be selected:
 
 - **manually** from the dropdown list in the Barcode panel.  
 - **manually** by entering the **fast command #SERIAL#** in the main field when the panel is operating in one one of the serial number modes.
-- **automatically** after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - 
+- **automatically** after the selection of the product through the [Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html) - 
 
 as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the product ‘_Is serialized_’ 
 
@@ -32,7 +32,7 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
 
 **(3)** If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Wait for another serial number.
 
-For more information, see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**
+For more information, see ‘Form types and Mode selection’ in [Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)
 
 **(4)** STOP
 
