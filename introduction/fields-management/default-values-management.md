@@ -21,11 +21,11 @@ Press **OK** to save the selected options.
 
 <b>Example 1:</b>
 
-You want to set *Bank transfer* as default payment option in a **Sales order** document. 
+You want to set *Bank transfer* as default payment option in a **sales order** document. 
 
 - Select the following: ***for the current user*** and ***for the current document type***. 
 
-Any time you open a new **Sales order** document, the *Bank transfer* value will automatically appear in the <b>Payment Type</b> field. 
+Any time you open a new **sales order** document, the *Bank transfer* value will automatically appear in the *Payment Type* field. 
 
 The <b>Clear default value</b> function clears the data set as default. 
 
@@ -41,6 +41,6 @@ Mark the row in the panel with a mouse click, then right-click and select the <b
 
 <b>Example 2:</b>
 
-The default value that you set – *Bank transfer*, in the *Payment type* field of the **Sales order** document, needs to be cleared. 
+The default value that you set – *Bank transfer*, in the *Payment Type* field of the **sales order** document, needs to be cleared. 
 
-After clearing the default value following the steps above, if you open a **Sales order** document, *Payment type* will be empty.
+After clearing the default value following the steps above, if you open a **sales order** document, *Payment Type* will be empty.
