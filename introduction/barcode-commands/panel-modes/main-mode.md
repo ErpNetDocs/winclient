@@ -32,7 +32,7 @@ A new line using current values of the fields in the panel is created (for examp
 
 **(11)** If the type of the current form = ‘Receive’, the enabled mode will be the mode selected in the field _Default mode for serial numbers input_ in the Barcode panel settings. 
 **
-**(12)** If the type of the current form = ‘Issue’ or ‘Indefinite’, the enabled mode will be **[Serial number](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html)**.
+**(12)** If the type of the current form = ‘Issue’ or ‘Indefinite’, the enabled mode will be [Serial number](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html).
 
 **(13)** STOP
 
