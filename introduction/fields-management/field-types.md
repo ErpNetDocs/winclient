@@ -89,6 +89,6 @@ This field contains a tree-structured drop-down list. The list includes other su
 
 ## <b>Drop-down list field with a tree structure for checkboxes</b>
 
-The field contains a tree-structured drop-down list with checkboxes – e.g. for product group selection in the <b>Order Lines navigator</b>
+The field contains a tree-structured drop-down list with checkboxes – e.g. for product group selection in the <b>Order lines navigator</b>
 
 ![Tree Checklist](pictures/tree-checklist.png)
