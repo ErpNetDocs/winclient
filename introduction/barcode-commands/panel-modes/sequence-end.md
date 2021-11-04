@@ -13,7 +13,7 @@ In this case, we could:
 
 > [!NOTE]
 > 
-> The product has already been selected manually or through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)**.
+> The product has already been selected manually or through the [Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html).
 
 **Method 1:**
 
