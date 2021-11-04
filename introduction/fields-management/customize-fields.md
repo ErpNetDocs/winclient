@@ -21,7 +21,7 @@ The ![Expression fields button](pictures/expression-fbutton.png) button opens th
 
 The ![Expand all button](pictures/expand-abutton.png) opens all the groups and shows the existing fields.
 
-<b>Example</b> : 
+***Example*** : 
 The fields ‘Enterprise company ‘ and ‘Enterprise Company Location‘ are to expand with the use of this form without having to click on the menu displaying them.
 
 Open <b>Field Properties</b> by clicking the ![Properties button](pictures/propertiesbutton.png) button.
@@ -59,7 +59,7 @@ Click 'OK'.
 Displays the editing format and what will be seen when the field is clicked upon.
 Click on the ![dots button](pictures/dots.png) button to open the <b>String format</b> form.
 
- <b>Example</b>:
+ ***Example***:
 A number is typed out with 2 digits after the decimal separator. It must be displayed with 3 symbols only after the change in the field. 
 Open <b>String format</b>. Select ‘Number’ category. Select ‘n3’ Standard Type, then click ‘OK’.
 The number in the field has two digits after the separator. However, when clicked upon, it comes out as 3 symbols long.
