@@ -27,7 +27,7 @@ The first component in the Context menu is the Definition of the selected elemen
  
 ![Definition](pictures/definition.png)
 
-For example, when you click on the Customer field (in the Header of the Offer Document), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
+For example, when you click on the *Customer* field (in the Header of the Offer дocument), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
  
 ![More…](pictures/definition-more.png)
 
@@ -41,7 +41,7 @@ When the document is in a <b>New</b> state, this function provides the following
 -	<b>Create new for Customer</b> – create a record for the current field;
 -	<b>Refresh display values (F9)</b> – refresh the values for the drop menu of the current field;
 -	<b>Create form Internet</b> – automatically retrieves all the data for a given company from the Internet, by entering the VAT number. 
-Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. For example, when clicking on the Document Type field in the Document panel.
+Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. For example, when clicking on the *Document Type* field in the Document panel.
 
 ## Data tab
 The Data tab includes:
