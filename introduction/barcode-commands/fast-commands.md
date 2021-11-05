@@ -24,7 +24,7 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
  
 >[!NOTE]
 >
-> The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the **Command list** button in the barcode tab @@name Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.
+> The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the **Command list button** in the barcode tab @@name Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.
  
 
  ***Example:*** We want to execute 52 PCS of product code ‘0001’.
