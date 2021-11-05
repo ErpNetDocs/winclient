@@ -1,8 +1,8 @@
-# Print Preview
+# Print preview
 
-The <b>Print Preview</b> allows you to review the Form before you print it and adjust its properties if needed.
+The <b>Print preview</b> allows you to review the Form before you print it and adjust its properties if needed.
 
-You will find it in the Command Ribbon >> Home >> Print >> Print Preview.
+You will find it in the Command Ribbon >> Home >> Print >> Print preview.
 
 ![Print icon](pictures/print-icon.png) 
 
@@ -26,7 +26,7 @@ To save the printout as a file, click on the desired format button:
 
 ![Print Scale](pictures/print-scale.png)
 
-- <b>Orientation</b> – change the page Orientation to Portrait or Landscape:
+- <b>Orientation</b> – change the page orientation to Portrait or Landscape:
 
 ![Page Orientation](pictures/page-orientation.png)
 
