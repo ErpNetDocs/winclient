@@ -6,7 +6,7 @@ To create a sales invoice from an invoice order, open the sale for which you wan
 
 ![Release](pictures/salesnvo9.png)
 
--	In the **Document Flow** panel, find the sales invoice. 
+-	In the **Document flow** panel, find the sales invoice. 
  
 ![Release](pictures/salesnvo.png)
 
