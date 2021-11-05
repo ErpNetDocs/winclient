@@ -1,11 +1,11 @@
-# Properties Form
+# Properties form
 
-In the <b>Properties Form</b>, we systemize the information about documents and definitions. <br>
+In the <b>Properties form</b>, we systemize the information about documents and definitions. <br>
 Open it in the File Menu >> Properties.
 
 ![General Properties](pictures/general-properties.png) 
 
-You can find the following within the Properties Form:
+You can find the following within the Properties form:
 
 1. <b>General</b> tab (for documents and definitions):
 
