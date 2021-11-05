@@ -4,12 +4,12 @@ This procedure will show you how to view the rows of overdue payments in color (
 
 As an example, we will set all payments, overdue with more than 30 days, to show up in red. For that purpose, you can first open the respective menu: 
 
-<b>Home Menu -> Finance -> Payments -> Payments Status </b>
+<b>Home Menu -> Finance -> Payments -> Payments status </b>
 
-The <b>Payments Status</b> navigator shows the payments due to/from your company for different contractors – customers, suppliers.
+The <b>Payments status</b> navigator shows the payments due to/from your company for different contractors – customers, suppliers.
 
-1.	Click on <b>Show Data</b> and then right-click on the rows of the Navigator. From the displayed menu select Customize fields; 
-2.	The <b> Customize fields</b> window will open, then you need to click on the <b>Expression Format Conditions </b> button: 
+1.	Click on <b>Show data</b> and then right-click on the rows of the Navigator. From the displayed menu select Customize fields; 
+2.	The <b> Customize fields</b> window will open, then you need to click on the <b>Expression format conditions </b> button: 
 
 ![Customize fields](pictures/customize-fileds.png)
  
