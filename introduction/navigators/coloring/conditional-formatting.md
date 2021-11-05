@@ -1,11 +1,11 @@
 # Conditional formatting
 
 The procedure will show you how to format the size, thickness, style, and font color of the text, the color of the field frame in a given navigator. <br>
-	For example, we will format the thickness and font color of the text of overdue liabilities from the rows in the <b> Payments Status Navigator</b>. <br>  
-	<b> Home Menu -> Finance -> Payments -> Payments Status </b>
+	For example, we will format the thickness and font color of the text of overdue liabilities from the rows in the <b> Payments status navigator</b>. <br>  
+	<b> Home Menu -> Finance -> Payments -> Payments status </b>
 
-1.	Click on <b>Show Data</b> and then right-click on a row of the Navigator. From the displayed menu select <b>Customize fields</b>;
-2.	The <b>Customize fields</b> window will open. Click on the <b>Expression Format Conditions</b> button: 
+1.	Click on <b>Show data</b> and then right-click on a row of the Navigator. From the displayed menu select <b>Customize fields</b>;
+2.	The <b>Customize fields</b> window will open. Click on the <b>Expression format conditions</b> button: 
 
 ![Customize fields](pictures/customize-fileds.png)
 
