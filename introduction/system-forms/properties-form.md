@@ -1,6 +1,6 @@
-# Properties form
+# Properties Form
 
-In the <b>Properties form</b>, we systemize the information about documents and definitions. <br>
+In the <b>Properties Form</b>, we systemize the information about documents and definitions. <br>
 Open it in the File Menu >> Properties.
 
 ![General Properties](pictures/general-properties.png) 
