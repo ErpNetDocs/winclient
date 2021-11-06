@@ -5,7 +5,7 @@ Open it in the File Menu >> Properties.
 
 ![General Properties](pictures/general-properties.png) 
 
-You can find the following within the Properties form:
+You can find the following within the Properties Form:
 
 1. <b>General</b> tab (for documents and definitions):
 
