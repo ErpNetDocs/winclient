@@ -25,7 +25,7 @@ The main sorting is the first one, while every following one depends on the main
 
 If you need to sort by multiple columns, hold the Shift key on your keyboard and click on the desired column. Or you can sort by multiple columns by going through the settings in the context menu (as described above) for each individual column.
 
-## Sorting Methods
+## Sorting methods
 
 When a field contains numbers, the program can treat them either as numbers or as text. Depending on how the program treats your data, you may receive different results. Sorting is one of those cases. Numeric Sort allows you to sort the values in a rising or decreasing order. String Sorting allows you to compare values as words – in alphabetic order. To set the sorting method, go to <b>Customize Fields >> Properties</b>.
 
