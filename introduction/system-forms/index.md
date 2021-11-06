@@ -1,4 +1,4 @@
-# System forms 
+# System Forms 
 
 The <b>system forms</b> are a basic unit for showing and editing system data that comprise a group of fields. Тhey are used to display and enter information.
 
