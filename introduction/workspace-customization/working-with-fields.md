@@ -6,7 +6,7 @@ The <b>Fields</b> are the smallest units of information in @@winclientfull. Ever
 
 ![View](pictures/view.png)
 
-Or with right-click >><b>Customize fields</b>. 
+Or with right-click >> <b>Customize fields</b>. 
 With that, a new window opens up:
 
 ![Customize Fields](pictures/customize-fields.png)
