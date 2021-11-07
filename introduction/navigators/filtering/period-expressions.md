@@ -19,7 +19,7 @@ The <b>absolute expressions</b> for periods set the day, the month and eventuall
 <b>Month</b> <br>
 <b>Month.Year</b> <br>
 <b>.Year</b> <br>
-<b>Day,Month.Year</b> <br>
+<b>Day.Month.Year</b> <br>
 
 <b>Examples for specific dates</b>: <br>
 
