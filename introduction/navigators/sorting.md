@@ -33,6 +33,6 @@ When a field contains numbers, the program can treat them either as numbers or a
 
 ![Numeric sort](pictures/numeric-sort.png)
 
-The difference between the two methods is most visible in the accounting Forms:
+The difference between the two methods is most visible in the accounting forms:
 
 ![Numeric Sorted Form](pictures/numeric-sorted-form.png) ![String Sorted Form](pictures/string-sorted-fort.png)
