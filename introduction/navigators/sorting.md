@@ -9,12 +9,12 @@ From the context menu, you can select one of three options:
 
 - None – the data doesn’t follow any particular order;
 - Ascending – when you choose this option, the system will automatically sort the data in ascending order ![Up](pictures/up.png);
-- Descending – sorts the data in Descendent order ![Down](pictures/down.png).
+- Descending – sorts the data in descendent order ![Down](pictures/down.png).
 
 ![Sorted main column](pictures/sorted-main-column.png)
 
 When you sort the information in a column, you will see an arrow showing the applied direction. <br>
-Another way of Sorting is by clicking in the column’s name (every following click will switch between the directions). <br>
+Another way of sorting is by clicking in the column’s name (every following click will switch between the directions). <br>
 You can also sort by <b>multiple columns</b>. 
 
 ![Ascening](pictures/ascending.png)
@@ -23,7 +23,7 @@ The main sorting is the first one, while every following one depends on the main
 
 ![Sorted second column](pictures/sorted-second-column.png)
 
-If you need to sort by multiple columns, hold the Shift key on your keyboard and click on the desired column. Or you can sort by multiple columns by going through the settings in the context menu (as described above) for each individual column.
+If you need to sort by multiple columns, hold the **Shift** key on your keyboard and click on the desired column. Or you can sort by multiple columns by going through the settings in the context menu (as described above) for each individual column.
 
 ## Sorting methods
 
