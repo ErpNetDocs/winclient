@@ -41,7 +41,7 @@ To avoid overloading the server and networks, we advise you to go for the lowest
 
 
 ## Timeout
-The <b>Timeout</b> option in the bottom left corner is another way of limiting the amount of data. It sets a time limit for the filtering to complete. If the time runs out before the end of the process, the application stops with no results. By default, the Timeout is 5 minutes. But loading an extensive Report can take up <b>a lot of time</b>. That’s when you can find it appropriate to extend the time limit. You can set this value by clicking on the *Timeout* field:
+The <b>Timeout</b> option in the bottom left corner is another way of limiting the amount of data. It sets a time limit for the filtering to complete. If the time runs out before the end of the process, the application stops with no results. By default, the Timeout is 5 minutes. But loading an extensive Report can take up a lot of time. That’s when you can find it appropriate to extend the time limit. You can set this value by clicking on the *Timeout* field:
  
 ![Timeout](pictures/timeout.png)
 
