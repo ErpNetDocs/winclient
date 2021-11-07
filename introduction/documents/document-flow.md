@@ -1,6 +1,6 @@
 # Document flow
 
-<b>The document flow</b> describes the hierarchy of a given process - the order in which you create the documents. It has only one document for a <b>start – the master document</b>, and a variety of child documents that you create from the master document. According to its place in the document flow (and the current document), you can set almost every document to be a master, parent or child document.
+The **document flow** describes the hierarchy of a given process - the order in which you create the documents. It has only one document for a start – the master document, and a variety of child documents that you create from the master document. According to its place in the document flow (and the current document), you can set almost every document to be a master, parent or child document.
 
 ## Master document 
 
@@ -30,10 +30,10 @@ You can view the document flow in the document flow panel. The panel is standard
 
 ![Document flow](pictures/document-flow.png )
  
-To open a document from the Document flow, right-click on the desired document and select “Open document”. When you right-click on a document you can also:
+To open a document from the Document flow, right-click on the desired document and select *Open document*. When you right-click on a document you can also:
 
--	Show Void Documents – if you select that, the voided documents will display as well;
--	Show Transitional Documents - if you check that option, the transitional documents will display as well;
+-	Show void documents – if you select that, the voided documents will display as well;
+-	Show transitional documents - if you check that option, the transitional documents will display as well;
 -	Refresh – refreshes the document flow.
 
-The structure of the document flow begins from the current document. Under every document, you can see its child documents. In order to see the parent document, you have to press the expand button in front of “Created By”. The master document is the document that does not have an expand button in front of “Created By”. The document flow panel is convenient for a quick overview of the document flow.
+The structure of the document flow begins from the current document. Under every document, you can see its child documents. In order to see the parent document, you have to press the expand button in front of *Created By*. The master document is the document that does not have an expand button in front of *Created By*. The document flow panel is convenient for a quick overview of the document flow.
