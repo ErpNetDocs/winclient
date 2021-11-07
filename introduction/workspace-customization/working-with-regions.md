@@ -1,6 +1,6 @@
 # Working with regions
 
-The <b>regions</b> are places on the workspace that contain [panels](working-with-panels.md). You can change their size and position for each system form separately. <br>
+The <b>regions</b> are places on the workspace that contain [panels](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-panels.html). You can change their size and position for each system form separately. <br>
 To personalize the regions, you need to have *Customize current view* mode activated.
 
 ![Regions](pictures/regions.png) 
