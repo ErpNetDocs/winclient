@@ -7,7 +7,9 @@ The panels are logically grouped sets of fields. They are part of the forms, whi
 
 ## Showing and hiding panels
 
-If you would like to show or hide some Panels, go to 
+If you would like to show or hide some panels, go to 
+
+
 **Command ribbon >> View >> Visible panels**.
 
 ![Visible Panels](visible-panels.png)
@@ -22,7 +24,7 @@ If you need to hide a panel, click on its name in the list – the panel will ge
 
 ## Arranging panels
 
-You could move the panels from one region to another by dragging them. In a single region you could have more than one visible panels. Only one of the panels will be focused and its fields will be shown. If you would like focus another panel, you could click on its panel name. You will initially see the panel, which was visible when the View was saved. If you would like to change the initially visible panel, you could enter the *Customize current view* mode, open the desired panel, and then save the change. 
+You can move the panels from one region to another by dragging them. In a single region you could have more than one visible panels. Only one of the panels will be focused and its fields will be shown. If you would like focus another panel, you could click on its panel name. You will initially see the panel, which was visible when the View was saved. If you would like to change the initially visible panel, you could enter the *Customize current view* mode, open the desired panel, and then save the change. 
 
 You could set where in the region the panels’ names should appear. This happens when you right click the name of a panel within a region and select one of the options: Top, Left, Bottom, Right:
 
