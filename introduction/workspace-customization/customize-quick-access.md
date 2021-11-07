@@ -1,46 +1,46 @@
-# Customize Quick Access
+# Customize quick access
 
-The Command Ribbon in @@winclientfull is designed in such a way so that the most used commands are the easiest to access. However, depending on your business, you will find different functions most useful. That’s why you can set Quick Access buttons, that will stay attached to the <b>Quick Access Toolbar</b> of the program, regardless of what section you are currently in (and it remains persistent for that Form and User). 
+The command ribbon in @@winclientfull is designed in such a way so that the most used commands are the easiest to access. However, depending on your business, you will find different functions most useful. That’s why you can set quick access buttons, that will stay attached to the <b>quick access</b> toolbar of the program, regardless of what section you are currently in (and it remains persistent for that Form and User). 
 
-## Add to Quick Access Toolbar
+## Add to quick access toolbar
 
-1. Enter the Customize Current View mode; 
-2. Right click on the desired button in the Command Ribbon;
-3. From the drop menu choose “Add to Quick Access Toolbar”:
+1. Enter the *Customize current view* mode; 
+2. Right click on the desired button in the command ribbon;
+3. From the drop menu choose “Add to quick access toolbar”:
 
 ![Add to Quick Access Toolbar](pictures/add-to-quick-access.png) 
 
-4. This will add the command you choose to the Quick Access Toolbar:
+4. This will add the command you choose to the quick access toolbar:
 
 ![Quick Access Toolbar](pictures/quick-access-toolbar.png) 
 
 5. Save layout changes.
 
-## Remove from Quick Access Toolbar
+## Remove from quick access toolbar
 
-1. Enter the Customize Current View mode;
-2. Right click on the desired button in the Quick Access Toolbar or the Command Ribbon;
-3. From the drop menu choose “Remove from Quick Access Toolbar”:
+1. Enter the *Customize current view* mode;
+2. Right click on the desired button in the quick access toolbar or the command ribbon;
+3. From the drop menu choose “Remove from quick access toolbar”:
 
 ![Remove from Quick Access Toolbar](pictures/remove-from-quick-access.png) 
 
-4. This will remove the chosen button from the Quick Access Toolbar:
+4. This will remove the chosen button from the quick access toolbar:
 
 ![Removeed Quick Access](pictures/removed-quick-access.png) 
 
 5. Save layout changes.
 
-## Position the Quick Access Toolbar
+## Position the Quick access toolbar
 
-Depending on your preferences, you can position the Quick Access Toolbar above or below the Command Ribbon. To do that: 
+Depending on your preferences, you can position the quick access toolbar above or below the command ribbon. To do that: 
 
 1. Click the arrow on the right ![Arrow](pictures/arrow.png) or right click the Toolbar;
-2. Select “Show Quick Access Toolbar Below the Ribbon”:
+2. Select “Show quick access toolbar below the ribbon”:
 
 ![Show Quick Access Toolbar Below the Ribbon](pictures/above-the-ribbon.png)
 
-3. The Quick Access Toolbar gets positioned below the Command Ribbon for all Forms:
+3. The Quick Access Toolbar gets positioned below the command ribbon for all Forms:
 
 ![Show Quick Access Toolbar Above the Ribbon](pictures/below-the-ribbon.png)
 
-You can show the Quick Access Toolbar Above the Ribbon in a similar way.
+You can show the quick access toolbar above the ribbon in a similar way.
