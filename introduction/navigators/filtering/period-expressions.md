@@ -14,7 +14,7 @@ The period will present itself as Starting date and End date in the fields “Fr
  
 ## Absolute expressions 
 
-The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (***for example:*** 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
+The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (for example: 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
 
 <b>Month</b> <br>
 <b>Month.Year</b> <br>
