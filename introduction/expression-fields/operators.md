@@ -9,39 +9,51 @@ Every expression consists of at least one operand and can have one or more opera
 
 Returns True if the left operand is less than the right operand.
 
-*Example*: 3 < 4 // true
+***Example***:        3 < 4 // true
+
+
 
 ### '>' - Greater than operator
 
 Returns True if the left operand is greater than the right operand.
 
-*Example*: 4 > 3 // true
+***Example***:        4 > 3 // true
+
+
 
 ### '<=' - Less than or equal to operator
 
 Returns True if the left operand is less than or equal to the right operand.
 
-*Example*: 3 <= 4 // true <br>
+***Example***:        3 <= 4 // true <br>
 3 <= 3 // true
+
+
 
 ### '>=' - Greater than or equal operator
 
 Returns True if the left operand is greater than or equal to the right operand.
 
-*Example*: 4 >= 3 // true <br>
+***Example***:         4 >= 3 // true <br>
 3 >= 3 // true
+
+
 
 ### '<>' – Inequality operator
 
 Returns True if the operands do not have the same value; otherwise, it returns False.
 
-*Example*: 4 <> 3   // true
+***Example***:         4 <> 3   // true
+
+
 
 ### '=' – Equality operator
 
 Returns True if both operands have the same value; otherwise, it returns False.
 
-*Example*: 3 = 3   // true
+***Example***: 3 = 3   // true
+
+
 
 ### In(,,,) - IN operator
 
@@ -61,6 +73,8 @@ If the *expression* is found in the list of values, the In operator returns True
 ***Example:*** [Quantity]In(1, 2, 5 )
 
 The operator will return True for the rows where the quantity is either of '1', ‘2’ or ‘5’; otherwise, it returns False.
+
+
 
 ### Like() - LIKE operator
 
@@ -92,7 +106,7 @@ The following table shows how you can use **Like** to test expressions for diffe
 
 - **Concatenation** is allowed using Boolean AND, OR, and NOT operators. The AND operator has precedence over other operators. 
  
-For example:
+***For example***:
   
   (LastName = 'Smith' OR LastName = 'Jones') AND FirstName = 'John'
 
