@@ -40,11 +40,11 @@ You can modify the visualization of data in the Panels. Select a field name from
 
 The checkmarks on top are the options we’ve looked into above.  
 
-To set the field format (number, date), click on the **three dots** next to **Display format**. 
+To set the field format (number, date), click on the three dots next to *Display format*. 
 
 ![Display Format](pictures/display-format.png)
 
-In the new window, you can choose from the standard types in the program or create a custom one. You can choose the type of data on the left side of the window. You need to set Formats in the standard C# way – [more information](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-numeric-format-strings).
+In the new window, you can choose from the standard types in the program or create a custom one. You can choose the type of data on the left side of the window. You need to set formats in the standard C# way – [more information](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-numeric-format-strings).
 
 ![Sample](pictures/sample.png)
 
@@ -56,7 +56,7 @@ Similarly, you can set the format for editting – what will be visible when you
 
 - <b>Security</b>
 
-From the **Security** panel, you can choose the *Security type* of the field, using a **private access key** or **shared access key**. By default, it will be not secured. 
+From the **Security** panel, you can choose the *Security type* of the field, using a *private* access key or *shared* access key. By default, it will be not secured. 
 
 ![Security](pictures/security.png)
 
