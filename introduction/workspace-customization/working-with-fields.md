@@ -8,10 +8,10 @@ Or with right-click >> <b>Customize fields</b>. With that, a new window opens up
 
 ![Customize Fields](pictures/customize-fields.png)
 
-On its left side (<b>All Fields</b>) you will find all Fields organized by panels in a tree. When you enable the *Custom properties* checkbox, you will see it as a subsection of Documents and it includes the defined custom properties for that document, if there are any. <br>The checkmark ![Visible Fields](pictures/visible.png) indicates visible fields, while ![Hidden Fields](pictures/hidden.png) marks hidden Fields. 
+On its left side **All Fields** you will find all fields organized by panels in a tree. When you enable the *Custom properties* checkbox, you will see it as a subsection of Documents and it includes the defined custom properties for that document, if there are any. <br>The checkmark ![Visible Fields](pictures/visible.png) indicates visible fields, while ![Hidden Fields](pictures/hidden.png) marks hidden Fields. 
 With the <b>Expand All</b> button you can review all fields from the list. 
 
-With the <b>Expression Fields</b> button, you can create and edit expression fields. 
+With the **Expression Fields** button, you can create and edit expression fields. 
 On the right side, you can see a list of all Visible Fields. The program organizes them in the same way as you see them on screen. Against the name of the field you will see its main settings – if it could be sorted, if it is accessible with Enter, if it is Required, and if it is Read Only. 
 
 If you put a check on Enter, when you press Enter on the keyboard over a previous field, the cursor will move on to this field. When the checkmark is absent, you can access the field by pressing Tab, the arrow keys, or a mouse click, but not with Enter – the cursor will skip this field and move on to the next Enter-enabled field.
@@ -27,7 +27,7 @@ If you need to hide a field, double-click on it again or choose the analog comma
 
 - <b>Reordering fields</b>
 
-You can reorder the Fields by dragging them to the needed position. Press the name of the field in the *Visible fields* list on the right and hold. Then drag it to the fitting place and let it go.
+You can reorder the fields by dragging them to the needed position. Press the name of the field in the *Visible fields* list on the right and hold. Then drag it to the fitting place and let it go.
 
 You can also reorder the Fields with the move up ![Up](pictures/up.png) and down 
 ![Down](pictures/down.png) buttons.
@@ -48,7 +48,7 @@ In the new window, you can choose from the standard types in the program or crea
 
 ![Sample](pictures/sample.png)
 
-When you set a format, the program loads a sample text in the “Sample” field, according to the chosen format. The sample may <b>not</b> reflect all aspects of the given format.  
+When you set a format, the program loads a sample text in the *Sample* field, according to the chosen format. The sample may <b>not</b> reflect all aspects of the given format.  
 
 Similarly, you can set the format for editting – what will be visible when you click the field. Click on the button next to Edit Format and proceed in the way described above.
 
@@ -56,7 +56,7 @@ Similarly, you can set the format for editting – what will be visible when you
 
 - <b>Security</b>
 
-From the *Security* panel, you can choose the *Security type* of the field, using a **private access key** or **shared access key**. By default, it will be not secured. 
+From the **Security** panel, you can choose the *Security type* of the field, using a **private access key** or **shared access key**. By default, it will be not secured. 
 
 ![Security](pictures/security.png)
 
