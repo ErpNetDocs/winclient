@@ -1,6 +1,6 @@
 # Filtering by row 
 
-The <b>filtering by row</b> is another option for limiting the number of shown records when searching for specific information. It can be accessed by right-clicking on the headline of the chart. In order to save the filter for future use, you can activate the <b>Customize Current View</b> mode.
+The <b>filtering by row</b> is another option for limiting the number of shown records when searching for specific information. It can be accessed by right-clicking on the headline of the chart. In order to save the filter for future use, you can activate the *Customize Current View* mode.
 
 ![Show filter row](pictures/show-filter-row.png)
 
