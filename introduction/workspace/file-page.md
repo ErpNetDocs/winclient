@@ -48,7 +48,7 @@ You can delete some of the Forms (templates for documents routes, characteristic
 
 ![Delete](pictures/delete.png) 
 
-## Log Off
+## Log off
 
 The <b>Log Off</b> button allows you to end your work in the system. The program remains open, available for another user to log in with their credentials.
 
