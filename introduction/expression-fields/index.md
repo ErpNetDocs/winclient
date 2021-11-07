@@ -5,7 +5,7 @@ Expression fields are user-defined fields that can be created in different forms
 
 Аt first glance, еxpression fields and [calculated attributes](https://docs.erp.net/tech/advanced/calculated-attributes/index.html), which are introduced in Version 2017, have a similar purpose, but the calculated attributes are recommended for advanced users. Unlike them, expression fields can’t be used by [user business rules](https://docs.erp.net/tech/advanced/user-business-rules/index.html).
  
-Like regular system fields, expression fields can be managed from the ‘Customise fields’ form.
+Like regular system fields, expression fields can be managed from the *Customise fields* form.
 
 The expression fields have the following properties:
 
