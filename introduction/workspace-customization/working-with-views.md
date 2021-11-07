@@ -1,10 +1,10 @@
 # Working with views
 
-When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a View. The View is a specific named appearance of a system’s form. You could have multiple Views for the same form and each of them could be easily opened with a single mouse click.
+When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a **View**. The View is a specific named appearance of a system’s form. You could have multiple Views for the same form and each of them could be easily opened with a single mouse click.
 
-To customize the View, you need to have the form in the Customize Current View mode and possess the needed rights (in the current article we assume that you have the rights to perform the described actions).
+To customize the View, you need to have the form in the *Customize Current View* mode and possess the needed rights (in the current article we assume that you have the rights to perform the described actions).
 
-Selecting the desired View is done by clicking it in the Command Ribbon >> View. There is a list at the left hand side with all saved views (if there are any). The View is changed by clicking on the desired View:
+Selecting the desired View is done by clicking it in the **Command Ribbon >> View** . There is a list at the left hand side with all saved views (if there are any). The View is changed by clicking on the desired View:
 
 ![View Tab](view-tab.png)
 
@@ -20,16 +20,16 @@ The Views, created by a User (in brackets behind the name of a View you can see 
 
 ## Saving views
 
-You can save your modified View using one of the following methods – by clicking the “Save layout changes” button or by using the “Save current view as…” option.
-The function “Save layout changes” is used by clicking the respective button in the View tab of the Command Ribbon. This way the changes are saved in the currently selected View.
+You can save your modified View using one of the following methods – by clicking the *Save layout changes* button or by using the *Save current view as…* option.
+The function *Save layout changes* is used by clicking the respective button in the View tab of the Command ribbon. This way the changes are saved in the currently selected View.
  
 ![Save Layout](save-layout.png)
  
-When it is necessary to save the changes in a View, different than the currently selected one, you could use the option “Save current view as…” from the Command Ribbon >> View >> More >> Save current view as…
+When it is necessary to save the changes in a View, different than the currently selected one, you could use the option *Save current view as…* from the **Command ribbon >> View >> More >> Save current view as…**
 
 ![Save View](save-view.png)
  
-This option opens a new dialog window where you can set your saving preferences. If you would like the View to be named, click the respective “Named Layout” checkbox and give it a name. Otherwise, the View will be saved as a Standard View.
+This option opens a new dialog window where you can set your saving preferences. If you would like the View to be named, click the respective *Named layout* checkbox and give it a name. Otherwise, the View will be saved as a Standard View.
 
 ![Save Layout As](save-layout-as.png)
 
@@ -37,7 +37,7 @@ If the View is not specifically saved, the system would ask if you would like to
 
 ## More actions
 
-Other actions you could potentially perform with Views (from the Command Ribbon >> View >> More)
+Other actions you could potentially perform with Views (from the **Command Ribbon >> View >> More**)
 
 - Delete current view – deletes the currently selected view. This function is irreversible
 - Restore default view – restores the Standard view
