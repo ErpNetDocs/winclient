@@ -1,11 +1,11 @@
-# Default values - Set and Delete
+# Default values - set and delete
 
-The <b>Default values</b> help you with data input. Once you set them, they will automatically load and you can change them later on if you need to. To set the Default values, enable the <b>Customize Current View</b> mode.
+The <b>Default values</b> help you with data input. Once you set them, they will automatically load and you can change them later on if you need to. To set the default values, enable the *Customize current view* mode.
 
-## Setting Default Values
+## Setting default values
 
 1. Type in the value that you need as a default; <br>
-2. Right-click on that Field and from the context menu choose the function <b>Default Value >> Set as default value</b>:
+2. Right-click on that Field and from the context menu choose the function <b>Default value >> Set as default value</b>:
 
 ![Set default value](pictures/set-default-value.png) 
 
