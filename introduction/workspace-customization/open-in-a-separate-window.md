@@ -8,7 +8,7 @@ You can temporarily open a form in a new window, or <b>save it in View</b>. To u
 
 ![Open in separate window](pictures/open-sepatate-window.png) 
 
-Other ways to open in a separate window are by either right clicking on the Field tab and choosing <b>Floating Window</b>, or by dragging it out of the Main window.  
+Other ways to open in a separate window are by either right clicking on the Field tab and choosing Floating window, or by dragging it out of the Main window.  
 
 ![Separate window](pictures/separate-window.png) 
 
