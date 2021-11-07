@@ -6,7 +6,7 @@ Here is a pucture of the main menu.
 
 ![The Dashboard](pictures/dashboard.png)
 
-See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system form is open (document, navigator/report or definition) and what the positioning of the cursor is, the <b>command ribbon</b> will contain different pages with tools for managing the currently active form.
+See the ribbon on the top - it contains tabs with different commands (or buttons). Depending on what system form is open (document, navigator/report or definition) and what the positioning of the cursor is, the command ribbon will contain different pages with tools for managing the currently active form.
  
 ![Command Ribbon](pictures/dashboard-ribbon.png) 
  
