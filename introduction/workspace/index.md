@@ -1,6 +1,6 @@
 # Workspace
 
-The <b>workspace</b> includes the [main menu](main-menu.md) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
+The <b>workspace</b> includes the [Main menu](https://docs.erp.net/winclient/introduction/workspace/main-menu.html) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
 
 Here is a pucture of the main menu.
 
