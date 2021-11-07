@@ -14,7 +14,7 @@ The period will present itself as Starting date and End date in the fields “Fr
  
 ## Absolute expressions 
 
-The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (for example: 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
+The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (***for example:*** 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
 
 <b>Month</b> <br>
 <b>Month.Year</b> <br>
@@ -32,8 +32,8 @@ If you need to enter the period “from the beginning of January 2021 to the end
 
 ## Relative expressions
 
-You use the <b>relative expressions</b> to define a date relative to the current date (last week, 4 days ago…). There are two types of <b>relative expressions</b> - predefined and relative. <br>
-The <b>predefined expressions</b> consist of service words which directly tell the program what period to take. They are:
+You use the <b>relative expressions</b> to define a date relative to the current date (last week, 4 days ago…). There are two types of relative expressions - predefined and relative. <br>
+The predefined expressions consist of service words which directly tell the program what period to take. They are:
 
 <b>today, (t), (d)</b>: Today. <br>
 <b>(yesterday), (y)</b>: Yesterday. <br>
@@ -48,7 +48,7 @@ The <b>predefined expressions</b> consist of service words which directly tell t
 
 Keep in mind that there is a difference in interpreting the predefined periods (week, month). When you set them as a Starting date, the system takes the beginning of the period (for example Monday or the first date of the month). When you set them as an end date, the system takes the end of the period (for example Friday, the last date of the month or 31st of December).
 
-<b>Examples:</b>
+***Examples:***
 
 ![Examples (t)](pictures/examples-t.png)
  
@@ -83,7 +83,7 @@ If you need “last year to date”, enter "(lytd)" . If today were March 2, 202
 <b>+xy</b> - from date, x weeks after the current one; <br>
 <b>-xy</b> - from date, x weeks before the current one.
 
-<b>Examples:</b>
+***Examples:***
 
 ![Examples +1d](pictures/examples-one-day.png)
  
@@ -127,7 +127,7 @@ If you need “the last 3 months to today”, enter “-3m..0d”. If today were
 
 You can use more than absolute, relative and predefined expressions - the mixed expressions. For instance, you can set a starting date as one expression (example: predefined) and set an end date as another expression (example: relative)
 
-<b>Examples:</b>
+***Examples:***
 
 ![Examples -7d..0d](pictures/examples-seven-days-ago.png)
 
@@ -150,7 +150,7 @@ The <b>Graph editor</b> is divided in 2 parts - left and right. The left part al
 When you work with the <b>Graph editor</b>, you can press only one month button. If you haven’t pressed any button, this means that you haven’t selected a starting/ending month and the program takes the current one. <br>
 The panel of the years is under the number pad for the months. It shows 4 years - 2 years before the current year, the current year, and one year after the current one. The two panels (left and right) show whether you have included the year at the starting and/or ending month or not.
 
-<b>Example:</b>
+***Example:***
 
 If you need the period “from the beginning of January to the end of March”, enter “1” on the left and “3” on the right:
 
