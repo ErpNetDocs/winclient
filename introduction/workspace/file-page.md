@@ -1,6 +1,6 @@
 # File page
 
-In the File page, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
+In the **File page**, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
 You can access the File page from any location in the program.
 
@@ -48,7 +48,7 @@ You can delete some of the Forms (templates for documents routes, characteristic
 
 ![Delete](pictures/delete.png) 
 
-## Log off
+## Log Off
 
 The <b>Log Off</b> button allows you to end your work in the system. The program remains open, available for another user to log in with their credentials.
 
