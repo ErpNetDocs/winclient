@@ -29,7 +29,7 @@ If you need to sort by multiple columns, hold the **Shift** key on your keyboard
 
 When a field contains numbers, the program can treat them either as numbers or as text. Depending on how the program treats your data, you may receive different results. Sorting is one of those cases. Numeric sort allows you to sort the values in a rising or decreasing order. String Sorting allows you to compare values as words – in alphabetic order. To set the sorting method, go to
 
-<b>Customize Fields >> Properties</b>.
+<b>Customize fields >> Properties</b>.
 
 ![Numeric sort](pictures/numeric-sort.png)
 
