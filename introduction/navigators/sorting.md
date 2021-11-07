@@ -1,6 +1,6 @@
 # Sorting
 
-You can use sorting to organize data by a certain criteria (alphabetic order, data, number…). If you prefer to <b>keep</b> the changes after you close the program, you need to be in <b>active</b> Change Current View mode. Otherwise, the changes will <b>disappear</b> after you close the Form. <br>
+You can use sorting to organize data by a certain criteria (alphabetic order, data, number…). If you prefer to <b>keep</b> the changes after you close the program, you need to be in an **active** *Change Current View* mode. Otherwise, the changes will disappear after you close the Form. <br>
 To see this option, right-click on the name of the column, you need to sort:<br>
 
 ![Descening](pictures/descening.png)
@@ -27,7 +27,9 @@ If you need to sort by multiple columns, hold the Shift key on your keyboard and
 
 ## Sorting methods
 
-When a field contains numbers, the program can treat them either as numbers or as text. Depending on how the program treats your data, you may receive different results. Sorting is one of those cases. Numeric Sort allows you to sort the values in a rising or decreasing order. String Sorting allows you to compare values as words – in alphabetic order. To set the sorting method, go to <b>Customize Fields >> Properties</b>.
+When a field contains numbers, the program can treat them either as numbers or as text. Depending on how the program treats your data, you may receive different results. Sorting is one of those cases. Numeric sort allows you to sort the values in a rising or decreasing order. String Sorting allows you to compare values as words – in alphabetic order. To set the sorting method, go to
+
+<b>Customize Fields >> Properties</b>.
 
 ![Numeric sort](pictures/numeric-sort.png)
 
