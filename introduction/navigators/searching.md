@@ -20,7 +20,7 @@ You need to fill out:
 
 ![Find menu](pictures/find-menu.png)
 
-After you've selected the fields you need, press the <b>Find Next</b> button. If there are any found results, the program will colorize their fields.
+After you've selected the fields you need, press the <b>Find next</b> button. If there are any found results, the program will colorize their fields.
 
 ## Quick search  
 
