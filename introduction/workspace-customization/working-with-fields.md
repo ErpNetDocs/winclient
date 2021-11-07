@@ -1,6 +1,6 @@
 # Working with fields
 
-The <b>Fields</b> are the smallest units of information in @@winclientfull. Every field contains information, describing its essence. Modify the fields to the way you need them in the documents and navigators – they could be hidden or visible, sorted in the order you created them, formatted according to the form’s principles, or colored. <br>You can edit the fields in the *Change current view* mode (you will find it automatically activated after choosing the *Customize fields* function). Access the customize fields from 
+The <b>Fields</b> are the smallest units of information in @@winclientfull. Every field contains information, describing its essence. Modify the fields to the way you need them in the documents and navigators – they could be hidden or visible, sorted in the order you created them, formatted according to the form’s principles, or colored. <br>You can edit the fields in the *Change current view* mode (you will find it automatically activated after choosing the *Customize fields* function). Access the customize fields from:
 
 <b>Command ribbon >> View >> Customize fields</b>
 
