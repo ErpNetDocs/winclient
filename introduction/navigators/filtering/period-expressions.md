@@ -3,8 +3,8 @@
 To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field “Period for XXXX”. If the needed field does not show in the standard view, you can enable/show it first.
 
 To elaborate, you can set expressions for days, months and years in the following ways:
--	Absolute expressions for periods - set an <b>absolute</b> (fixed, specific) period
--	Relative expressions for periods - set a <b>period relative to the current date</b>
+-	Absolute expressions for periods - set an absolute (fixed, specific) period
+-	Relative expressions for periods - set a period relative to the current date
 -	Mixed expressions for periods - they contain an absolute and a relative expression together
 -	Graphic editor – allows you to choose from a calendar
 
@@ -22,11 +22,15 @@ The <b>absolute expressions</b> for periods set the day, the month and eventuall
 <b>Day,Month.Year</b> <br>
 
 <b>Examples for specific dates</b>: <br>
+
+
 If you need to enter “March”, write “3” in the Period field. <br>
 If you need to enter “March, 2021”, write “3.21” in the Period field. <br>
 If you need to enter “March 31, 2021”, write “31.3.21” in the Period field.
 
 <b>Examples for entire periods</b>: 
+
+
 If you need to enter the period “from the beginning of January this year to the end of March this year), enter period “1..3”.
 If you need to enter the period “from the beginning of January 2021 to the end of March 2021”, enter period “1.21..3.21”.
 
