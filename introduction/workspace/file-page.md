@@ -1,8 +1,8 @@
-# File Page
+# File page
 
-In the File Page, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
+In the File page, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
-You can access the File Page from any location in the program.
+You can access the File page from any location in the program.
 
 ![File Menu](pictures/file-page.png) 
 
@@ -16,7 +16,7 @@ By clicking the <b>Recent</b> button, you will see a list of the lately used For
 
 You can easily access the documents again with a click on the desired document.
 
-## Create New Document
+## Create new document
 
 With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the Main Menu):
 
@@ -62,7 +62,7 @@ With the <b>Exit</b> button, you end any work on the system and completely close
 
 ## Print, Properties, Send
 
-The File Page is another place, where you can print a document, review its Properties, or send it via e-mail. These buttons have analogs on the Command Ribbon. 
+The File Page is another place, where you can print a document, review its Properties, or send it via e-mail. These buttons have analogs on the Command ribbon. 
 
 ![Print, Properties, Send](pictures/print-properties-send.png) 
 
