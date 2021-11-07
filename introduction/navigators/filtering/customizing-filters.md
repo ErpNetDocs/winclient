@@ -1,6 +1,6 @@
-# Customizing Filters
+# Customizing filters
 
-By <b>Customizing Filters</b>, you can set what filtering criteria will display in the Search panel. To access that setting, right-click on the Search panel and select <b>Show/hide filters</b>. 
+By <b>Customizing filters</b>, you can set what filtering criteria will display in the *Search* panel. To access that setting, right-click on the *Search* panel and select <b>Show/hide filters</b>. 
 
 ![Customizing Filters](pictures/customizing-filters.png)
 
