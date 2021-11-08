@@ -82,8 +82,8 @@
 <p>To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field “Period for XXXX”. If the needed field does not show in the standard view, you can enable/show it first.</p>
 <p>To elaborate, you can set expressions for days, months and years in the following ways:</p>
 <ul>
-<li>Absolute expressions for periods - set an <b>absolute</b> (fixed, specific) period</li>
-<li>Relative expressions for periods - set a <b>period relative to the current date</b></li>
+<li>Absolute expressions for periods - set an absolute (fixed, specific) period</li>
+<li>Relative expressions for periods - set a period relative to the current date</li>
 <li>Mixed expressions for periods - they contain an absolute and a relative expression together</li>
 <li>Graphic editor – allows you to choose from a calendar</li>
 </ul>
@@ -94,17 +94,17 @@
 <p><b>Month</b> <br>
 <b>Month.Year</b> <br>
 <b>.Year</b> <br>
-<b>Day,Month.Year</b> <br></p>
-<p><b>Examples for specific dates</b>: <br>
-If you need to enter “March”, write “3” in the Period field. <br>
+<b>Day.Month.Year</b> <br></p>
+<p><b>Examples for specific dates</b>: <br></p>
+<p>If you need to enter “March”, write “3” in the Period field. <br>
 If you need to enter “March, 2021”, write “3.21” in the Period field. <br>
 If you need to enter “March 31, 2021”, write “31.3.21” in the Period field.</p>
-<p><b>Examples for entire periods</b>:
-If you need to enter the period “from the beginning of January this year to the end of March this year), enter period “1..3”.
+<p><b>Examples for entire periods</b>:</p>
+<p>If you need to enter the period “from the beginning of January this year to the end of March this year), enter period “1..3”.
 If you need to enter the period “from the beginning of January 2021 to the end of March 2021”, enter period “1.21..3.21”.</p>
 <h2 id="relative-expressions">Relative expressions</h2>
-<p>You use the <b>relative expressions</b> to define a date relative to the current date (last week, 4 days ago…). There are two types of <b>relative expressions</b> - predefined and relative. <br>
-The <b>predefined expressions</b> consist of service words which directly tell the program what period to take. They are:</p>
+<p>You use the <b>relative expressions</b> to define a date relative to the current date (last week, 4 days ago…). There are two types of relative expressions - predefined and relative. <br>
+The predefined expressions consist of service words which directly tell the program what period to take. They are:</p>
 <p><b>today, (t), (d)</b>: Today. <br>
 <b>(yesterday), (y)</b>: Yesterday. <br>
 <b>(thisweek), (tw)</b>: This week, starting from Monday. <br>
@@ -116,7 +116,7 @@ The <b>predefined expressions</b> consist of service words which directly tell t
 <b>(yeartodate), (ytd)</b>: The year starting from its beginning until today. <br>
 <b>(lastyeartodate), (lytd)</b>: The last year starting from its beginning until today.</p>
 <p>Keep in mind that there is a difference in interpreting the predefined periods (week, month). When you set them as a Starting date, the system takes the beginning of the period (for example Monday or the first date of the month). When you set them as an end date, the system takes the end of the period (for example Friday, the last date of the month or 31st of December).</p>
-<p><b>Examples:</b></p>
+<p><em><strong>Examples:</strong></em></p>
 <p><img src="pictures/examples-t.png" alt="Examples (t)"></p>
 <p>If you need “today”, enter “(t)”. If today were March 2, 2021, it would translate to “From March 2, 2021 to March 2, 2021”.</p>
 <p>If you need “yesterday”, enter “(y)”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 1, 2021”.</p>
@@ -137,7 +137,7 @@ The <b>predefined expressions</b> consist of service words which directly tell t
 <b>-xm</b> - from date, x weeks before the current one; <br>
 <b>+xy</b> - from date, x weeks after the current one; <br>
 <b>-xy</b> - from date, x weeks before the current one.</p>
-<p><b>Examples:</b></p>
+<p><em><strong>Examples:</strong></em></p>
 <p><img src="pictures/examples-one-day.png" alt="Examples +1d"></p>
 <p>If you need the date “tomorrow”, enter “+1d”. If today were March 2, 2021, it would translate to “From March 3, 2021 to March 3, 2021”.</p>
 <p>If you need the date “yesterday”, enter “-1d”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 1, 2021.”</p>
@@ -159,7 +159,7 @@ The <b>predefined expressions</b> consist of service words which directly tell t
 <p>If you need “the last 3 months to today”, enter “-3m..0d”. If today were March 2, 2021, it would translate to “From December 1, 2020 to March 2, 2021”.</p>
 <h2 id="mixed-expressions">Mixed expressions</h2>
 <p>You can use more than absolute, relative and predefined expressions - the mixed expressions. For instance, you can set a starting date as one expression (example: predefined) and set an end date as another expression (example: relative)</p>
-<p><b>Examples:</b></p>
+<p><em><strong>Examples:</strong></em></p>
 <p><img src="pictures/examples-seven-days-ago.png" alt="Examples -7d..0d"></p>
 <p>If you need the date to “from the beginning of last week to yesterday”, enter “(lw)..-1d”. If today were March 2, 2021, it would translate to “From February 22, 2021 to March 1, 2021”.</p>
 <p>If you need the date to “from the beginning of March to the end of this week”, enter “3..(tw)”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 7, 2021”</p>
@@ -171,7 +171,7 @@ The <b>predefined expressions</b> consist of service words which directly tell t
 <p><img src="pictures/graph-editor.png" alt="Graph editor"></p>
 <p>When you work with the <b>Graph editor</b>, you can press only one month button. If you haven’t pressed any button, this means that you haven’t selected a starting/ending month and the program takes the current one. <br>
 The panel of the years is under the number pad for the months. It shows 4 years - 2 years before the current year, the current year, and one year after the current one. The two panels (left and right) show whether you have included the year at the starting and/or ending month or not.</p>
-<p><b>Example:</b></p>
+<p><em><strong>Example:</strong></em></p>
 <p>If you need the period “from the beginning of January to the end of March”, enter “1” on the left and “3” on the right:</p>
 <p><img src="pictures/example-months.png" alt="Expample with months"></p>
 <p>If you need the period “from the beginning of January 2019 to the end of June 2021”, enter “1” and “19” on the left and “6” and “21” on the right:</p>
