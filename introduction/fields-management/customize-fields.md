@@ -44,8 +44,8 @@ The 'Category' section on the left has the unit categories for the field such as
 The left part is separated into three panels – *Sample*, *Standard Types* and *Custom*:
 
 - <b>Sample</b> - the visual representation of what is going to be inside the field
-- <b>Standard Types</b> - Encoded unit standards for the settings. The content of <b>Sample</b> will change right after clicking on the standard type of choice.
-- <b>Custom</b> - types set by the customer. Used the same way as the <b>Standard</b>. 
+- <b>Standard Types</b> - Encoded unit standards for the settings. The content of 'Sample' will change right after clicking on the standard type of choice.
+- <b>Custom</b> - types set by the customer. Used the same way as the Standard. 
 
 ***Example***:
 A number is typed out with three digits after the decimal separator. It must be displayed with 2 symbols only.
@@ -55,11 +55,11 @@ Click 'OK'.
 
 ![String format numbers](pictures/sf-numbers.png)
 
-## <b>Edit format</b>
+## Edit format
 Displays the editing format and what will be seen when the field is clicked upon.
-Click on the ![dots button](pictures/dots.png) button to open the <b>String format</b> form.
+Click on the ![dots button](pictures/dots.png) button to open the String format form.
 
  ***Example***:
 A number is typed out with 2 digits after the decimal separator. It must be displayed with 3 symbols only after the change in the field. 
-Open <b>String format</b>. Select ‘Number’ category. Select ‘n3’ Standard Type, then click ‘OK’.
+Open <b>String format</b>. Select ‘Number’ category. Select ‘n3’ Standard type, then click ‘OK’.
 The number in the field has two digits after the separator. However, when clicked upon, it comes out as 3 symbols long.
