@@ -26,7 +26,7 @@ The system attempts to split the scanned text into segments of the following for
 
 If the text cannot be separated into those segments, \the reading by the GS1-128 handler fails and the system does not continue the next steps.
 
-**For  example**, the text (02)TEST00012479222(10)L00028(37)5 is split into segments (02)TEST00012479222, (10)L00028 и (37)5. In the first segment ‘xxx...x’ is ‘02’ and ‘ ‘yyy...y’ is TEST00012479222.. and so on.
+***For  example***, the text (02)TEST00012479222(10)L00028(37)5 is split into segments (02)TEST00012479222, (10)L00028 и (37)5. In the first segment ‘xxx...x’ is ‘02’ and ‘ ‘yyy...y’ is TEST00012479222.. and so on.
 
 For texts like 22503(01)54030893330, ()22503(01)54030893330, (01)805485305840)4584, (1)8HHJ4584(01)PRD442607224 or (02)453893890899(10), the reading fails.
  
@@ -34,7 +34,7 @@ For texts like 22503(01)54030893330, ()22503(01)54030893330, (01)805485305840)45
 
 From the segments which are a result of the previous step, only those with a segment code 01, 02, 10, 21 or 37 are taken into consideration. The remaining segments are neglected and do not participate in the next steps.
 
-For example, if the text is (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454, segments (02)TEST00012479222, (10)L00028 и (37)5 are going to be used in the next steps and segments (12)6646, (21)KKE334, (22)DW634 и (329y)798454 are going to be neglected.
+***For example***, if the text is (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454, segments (02)TEST00012479222, (10)L00028 и (37)5 are going to be used in the next steps and segments (12)6646, (21)KKE334, (22)DW634 и (329y)798454 are going to be neglected.
  
 - **Step 3**
 
@@ -44,21 +44,21 @@ Validations:</br>
 
 - Each of the segment codes 01, 02, 10, 21 or 37 can be part of only one of the segments in the text. </br>
 
-*For example*, texts like (02)HJ453494573945(37)12, (10)LОТ55490380934(21)455340300303 and </br>
+***For example***, texts like (02)HJ453494573945(37)12, (10)LОТ55490380934(21)455340300303 and </br>
 (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454 are valid commands, while </br>
 (02)HJ453494573945(37)12(37)445(329y)798454 and (01)45373532234BBA98(01)YYE436373(10)LOT17 are not.
 
 - The text needs to contain at least one segment with code 01 or 02.
 
-*For example*, texts like (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid, while (10)LОТ55490380934(21)455340300303 is not.</br>
+***For example***, texts like (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid, while (10)LОТ55490380934(21)455340300303 is not.</br>
 
 - The text does not have to contain segments with segment codes 01 and 02 simultaneously.</br>
 
-*For example*, (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid texts, while (10)LОТ55490380934(21)455340300303 is not;
+***For example***, (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid texts, while (10)LОТ55490380934(21)455340300303 is not;
 
 - If the text contains a segment with code 37, then it must also contain a segment with code 02.</br>
 
-*For example*, (02)HJ453494573945(37)12 is a valid text, while (01)HJ453494573945(37)12 is not.
+***For example***, (02)HJ453494573945(37)12 is a valid text, while (01)HJ453494573945(37)12 is not.
  
 If any of the validations find that the text is invalid, then the reading by the GS1-128 handler fails and the system DOES not continue the next steps.
  
