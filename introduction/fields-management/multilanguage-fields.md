@@ -5,7 +5,7 @@ Open the form by clicking the ![…](pictures/dots.png) button or by selecting i
 
 ![Dropdown menu](pictures/dd-menut.png) 
 
-<b>Example</b> :
+***Example*** :
 - by opening a ‘Product group’ form
 - by opening a ‘Product group’ field
 - by selecting the function from the dropdown menu or
@@ -25,7 +25,7 @@ To set transliteration in some of the listed languages, click on the <b>Translit
   
 To set transliteration for all of the available languages, click on <b>Transliterate Current to Others</b> located on the bottom of the list.
 
-<b>Note</b>:
+>[!Note]:
 - The <b>Transliterate</b> button is set to only work from English to Bulgarian and vice versa.
 - Unless the <b>Transliterate</b> button is clicked upon, the multilanguage field will be written out using Latin (English) symbols when the system is switched from English to Bulgarian language.
 - The <b>Transliterate</b> button allows for writing out initial text that can be edited afterwards.
