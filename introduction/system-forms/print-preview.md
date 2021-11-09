@@ -34,6 +34,6 @@ To save the printout as a file, click on the desired format button:
 
 ![Page Size](pictures/page-orientation.png)
 
-- <b>Page Color</b>:
+- <b>Page color</b>:
 
 ![Page Color](pictures/page-color.png)
