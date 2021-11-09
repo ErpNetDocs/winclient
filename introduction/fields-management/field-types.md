@@ -53,7 +53,7 @@ Date can be entered from calendar or manually using the keyboard in the followin
 
 ![Datetime field](pictures/datetime-field.png)  
 
-## <b>File Attachment field</b>
+## <b>File attachment field</b>
 
 This field allows files to be uploaded, thus connecting the program with a database file.
 
