@@ -1,6 +1,6 @@
-# Properties Form
+# Properties form
 
-In the <b>Properties Form</b>, we systemize the information about documents and definitions. <br>
+In the <b>Properties form</b>, we systemize the information about documents and definitions. <br>
 Open it in the File Menu >> Properties.
 
 ![General Properties](pictures/general-properties.png) 
@@ -10,8 +10,8 @@ You can find the following within the Properties Form:
 1. <b>General</b> tab (for documents and definitions):
 
 - Entity – shows the name of the respective form
-- Identificational number – shows a unique alphanumeric code. The program uses it for identifying the Form.
-- Url – shows the web address of the Form. It is a system name the program uses to address these types of Forms.  
+- Identificational number – shows a unique alphanumeric code. The program uses it for identifying the form.
+- Url – shows the web address of the Form. It is a system name the program uses to address these types of forms.  
 
 Combining the Url and the Identificational number fields gives you the connection to this specific Form. You can send it via e-mail. 
 
