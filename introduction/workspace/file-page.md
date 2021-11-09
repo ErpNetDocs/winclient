@@ -30,7 +30,7 @@ With the <b>Open URL</b> button, you can directly open a document using its uniq
 
 ![Open URL](pictures/open-url.png) 
 
-You can receive or send the address through an e-mail, real-time communicators, etc. If you want to open a Form using its URL, paste the address in the field on the right side of the screen and then click on the arrow (or press Enter). <br>
+You can receive or send the address through an e-mail, real-time communicators, etc. If you want to open a form using its URL, paste the address in the field on the right side of the screen and then click on the arrow (or press Enter). <br>
 You can check the URL address in the <b>Properties</b> button.
 
 ## Close and save all
@@ -44,7 +44,7 @@ In case that any of the forms requires your intervention (saving the view, havin
 
 ## Delete 
 
-You can delete some of the Forms (templates for documents routes, characteristics, etc.). To delete a Form, click on the respective button:
+You can delete some of the forms (templates for documents routes, characteristics, etc.). To delete a form, click on the respective button:
 
 ![Delete](pictures/delete.png) 
 
@@ -62,7 +62,7 @@ With the <b>Exit</b> button, you end any work on the system and completely close
 
 ## Print, Properties, Send
 
-The File Page is another place, where you can print a document, review its Properties, or send it via e-mail. These buttons have analogs on the Command ribbon. 
+The File page is another place, where you can print a document, review its Properties, or send it via e-mail. These buttons have analogs on the Command ribbon. 
 
 ![Print, Properties, Send](pictures/print-properties-send.png) 
 
