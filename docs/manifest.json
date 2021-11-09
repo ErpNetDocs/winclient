@@ -5539,7 +5539,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/command-handler.html",
-          "hash": "UJfbqCkCJVp+N+AKgnpxYg=="
+          "hash": "C40a2TD9BDP/wdy+R4y+Sg=="
         }
       },
       "is_incremental": false,
@@ -5551,7 +5551,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/fast-commands.html",
-          "hash": "8qRH9EEEEytu6Ze7rg5s0g=="
+          "hash": "Gb2lsswvikLz0CqlotU70g=="
         }
       },
       "is_incremental": false,
@@ -5563,7 +5563,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/index.html",
-          "hash": "kTgd0SzPWJD8PTB+mAXj6g=="
+          "hash": "f2zd0wnKm6E2tkIzFKWO9A=="
         }
       },
       "is_incremental": false,
@@ -5683,7 +5683,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "fTm4tuemAX27Osm1GgPTIg=="
+          "hash": "yar+AvjTCTu8SmqDsGv9EQ=="
         }
       },
       "is_incremental": false,
@@ -5987,7 +5987,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/edit-mode.html",
-          "hash": "WCC2bEjSctkZ9d0ngWNMhA=="
+          "hash": "SUbR7aw+RuM+wBAl5/8+sw=="
         }
       },
       "is_incremental": false,
@@ -6035,7 +6035,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/customize-fields.html",
-          "hash": "HRTWfQrCAHj4SPSNxRgnFw=="
+          "hash": "3rUdSHT39Xw7D96/4mlO1A=="
         }
       },
       "is_incremental": false,
@@ -6047,7 +6047,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/default-values-management.html",
-          "hash": "NGP+F691wyFhw+RT1nEgzQ=="
+          "hash": "BYKhdRXiks5SSE9ldaCuTA=="
         }
       },
       "is_incremental": false,
@@ -6059,7 +6059,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/expression-fields.html",
-          "hash": "jEupwhb3ndn/l6XWIozibQ=="
+          "hash": "nqzenAXq5RiOoOnoMZEi2w=="
         }
       },
       "is_incremental": false,
@@ -6071,7 +6071,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/field-types.html",
-          "hash": "mBM/pF7bp1KtF+jdfYToXw=="
+          "hash": "6zhkEmIy/25T+qf1EQWssA=="
         }
       },
       "is_incremental": false,
@@ -6090,12 +6090,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "invalid-note-section"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/fields-management/multilanguage-fields.md",
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "3TuXpEJENyLeaDy26cX5VQ=="
+          "hash": "fDRG2bEmNMk7jY0kJ8WKQA=="
         }
       },
       "is_incremental": false,
@@ -6801,7 +6804,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-shortcuts.html",
-          "hash": "I2y7dvIzCWhF2yJ/EqOFdw=="
+          "hash": "CSGjr+o5p65eKo4RMSPODA=="
         }
       },
       "is_incremental": false,
@@ -7016,7 +7019,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/filtering/filter-editor.html",
-          "hash": "cyBTKhQh14WH8/sizfzFTA=="
+          "hash": "pQUsdPqxjuK3pSYn15o6sw=="
         }
       },
       "is_incremental": false,
@@ -7851,7 +7854,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/notifications-system.html",
-          "hash": "fHa3Sm8OUUO9GLKS2IzsOw=="
+          "hash": "J7v8O7EKyA8b+ApGshZyNw=="
         }
       },
       "is_incremental": false,
@@ -7937,6 +7940,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/detailed-look.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/edit-mode.png",
       "output": {
         "resource": {
@@ -7952,6 +7966,28 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/expand-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/filter-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/form-description.png"
         }
       },
       "is_incremental": false,
@@ -8007,6 +8043,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/modify-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/navigation-buttons.png"
         }
       },
       "is_incremental": false,
@@ -8113,6 +8160,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/save-on-query.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/settings-change-company.png",
       "output": {
         "resource": {
@@ -8135,6 +8193,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/simple-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/status-bar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/style.png",
       "output": {
         "resource": {
@@ -8146,10 +8226,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/system-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/pictures/tablet-view.png",
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/tablet-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/time.png"
         }
       },
       "is_incremental": false,
@@ -8172,7 +8274,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/definition-form.html",
-          "hash": "/ToP7R/RjSceLa4N7Mng9g=="
+          "hash": "dZ2GOJaWLYYvbE51svjUqA=="
         }
       },
       "is_incremental": false,
@@ -8184,7 +8286,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/index.html",
-          "hash": "h0juPdr1PrB/BOVpTZarPw=="
+          "hash": "dWM+xckY8/vr5jJkaGwDgw=="
         }
       },
       "is_incremental": false,
@@ -8350,7 +8452,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/print-preview.html",
-          "hash": "0EfNuHGi9zd4C83sMKoHuA=="
+          "hash": "ZtjG6SAKpKQGdTnhu7/7mQ=="
         }
       },
       "is_incremental": false,
@@ -8362,7 +8464,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/properties-form.html",
-          "hash": "VRD661NZRT9aOc+g6FQrLg=="
+          "hash": "4PgmYAJAvsdLzrCc+GfLuA=="
         }
       },
       "is_incremental": false,
@@ -8374,7 +8476,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/tablet-view-settings.html",
-          "hash": "RK9hlAin5wzQ/M/TDBzdyg=="
+          "hash": "OSclbO6jyqo2Tt7eUeRGkg=="
         }
       },
       "is_incremental": false,
@@ -8401,22 +8503,19 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "gFPtVMVcCOL7BeU6uXIRcg=="
+          "hash": "jomzxZjv+SNKFPYjX64cqA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
-      "source_relative_path": "introduction/user-system-setting.md",
+      "source_relative_path": "introduction/user-system-settings.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/user-system-setting.html",
-          "hash": "ghou/qm996iA4pPJraAC9g=="
+          "relative_path": "introduction/user-system-settings.html",
+          "hash": "dcdNM6cIxS2wKsvVAswWgA=="
         }
       },
       "is_incremental": false,
@@ -8497,7 +8596,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/index.html",
-          "hash": "1L0f9yt1KD2oGjyplMMsfA=="
+          "hash": "GWIQo6vrYgYzaKLrj8ptLQ=="
         }
       },
       "is_incremental": false,
@@ -9130,7 +9229,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/file-page.html",
-          "hash": "KtE/GwCcQTgvOOwjRBxF7A=="
+          "hash": "MnvQlapnvwiEi5yLqc2Yxg=="
         }
       },
       "is_incremental": false,
@@ -9154,7 +9253,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/main-menu.html",
-          "hash": "WF6dCwljld6ykRyYYRZ34Q=="
+          "hash": "lcYoZT0a2Dx1YDVMqSGx6g=="
         }
       },
       "is_incremental": false,
