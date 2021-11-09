@@ -1,11 +1,11 @@
 # Properties form
 
 In the <b>Properties form</b>, we systemize the information about documents and definitions. <br>
-Open it in the File Menu >> Properties.
+Open it in the **File Menu >> Properties**.
 
 ![General Properties](pictures/general-properties.png) 
 
-You can find the following within the Properties Form:
+You can find the following within the properties form:
 
 1. <b>General</b> tab (for documents and definitions):
 
@@ -15,7 +15,7 @@ You can find the following within the Properties Form:
 
 Combining the Url and the Identificational number fields gives you the connection to this specific Form. You can send it via e-mail. 
 
-2. <b>Security</b> tab (for definitions and saved documents) – allows you to review and change the access rights to thе Form:
+2. <b>Security</b> tab (for definitions and saved documents) – allows you to review and change the access rights to thе form:
 
 ![Security Properties](pictures/security-properties.png)
 
