@@ -2,7 +2,7 @@
 
 The <b>command ribbon</b> is a modern alternative to the classic menus. The actions in it are visualized through buttons. It is easy to use with a single tap or mouse click. 
 
-What is special about the command ribbon in @@winclientfull is its <b>adaptive context</b>. The buttons change and provide specific functions, needed for the workflow you are currently working with. This way, you always see the exact buttons you need.
+What is special about the command ribbon in @@winclientfull is the adaptive context. The buttons change and provide specific functions, needed for the workflow you are currently working with. This way, you always see the exact buttons you need.
  
 ![The command ribbon](pictures/command-ribbon.png)
 
