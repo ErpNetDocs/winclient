@@ -5,21 +5,21 @@ The <b>Set as default value</b> function is used to avoid repeated entering of d
 
 To pick a default value, go to the field of choice, right-click it and from the context menu, select the function 
 
-<b>Default Value→ Set as default value</b>.
+<b>Default value→ Set as default value</b>.
 
-> Note: the default value function requires enabled <b>Customize Current View</b> mode.
+> Note: the default value function requires enabled *Customize Current View* mode.
 
 ![Customize current view](pictures/customize-view.png)  
 
 ![Set default value](pictures/set-defaultvalue1.png) 
 
- The <b>Set default value</b> form opens. It displays a set of options and sub-options to choose from. 
+ The Set default value form opens. It displays a set of options and sub-options to choose from. 
 
 ![Value form](pictures/value-form.png)   
 
 Press **OK** to save the selected options. 
 
-<b>Example 1:</b>
+***Example 1:***
 
 You want to set *Bank transfer* as default payment option in a **sales order** document. 
 
@@ -39,7 +39,7 @@ Mark the row in the panel with a mouse click, then right-click and select the <b
 
 ![Delete rows](pictures/delete-rows.png)
 
-<b>Example 2:</b>
+***Example 2:***
 
 The default value that you set – *Bank transfer*, in the *Payment Type* field of the **sales order** document, needs to be cleared. 
 
