@@ -2,7 +2,7 @@
 
 The <b>Print preview</b> allows you to review the Form before you print it and adjust its properties if needed.
 
-You will find it in the Command Ribbon >> Home >> Print >> Print preview.
+You will find it in the **Command ribbon >> Home >> Print >> Print preview**.
 
 ![Print icon](pictures/print-icon.png) 
 
@@ -30,7 +30,7 @@ To save the printout as a file, click on the desired format button:
 
 ![Page Orientation](pictures/page-orientation.png)
 
-- <b>Page Size</b>:
+- <b>Page size</b>:
 
 ![Page Size](pictures/page-orientation.png)
 
