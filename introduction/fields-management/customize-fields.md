@@ -17,7 +17,7 @@ The tick ![Tick](pictures/tick-show.png) shows the fields, displayed in the pane
 
 ![Invisible](pictures/invisible.png) shows the fields that are not displayed. 
 
-The ![Expression fields button](pictures/expression-fbutton.png) button opens the <b>expression fields</b> form.
+The ![Expression fields button](pictures/expression-fbutton.png) button opens the expression fields form.
 
 The ![Expand all button](pictures/expand-abutton.png) opens all the groups and shows the existing fields.
 
