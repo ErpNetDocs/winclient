@@ -6,7 +6,7 @@ You can access the File page from any location in the program.
 
 ![File Menu](pictures/file-page.png) 
 
-You will find that the File Page is similar to the Main Menu in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
+You will find that the file page is similar to the Main Menu in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
 
 ## Recently opened documents
 
@@ -18,7 +18,7 @@ You can easily access the documents again with a click on the desired document.
 
 ## Create new document
 
-With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the Main Menu):
+With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the Main menu):
 
 ![Create New Document](pictures/create-new-document.png) 
 
@@ -62,11 +62,11 @@ With the <b>Exit</b> button, you end any work on the system and completely close
 
 ## Print, Properties, Send
 
-The File page is another place, where you can print a document, review its Properties, or send it via e-mail. These buttons have analogs on the Command ribbon. 
+The File page is another place, where you can print a document, review its properties, or send it via e-mail. These buttons have analogs on the command ribbon. 
 
 ![Print, Properties, Send](pictures/print-properties-send.png) 
 
-Using the <b>Send as attached PDF document</b> function, you can send a document with a single mouse click. It is also going to save the document as a temporary PDF file, using a default template for the printout. After that, an email will be created for you through the incorporated into @@winclientfull mail client. The letter already contains the attached file and receiver (we take the information from the contact data for the counterparty of the document). In case of a successfully generated letter, you will be able to see the operation, saved as a printout in the Print panel.
+Using the <b>Send as attached PDF document</b> function, you can send a document with a single mouse click. It is also going to save the document as a temporary PDF file, using a default template for the printout. After that, an email will be created for you through the incorporated into @@winclientfull mail client. The letter already contains the attached file and receiver (we take the information from the contact data for the counterparty of the document). In case of a successfully generated letter, you will be able to see the operation, saved as a printout in the *Print* panel.
 
 ## Settings
 
