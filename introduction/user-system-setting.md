@@ -1,4 +1,4 @@
-# User System Setting 
+# User system settings
 
 
 In **Settings**, users can select a previously set range of functions or customize the system on their own. 
