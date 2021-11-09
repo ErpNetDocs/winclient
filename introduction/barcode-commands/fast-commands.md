@@ -1,8 +1,8 @@
 # Fast barcode panel commands
 
-For convenience, there is a predefined command list with ‘easy-access’ commands that are recognized by the Barcode panel. 
+For convenience, there is a predefined command list with ‘easy-access’ commands that are recognized by the *Barcode* panel. 
 
-- The full list is available in the @@name client through the **Command list button** in the **Barcode tab**. 
+- The full list is available in the @@name client through the **Command list** button in the Barcode tab. 
 
 - The list contains fast command codes/strings and their corresponding barcode labels i.e. the commands can be entered manually or scanned from the barcode labels.
 
@@ -17,14 +17,14 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
 - *, which resets the entered quantity.
 - q*, where ‘q’ is a number i.e. 1, 10, 50, 500..:</br>
 
-    - q* adds the entered number (q) to the current value of the Barcode panel’s **Quantity** field.</br>
+    - q* adds the entered number (q) to the current value of the *Barcode* panel’s **Quantity** field.</br>
 
     - When scanned in combination with a product code (q*productCode), it adds a new line with the entered product and quantity equal to entered number(q).</br>
  
  
 >[!NOTE]
 >
-> The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the **Command list button** in the barcode tab @@name Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.
+> The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the **Command list** button in the barcode tab @@name Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.
  
 
  ***Example:*** We want to execute 52 PCS of product code ‘0001’.
