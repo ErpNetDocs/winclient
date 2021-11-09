@@ -1,6 +1,6 @@
-# Definition System Form
+# Definition System form
 
-With the <b>Definition System Form</b>, you can edit the characteristics of a Definition - product, client, storage, document types, etc. Depending on the Definition, the form contains different panels with specific characteristics. <br>
+With the <b>Definition System form</b>, you can edit the characteristics of a Definition - product, client, storage, document types, etc. Depending on the Definition, the form contains different panels with specific characteristics. <br>
 For example, if you are creating a new product, you will get a panel describing that product, one for choosing the technology for its manufacturing, etc.
 
 ![Definition form](pictures/definition-form.png) 
