@@ -24,7 +24,7 @@ The ![Expand all button](pictures/expand-abutton.png) opens all the groups and s
 ***Example*** : 
 The fields *Enterprise company* and *Enterprise Company Location* are to expand with the use of this form without having to click on the menu displaying them.
 
-Open <b>Field Properties</b> by clicking the ![Properties button](pictures/propertiesbutton.png) button.
+Open <b>Field properties</b> by clicking the ![Properties button](pictures/propertiesbutton.png) button.
 
 ![Field properties form](pictures/fp-form.png)  
 
