@@ -4,6 +4,6 @@ There is a big difference between the *Change current view* mode and the *Edit* 
 
 By default, documents open with active *Edit* mode, while navigators and definitions open with the mode deactivated. You can set all Forms to open with active *Edit* mode automatically, if needed. You need *Edit* mode to be active to change the information in the Forms. You can activate or deactivate the mode in the <b>Command ribbon >> Home >> Edit mode</b> (or with hotkey <b>F2</b>).
 
-Note that not all Navigators have Edit mode (Sales, Invoices, etc.).
+Note that not all navigators have *Edit* mode (Sales, Invoices, etc.).
 
 ![Edit Mode](pictures/edit-mode.png) 
