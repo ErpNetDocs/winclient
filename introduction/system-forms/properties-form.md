@@ -11,9 +11,9 @@ You can find the following within the properties form:
 
 - Entity – shows the name of the respective form
 - Identificational number – shows a unique alphanumeric code. The program uses it for identifying the form.
-- Url – shows the web address of the Form. It is a system name the program uses to address these types of forms.  
+- Url – shows the web address of the form. It is a system name the program uses to address these types of forms.  
 
-Combining the Url and the Identificational number fields gives you the connection to this specific Form. You can send it via e-mail. 
+Combining the Url and the Identificational number fields gives you the connection to this specific form. You can send it via e-mail. 
 
 2. <b>Security</b> tab (for definitions and saved documents) – allows you to review and change the access rights to thе form:
 
