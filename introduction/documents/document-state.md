@@ -13,7 +13,7 @@
 
 ## Changing state
 
-You can change the state of a document from the <b>Command Ribbon >> Home</b> by clicking on the desired state.
+You can change the state of a document from the <b>Command ribbon >> Home</b> by clicking on the desired state.
 	
 ![Document State](pictures/document-state.png)
  
