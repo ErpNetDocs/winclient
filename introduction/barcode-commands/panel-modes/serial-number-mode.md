@@ -32,7 +32,7 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
 
 **(3)** If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Wait for another serial number.
 
-For more information, see ‘Form types and Mode selection’ in [Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)
+For more information, see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**
 
 **(4)** STOP
 
