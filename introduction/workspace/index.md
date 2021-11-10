@@ -1,6 +1,6 @@
 # Workspace
 
-The <b>workspace</b> includes the [Main menu](https://docs.erp.net/winclient/introduction/workspace/main-menu.html) and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
+The <b>workspace</b> includes the *[Main menu](https://docs.erp.net/winclient/introduction/workspace/main-menu.html)* and all of the different ribbons, tabs and system forms you will need when working with @@winclientfull.
 
 Here is a pucture of the main menu.
 
@@ -24,7 +24,7 @@ In this field, you can search for documents, contractors, products, and program 
  
 ## Help
 
-The Help button opens the following menu:
+The **Help** button opens the following menu:
 
 ![Help menu](pictures/help-menu.png)
 
@@ -41,7 +41,7 @@ The menu has 3 sections:
 - ![Mouse, Keyboard and Touch](pictures/mouse-keyboard-and-touch.png) <b>Mouse, Keyboard and Touch</b> – choose when working with touch devices that are connected with a mouse and a keyboard.
 - ![Touch Only](pictures/touch-only.png) <b>Touch Only</b> – choose with touchscreen devices, like smartphones or tablets. The higher access rights, the more options for working with the system.  
 
-3. Interface complexity – every user has preset access rights. A user with higher privilege can ease his work by choosing a user with a lower one (for example Super User can choose to see the functionalities in the system as a Basic User). The options from sections <b>Optimize for use</b> and <b>User interface complexity</b> can be accessed through the File menu >> Settings.
+3. Interface complexity – every user has preset access rights. A user with higher privilege can ease his work by choosing a user with a lower one (for example Super User can choose to see the functionalities in the system as a Basic User). The options from sections <b>Optimize for use</b> and <b>User interface complexity</b> can be accessed through the **File menu >> Settings**.
 
 ## Language
 
