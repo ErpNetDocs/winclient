@@ -11,13 +11,13 @@ Here are the steps you have to take to create the according views:
 3.	The buttons for switching between the panels should be on the left.
 4.	We recommend that you remove or move to the right the wide columns like names of products, warehouses, etc. if you are dealing with a panel with multiple rows
 5.	In order to avoid having too many fields, you have to leave only the key ones or the ones you use the most. It’s best for the fields that you want to edit to be on the left, despite having the option to scroll down. You need to do this in order to avoid missing writing information in a field.
-6.	We also recommend that you remove the buttons Navigation, Filter and Copy/Cut and Paste from <b>File >> Settings</b>. This way you will have a simpler view on the tablet. The idea is for the tablet view to be as clean as possible.    
+6.	We also recommend that you remove the buttons **Navigation, Filter** and **Copy/Cut** and **Paste** from <b>File >> Settings</b>. This way you will have a simpler view on the tablet. The idea is for the tablet view to be as clean as possible.    
 
 It will look like this:
 
 ![Tablet view](pictures/tablet-view.png)
  
-7.	We recommend that you select *Basic user* from the Optimization menu. This way you can simplify the system for a more accessible outlook.
+7.	We recommend that you select *Basic user* from the *Optimization menu*. This way you can simplify the system for a more accessible outlook.
 8.	We also recommend that you select the *Touch only* mode in the same menu.
 
 ![Optimization](pictures/optimization.png)
