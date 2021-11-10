@@ -2,7 +2,7 @@
 
 When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a *View*. The *view* is a specific named appearance of a system’s form. You could have multiple views for the same form and each of them could be easily opened with a single mouse click.
 
-To customize the *view*, you need to have the form in the *Customize current view* mode and possess the needed rights (in the current article we assume that you have the rights to perform the described actions).
+To customize the *view*, you need to have the form in the *Customize Current View* mode and possess the needed rights (in the current article we assume that you have the rights to perform the described actions).
 
 Selecting the desired View is done by clicking it in the **Command ribbon >> View** . There is a list at the left hand side with all saved views (if there are any). The *view* is changed by clicking on the desired *view*:
 
