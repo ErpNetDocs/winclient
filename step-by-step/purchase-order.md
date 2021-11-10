@@ -2,7 +2,7 @@
 
 A purchase order document is used to obtain goods, products and materials by purchasing them from an external supplier.
 
-To create it, go to **Logistics >> Procurement >> Create New Purchase Order.**
+To create it, go to **Logistics >> Procurement >> Create new purchase order.**
 
 ![Purchase Order](pictures/purchaseorder0.png)
 
@@ -14,7 +14,7 @@ Let's fill in the following fields:
 
 - <b>Store</b> - this is the store in which the goods will be credited. 
  
-If the field is left blank, a store can be found for each item in the **Purchase Order Lines** panel.
+If the field is left blank, a store can be found for each item in the *Purchase order lines* panel.
  
 ![Purchase Order](pictures/purchaseorder2.png)
 
@@ -52,7 +52,7 @@ After filling in the data, **release** the document.
 
 According to the standard operating model, the system is set to continue with a **[receiving order](https://docs.erp.net/winclient/step-by-step/receiving-order.html)**.
 
-To view all issued purchase orders, go to <b>Logistics >> Procurement >> Purchase Orders Navigator</b>.
+To view all issued purchase orders, go to <b>Logistics >> Procurement >> Purchase orders navigator</b>.
 
 - Press the **Display** button.
 
