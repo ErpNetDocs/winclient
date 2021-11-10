@@ -32,16 +32,16 @@ For example, when you click on the *Customer* field (in the Header of the Offer 
 ![More…](pictures/definition-more.png)
 
 When the document is in a <b>New</b> state, this function provides the following opportunities:
-1.	<b>Connect to Customer</b> – connects you to the customer with the data that is already entered in the program;
+1.	<b>Connect to customer</b> – connects you to the customer with the data that is already entered in the program;
  
 ![Connect to customer](pictures/connect-to-customer.png)
 
 2.	<b>Select from navigator</b> – allows you to select a value for that field from the navigator;
 3.	<b>More</b>:
--	<b>Create new for Customer</b> – create a record for the current field;
+-	<b>Create new for customer</b> – create a record for the current field;
 -	<b>Refresh display values (F9)</b> – refresh the values for the drop menu of the current field;
 -	<b>Create form Internet</b> – automatically retrieves all the data for a given company from the Internet, by entering the VAT number. 
-Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. For example, when clicking on the *Document Type* field in the Document panel.
+Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. For example, when clicking on the *Document Type* field in the *Document* panel.
 
 ## Data tab
 The Data tab includes:
@@ -52,8 +52,8 @@ The Data tab includes:
 -	<b>Paste</b> – puts the text you just copied where you need it;
 -	<b>Find</b> – searches for a word or a number in documents, navigators or reports.
 Copy and Cut are useful when you want to save yourself the time to reapply the same data, and to avoid mistakes, while filling out the information. For example, through copying the names of people and companies, you save time by not typing them out, while eliminating the rick of mistakes.  
--	<b>Paste Top Cell</b> – you can use this function to quickly edit multiple records in a table panel. It applies the value of the top cell to the ones below it;
--	<b>Export to Excel</b> – available only for the Document Forms and the Navigators. Clicking on it will export all the selected rows to Excel. This function can only be used for tabular data. Therefore, it is available only in the navigators, reports or in the panels of a document form that contains information in tabular form (For example, Sales Order in the Sales Document)
+-	<b>Paste top cell</b> – you can use this function to quickly edit multiple records in a table panel. It applies the value of the top cell to the ones below it;
+-	<b>Export to Excel</b> – available only for the Document Forms and the Navigators. Clicking on it will export all the selected rows to Excel. This function can only be used for tabular data. Therefore, it is available only in the navigators, reports or in the panels of a document form that contains information in tabular form (For example, sales order in the sales document)
 -	<b>Calculator</b> – they do not carry new information and we don’t save their values in your database.  Those are fields with real-time calculated values (after opening the Form). They are used for working with already existing data with a set criterion, recalculating the data with a different formula.
 
 ## View tab
@@ -63,7 +63,7 @@ This tab contains tools for changing the appearance of the document. This includ
 
 -	<b>Current view</b> – shows the different types of views;
 -	<b>Customize Current View</b> – allows you to edit system forms;
--	<b>Customize Fields</b> – serves for editing, showing and hiding the properties and settings of panels;
+-	<b>Customize fields</b> – serves for editing, showing and hiding the properties and settings of panels;
 -	<b>Save layout changes</b> – saves the changes you’ve made on the view;
 -	<b>Discard layout changes</b> – resets the view back to its initial look;
 -	<b>Open in separate window</b> – opens the form in a separate window;
@@ -91,7 +91,7 @@ This way you can overlap columns without changing up the View.
 ## Functions tab
 The <b>functions tab</b> of the document form has various functions for each type of Documents, depending on its application and in what module it is (invoice, purchase, sale, warehouse receipt, report…) Here are the two most common functions among the types of document forms:
 -	<b>Send as link</b> – this function provides you with two methods to send an E-mail – sending via link or mailing the Document as a PDF format;
--	<b>Calculate additional document amounts</b> – this function calculates and distributes additional amounts throughout the rows in the Document.
+-	<b>Calculate additional document amounts</b> – this function calculates and distributes additional amounts throughout the rows in the document.
  
 ![Functions tab](pictures/functions.png)
  
@@ -107,7 +107,7 @@ Here is how the tab looks like:
 ![Document tab](pictures/document-tab.png)
 
 The Document tab contains the following sub-menus and functions:
-•	<b>Adjustment Documents</b> - shows you the list of corrected documents that were previously created for this document
+•	<b>Adjustment documents</b> - shows you the list of corrected documents that were previously created for this document
 •	<b>Versions</b> - shows the versions of a document before and after any changes or adjustments were made 
 •	<b>Create New from Current</b> - creates a copy of the document. The new document will be with the current date, but it will also consist of the data in the original document
 •	<b>Duplicate</b> - gives you the opportunity to create a duplicate of the original document which will have the status New and the opportunity to be changed. If you have a type of document that has a numerator, the duplicate creates a new number. 
