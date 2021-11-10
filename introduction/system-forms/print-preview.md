@@ -1,12 +1,12 @@
 # Print preview
 
-The <b>Print preview</b> allows you to review the Form before you print it and adjust its properties if needed.
+The <b>Print preview</b> allows you to review the form before you print it and adjust its properties if needed.
 
 You will find it in the **Command ribbon >> Home >> Print >> Print preview**.
 
 ![Print icon](pictures/print-icon.png) 
 
-The Form will open in a separate window which looks like this:	
+The form will open in a separate window which looks like this:	
 
 ![Print Preview](pictures/print-preview.png) 
 
