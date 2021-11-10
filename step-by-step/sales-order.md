@@ -2,7 +2,7 @@
 
 A sales order document is intended for the **selling** of goods to customers.
 
-To create it, go to **Customers >> Sales >> Create New Sales Order**
+To create it, go to **Customers >> Sales >> Create new sales order**
  
 ![Sales Order](pictures/so1.png)
 
@@ -26,7 +26,7 @@ Let's fill in the following fields:
  
 ![Sales Order](pictures/so6.png)
 
--	<b>Measurement Unit Name</b> - here, indicate the unit of measure of the sold quantity.
+-	<b>Measurement unit name</b> - here, indicate the unit of measure of the sold quantity.
  
 ![Sales Order](pictures/so7.png)
 
@@ -46,7 +46,7 @@ After filling in the data, **release** the document.
 
 In the standard operating model, the system is set to continue with an **[invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html)**.
 
-To view all issued Sales, go to **Customers >> Sales >> Orders Navigator**.
+To view all issued Sales, go to **Customers >> Sales >> Orders navigator**.
 
 - Press the **Display** button.
 
