@@ -67,7 +67,7 @@ From the *Security* panel, you can choose the *Security type* of the field, usin
 
 The Format condition allows you to set up lines and fields to turn a certain color if they face certain criteria. 
 
-1. Open the **Properties form** for the field you need to modify and go to Format Condition;
+1. Open the **Properties form** for the field you need to modify and go to Format condition;
 2. Put a check on *Enable format condition*;
 3. Choose the condition that this field needs to face; 
 4. Fill out Value 1 and optionally Value 2 if the value of the colored field needs to be in a certain interval (or outside of it);
