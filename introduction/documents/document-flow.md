@@ -30,7 +30,7 @@ You can view the document flow in the document flow panel. The panel is standard
 
 ![Document flow](pictures/document-flow.png )
  
-To open a document from the Document flow, right-click on the desired document and select *Open document*. When you right-click on a document you can also:
+To open a document from the document flow, right-click on the desired document and select *Open document*. When you right-click on a document you can also:
 
 -	Show void documents – if you select that, the voided documents will display as well;
 -	Show transitional documents - if you check that option, the transitional documents will display as well;
