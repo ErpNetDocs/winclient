@@ -4,7 +4,7 @@ A receiving order document reflects purchases made by a supplier and aims to inc
 
 Most often, it is created as a result of a **[purchase order](https://docs.erp.net/winclient/step-by-step/purchase-order.html)**.
 
-To create a receiving order, go to <b>Logistics >> Procurement >> Create New Receiving Order</b>.
+To create a receiving order, go to <b>Logistics >> Procurement >> Create new receiving order</b>.
  
 ![Receiving Order](pictures/ro1.png)
 
@@ -16,7 +16,7 @@ Let's fill in the following fields:
 
 -	<b>Store</b> - this is the store in which the goods will be credited.
 
-If the field is left blank, a store can be found for each item in the **Receiving Order Lines** panel.
+If the field is left blank, a store can be found for each item in the *Receiving order lines* panel.
  
 ![Receiving Order](pictures/ro3.png)
 
@@ -34,7 +34,7 @@ If the field is left blank, a store can be found for each item in the **Receivin
  
 ![Receiving Order](pictures/ro6.png)
 
--	<b>Measurement Unit Name</b>- here, indicate the unit of measure for the purchased quantity.
+-	<b>Measurement unit name</b>- here, indicate the unit of measure for the purchased quantity.
  
 ![Receiving Order](pictures/ro7.png)
 
