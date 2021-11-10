@@ -3,7 +3,7 @@ uid: keyboard-shortcuts
 ---
 # Keyboard shortcuts
 
-The current topic contains a list with the keyboard shortcuts which can be used for performing special operations in the Windows client.
+The current topic contains a list with the keyboard shortcuts which can be used for performing special operations in the *Windows client*.
 
 | **Shortcut**       | Operation                                                    |
 | :----------------- | :----------------------------------------------------------- |
