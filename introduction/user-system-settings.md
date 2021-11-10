@@ -17,8 +17,8 @@ The *@@name* system is supported by every device, including personal computers o
 This term represents the complexity of the interface according to the rights of the user in thе system.
 
 This option has the following hierarchy:
-- **Basic user** – no access to the Navigator or Edit menu in the command ribbon. There are restrictions in the visualisation of the *View* or *Data* tabs. The ‘  ‘ menu is visible, but the user can’t refresh or edit. The *Functions* tab is visible as well, with some limitations in place. 
-- **Advanced user** - has access to the Navigator in the command ribbon. Can copy, paste, cut, group and sum. In the ‘  ‘ menu, the user can also edit and refresh. 
+- **Basic user** – no access to the *Navigator* or *Edit menu* in the command ribbon. There are restrictions in the visualisation of the *View* or *Data* tabs. The ‘  ‘ menu is visible, but the user can’t refresh or edit. The *Functions* tab is visible as well, with some limitations in place. 
+- **Advanced user** - has access to the *Navigator* in the command ribbon. Can copy, paste, cut, group and sum. In the ‘  ‘ menu, the user can also edit and refresh. 
 - **Super user** – аll menus and functions the advanced user has access to are available. This user can also view cancelled and transit documents, change default values for given fields and work with expression fields and distribution of additional sums. 
 - **Administrator** – has full access to the system and its settings. 
 
@@ -36,11 +36,11 @@ The first section of settings is related to the possibility of fitting the inter
 
 ![Status bar](pictures/status-bar.png)
 
-- **Show the elapsed working time of the current task** – a clock which tracks the working time of the task will show up inside the button of the Fast task list. 
+- **Show the elapsed working time of the current task** – a clock which tracks the working time of the task will show up inside the button of the *Fast task list*. 
 
 ![Time](pictures/time.png)
 
-- **Show navigation buttons row** – if the field is ticked, it will expand additional buttons, such as *Open record*, *New record*, and *Print*, inside the Navigator bar, under the Record table. Thus, the Navigator will look like the one in system version 2 or older.
+- **Show navigation buttons row** – if the field is ticked, it will expand additional buttons, such as **Open record**, **New record**, and **Print**, inside the *Navigator* bar, under the Record table. Thus, the *Navigator* will look like the one in system version 2 or older.
 
 ![Navigation buttons](pictures/navigation-buttons.png)
 
@@ -52,11 +52,11 @@ A detailed look into the *Filtering* panel will reveal the values and names of t
 
 ![Detailed look](pictures/detailed-look.png)
 
-- **Open definition forms in ‘Edit mode’** - the definition and navigator forms will be locked if Edit mode is not active by default. Data cannot be edited so that potential faulty changes are prevented. Users can make corrections only in *Edit mode*. When ticking the *Open forms in Edit mode* option, the definition forms will automatically open with an activated *Edit mode*. This will ease the work of users who frequently apply changes to the definitions.
+- **Open definition forms in ‘*Edit mode*’** - the definition and navigator forms will be locked if Edit mode is not active by default. Data cannot be edited so that potential faulty changes are prevented. Users can make corrections only in *Edit mode*. When ticking the *Open forms in Edit mode* option, the definition forms will automatically open with an activated *Edit mode*. This will ease the work of users who frequently apply changes to the definitions.
 
 ![Edit mode](pictures/edit-mode.png)
 
-- **Show filtering buttons** - if the field is ticked, filtering by a certain cell value will be available for each Navigator. 
+- **Show filtering buttons** - if the field is ticked, filtering by a certain cell value will be available for each *Navigator*. 
 
 ![Filter buttons](pictures/filter-buttons.png)
 
@@ -79,7 +79,7 @@ A detailed look into the *Filtering* panel will reveal the values and names of t
 
 ## Notifications settings
 **@@name** is a system created with the purpose of securing and making business management easier. Live Notifications aid the work of the user. The system creates reminders or receiving notifications in real-time. The user does not think about when and what needs to be done. Entering a task in the system would be enough. Some of the notifications can be turned off, which will accelerate the work of the system. 
-- **Enable real-time notifications** -  if this option is checked, the Notification system will be **enabled**, showing real time notifications, such as reminders, emails or system notifications. 
+- **Enable real-time notifications** -  if this option is checked, the *Notification* system will be **enabled**, showing real time notifications, such as reminders, emails or system notifications. 
 - **Notify for reminders** - if checked, it allows reminders to be shown. Turning it on or off does not affect the email notifications.
 - **Notify for new mail** - ticking the option enables email notifications. Turning it on or off does not affect reminders.
 - **Performance benchmarking mode** 
