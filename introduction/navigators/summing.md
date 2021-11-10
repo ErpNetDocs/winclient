@@ -14,4 +14,4 @@ If there is an active Grouping, the total Sum will appear next to the name of th
 
 ![Group Sum](pictures/sum-group.png)  
 
-You can Sum only one time while the form is open, or save the Sum in the View (and autoload the Sum value every time you open the Form). If you don’t have the *Change Current View* mode active, all the sums you make will disappear after you close the program. To save the sums in the View, you need to be in *Change Current View* mode and click on <b>Save layout changes</b>. 
+You can Sum only one time while the form is open, or save the Sum in the View (and autoload the Sum value every time you open the Form). If you don’t have the *Change Current View* mode active, all the sums you make will disappear after you close the program. To save the sums in the View, you need to be in *Change current view* mode and click on <b>Save layout changes</b>. 
