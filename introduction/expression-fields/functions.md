@@ -9,7 +9,7 @@ Functions can be used in formulas to perform simple or complex calculations. You
 
 Converts an expression of one data type to another. 
 
-This function is very useful if we want to use custom properties values in calculations. We can use all data types which are available in the dropdown list in the **Expression fields** editor. Data types must be used in the following format 'System.DataType' - they have to be preceded by 'System' and have to be enclosed in single quotation marks ('').
+This function is very useful if we want to use custom properties values in calculations. We can use all data types which are available in the dropdown list in the *Expression fields* editor. Data types must be used in the following format 'System.DataType' - they have to be preceded by 'System' and have to be enclosed in single quotation marks ('').
 
 > [!NOTE]
 > 
@@ -87,5 +87,5 @@ Gets a sub-string of a specified length, starting at a specified point in the st
  
  ***Example:*** SUBSTRING([ProductDescription], 7, 5)
  
-If the Product description is ‘White paper’, then the function will return ‘Paper’.
+If the product description is ‘White paper’, then the function will return ‘Paper’.
 
