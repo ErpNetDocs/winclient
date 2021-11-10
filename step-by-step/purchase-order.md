@@ -26,13 +26,13 @@ If the field is left blank, a store can be found for each item in the *Purchase 
  
 ![Purchase Order](pictures/purchaseorder4.png)
 
-- <b>Product Name </b> - if you choose the code, this name is generated automatically.
+- <b>Product name </b> - if you choose the code, this name is generated automatically.
 
 - <b>Quantity </b> - this is the purchased quantity.
  
 ![Purchase Order](pictures/purchaseorder5.png)
 
-- <b> Measurement Unit Name </b> - here, indicate the unit of measure of the purchased quantity.
+- <b> Measurement unit name </b> - here, indicate the unit of measure of the purchased quantity.
  
 ![Purchase Order](pictures/purchaseorder6.png)
 
