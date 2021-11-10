@@ -20,11 +20,11 @@ A new line using current values of the fields in the panel is created (for examp
 
 > [!NOTE]
 > 
-> When adding a new product line, the panel is cleared and ready to be used again. The mode is **Main**.
+> When adding a new product line, the panel is cleared and ready to be used again. The mode is *Main*.
 
 **(7)** STOP
 
-**(8)** Turn on **[Lot](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/lot-number.html)** mode.
+**(8)** Turn on [Lot](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/lot-number.html) mode.
 
 **(9)** STOP
 
