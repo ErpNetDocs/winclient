@@ -19,7 +19,7 @@ Other features of the Home document page are:
 -	<b>Save</b> – saves the entered information;
 -	<b>Undo</b> – reverses the changes you’ve made so far (changes that you haven’t saved yet);
 -	<b>Save & New</b> – saves the information in the current document and loads a new one;
--	<b>Edit Mode</b> – allows you to edit the data in the form;
+-	<b>Edit mode</b> – allows you to edit the data in the form;
 -	<b>Print</b> – prints out the document;
 -	<b>States</b> – shows the state of completion for the current document;
 -	<b>Context menu</b> - displays a list of commands, related to a selected system form element. You can also open the context menu by right-clicking on the element.
