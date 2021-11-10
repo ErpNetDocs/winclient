@@ -7,7 +7,7 @@ Open the form with the ![Customize fields icon](pictures/customize-ficon.png) bu
 
 The fields that appear in the form are located on the right side.
 
-Reposition the fields around the form in the desired order with the Up ![Up arrow](pictures/up-arrow.png) and Down![Down arrow](pictures/down-arrow.png) buttons.
+Reposition the fields around the form in the desired order with the **Up** ![Up arrow](pictures/up-arrow.png) and **Down**![Down arrow](pictures/down-arrow.png) buttons.
 
 Click the ![Close button](pictures/close-button.png) button to close the customize fields form. 
 
@@ -22,7 +22,7 @@ The ![Expression fields button](pictures/expression-fbutton.png) button opens th
 The ![Expand all button](pictures/expand-abutton.png) opens all the groups and shows the existing fields.
 
 ***Example*** : 
-The fields *Enterprise company* and *Enterprise Company Location* are to expand with the use of this form without having to click on the menu displaying them.
+The fields *Enterprise company* and *Enterprise company location* are to expand with the use of this form without having to click on the menu displaying them.
 
 Open <b>Field properties</b> by clicking the ![Properties button](pictures/propertiesbutton.png) button.
 
@@ -41,7 +41,7 @@ Click the ![Dots button](pictures/dots.png)   button to open the <b>String forma
  
 The 'Category' section on the left has the unit categories for the field such as ‘currency’ or ‘percentage’.
 
-The left part is separated into three panels – *Sample*, *Standard Types* and *Custom*:
+The left part is separated into three panels – *Sample*, *Standard types* and *Custom*:
 
 - <b>Sample</b> - the visual representation of what is going to be inside the field
 - <b>Standard Types</b> - Encoded unit standards for the settings. The content of 'Sample' will change right after clicking on the standard type of choice.
