@@ -24,7 +24,7 @@ Here is a list of the most commonly used commands.
 
 ![Print](pictures/print.png)
  
-- **Create child document** - used to manually create a sub-document i.e. the next document of the document flow. Opens a list with all available document types, which can be created from the current document, according to the preset document routes.
+- **Create Child Document** - used to manually create a sub-document i.e. the next document of the document flow. Opens a list with all available document types, which can be created from the current document, according to the preset document routes.
 
 **Command ribbon >> Relations**:
 
@@ -38,7 +38,7 @@ Here is a list of the most commonly used commands.
 
 ## Navigators
 
-- **Show data** - loads the data into the navigator, according to the specified filters into the filter panel.
+- **Show Data** - loads the data into the navigator, according to the specified filters into the filter panel.
 
 **Command ribbon >> Home**:
  
@@ -64,7 +64,7 @@ Here is a list of the most commonly used commands.
 
 ![Change Enterprise company](pictures/change-company.png)
 
-Or **File menu >> Settings >> Change Enterprise company and location**…
+Or **File menu >> Settings >> Change Enterprise Company and Location**…
 
 ![Change Enterprise company from Settings](pictures/settings-change-company.png)
  
