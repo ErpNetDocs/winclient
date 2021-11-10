@@ -4,7 +4,7 @@ The command ribbon in @@winclientfull is designed in such a way so that the most
 
 ## Add to quick access toolbar
 
-1. Enter the *Customize current view* mode; 
+1. Enter the *Customize Current View* mode; 
 2. Right click on the desired button in the command ribbon;
 3. From the drop menu choose **Add to quick access toolbar**:
 
@@ -18,7 +18,7 @@ The command ribbon in @@winclientfull is designed in such a way so that the most
 
 ## Remove from quick access toolbar
 
-1. Enter the *Customize current view* mode;
+1. Enter the *Customize Current View* mode;
 2. Right click on the desired button in the quick access toolbar or the command ribbon;
 3. From the drop menu choose **Remove from quick access toolbar**:
 
