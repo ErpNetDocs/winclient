@@ -6,7 +6,7 @@ You can access the *File page* from any location in the program.
 
 ![File Menu](pictures/file-page.png) 
 
-You will find that the file page is similar to the *Main menu* in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
+You will find that the *File page* is similar to the *Main menu* in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
 
 ## Recently opened documents
 
