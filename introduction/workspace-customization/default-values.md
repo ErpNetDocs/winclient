@@ -24,7 +24,7 @@ From the context menu choose <b>Default Value >> Clear default value</b>:
 
 ![Clear default value](pictures/clear-default-value.png) 
 
-A <b>Field Default Values</b> screen will open. You need to activate *Customize current view* mode. 
+A field *Default values* screen will open. You need to activate *Customize current view* mode. 
 
 2. Here you need to select the row containing the default form;
 3. Right-click on it and from the context menu, choose **Delete Rows**.
