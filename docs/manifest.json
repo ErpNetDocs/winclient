@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "ofVfyKLFtHkiLKQgR6YqaQ=="
+          "hash": "CtFh1J/c7avP1paiZi8HVQ=="
         }
       },
       "is_incremental": false,
@@ -2336,6 +2336,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/detailed-look.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/edit-mode.png",
       "output": {
         "resource": {
@@ -2351,6 +2362,28 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/expand-ribbon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/filter-buttons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/form-description.png"
         }
       },
       "is_incremental": false,
@@ -2406,6 +2439,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/modify-document.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/navigation-buttons.png"
         }
       },
       "is_incremental": false,
@@ -2512,6 +2556,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/save-on-query.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/settings-change-company.png",
       "output": {
         "resource": {
@@ -2534,6 +2589,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/simple-layout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/status-bar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/style.png",
       "output": {
         "resource": {
@@ -2545,10 +2622,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/system-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/tablet-view.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/pictures/tablet-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/time.png"
         }
       },
       "is_incremental": false,
@@ -5467,7 +5566,7 @@
       "output": {
         ".html": {
           "relative_path": "edit-mode.html",
-          "hash": "WMxQN8l+YDCIRKRck95KHw=="
+          "hash": "ZJs+iFkoX0Vt6IabJt0+xg=="
         }
       },
       "is_incremental": false,
@@ -5587,7 +5686,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/list-numbers.html",
-          "hash": "IN7H/4f9ImL5eRHOl7wx7w=="
+          "hash": "13/QB3y1JIWdPE7Regcj9g=="
         }
       },
       "is_incremental": false,
@@ -5611,7 +5710,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/main-mode.html",
-          "hash": "QOoUw9FGgA+8wkc32GDldg=="
+          "hash": "xFBRBupXHXyZszJZoR7t3A=="
         }
       },
       "is_incremental": false,
@@ -5623,7 +5722,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/range-end.html",
-          "hash": "5LnBZaUAgZLvNBN6bItyHg=="
+          "hash": "fIG2KZyBIbAKGIsigkDmYw=="
         }
       },
       "is_incremental": false,
@@ -5635,7 +5734,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/range-start.html",
-          "hash": "9n94VSEY6Tr175i+YZ8eWQ=="
+          "hash": "QpJUOvW0DLUGhkLyIJDK8Q=="
         }
       },
       "is_incremental": false,
@@ -5647,7 +5746,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/sequence-end.html",
-          "hash": "kr8RtIVV8D/vnRmj4vxUaQ=="
+          "hash": "qwORmxo2OtMzuseN+90H7Q=="
         }
       },
       "is_incremental": false,
@@ -5659,7 +5758,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/sequence-start.html",
-          "hash": "dDe/1cJwG0dt50ImEHtpIQ=="
+          "hash": "gWDljeLWFStd1s18cENOKQ=="
         }
       },
       "is_incremental": false,
@@ -5671,7 +5770,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/panel-modes/serial-number-mode.html",
-          "hash": "9sZI0iWd+uprqW2BmhOjSw=="
+          "hash": "77NPeFAhDqVxoSrg1HI1Ig=="
         }
       },
       "is_incremental": false,
@@ -5683,7 +5782,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "yar+AvjTCTu8SmqDsGv9EQ=="
+          "hash": "pUb9iAVCpNy4XuLMOHlUbg=="
         }
       },
       "is_incremental": false,
@@ -5695,7 +5794,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/commands.html",
-          "hash": "lkr4H8GrsMH2MRco/RiJfg=="
+          "hash": "CVPtE24TarewiSW5BV5IMw=="
         }
       },
       "is_incremental": false,
@@ -5707,7 +5806,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/create-a-copy.html",
-          "hash": "FrcKE/Ktar8P4qBuvC9B0Q=="
+          "hash": "vFItYujGtQA8M4FIyjfldg=="
         }
       },
       "is_incremental": false,
@@ -5719,7 +5818,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-command-ribbon.html",
-          "hash": "s64l5O8N8yja+ir8L27J0g=="
+          "hash": "tIAu/cJCsS3rWWVHhSraGA=="
         }
       },
       "is_incremental": false,
@@ -5731,7 +5830,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-flow.html",
-          "hash": "cEmXtfNdc20RT4j4XVzndg=="
+          "hash": "/z/hSft5ZORr4oOGmorjag=="
         }
       },
       "is_incremental": false,
@@ -5743,7 +5842,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-state.html",
-          "hash": "jUppkGMxvWj642q03slDzA=="
+          "hash": "qY/6CVyYCkVYY2xMS69Jcg=="
         }
       },
       "is_incremental": false,
@@ -5751,11 +5850,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/documents/overview.md",
+      "source_relative_path": "introduction/documents/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/documents/overview.html",
-          "hash": "VaBP2O6Q/fNHx+2Fa4P3cQ=="
+          "relative_path": "introduction/documents/index.html",
+          "hash": "wUezDWuiy7FiEeUy76KiPA=="
         }
       },
       "is_incremental": false,
@@ -5987,7 +6086,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/edit-mode.html",
-          "hash": "SUbR7aw+RuM+wBAl5/8+sw=="
+          "hash": "jcZ14MCpPR83pOxIlGOuQA=="
         }
       },
       "is_incremental": false,
@@ -5999,7 +6098,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/functions.html",
-          "hash": "ko1E6HiJMSIogrrvBNBzHg=="
+          "hash": "rngMoFZwzoxwo8znU58PKA=="
         }
       },
       "is_incremental": false,
@@ -6035,7 +6134,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/customize-fields.html",
-          "hash": "3rUdSHT39Xw7D96/4mlO1A=="
+          "hash": "jXcnhn+7lrH+CkdaU+UVJw=="
         }
       },
       "is_incremental": false,
@@ -6047,7 +6146,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/default-values-management.html",
-          "hash": "BYKhdRXiks5SSE9ldaCuTA=="
+          "hash": "Omcq3AqokzXEPxfaUFkK1w=="
         }
       },
       "is_incremental": false,
@@ -6098,7 +6197,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "fDRG2bEmNMk7jY0kJ8WKQA=="
+          "hash": "y/3b3zsJ2aCaE2Hcup61Gg=="
         }
       },
       "is_incremental": false,
@@ -6804,7 +6903,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/keyboard-shortcuts.html",
-          "hash": "CSGjr+o5p65eKo4RMSPODA=="
+          "hash": "RtF8hRqPRtESIYFZpyhlEA=="
         }
       },
       "is_incremental": false,
@@ -6816,7 +6915,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-cell.html",
-          "hash": "Oeuhmj5F/TNBiYJ3u4LzhA=="
+          "hash": "dKtaI/wfxTbPVhlIoK0YwA=="
         }
       },
       "is_incremental": false,
@@ -7475,7 +7574,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/grouping.html",
-          "hash": "1KAu2r8cpeydFy16V0EDzw=="
+          "hash": "9aRMUlC+MzL68mUgQqL0lw=="
         }
       },
       "is_incremental": false,
@@ -7487,7 +7586,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/overview.html",
-          "hash": "LNlPuMifr72tuImNYIQmWA=="
+          "hash": "ZvSAPwZxzt6MEa9th5RKwg=="
         }
       },
       "is_incremental": false,
@@ -7818,7 +7917,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/searching.html",
-          "hash": "nS2ZyywyIM4qOCsK5vMWxA=="
+          "hash": "FzPKI9WIlOw9NzMiPqBJtQ=="
         }
       },
       "is_incremental": false,
@@ -7830,7 +7929,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/sorting.html",
-          "hash": "e7lKa6HYJDrg1lVtUjHuFw=="
+          "hash": "qvjnACJw9h9JKygtdArATA=="
         }
       },
       "is_incremental": false,
@@ -7842,7 +7941,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/summing.html",
-          "hash": "3azywVgCW7V+e00ZbADVag=="
+          "hash": "JFlNkVF98CxTgidL56V15w=="
         }
       },
       "is_incremental": false,
@@ -8452,7 +8551,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/print-preview.html",
-          "hash": "ZtjG6SAKpKQGdTnhu7/7mQ=="
+          "hash": "Z7GgIr7FK0BsNZN9m2zsgA=="
         }
       },
       "is_incremental": false,
@@ -8464,7 +8563,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/system-forms/properties-form.html",
-          "hash": "4PgmYAJAvsdLzrCc+GfLuA=="
+          "hash": "/SBlYJOOOIlqG+By4bPHrA=="
         }
       },
       "is_incremental": false,
@@ -8476,7 +8575,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/tablet-view-settings.html",
-          "hash": "OSclbO6jyqo2Tt7eUeRGkg=="
+          "hash": "DBRRPS/5puFI40qeI0MHNA=="
         }
       },
       "is_incremental": false,
@@ -8488,7 +8587,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/terms.html",
-          "hash": "Pt+u9bkaTE32YwmbRI61PA=="
+          "hash": "ulKcFtnD/KWhwuwdAyjNnw=="
         }
       },
       "is_incremental": false,
@@ -8503,7 +8602,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "jomzxZjv+SNKFPYjX64cqA=="
+          "hash": "RW01c9f05uilQ7B4k4VIsA=="
         }
       },
       "is_incremental": false,
@@ -8515,7 +8614,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/user-system-settings.html",
-          "hash": "dcdNM6cIxS2wKsvVAswWgA=="
+          "hash": "h2Aiue1aHjgsR6/GPd1wxA=="
         }
       },
       "is_incremental": false,
@@ -8527,7 +8626,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/customize-current-view.html",
-          "hash": "rBc+BVIcL8oBsvQCuhPKwQ=="
+          "hash": "zKwgSBQOsBGwmjQYB2iEIw=="
         }
       },
       "is_incremental": false,
@@ -8539,7 +8638,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/customize-quick-access.html",
-          "hash": "CVb1ZsFjVpM7g7SxLxLuUQ=="
+          "hash": "PxVqZZZ3X81zC58Xfv3O0g=="
         }
       },
       "is_incremental": false,
@@ -8551,7 +8650,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/default-values.html",
-          "hash": "drUcHTMpJlH2XzhEEI7tXQ=="
+          "hash": "m3wOkph+OdD0Tywf3umAUw=="
         }
       },
       "is_incremental": false,
@@ -8596,7 +8695,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/index.html",
-          "hash": "GWIQo6vrYgYzaKLrj8ptLQ=="
+          "hash": "cAPQk1gBQ+DONgBMfsn9Vw=="
         }
       },
       "is_incremental": false,
@@ -8619,7 +8718,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/open-in-a-separate-window.html",
-          "hash": "MQEooABVDp7Og6dFD+1Jcw=="
+          "hash": "lPjcj7h9znm4833zjzQdWQ=="
         }
       },
       "is_incremental": false,
@@ -9181,7 +9280,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-fields.html",
-          "hash": "/2CCkT3d4J5AQkbYVo77yA=="
+          "hash": "X/yEOTSvAPkeKjlhO98jMw=="
         }
       },
       "is_incremental": false,
@@ -9193,7 +9292,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-panels.html",
-          "hash": "88Ioi2bWy8FEwf/7j8THbg=="
+          "hash": "AbkatWxfIcqt1jHl8Rvg7A=="
         }
       },
       "is_incremental": false,
@@ -9205,7 +9304,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-regions.html",
-          "hash": "aGJX+6r9UGw1izzqlPpGMg=="
+          "hash": "k7yTvUNT2jWiSrpv7frhWw=="
         }
       },
       "is_incremental": false,
@@ -9217,7 +9316,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace-customization/working-with-views.html",
-          "hash": "2zwffs0fXMZVKvo7EKuMaQ=="
+          "hash": "R3Z41V1gdpsaSiNRlg6+yA=="
         }
       },
       "is_incremental": false,
@@ -9229,7 +9328,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/file-page.html",
-          "hash": "MnvQlapnvwiEi5yLqc2Yxg=="
+          "hash": "hFX5Z0v+0y4cNNdR/4XwOA=="
         }
       },
       "is_incremental": false,
@@ -9241,7 +9340,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/index.html",
-          "hash": "QvPeDs+AAF534Oap4FssRw=="
+          "hash": "mg2cFEvQnRb9AoMGLxsZUQ=="
         }
       },
       "is_incremental": false,
@@ -9253,7 +9352,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/workspace/main-menu.html",
-          "hash": "lcYoZT0a2Dx1YDVMqSGx6g=="
+          "hash": "NdYLBgQW9Dq3+VHhNw2OHQ=="
         }
       },
       "is_incremental": false,
@@ -9730,7 +9829,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/activity.html",
-          "hash": "4zoR6kkwb19fOMOXX3rH3A=="
+          "hash": "Md5WpbDY5ZhsZRde61/owQ=="
         }
       },
       "is_incremental": false,
@@ -9742,7 +9841,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/document-flow.html",
-          "hash": "KBx2AkJcTq3E9N4YpEDzhg=="
+          "hash": "h/fVcGwwObP/erEu0j47kw=="
         }
       },
       "is_incremental": false,
@@ -9766,7 +9865,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/invoice-order.html",
-          "hash": "WH4wbiL22jWQN4LRWxyYMg=="
+          "hash": "tJytpkbCsN0MkuwGuB66pg=="
         }
       },
       "is_incremental": false,
@@ -11450,7 +11549,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/purchase-order.html",
-          "hash": "gAdc0JUHgSPXzYjnZyj30A=="
+          "hash": "q+YSps+XMpw50WVlqOKT0A=="
         }
       },
       "is_incremental": false,
@@ -11462,7 +11561,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/receiving-order.html",
-          "hash": "e+xrVoQ5QGDMer7vmKAapA=="
+          "hash": "yvwhTSFG2g7ln442x899ag=="
         }
       },
       "is_incremental": false,
@@ -11474,7 +11573,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-invoice.html",
-          "hash": "yxCB0GWnCJikF3ht7W1+AA=="
+          "hash": "AO542HY4gD7fqjuHMNEgsQ=="
         }
       },
       "is_incremental": false,
@@ -11486,7 +11585,7 @@
       "output": {
         ".html": {
           "relative_path": "step-by-step/sales-order.html",
-          "hash": "rVMJrfqJuh2Gh3dmxPaeNQ=="
+          "hash": "v+S/ZarzFP8s/fn+Iu6NJA=="
         }
       },
       "is_incremental": false,
