@@ -8,7 +8,7 @@ In @@winclientfull, there are some special terms. This topic briefly explains th
 - [Region](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-regions.html) – an area of the screen, a frame, in which you can place different Panels;
 - [Panel](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-panels.html) – a part of a Form, which contains independent meaning;
 - [View](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-views.html)– the appearance of the form, which is saved under a certain name;
-- Document flow – all documents that describe a given process;
+- [Document flow](https://docs.erp.net/winclient/step-by-step/document-flow.html?q=Document%20flow) – all documents that describe a given process;
 - Main document – the document that sets the beginning of a document chain;
 - Parent document – a document from which another document is created;
 - Sub-document – a document, which is created from another document;
