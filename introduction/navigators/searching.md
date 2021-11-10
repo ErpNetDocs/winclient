@@ -1,11 +1,11 @@
 # Searching 
 
-The Find tool can easily go through large amounts of data for you. You can search in various ways: 
+The **Find tool** can easily go through large amounts of data for you. You can search in various ways: 
 through the **Filtering row**, the **Search navigation** button, or with **Quick search**. 
 
 ## Find form
 
-You can use the Find Form to quickly seach by a word, fraction of a word, number, or other elements from the page you are looking for. 
+You can use the **Find Form** to quickly seach by a word, fraction of a word, number, or other elements from the page you are looking for. 
 You will find it in the
 
 **Command ribbon >> Data >> Find ** (or with **Ctrl + F**):
@@ -30,5 +30,5 @@ To use this method, hover over a column (or a field in the <b>Field tree</b>). T
 
 ![Quick Searching](pictures/quick-searching.png)
 
-You can go through all the records, starting with a specific letter that are in a given, by pressing the letter couple of times (useful method for finding a field in the  <b>Visible fields</b> form).
+You can go through all the records, starting with a specific letter that are in a given, by pressing the letter couple of times (useful method for finding a field in the  *Visible fields* form).
 
