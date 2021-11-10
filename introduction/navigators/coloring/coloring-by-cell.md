@@ -12,7 +12,7 @@ The <b> Sales orders </b> navigator shows the sales orders issued to/from differ
 
 ![Amount to pay](pictures/amount-to-pay.png)
 
-3.	<b>Field Properties</b> window will open. From here, go to the <b>Format Condition</b> tab and check the <b>Enable format condition</b> box. As a condition, select <b>Greater</b> and set Value 1 to be 7 000. After this, you can choose the color:
+3.	<b>Field Properties</b> window will open. From here, go to the <b>Format Condition</b> tab and check the <b>Enable Format Condition</b> box. As a condition, select <b>Greater</b> and set Value 1 to be 7 000. After this, you can choose the color:
 
 ![Format condition](pictures/format-condition.png)
 
