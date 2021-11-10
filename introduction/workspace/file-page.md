@@ -1,16 +1,16 @@
 # File page
 
-In the **File page**, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
+In the *File page*, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
-You can access the File page from any location in the program.
+You can access the *File page* from any location in the program.
 
 ![File Menu](pictures/file-page.png) 
 
-You will find that the file page is similar to the Main Menu in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
+You will find that the file page is similar to the *Main menu* in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
 
 ## Recently opened documents
 
-By clicking the <b>Recent</b> button, you will see a list of the lately used Forms:
+By clicking the <b>Recent</b> button, you will see a list of the lately used forms:
 
 ![Recently opened documents](pictures/recent.png) 
 
@@ -18,7 +18,7 @@ You can easily access the documents again with a click on the desired document.
 
 ## Create new document
 
-With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the Main menu):
+With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the *Main menu*):
 
 ![Create New Document](pictures/create-new-document.png) 
 
@@ -62,7 +62,7 @@ With the <b>Exit</b> button, you end any work on the system and completely close
 
 ## Print, Properties, Send
 
-The File page is another place, where you can print a document, review its properties, or send it via e-mail. These buttons have analogs on the command ribbon. 
+The *File page* is another place, where you can print a document, review its properties, or send it via e-mail. These buttons have analogs on the command ribbon. 
 
 ![Print, Properties, Send](pictures/print-properties-send.png) 
 
