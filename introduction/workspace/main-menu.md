@@ -52,7 +52,7 @@ E.g. you can open a `Navigator`, create a new document or open a specific report
 
 ![Main Menu Start Section](pictures/main-menu-start.png)
 
-Due to the fact that the **Main Menu** supports `Views`, you can customize the contents of the `START` group.
+Due to the fact that the **Main menu** supports `Views`, you can customize the contents of the `START` group.
 From the list with available panels you can select the ones you wish to be part of the `START`.
 
 > [!NOTE]
