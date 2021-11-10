@@ -2,7 +2,7 @@
 
 A receiving order document reflects purchases made by a supplier and aims to increase availability. 
 
-Most often, it is created as a result of a **[purchase order](https://docs.erp.net/winclient/step-by-step/purchase-order.html)**.
+Most often, it is created as a result of a [purchase order](https://docs.erp.net/winclient/step-by-step/purchase-order.html).
 
 To create a receiving order, go to <b>Logistics >> Procurement >> Create new receiving order</b>.
  
