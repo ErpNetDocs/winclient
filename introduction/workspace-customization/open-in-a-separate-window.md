@@ -12,5 +12,5 @@ Other ways to open in a separate window are by either right clicking on the *Fie
 
 ![Separate window](pictures/separate-window.png) 
 
-If you need that form to continue opening in a separate window after closing the program, go to *Customize current view* mode and click on *Save layout changes*. 
+If you need that form to continue opening in a separate window after closing the program, go to *Customize Current View* mode and click on *Save layout changes*. 
 When you open a <b>Navigator</b> in a separate window, each record will be open in a new window.
