@@ -7,13 +7,14 @@ To pick a default value, go to the field of choice, right-click it and from the 
 
 <b>Default value→ Set as default value</b>.
 
-> Note: the default value function requires enabled *Customize Current View* mode.
+> Note: 
+> the default value function requires enabled *Customize current view* mode.
 
 ![Customize current view](pictures/customize-view.png)  
 
 ![Set default value](pictures/set-defaultvalue1.png) 
 
- The Set default value form opens. It displays a set of options and sub-options to choose from. 
+ The **Set default value** form opens. It displays a set of options and sub-options to choose from. 
 
 ![Value form](pictures/value-form.png)   
 
@@ -25,7 +26,7 @@ You want to set *Bank transfer* as default payment option in a **sales order** d
 
 - Select the following: ***for the current user*** and ***for the current document type***. 
 
-Any time you open a new **sales order** document, the *Bank transfer* value will automatically appear in the *Payment Type* field. 
+Any time you open a new **sales order** document, the *Bank transfer* value will automatically appear in the *Payment type* field. 
 
 The <b>Clear default value</b> function clears the data set as default. 
 
@@ -41,6 +42,6 @@ Mark the row in the panel with a mouse click, then right-click and select the <b
 
 ***Example 2:***
 
-The default value that you set – *Bank transfer*, in the *Payment Type* field of the **sales order** document, needs to be cleared. 
+The default value that you set – *Bank transfer*, in the *Payment type* field of the **sales order** document, needs to be cleared. 
 
-After clearing the default value following the steps above, if you open a **sales order** document, *Payment Type* will be empty.
+After clearing the default value following the steps above, if you open a **sales order** document, *Payment type* will be empty.
