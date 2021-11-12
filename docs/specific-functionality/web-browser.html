@@ -79,7 +79,7 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="web-browser">Web browser</h1>
 
-<p>They are everywhere. Each form in Windows Client supports up to 3 instances of a web browser panel. You can show them in the usual way - <a href="https://docs.erp.net/winclient/introduction/workspace-customization/index.html?q=Customize%20the%20workspace">Customize the workspace</a> / <a href="https://docs.erp.net/winclient/introduction/workspace-customization/working-with-panels.html?q=Working%20with%20panels">Working with panels.</a></p>
+<p>They are everywhere. Each form in Windows Client supports up to 3 instances of a web browser panel. You can show them in the usual way - <strong><a href="https://docs.erp.net/winclient/introduction/workspace-customization/index.html?q=Customize%20the%20workspace">Customize the workspace</a></strong> / <strong><a href="https://docs.erp.net/winclient/introduction/workspace-customization/working-with-panels.html?q=Working%20with%20panels">Working with panels.</a></strong></p>
 <p><img src="pictures/web-browser-visible-panels-popup.png" alt="Layout-form-visible-panels"></p>
 <p>Their purpose is quite simple - access and interact with an external web service directly from the Windows Client. See below for an example picture of a customized web browser panel. It's configured to open a location in google maps - the location corresponding to the specific customer record.</p>
 <p><img src="pictures/web-browser-google-maps.png" alt="Web-browser-google-maps"></p>
@@ -92,13 +92,13 @@
 <p>If you need to customize a web browser panel, the Customize Current View mode should be active.</p>
 </div>
 <p>Several additional regions appear to help you configure it. Their names are self explanatory and the main idea is to specify the destination address you want the web browser to open.
-An important detail here is that if the address is not constant (e.g. when you just want to open &quot;google.com&quot;) and depends on certain parameters, then the <a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">string interpolation</a> takes action - integrated functionality in ERP.net.</p>
+An important detail here is that if the address is not constant (e.g. when you just want to open &quot;google.com&quot;) and depends on certain parameters, then the <strong><a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">string interpolation</a></strong> takes action - integrated functionality in ERP.net.</p>
 <p>In the example with the panel above that shows google maps, the source URL used is:</p>
-<p><a href="https://www.google.com/maps/place/%7BParty.Area.Name:T%7D">https://www.google.com/maps/place/{Party.Area.Name:T}</a></p>
+<p><strong><a href="https://www.google.com/maps/place/%7BParty.Area.Name:T%7D">https://www.google.com/maps/place/{Party.Area.Name:T}</a></strong></p>
 <p>which is interpolated to:</p>
-<p><a href="https://www.google.com/maps/place/Sofia">https://www.google.com/maps/place/Sofia</a></p>
+<p><strong><a href="https://www.google.com/maps/place/Sofia">https://www.google.com/maps/place/Sofia</a></strong></p>
 <p>That is, it doesn't simply visualize a location on the map, but one that is set on the customer itself.</p>
-<p>For more information on string interpolation you can read in our <a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">separate topic in the documentation</a>.</p>
+<p>For more information on string interpolation you can read in our <strong><a href="https://docs.erp.net/tech/advanced/string-interpolation/index.html">separate topic in the documentation</a></strong>.</p>
 <h3 id="source-url">Source URL</h3>
 <p>This is the original (source) target address that will be interpolated. Here you can specify additional parameters that are required (as the location in the example above). Of course, if you just type &quot;google.com&quot; and save the changes, this panel will simply open the site.</p>
 <h3 id="http-headers">HTTP headers</h3>
@@ -107,7 +107,7 @@ An important detail here is that if the address is not constant (e.g. when you j
 <p>Contains a list of possible parameters that you can use in the source URL. When you double-click on the desired one, it will be inserted where you are positioned in the source URL input.</p>
 <h3 id="destination-url">Destination URL</h3>
 <p>Practically, the same one as the Source URL, but interpolated. This will be the actual URL, that web browser will open.</p>
-<h2 id="advanced-example">Advanced example</h2>
+<h4 id="advanced-example">Advanced example</h4>
 <p>Some web services require multiple additional parameters, which must be passed in the URL. The picture below demonstrates it.</p>
 <p><img src="pictures/web-browser-full.png" alt="Web-browser-advanced-example-full"></p>
 <p>The external web service in the example expects several parameters and prints them on the screen. We can obtain these parameters only via string interpolation. Take a closer look at picture below - the source URL and how it's interpolated.</p>

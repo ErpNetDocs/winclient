@@ -397,7 +397,7 @@
   "step-by-step/invoice-order.html": {
     "href": "step-by-step/invoice-order.html",
     "title": "Invoice order | ERP.net Windows Client",
-    "keywords": "Invoice order An invoice order is an intermediate document between a sales order and a sales invoice . The standard model of work is to generate an invoice order from a sale order. To create the document, go to the Document flow panel and locate the invoice order. Right-click it and select Open document . The rows from the sale order are automatically copied to the rows of the invoice order. As a result, we get an invoice document."
+    "keywords": "Invoice order An invoice order is an intermediate document between a sales order and a sales invoice . The standard model of work is to generate an invoice order from a sales order. To create the document, go to the Document flow panel and locate the invoice order. Right-click it and select Open document . The rows from the sale order are automatically copied to the rows of the invoice order. As a result, we get an invoice document."
   },
   "step-by-step/purchase-order.html": {
     "href": "step-by-step/purchase-order.html",
