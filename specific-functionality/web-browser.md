@@ -27,11 +27,11 @@ An important detail here is that if the address is not constant (e.g. when you j
 
 In the example with the panel above that shows google maps, the source URL used is:
 
-https://www.google.com/maps/place/{Party.Area.Name:T}
+**https://www.google.com/maps/place/{Party.Area.Name:T}**
 
 which is interpolated to:
 
-https://www.google.com/maps/place/Sofia
+**https://www.google.com/maps/place/Sofia**
 
 That is, it doesn't simply visualize a location on the map, but one that is set on the customer itself.
 
