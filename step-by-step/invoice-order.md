@@ -1,6 +1,6 @@
 # Invoice order
 
-An invoice order is an intermediate document between a [sales order](https://docs.erp.net/winclient/step-by-step/sales-order.html) and a [sales invoice](https://docs.erp.net/winclient/step-by-step/sales-invoice.html). 
+An invoice order is an intermediate document between a **[sales order](https://docs.erp.net/winclient/step-by-step/sales-order.html)** and a **[sales invoice](https://docs.erp.net/winclient/step-by-step/sales-invoice.html)**. 
 
 The standard model of work is to generate an invoice order from a sale order.
 
