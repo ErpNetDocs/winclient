@@ -5,7 +5,7 @@ A barcode label is a special symbol to represent human readable information such
 
 ## The barcode tab
 
-The Barcode tab is accessible only if the _Barcode commands_ panel is visible in the view. It contains several buttons which rebound to the work of the panel, but it also contains a Settings button. When pressed, it opens the Settings window where we can edit the list of barcode command handlers with different options (such as ‘Use lots’, for example) which are or can be activated. 
+The Barcode tab is accessible only if the **Barcode commands** panel is visible in the view. It contains several buttons which rebound to the work of the panel, but it also contains a Settings button. When pressed, it opens the Settings window where we can edit the list of barcode command handlers with different options (such as ‘Use lots’, for example) which are or can be activated. 
 
 > [!NOTE] 
 > 
@@ -29,7 +29,7 @@ Barcode commands are handled only by the active command handlers in the specifie
  
 - If ‘Use lots’ is on, when the system recognizes the product (if the product is allowed or required to use lots), it does not create a line immediately, but changes the barcode panel mode and waits until information about the lot number is received. The lot number can be added via a barcode label, manually in the main field or from the drop-down list in the lot field.
 
-- If ‘Use serial numbers’ is on, when the system recognizes the product (if the product is serialized), it does not create a line immediately, but changes the barcode panel mode and waits until information about the serial number is received. The lot number can be added via barcode label and manually in the main field or in the serial number field.
+- If ‘Use serial numbers’ is on, when the system recognizes the product (if the product is serialized), it does not create a line immediately, but changes the *Barcode* panel mode and waits until information about the serial number is received. The lot number can be added via barcode label and manually in the *Main* field or in the *Serial number* field.
 
 ## Barcode panel modes
 
