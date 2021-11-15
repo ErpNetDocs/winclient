@@ -11,10 +11,8 @@ The mode can be selected:
 - **manually** from the dropdown list in the Barcode panel.  
 - **manually** by entering the **fast command #LIST#** in the main field when the panel is operating in one of the serial number modes.
 - **automatically** after the selection of the product through the [Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html) -
-
 as long as the _Use serial numbers_ option from the barcode settings is activated **AND** the product ‘_Is serialized_’ **AND**:
-
-- it is the first use of the panel after opening the form **AND** the current mode is selected in the field _Default mode for serial numbers input_ in the Barcode panel settings 
+- it is the first use of the panel after opening the form **AND** the current mode is selected in the field *Default mode for serial numbers input* in the **Barcode** panel settings 
 
 **OR**
 
