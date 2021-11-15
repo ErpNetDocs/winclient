@@ -9,7 +9,7 @@ Every expression consists of at least one operand and can have one or more opera
 
 Returns True if the left operand is less than the right operand.
 
-***Example***:        3 < 4 // true
+**Example**:        3 < 4 // true
 
 
 
@@ -17,7 +17,7 @@ Returns True if the left operand is less than the right operand.
 
 Returns True if the left operand is greater than the right operand.
 
-***Example***:        4 > 3 // true
+**Example**:        4 > 3 // true
 
 
 
@@ -25,7 +25,7 @@ Returns True if the left operand is greater than the right operand.
 
 Returns True if the left operand is less than or equal to the right operand.
 
-***Example***:        3 <= 4 // true <br>
+**Example**:        3 <= 4 // true <br>
 3 <= 3 // true
 
 
@@ -106,7 +106,7 @@ The following table shows how you can use **Like** to test expressions for diffe
 
 - **Concatenation** is allowed using Boolean AND, OR, and NOT operators. The AND operator has precedence over other operators. 
  
-***For example***:
+**For example**:
   
   (LastName = 'Smith' OR LastName = 'Jones') AND FirstName = 'John'
 
