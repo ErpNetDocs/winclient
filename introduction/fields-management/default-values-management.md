@@ -20,7 +20,7 @@ To pick a default value, go to the field of choice, right-click it and from the 
 
 Press **OK** to save the selected options. 
 
-***Example 1:***
+**Example 1:**
 
 You want to set *Bank transfer* as default payment option in a **sales order** document. 
 
@@ -40,7 +40,7 @@ Mark the row in the panel with a mouse click, then right-click and select the <b
 
 ![Delete rows](pictures/delete-rows.png)
 
-***Example 2:***
+**Example 2:**
 
 The default value that you set – *Bank transfer*, in the *Payment type* field of the **sales order** document, needs to be cleared. 
 
