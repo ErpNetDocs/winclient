@@ -1,6 +1,6 @@
 # Sorting
 
-You can use sorting to organize data by a certain criteria (alphabetic order, data, number…). If you prefer to <b>keep</b> the changes after you close the program, you need to be in an **active** *Change current view* mode. Otherwise, the changes will disappear after you close the form. <br>
+You can use sorting to organize data by a certain criteria (alphabetic order, data, number…). If you prefer to keep the changes after you close the program, you need to be in an **active** *Change current view* mode. Otherwise, the changes will disappear after you close the form. <br>
 To see this option, right-click on the name of the column, you need to sort:<br>
 
 ![Descening](pictures/descening.png)
