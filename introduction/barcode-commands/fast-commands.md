@@ -17,7 +17,7 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
 - *, which resets the entered quantity.
 - q*, where ‘q’ is a number i.e. 1, 10, 50, 500..:</br>
 
-    - q* adds the entered number (q) to the current value of the *Barcode* panel’s *Quantity* field.</br>
+    - q* adds the entered number (q) to the current value of the **Barcode** panel’s *Quantity* field.</br>
 
     - When scanned in combination with a product code (q*productCode), it adds a new line with the entered product and quantity equal to entered number(q).</br>
  
