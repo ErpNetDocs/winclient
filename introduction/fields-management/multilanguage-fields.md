@@ -1,11 +1,11 @@
 # Multilanguage fields 
 
-*Multilanguage fields* are text fields usually present in the nomenclatures (name, description). You can transliterate the values in these fields using the <b>text translations</b> form. 
+***Multilanguage fields*** are text fields usually present in the nomenclatures (name, description). You can transliterate the values in these fields using the text translations form. 
 Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
 
 ![Dropdown menu](pictures/dd-menut.png) 
 
-***Example*** :
+**Example** :
 - by opening a ‘Product group’ form
 - by opening a ‘Product group’ field
 - by selecting the function from the dropdown menu or
