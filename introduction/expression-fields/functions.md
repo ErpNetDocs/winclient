@@ -20,7 +20,7 @@ This function is very useful if we want to use custom properties values in calcu
 
 - expression - The expression to convert.
 
-***Example:*** CONVERT([LinesTotal], 'System.Decimal').  
+**Example:** CONVERT([LinesTotal], 'System.Decimal').  
 
 ### LEN()
 
@@ -30,7 +30,7 @@ Gets the length of a string.
 
 - expression - The string to be evaluated.
 
-***Example:*** Len([ProductDescription]) 
+**Example:** Len([ProductDescription]) 
 
 If the product description is ‘White paper’, the function will return 11.
 
@@ -43,7 +43,7 @@ Checks an expression and either returns it or gives a replacement value.
 - expression - The expression to check.
 - replacementvalue - If expression is null, a replacement value is returned.
 
-***Example:*** IsNull([UnitPrice], 0.00)
+**Example:** IsNull([UnitPrice], 0.00)
 
 If the unit price is 12.00, then the function returns 12.00. If the unit price is not filled in, it returns 0.00.
 
@@ -57,7 +57,7 @@ Gets one of two values depending on the result of a logical expression.
 - truepart - The value to return if the expression is true.
 - falsepart - The value to return if the expression is false.
  
- ***Example:*** IIF([LineAmount]>1000, 'Eligible for discount', 'No discount')
+ **Example:** IIF([LineAmount]>1000, 'Eligible for discount', 'No discount')
  
 If the Line amount is 2000.00, the function returns ‘Eligible for discount’.
 
@@ -71,7 +71,7 @@ Removes all leading and trailing blank characters.
 
 - expression - The expression that will be trimmed.
 
-***Example:*** TRIM([Notes])
+**Example:** TRIM([Notes])
 
 If the note is ‘The warranty is sold separately. ‘, the function will return ‘The warranty is sold separately.’.
 
@@ -85,7 +85,7 @@ Gets a sub-string of a specified length, starting at a specified point in the st
 - start - An integer that defines where the substring starts.</br>
 - length - An integer that defines the length of the substring.</br>
  
- ***Example:*** SUBSTRING([ProductDescription], 7, 5)
+ **Example:** SUBSTRING([ProductDescription], 7, 5)
  
 If the product description is ‘White paper’, then the function will return ‘Paper’.
 
