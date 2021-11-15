@@ -1,7 +1,7 @@
 # Barcode commands
 
 
-A barcode label is a special symbol to represent human readable information such as a product number or a lot number in machine readable format. In @@name barcode labels could be used through the _Barcode commands_ panel. This panel allows very quick and operational work with barcode labels via barcode reader in the forms containing product lines. The product can be added in the lines by using their product name, part number or a product code (using coding systems). Information such as *quantity*, *lot* or *serial number* can also be inputted.
+A barcode label is a special symbol to represent human readable information such as a product number or a lot number in machine readable format. In @@name barcode labels could be used through the **Barcode commands** panel. This panel allows very quick and operational work with barcode labels via barcode reader in the forms containing product lines. The product can be added in the lines by using their product name, part number or a product code (using coding systems). Information such as *quantity*, *lot* or *serial number* can also be inputted.
 
 ## The barcode tab
 
@@ -19,7 +19,7 @@ For more information, see **[Fast barcode panel commands](https://docs.erp.net/w
 
 ## Barcode commands handlers
 
-Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other ([GS1-128 command handler](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-handler.html)**, **Mettler Toledo / EAN-13 BPRO)** and **Coding systems** (user-defined). 
+Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other** **([GS1-128 command handler](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-handler.html)**, **Mettler Toledo / EAN-13 BPRO)** and **Coding systems** (user-defined). 
 
 Barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered using drag and drop.
 
