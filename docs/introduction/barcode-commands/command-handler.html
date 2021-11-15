@@ -134,13 +134,13 @@
 </ul>
 <p>The system attempts to split the scanned text into segments of the following format ‘(xxx ... x) yyy ... y’.  Where ‘xxx ... x’ would contain at least two characters (‘xxx ... x’ will be referred to in the text as ‘segment code’) and ‘yyy ... y’ is a non-empty text. Both ‘xxx ... x’ and ‘yyy ... y’ do not need to contain brackets ‘(‘ or ‘)’.</p>
 <p>If the text cannot be separated into those segments, \the reading by the GS1-128 handler fails and the system does not continue the next steps.</p>
-<p><em><strong>For  example</strong></em>, the text (02)TEST00012479222(10)L00028(37)5 is split into segments (02)TEST00012479222, (10)L00028 и (37)5. In the first segment ‘xxx...x’ is ‘02’ and ‘ ‘yyy...y’ is TEST00012479222.. and so on.</p>
+<p><strong>For  example</strong>, the text (02)TEST00012479222(10)L00028(37)5 is split into segments (02)TEST00012479222, (10)L00028 и (37)5. In the first segment ‘xxx...x’ is ‘02’ and ‘ ‘yyy...y’ is TEST00012479222.. and so on.</p>
 <p>For texts like 22503(01)54030893330, ()22503(01)54030893330, (01)805485305840)4584, (1)8HHJ4584(01)PRD442607224 or (02)453893890899(10), the reading fails.</p>
 <ul>
 <li><strong>Step 2</strong></li>
 </ul>
 <p>From the segments which are a result of the previous step, only those with a segment code 01, 02, 10, 21 or 37 are taken into consideration. The remaining segments are neglected and do not participate in the next steps.</p>
-<p><em><strong>For example</strong></em>, if the text is (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454, segments (02)TEST00012479222, (10)L00028 и (37)5 are going to be used in the next steps and segments (12)6646, (21)KKE334, (22)DW634 и (329y)798454 are going to be neglected.</p>
+<p><strong>For example</strong>, if the text is (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454, segments (02)TEST00012479222, (10)L00028 и (37)5 are going to be used in the next steps and segments (12)6646, (21)KKE334, (22)DW634 и (329y)798454 are going to be neglected.</p>
 <ul>
 <li><strong>Step 3</strong></li>
 </ul>
@@ -149,21 +149,21 @@
 <ul>
 <li>Each of the segment codes 01, 02, 10, 21 or 37 can be part of only one of the segments in the text. <br></li>
 </ul>
-<p><em><strong>For example</strong></em>, texts like (02)HJ453494573945(37)12, (10)LОТ55490380934(21)455340300303 and <br>
+<p><strong>For example</strong>, texts like (02)HJ453494573945(37)12, (10)LОТ55490380934(21)455340300303 and <br>
 (02)TEST00012479222(10)L00028(12)6646(21)KKE334(22)DW634(37)5(329y)798454 are valid commands, while </br>
 (02)HJ453494573945(37)12(37)445(329y)798454 and (01)45373532234BBA98(01)YYE436373(10)LOT17 are not.</p>
 <ul>
 <li>The text needs to contain at least one segment with code 01 or 02.</li>
 </ul>
-<p><em><strong>For example</strong></em>, texts like (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid, while (10)LОТ55490380934(21)455340300303 is not.<br></p>
+<p><strong>For example</strong>, texts like (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid, while (10)LОТ55490380934(21)455340300303 is not.<br></p>
 <ul>
 <li>The text does not have to contain segments with segment codes 01 and 02 simultaneously.<br></li>
 </ul>
-<p><em><strong>For example</strong></em>, (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid texts, while (10)LОТ55490380934(21)455340300303 is not;</p>
+<p><strong>For example</strong>, (01)45373532234BBA98 and (02)HJ453494573945(37)12 are valid texts, while (10)LОТ55490380934(21)455340300303 is not;</p>
 <ul>
 <li>If the text contains a segment with code 37, then it must also contain a segment with code 02.<br></li>
 </ul>
-<p><em><strong>For example</strong></em>, (02)HJ453494573945(37)12 is a valid text, while (01)HJ453494573945(37)12 is not.</p>
+<p><strong>For example</strong>, (02)HJ453494573945(37)12 is a valid text, while (01)HJ453494573945(37)12 is not.</p>
 <p>If any of the validations find that the text is invalid, then the reading by the GS1-128 handler fails and the system DOES not continue the next steps.</p>
 <ul>
 <li><strong>Step 4</strong></li>

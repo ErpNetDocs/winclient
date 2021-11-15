@@ -93,14 +93,14 @@
 <ul>
 <li>expression - The expression to convert.</li>
 </ul>
-<p><em><strong>Example:</strong></em> CONVERT([LinesTotal], 'System.Decimal').</p>
+<p><strong>Example:</strong> CONVERT([LinesTotal], 'System.Decimal').</p>
 <h3 id="len">LEN()</h3>
 <p>Gets the length of a string.</p>
 <p><em><strong>Syntax</strong></em>: LEN(<em>expression</em>), where:</p>
 <ul>
 <li>expression - The string to be evaluated.</li>
 </ul>
-<p><em><strong>Example:</strong></em> Len([ProductDescription])</p>
+<p><strong>Example:</strong> Len([ProductDescription])</p>
 <p>If the product description is ‘White paper’, the function will return 11.</p>
 <h3 id="isnull">ISNULL()</h3>
 <p>Checks an expression and either returns it or gives a replacement value.</p>
@@ -109,7 +109,7 @@
 <li>expression - The expression to check.</li>
 <li>replacementvalue - If expression is null, a replacement value is returned.</li>
 </ul>
-<p><em><strong>Example:</strong></em> IsNull([UnitPrice], 0.00)</p>
+<p><strong>Example:</strong> IsNull([UnitPrice], 0.00)</p>
 <p>If the unit price is 12.00, then the function returns 12.00. If the unit price is not filled in, it returns 0.00.</p>
 <h3 id="iif">IIF()</h3>
 <p>Gets one of two values depending on the result of a logical expression.</p>
@@ -119,7 +119,7 @@
 <li>truepart - The value to return if the expression is true.</li>
 <li>falsepart - The value to return if the expression is false.</li>
 </ul>
-<p><em><strong>Example:</strong></em> IIF([LineAmount]&gt;1000, 'Eligible for discount', 'No discount')</p>
+<p><strong>Example:</strong> IIF([LineAmount]&gt;1000, 'Eligible for discount', 'No discount')</p>
 <p>If the Line amount is 2000.00, the function returns ‘Eligible for discount’.</p>
 <p>If the Line amount is 800.00, the function returns ‘No discount’.</p>
 <h3 id="trim">TRIM()</h3>
@@ -128,7 +128,7 @@
 <ul>
 <li>expression - The expression that will be trimmed.</li>
 </ul>
-<p><em><strong>Example:</strong></em> TRIM([Notes])</p>
+<p><strong>Example:</strong> TRIM([Notes])</p>
 <p>If the note is ‘The warranty is sold separately. ‘, the function will return ‘The warranty is sold separately.’.</p>
 <h3 id="substring">SUBSTRING()</h3>
 <p>Gets a sub-string of a specified length, starting at a specified point in the string.</p>
@@ -138,7 +138,7 @@
 <li>start - An integer that defines where the substring starts.<br></li>
 <li>length - An integer that defines the length of the substring.<br></li>
 </ul>
-<p><em><strong>Example:</strong></em> SUBSTRING([ProductDescription], 7, 5)</p>
+<p><strong>Example:</strong> SUBSTRING([ProductDescription], 7, 5)</p>
 <p>If the product description is ‘White paper’, then the function will return ‘Paper’.</p>
 </article>
           </div>
