@@ -8,7 +8,7 @@ This mode is introduced in Version 2019.1. It is used for **entering an ending s
 
 For entering a start number, use **[RANGE START of serial numbers (from ... to)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html)**. 
 
-***Example:*** We want to create a range of serial numbers starting from serial number ‘XB0008’ and ending to‘XB0012’. 
+####Example: We want to create a range of serial numbers starting from serial number ‘XB0008’ and ending to‘XB0012’. 
 
 In this case, we can:
 
