@@ -7,7 +7,7 @@ This mode is introduced in Version 2019.1. It is used for **entering a count of 
 
 For entering a start serial number, use  **[SEQUENCE START of serial numbers (from ... count)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)**
 
-***Example:*** We want to create 5 serial numbers starting from serial number ‘XB0008’. 
+**Example:** We want to create 5 serial numbers starting from serial number ‘XB0008’. 
 
 In this case, we could:
 
