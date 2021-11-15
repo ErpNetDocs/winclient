@@ -2,13 +2,13 @@
 
 This procedure will show you how to color individual cells (fields) in a navigator.
 
-As an example, we will set all invoices with an amount to pay bigger than 7000 BGN to color in red, in the <b> Sales orders navigator</b>. For this purpose you can go to: <br>
+As an example, we will set all invoices with an amount to pay bigger than 7000 BGN to color in red, in the  Sales orders navigator. For this purpose you can go to: <br>
 <b>Home menu -> CUSTOMERS -> DOCUMENTS -> Orders navigator</b>.
 
 The <b> Sales orders </b> navigator shows the sales orders issued to/from different contractors – customers, suppliers.
 
 1.	Click on <b>Show data</b> and then right-click on a row of the Navigator. From the displayed menu select <b>Customize fields</b>; 
-2.	Select a given field. In this case, click ***Amount To Pay*** and then ***Properties…***>: <br>
+2.	Select a given field. In this case, click **Amount To Pay** and then **Properties…**>: <br>
 
 ![Amount to pay](pictures/amount-to-pay.png)
 
