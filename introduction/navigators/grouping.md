@@ -1,7 +1,7 @@
 # Grouping
 
 You can use <b>grouping</b> when you need to summarize the available data by a specific criteria. 
-Grouping is one of the **Navigator** tools for analysis. It benefits any managing activity in your company. 
+Grouping is one of the navigator tools for analysis. It benefits any managing activity in your company. 
 
 You need to activate the *Customize Current View* mode to group data. Click on the name of a column and drag it to the top. 
 
