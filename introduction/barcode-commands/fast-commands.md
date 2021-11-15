@@ -1,6 +1,6 @@
 # Fast barcode panel commands
 
-For convenience, there is a predefined command list with ‘easy-access’ commands that are recognized by the *Barcode* panel. 
+For convenience, there is a predefined command list with ‘easy-access’ commands that are recognized by the **Barcode** panel. 
 
 - The full list is available in the @@name client through the **Command list** button in the Barcode tab. 
 
@@ -27,7 +27,7 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
 > The barcodes for some of the most frequently used quantities are available in the predefined list that can be downloaded from the **Command list** button in the barcode tab @@name Client. If the desired quantity is present in this list, then it can be directly scanned. Otherwise, it must be marked as the sum of existing quantities. For this purpose, the quantities are sequentially scanned until the desired number is reached.
  
 
- ***Example:*** We want to execute 52 PCS of product code ‘0001’.
+ **Example:** We want to execute 52 PCS of product code ‘0001’.
  
  
 **Method 1**: We can scan the product label and consequently the quantity barcodes from the command list for ‘50*’ and end then for ‘2*’. The final quantity is 50 + 2, which is exactly 52;</br>
