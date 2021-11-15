@@ -27,7 +27,7 @@ The first component in the Context menu is the Definition of the selected elemen
  
 ![Definition](pictures/definition.png)
 
-For example, when you click on the *Customer* field (in the Header of the Offer дocument), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
+**For example**, when you click on the *Customer* field (in the Header of the Offer дocument), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
  
 ![More…](pictures/definition-more.png)
 
@@ -41,7 +41,7 @@ When the document is in a <b>New</b> state, this function provides the following
 -	<b>Create new for customer</b> – create a record for the current field;
 -	<b>Refresh display values (F9)</b> – refresh the values for the drop menu of the current field;
 -	<b>Create form Internet</b> – automatically retrieves all the data for a given company from the Internet, by entering the VAT number. 
-Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. For example, when clicking on the *Document Type* field in the *Document* panel.
+Choosing another field from the Header, which has a definition, will cause the elements of the context menu to change. **For example**, when clicking on the *Document Type* field in the **Document** panel.
 
 ## Data tab
 The Data tab includes:
@@ -51,9 +51,9 @@ The Data tab includes:
 -	<b>Copy</b> – copies the selected text and temporarily copies it to the clipboard. This function allows you to easily type in the same data multiple times;
 -	<b>Paste</b> – puts the text you just copied where you need it;
 -	<b>Find</b> – searches for a word or a number in documents, navigators or reports.
-Copy and Cut are useful when you want to save yourself the time to reapply the same data, and to avoid mistakes, while filling out the information. For example, through copying the names of people and companies, you save time by not typing them out, while eliminating the rick of mistakes.  
+Copy and Cut are useful when you want to save yourself the time to reapply the same data, and to avoid mistakes, while filling out the information. **For example**, through copying the names of people and companies, you save time by not typing them out, while eliminating the rick of mistakes.  
 -	<b>Paste top cell</b> – you can use this function to quickly edit multiple records in a table panel. It applies the value of the top cell to the ones below it;
--	<b>Export to Excel</b> – available only for the Document Forms and the Navigators. Clicking on it will export all the selected rows to Excel. This function can only be used for tabular data. Therefore, it is available only in the navigators, reports or in the panels of a document form that contains information in tabular form (For example, sales order in the sales document)
+-	<b>Export to Excel</b> – available only for the Document Forms and the Navigators. Clicking on it will export all the selected rows to Excel. This function can only be used for tabular data. Therefore, it is available only in the navigators, reports or in the panels of a document form that contains information in tabular form (**For example**, sales order in the sales document)
 -	<b>Calculator</b> – they do not carry new information and we don’t save their values in your database.  Those are fields with real-time calculated values (after opening the Form). They are used for working with already existing data with a set criterion, recalculating the data with a different formula.
 
 ## View tab
