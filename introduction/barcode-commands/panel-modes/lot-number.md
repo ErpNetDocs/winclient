@@ -20,7 +20,7 @@ If this mode is set, when scanning/adding a lot number in the main field, the fo
 
 **(9)** If the type of the current form = ‘Receive’, the enabled mode will be the mode selected in the field _Default mode for serial numbers input_ from the Barcode panel settings.
 
-**(10)** If the type of the current form = ‘Issue’ or ‘Indefinite’, then the enabled mode is [Serial number](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html).
+**(10)** If the type of the current form = ‘Issue’ or ‘Indefinite’, then the enabled mode is **[Serial number](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html)**.
 
 **(11)** STOP.
 
