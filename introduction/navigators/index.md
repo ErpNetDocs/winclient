@@ -2,7 +2,7 @@
 
 The <b>Navigators</b> are system forms that show a lot of information in a summarized way. You can find them useful for visualization, managing, and editing data.
 
- Their <b>main functions</b> are:
+ Their main functions are:
 
 - Better orientation in large amounts of data;
 - Allowing сearching and opening documents or definitions;
