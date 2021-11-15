@@ -8,7 +8,7 @@ Open the expression fields form from: <b>Data→Expression fields</b>
 
  ![Expression fields ribbon](pictures/expf-ribbon.png) 
 
-***Example***:
+**Example**:
 
 - <b>Field name</b>: VAT
 - <b>Title</b>: VAT
@@ -16,7 +16,7 @@ Open the expression fields form from: <b>Data→Expression fields</b>
 
 A <b>formula editor</b> opens. It is separated into three regions – the first one shows the formula; the middle one – various actions than can be executed; the last one is a fields panel where the fields included in the formula can be selected.
 
-***Example***:
+**Example**:
 
 - select <b>Amount to pay</b>
 - select the ‘<b>-</b>’ symbol
