@@ -39,7 +39,7 @@ For more information see ‘Form types and mode selection’ in **[Barcode comma
 
 **(4)** STOP
 
-**(5)** Add the serial number (separated with comma) to the list of serial numbers in the field _Serial numbers_.
+**(5)** Add the serial number (separated with comma) to the list of serial numbers in the field _Serial Numbers_.
 
 **(6)** STOP
 
@@ -47,6 +47,6 @@ For more information see ‘Form types and mode selection’ in **[Barcode comma
 
 **(8)** STOP
 
-**(9)** Add multiple product lines - one for each serial number listed in the field _Serial numbers_.
+**(9)** Add multiple product lines - one for each serial number listed in the field _Serial Numbers_.
 
 
