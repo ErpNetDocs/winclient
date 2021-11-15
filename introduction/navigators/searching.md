@@ -24,9 +24,9 @@ After you've selected the fields you need, press the <b>Find next</b> button. If
 
 ## Quick search  
 
-The <b>Quick search</b> is a quick way to access a record from a column by entering the beginning of the text you are searching for. Besides columns, you can use this search method in the <b>Visible fields</b> form in the Field tree for easier field detection. 
+The <b>Quick search</b> is a quick way to access a record from a column by entering the beginning of the text you are searching for. Besides columns, you can use this search method in the Visible fields form in the Field tree for easier field detection. 
 
-To use this method, hover over a column (or a field in the field tree<). Then directly type in the text that you are looking for. The system will find and mark the first matching result. You can narrow down the search with every following symbol. The program will search and mark the results matching the entire text you enter.
+To use this method, hover over a column (or a field in the field tree). Then directly type in the text that you are looking for. The system will find and mark the first matching result. You can narrow down the search with every following symbol. The program will search and mark the results matching the entire text you enter.
 
 ![Quick Searching](pictures/quick-searching.png)
 
