@@ -9,7 +9,7 @@ As an example, we will set all payments, overdue with more than 30 days, to show
 The <b>Payments status</b> navigator shows the payments due to/from your company for different contractors – customers, suppliers.
 
 1.	Click on <b>Show data</b> and then right-click on the rows of the Navigator. From the displayed menu select **Customize fields**; 
-2.	The <b> Customize fields</b> window will open, then you need to click on the <b>Expression format conditions </b> button: 
+2.	The <b>Customize fields</b> window will open, then you need to click on the <b>Expression format conditions</b> button: 
 
 ![Customize fields](pictures/customize-fileds.png)
  
@@ -21,9 +21,9 @@ A window will open for you to enter the desired conditions:
 
 ![Condition expression editor](pictures/condition-expression-editor.png)
  
-As an example, we will set all payments, overdue with over 30 days, to light up in red. For that purpose, double click on the option <b> “Overdue Days” </b> (it will get added to the expression at the top of the window). Then manually type in “> 30” (the greater-than sign and the number 30, without the quotes) after [Overdue Days].
+As an example, we will set all payments, overdue with over 30 days, to light up in red. For that purpose, double click on the option <b>'Overdue Days'</b> (it will get added to the expression at the top of the window). Then manually type in '> 30' (the greater-than sign and the number 30, without the quotes) after [Overdue Days].
 
-Click on the <b>“OK”</b> button
+Click on the <b>'OK'</b> button
 
 ![Overdue Days](pictures/overdue-days.png)
 
