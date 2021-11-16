@@ -16,7 +16,7 @@ An information box will appear under the command ribbon:
  
 ![View filter](pictures/view-filter.png)
 
-You can set back a Filter to its default (program) settings by clicking on the *Clear filter* button ![Clear filter](pictures/clear-filter.png).
+You can set back a Filter to its default (program) settings by clicking on the **Clear filter** button ![Clear filter](pictures/clear-filter.png).
 This won’t delete the Filter completely, but rather reset it to its initial settings. 
 
 ## Filtering on client’s computer
