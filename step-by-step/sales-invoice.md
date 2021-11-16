@@ -1,12 +1,12 @@
 # Sales invoice
 
-A sales invoice document can be created from an **[invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html)** or through the Invoicing navigator.
+A sales invoice document can be created from an **[invoice order](https://docs.erp.net/winclient/step-by-step/invoice-order.html)** or through the **Invoicing navigator**.
 
 To create a sales invoice from an invoice order, open the sale for which you want to place an invoice.
 
 ![Release](pictures/salesnvo9.png)
 
--	In the *Document flow* panel, find the sales invoice. 
+-	In the **Document flow** panel, find the sales invoice. 
  
 ![Release](pictures/salesnvo.png)
 
@@ -18,7 +18,7 @@ To create a sales invoice from an invoice order, open the sale for which you wan
 
 ![Release](pictures/salinvo2.png)
 
--	From the **Command** bar, go to the **Relations** tab, click the **Create Child Document** button, and select *Invoice*.
+-	From the **Command** bar, go to the **Relations** tab, click the **Create Child Document** button, and select **Invoice**.
 
 ![Release](pictures/salesnvo3.png)
 
