@@ -1,6 +1,6 @@
 # Customize Current View
 
-The *Customize Current View* mode is used to edit the way System forms look. You will find that mode deactivated by default when opening a form. This way you can't move fixed tabs. The *Customize Current View* mode unlocks the following functions:
+The ***Customize Current View*** mode is used to edit the way System forms look. You will find that mode deactivated by default when opening a form. This way you can't move fixed tabs. The *Customize Current View* mode unlocks the following functions:
 
 - Working with *Views*;
 - Adding, removing, and resizing *Regions*;
@@ -14,4 +14,4 @@ Activate *Customize Current View* mode through <b>Command ribbon >> View >> Cust
 
 ![Customize Current View](pictures/customize-current-view.png) 
 
-Before you exit the form, you should save the *View* if you need to save the changes.
+Before you exit the form, you should save the View if you need to save the changes.
