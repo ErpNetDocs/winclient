@@ -16,7 +16,7 @@ Let's fill in the following fields:
 
 -	<b>Store</b> - this is the store in which the goods will be credited.
 
-If the field is left blank, a store can be found for each item in the *Receiving order lines* panel.
+If the field is left blank, a store can be found for each item in the **Receiving order lines** panel.
  
 ![Receiving Order](pictures/ro3.png)
 
