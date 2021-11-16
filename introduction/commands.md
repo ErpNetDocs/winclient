@@ -12,7 +12,7 @@ Here is a list of the most commonly used commands.
 
 ![New document](pictures/new-sales-order.png)
 
-- **Change a document state** - the set of butttons with which you can change the document state to *Planned, FirmPlanned, Released* ... or void a document
+- **Change a document state** - the set of butttons with which you can change the document state to 'Planned', 'FirmPlanned', 'Released' ... or Void a document
 
 **Command ribbon >> Home**:
 
