@@ -10,7 +10,7 @@ To create the document, go to the **Document flow** panel and locate the invoice
 
 ![Invoice order](pictures/salesnvo.png)
 
-Right-click it and select *Open document*.
+Right-click it and select **Open document**.
 
 ![Invoice order](pictures/salinvo1.png)
 
