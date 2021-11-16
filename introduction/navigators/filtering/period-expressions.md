@@ -1,6 +1,6 @@
 # Period expressions
 
-To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field “Period for XXXX”. If the needed field does not show in the standard view, you can enable/show it first.
+To limit the amount of visible records, you can <b>filter by period</b>, which contains a date in the document (date of the document, due date, delivery date, task completion date). You can find this option in the filtering panel in all of the navigators in the field *Period For XXXX*. If the field does not show in the standard view, you can enable/show it first.
 
 To elaborate, you can set expressions for days, months and years in the following ways:
 -	Absolute expressions for periods - set an absolute (fixed, specific) period
@@ -8,13 +8,13 @@ To elaborate, you can set expressions for days, months and years in the followin
 -	Mixed expressions for periods - they contain an absolute and a relative expression together
 -	Graphic editor – allows you to choose from a calendar
 
-The period will present itself as Starting date and End date in the fields “From XXXX” and “To XXXX” when you set a period in one of these ways.
+The period will present itself as Starting date and End date in the fields *From XXXX* and *To XXXX* when you set a period in one of these ways.
 
 ![Filtering period](pictures/filtering-period.png)
  
 ## Absolute expressions 
 
-The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (for example: 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
+The <b>absolute expressions</b> for periods set the day, the month and eventually the year’s absolute value in an absolute (fixed, specific) expression (**for example**: 31.01.2021). If you do not set a year, the absolute expression takes the current one. Their general appearance is:
 
 <b>Month</b> <br>
 <b>Month.Year</b> <br>
@@ -52,7 +52,7 @@ The predefined expressions consist of service words which directly tell the prog
 
 Keep in mind that there is a difference in interpreting the predefined periods (week, month). When you set them as a Starting date, the system takes the beginning of the period (for example Monday or the first date of the month). When you set them as an end date, the system takes the end of the period (for example Friday, the last date of the month or 31st of December).
 
-***Examples:***
+**Examples:**
 
 ![Examples (t)](pictures/examples-t.png)
  
@@ -87,7 +87,7 @@ If you need “last year to date”, enter "(lytd)" . If today were March 2, 202
 <b>+xy</b> - from date, x weeks after the current one; <br>
 <b>-xy</b> - from date, x weeks before the current one.
 
-***Examples:***
+**Examples:**
 
 ![Examples +1d](pictures/examples-one-day.png)
  
@@ -119,7 +119,7 @@ If you need “the last 7 days”, enter “-7d..0d”. If today were March 2, 2
 
 If you need “the next 7 days”, enter “0d..+7d”. If today were March 2, 2021, it would translate to “From March 2, 2021 to March 9, 2021”.
 
-If you need “last week”, enter “-1w..-1w”. If today were March 2, 2021, it would translate to “From February 24, 2021 to March 2, 2021”.
+If you need “last week", enter “-1w..-1w”. If today were March 2, 2021, it would translate to “From February 24, 2021 to March 2, 2021”.
 
 If you need “this week”, enter “0w..0w”. If today were March 2, 2021 (Tuesday), it would translate to “From March 1, 2021 to March 7, 2021”.
 
@@ -131,7 +131,7 @@ If you need “the last 3 months to today”, enter “-3m..0d”. If today were
 
 You can use more than absolute, relative and predefined expressions - the mixed expressions. For instance, you can set a starting date as one expression (example: predefined) and set an end date as another expression (example: relative)
 
-***Examples:***
+**Examples:**
 
 ![Examples -7d..0d](pictures/examples-seven-days-ago.png)
 
@@ -143,7 +143,7 @@ If you need the date to “from today to the end of this month”, enter “0d..
 
 ## Graph editor
 
-You can set periods with the <b>Graph editor for period expressions</b> by setting start and end dates from a friendly calendar. You can access it by clicking the button with the arrow in the field “Period for XXXX”.
+You can set periods with the <b>Graph editor for period expressions</b> by setting start and end dates from a friendly calendar. You can access it by clicking the button with the arrow in the field 'Period for XXXX'.
 
 ![Filter calendar](pictures/filter-calendar.png)
 
@@ -154,12 +154,12 @@ The <b>Graph editor</b> is divided in 2 parts - left and right. The left part al
 When you work with the <b>Graph editor</b>, you can press only one month button. If you haven’t pressed any button, this means that you haven’t selected a starting/ending month and the program takes the current one. <br>
 The panel of the years is under the number pad for the months. It shows 4 years - 2 years before the current year, the current year, and one year after the current one. The two panels (left and right) show whether you have included the year at the starting and/or ending month or not.
 
-***Example:***
+**Example:**
 
-If you need the period “from the beginning of January to the end of March”, enter “1” on the left and “3” on the right:
+If you need the period "from the beginning of January to the end of March", enter "1" on the left and "3" on the right:
 
 ![Expample with months](pictures/example-months.png)
  
-If you need the period “from the beginning of January 2019 to the end of June 2021”, enter “1” and “19” on the left and “6” and “21” on the right:
+If you need the period "from the beginning of January 2019 to the end of June 2021", enter "1" and '19' on the left and "6" and "21" on the right:
 
 ![Example with years](pictures/examples-years.png)
