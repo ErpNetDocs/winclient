@@ -54,7 +54,7 @@ Resize a region by dragging the dividing line between that region and another on
 
 ## Fix a region
 
-When resizing regions (and also resizing the window of the @@winclientfull), you set which region will change its size and which one will remain with a fixed size. 
+When resizing regions (and also resizing the window of the @@winclientfull ), you set which region will change its size and which one will remain with a fixed size. 
 Visually we show this with the button ![Fixing button](pictures/fixing-button-up.png) at the top right corner, and respectively ![Fixing button down](pictures/fixing-button-low.png) at the bottom left corner. 
 The tips of the arrows point at the panel with the fixed size. To change that:
 
