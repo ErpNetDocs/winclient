@@ -1,6 +1,6 @@
 # Filtering
 
-The <b>Filtering</b> is a method for organizing the results of your searches in the system. You can set your search criteria and we will show you only the matching results. 
+<b>Filtering</b> is a method for organizing the results of your searches in the system. You can set your search criteria and we will show you only the matching results. 
 The main benefits from filtering are:
 -	<b>Reducing</b> the <b>time</b> to find what you need, as you are searching through less information;
 -	<b>Reducing</b> the <b>load</b> on the servers, networks, and on the client computers.
