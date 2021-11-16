@@ -58,7 +58,7 @@ If **SEQUENCE END** mode is set, when scanning/adding a value in the main field,
 
 **(1)** If the form type is different from ‘Receive’ - throw **Message1** and return to the previous mode.  Else =>**(2)**
 
-**(2)**  Check if the field ’_Serial Numbers_’ has a value. If true => **(3)** Else => **(4)**
+**(2)**  Check if the field _Serial Numbers_ has a value. If true => **(3)** Else => **(4)**
 
 > [!NOTE]
 > 
