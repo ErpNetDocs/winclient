@@ -60,7 +60,7 @@ A detailed look into the *Filtering* panel will reveal the values and names of t
 
 ![Filter buttons](pictures/filter-buttons.png)
 
-- **Query Save on close** - Having this option ticked means that a confirmation panel will show up whenever a document tab is closed. It would ask whether or not the user would like to save the changes they have made in the document.
+- **Query save on close** - Having this option ticked means that a confirmation panel will show up whenever a document tab is closed. It would ask whether or not the user would like to save the changes they have made in the document.
 
 ![Save on query](pictures/save-on-query.png)
 
