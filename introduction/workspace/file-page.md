@@ -2,11 +2,11 @@
 
 In the **File page**, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
-You can access the *File page* from any location in the program.
+You can access the **File page** from any location in the program.
 
 ![File Menu](pictures/file-page.png) 
 
-You will find that the *File page* is similar to the *Main menu* in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
+You will find that the **File page** is similar to the **Main menu** in its structure. On the left, you can open the sections, and on the right, you’ll see the elements of the chosen section.  
 
 ## Recently opened documents
 
@@ -18,7 +18,7 @@ You can easily access the documents again with a click on the desired document.
 
 ## Create new document
 
-With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the *Main menu*):
+With the <b>Create</b> button, you have the option of central document creation from any location in the program. When you choose this function, you have a list of all document types. You can easily find the one you’re looking for, as we organize them into functional areas (just like in the **Main menu**):
 
 ![Create New Document](pictures/create-new-document.png) 
 
