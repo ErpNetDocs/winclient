@@ -1,8 +1,8 @@
 # Open in separate window
 
-With the **Open in separate window** function, you can work on *multiple screens* at the same time.
+With the **Open in separate window** function, you can work on multiple screens at the same time.
 This feature could be useful for dispatchers, planners, shift supervisors, team leaders, and employees preparing reports.
-You can open a new window *along with* the main one or move it to a *new monitor*. 
+You can open a new window along with the main one or move it to a new monitor. 
 
 You can temporarily open a form in a new window, or save it in *View*. To use the feature, go to the <b>Command ribbon >> View >> Open in separate window</b>.
 
