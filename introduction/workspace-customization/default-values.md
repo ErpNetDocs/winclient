@@ -1,6 +1,6 @@
 # Default values - set and delete
 
-The *default values* help you with data input. Once you set them, they will automatically load and you can change them later on if you need to. To set the default values, enable the *Customize Current View* mode.
+The **default values** help you with data input. Once you set them, they will automatically load and you can change them later on if you need to. To set the default values, enable the *Customize Current View* mode.
 
 ## Setting default values
 
@@ -24,7 +24,7 @@ From the context menu choose <b>Default Value >> Clear default value</b>:
 
 ![Clear default value](pictures/clear-default-value.png) 
 
-A field *Default values* screen will open. You need to activate *Customize Current View* mode. 
+A field *Default Values* screen will open. You need to activate *Customize Current View* mode. 
 
 2. Here you need to select the row containing the default form;
 3. Right-click on it and from the context menu, choose **Delete Rows**.
