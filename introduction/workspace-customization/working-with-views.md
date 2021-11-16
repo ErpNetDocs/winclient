@@ -1,10 +1,11 @@
 # Working with views
 
-When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a *View*. The *view* is a specific named appearance of a system’s form. You could have multiple views for the same form and each of them could be easily opened with a single mouse click.
+When working with the system, you may need to see the same information in different ways depending on the use case. This is why you can customize the system form’s appearance for it to fit your current needs. To protect your time, you can save the customized appearance under a specific name so that you can open it again later. This is called a ***View***. The *view* is a specific named appearance of a system’s form. You could have multiple views for the same form and each of them could be easily opened with a single mouse click.
 
 To customize the *view*, you need to have the form in the *Customize Current View* mode and possess the needed rights (in the current article we assume that you have the rights to perform the described actions).
 
-Selecting the desired View is done by clicking it in the **Command ribbon >> View** . There is a list at the left hand side with all saved views (if there are any). The *view* is changed by clicking on the desired *view*:
+Selecting the desired 
+*view* is done by clicking it in the **Command ribbon >> View** . There is a list at the left hand side with all saved views (if there are any). The view is changed by clicking on the desired *view*:
 
 ![View Tab](view-tab.png)
 
@@ -16,7 +17,7 @@ ERP.net has different types of views – Standard and Named, for a User, Role or
 
 There are two *Standard views* – one for All Users and one for the specific User. In the *Standard view* it is recommended to save the view that is needed most often. The *Named views* are used for special use cases and there could potentially be an unlimited (but still reasonable) amount of them.
 
-The *views*, created by a User (in brackets behind the name of a *view* you can see the user who created it), could be opened and edited only by that specific user. They are not visible to the rest of the users in the system (including administrators). The *views*, assigned to a Role (in the form *View name (Role name)*) could be opened and edited by any user, who has that role assigned or by an administrator. The All Users Views could be opened by all users of the system and edited only by administrators.
+The *Views*, created by a User (in brackets behind the name of a *view* you can see the user who created it), could be opened and edited only by that specific user. They are not visible to the rest of the users in the system (including administrators). The *views*, assigned to a Role (in the form *View name (Role name)*) could be opened and edited by any user, who has that role assigned or by an administrator. The All Users Views could be opened by all users of the system and edited only by administrators.
 
 ## Saving views
 
