@@ -16,6 +16,6 @@ Edit the filters by using the following buttons:
 -	![Change the field](pictures/change-the-field.png) - change the field;
 -	![Change the condition](pictures/change-the-condition.png)  - change the condition.
 
-***For example:*** <br>
+**For example:** <br>
 
 You can match conditions with the keywords AND & OR. If you want the result to answer both conditions simultaneously (read it with the connective word “<b>and</b>”), use <b>AND</b>. If you want to see results, which answer one of the two conditions (read it with the connective word “<b>or</b>”), use <b>OR</b>.
