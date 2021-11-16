@@ -11,8 +11,8 @@ In the drop down menu, you can select the values to filter by. Choose the ones y
 
 After applying the filter, you will only see the rows where the selected fields have the chosen value. 
 
-> [!Note:
-> You can filter by more than one column. Nested filters will use the current filter as a base for each additional one, and this way the amount of returned data will be even smaller. To make it clearer, read the nested filters with the connective "and". For example: "All the sales that are clients of SMAC Ltd and are from the date 12.02.2012." 
+> [!Note]:
+> You can filter by more than one column. Nested filters will use the current filter as a base for each additional one, and this way the amount of returned data will be even      > smaller. To make it clearer, read the nested filters with the connective "and". For example: "All the sales that are clients of SMAC Ltd and are from the date 12.02.2012." 
 
 ## Filtering by cell values
 In order to filter data by a specific cell value in the Navigator, you can mark the cell with the wanted value and press the according filtering button from the command ribbon: 
