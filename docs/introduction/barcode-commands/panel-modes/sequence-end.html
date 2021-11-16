@@ -86,7 +86,7 @@
 <p>In this case, we could:</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>The product has already been selected manually or through the <a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a>.</p>
+<p>The product has already been selected manually or through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a></strong>.</p>
 </div>
 <p><strong>Method 1:</strong></p>
 <ol>
@@ -108,7 +108,7 @@
 <ul>
 <li><strong>manually</strong> from the dropdown list in the Barcode panel.</li>
 <li><strong>manually</strong> by entering the <strong>fast command #SEQEND#</strong>  in the main field when the panel is operating in one of the serial number modes.</li>
-<li><strong>automatically</strong> after the selection of the product through the <a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a> -</li>
+<li><strong>automatically</strong> after the selection of the product through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a></strong> -</li>
 </ul>
 <p>as long as the <em>Use serial numbers</em> option from the Barcode settings is activated <strong>AND</strong> the product ‘<em>Is serialized</em>’ <strong>AND</strong> the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ in <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/index.html">Barcode commands</a></strong>)</p>
 <p><strong>AND</strong>:</p>
@@ -121,7 +121,7 @@
 <h2 id="mode-operation">Mode operation</h2>
 <p>If <strong>SEQUENCE END</strong> mode is set, when scanning/adding a value in the main field, the following actions are completed by the system:</p>
 <p><strong>(1)</strong> If the form type is different from ‘Receive’ - throw <strong>Message1</strong> and return to the previous mode.  Else =&gt;<strong>(2)</strong></p>
-<p><strong>(2)</strong>  Check if the field ’<em>Serial Numbers</em>’ has a value. If true =&gt; <strong>(3)</strong> Else =&gt; <strong>(4)</strong></p>
+<p><strong>(2)</strong>  Check if the field <em>Serial Numbers</em> has a value. If true =&gt; <strong>(3)</strong> Else =&gt; <strong>(4)</strong></p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>If the field <em>Serial Numbers</em> has a value, then this value is considered the ‘starting serial number’ that has already been entered manually or through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html">SEQUENCE START</a></strong> mode.</p>
