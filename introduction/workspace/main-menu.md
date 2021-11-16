@@ -1,6 +1,6 @@
 # Main menu
 
-The *Main menu* is the default page that will open after starting the @@winclientfull. Using it, you can easily 
+The **Main menu** is the default page that will open after starting the @@winclientfull. Using it, you can easily 
 navigate between the different modules or to open navigators and documents. You have access to it at any time through 
 the @@winclientfull icon ![Logo](pictures/logo.png). 
 
