@@ -13,7 +13,7 @@ A window will open for you to enter the desired conditions:
 
 ![Format Conditions](pictures/format-conditions.png)
  
-3.	Click on '**Add**' to start making a new condition. Here select the <b>Fields</b> option on the left. In the small, middle section you will see all fields that you can use to set conditional coloring for:
+3.	Click on **Add** to start making a new condition. Here select the **Fields** option on the left. In the small, middle section you will see all fields that you can use to set conditional coloring for:
 
 ![Condition expression editor](pictures/condition-expression-editor.png)
  
