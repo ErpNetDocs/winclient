@@ -14,7 +14,7 @@ Let's fill in the following fields:
 
 - <b>Store</b> - this is the store in which the goods will be credited. 
  
-If the field is left blank, a store can be found for each item in the *Purchase order lines* panel.
+If the field is left blank, a store can be found for each item in the **Purchase order lines** panel.
  
 ![Purchase Order](pictures/purchaseorder2.png)
 
@@ -46,7 +46,7 @@ Other values lead to a recalculation of the unit price.
 
 ![Purchase Order](pictures/purchaseorder8.png)
  
-After filling in the data, **release** the document.
+After filling in the data, release the document.
  
 ![Purchase Order](pictures/purchaseorder9.png)
 
