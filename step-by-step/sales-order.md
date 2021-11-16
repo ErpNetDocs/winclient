@@ -1,6 +1,6 @@
 # Sales order
 
-A sales order document is intended for the **selling** of goods to customers.
+A sales order document is intended for the selling of goods to customers.
 
 To create it, go to **Customers >> Sales >> Create new sales order**
  
