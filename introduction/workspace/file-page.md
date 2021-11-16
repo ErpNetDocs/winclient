@@ -1,6 +1,6 @@
 # File page
 
-In the *File page*, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
+In the **File page**, you have quick access to: recently opened documents, opening documents by URL, centralized document creation, and user interface settings.
 
 You can access the *File page* from any location in the program.
 
