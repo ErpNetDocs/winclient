@@ -6,7 +6,7 @@ The standard model of work is to generate an invoice order from a sales order.
 
 ![Invoice Order](pictures/io1.png)
 
-To create the document, go to the *Document flow* panel and locate the invoice order.
+To create the document, go to the **Document flow** panel and locate the invoice order.
 
 ![Invoice order](pictures/salesnvo.png)
 
