@@ -1,6 +1,6 @@
 # Expression fields
 
-<b>Expression fields</b> are fields, created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.
+<b>Expression fields</b> are created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.
 
 ![Expression formula](pictures/expression-formula.png)
  
