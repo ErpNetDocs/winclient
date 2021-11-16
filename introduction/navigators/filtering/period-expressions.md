@@ -24,15 +24,15 @@ The <b>absolute expressions</b> for periods set the day, the month and eventuall
 <b>Examples for specific dates</b>: <br>
 
 
-If you need to enter “March”, write “3” in the Period field. <br>
-If you need to enter “March, 2021”, write “3.21” in the Period field. <br>
-If you need to enter “March 31, 2021”, write “31.3.21” in the Period field.
+If you need to enter 'March', write '3' in the *Period* field. <br>
+If you need to enter 'March, 2021', write '3.21' in the *Period* field. <br>
+If you need to enter 'March 31, 2021', write '31.3.21' in the *Period* field.
 
 <b>Examples for entire periods</b>: 
 
 
-If you need to enter the period “from the beginning of January this year to the end of March this year), enter period “1..3”.
-If you need to enter the period “from the beginning of January 2021 to the end of March 2021”, enter period “1.21..3.21”.
+If you need to enter the period ''from the beginning of January this year to the end of March this year), enter period ''1..3''.
+If you need to enter the period ''from the beginning of January 2021 to the end of March 2021'', enter period '1.21..3.21''.
 
 ## Relative expressions
 
@@ -56,25 +56,25 @@ Keep in mind that there is a difference in interpreting the predefined periods (
 
 ![Examples (t)](pictures/examples-t.png)
  
-If you need “today”, enter “(t)”. If today were March 2, 2021, it would translate to “From March 2, 2021 to March 2, 2021”.
+If you need 'today', enter '(t)'. If today were March 2, 2021, it would translate to 'From March 2, 2021 to March 2, 2021'.
 
-If you need “yesterday”, enter “(y)”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 1, 2021”.
+If you need 'yesterday', enter '(y)'. If today were March 2, 2021, it would translate to 'From March 1, 2021 to March 1, 2021'.
 
-If you need “this week”, enter “(tw)”. If today were March 2, 2021 – Tuesday, it would translate to ”From March 1, 2021 (Monday) to March 7, 2021”.
+If you need 'this week', enter '(tw)'. If today were March 2, 2021 – Tuesday, it would translate to 'From March 1, 2021 (Monday) to March 7, 2021'.
 
-If you need “last week”, enter “(lw)”. If today were March 2, 2021, it would translate to “From February 22, 2021 to February 28, 2021”.
+If you need “last week', enter '(lw)'. If today were March 2, 2021, it would translate to 'From February 22, 2021 to February 28, 2021'.
 
-If you need “this month”, enter “(tm)”. If today were January 1, 2021, it would translate to “From January 1, 2021 to January 31, 2021”.
+If you need 'this month', enter '(tm)'. If today were January 1, 2021, it would translate to 'From January 1, 2021 to January 31, 2021'.
 
-If you need “last month”, enter “(lm)”. If today were March 2, 2021, it would translate to “From February 1, 2021 to February 28, 2021”.
+If you need 'last month', enter '(lm)'. If today were March 2, 2021, it would translate to 'From February 1, 2021 to February 28, 2021'.
 
-If you need “this year”, enter “(ty)”. If today were March 2, 2021, it would translate to “From January 1, 2021 to December 31, 2021”.
+If you need 'this year', enter'(ty)'. If today were March 2, 2021, it would translate to 'From January 1, 2021 to December 31, 2021'.
 
-If you need “last year”, enter “(ly)”. If today were March 2, 2021, it would translate to “From January 1, 2020 to December 31, 2020”.
+If you need “last year', enter '(ly)'. If today were March 2, 2021, it would translate to 'From January 1, 2020 to December 31, 2020'.
 
-If you need “year to date”, enter “(ytd)”. If today were March 2, 2021, it would translate to “From January 1, 2021 to March 2, 2021”.
+If you need 'year to date', enter '(ytd)'. If today were March 2, 2021, it would translate to 'From January 1, 2021 to March 2, 2021'.
 	
-If you need “last year to date”, enter "(lytd)" . If today were March 2, 2021, it would translate to “From January 1, 2020 to March 2, 2020”.
+If you need “last year to date', enter '(lytd)' . If today were March 2, 2021, it would translate to 'From January 1, 2020 to March 2, 2020'.
 
 <b>Relative periods</b> - they will set the period as the difference in the number of days (default expression - d), weeks (w), months (m) or years (y) to the current date.
 
@@ -91,39 +91,39 @@ If you need “last year to date”, enter "(lytd)" . If today were March 2, 202
 
 ![Examples +1d](pictures/examples-one-day.png)
  
-If you need the date “tomorrow”, enter “+1d”. If today were March 2, 2021, it would translate to “From March 3, 2021 to March 3, 2021”.
+If you need the date 'tomorrow', enter '+1d'. If today were March 2, 2021, it would translate to 'From March 3, 2021 to March 3, 2021'.
 
-If you need the date “yesterday”, enter “-1d”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 1, 2021.”
+If you need the date 'yesterday', enter '-1d'. If today were March 2, 2021, it would translate to 'From March 1, 2021 to March 1, 2021.'
 	
-If you need the date “after 8 days”, enter “+8d”. If today were March 2, 2021, it would translate to “From March 10, 2021 to March 10, 2021”.
+If you need the date 'after 8 days', enter '+8d'. If today were March 2, 2021, it would translate to 'From March 10, 2021 to March 10, 2021'.
 
-If you need the date “before 8 days”, enter “-8d”. If today were March 2, 2021, it would translate to ”From February 22, 2021 to February 22, 2021”.
+If you need the date 'before 8 days', enter '-8d'. If today were March 2, 2021, it would translate to 'From February 22, 2021 to February 22, 2021'.
  
-If you need the date “after 2 weeks”, enter “+2w”. If today were March 2, 2021, it would translate to “From March 22, 2021 to March 28, 2021”.
+If you need the date 'after 2 weeks', enter '+2w'. If today were March 2, 2021, it would translate to 'From March 22, 2021 to March 28, 2021'.
 
-If you need the date “before 2 weeks”, enter “-2w”. If today were March 2, 2021, it would translate to “From February 15, 2021 to February 28, 2021”.
+If you need the date 'before 2 weeks', enter '-2w'. If today were March 2, 2021, it would translate to 'From February 15, 2021 to February 28, 2021'.
 
-If you need the date ”after 3 months”, enter “+3m”. If today were March 2, 2021, it would translate to “From June 1, 2021 to June 30, 2021”.
+If you need the date ”after 3 months', enter '+3m'. If today were March 2, 2021, it would translate to 'From June 1, 2021 to June 30, 2021'.
 
-If you need the date “before 3 months”, enter “-3m”. If today were March 2, 2021, it would translate to “From December 1, 2020 to December 31, 2020”.
+If you need the date 'before 3 months', enter '-3m'. If today were March 2, 2021, it would translate to 'From December 1, 2020 to December 31, 2020'.
 
-If you need the date “after 1 year”, enter “+1y”. If today were March 2, 2021, it would translate to “From January 1, 2022 to December 31, 2022”.
+If you need the date 'after 1 year', enter '+1y' If today were March 2, 2021, it would translate to 'From January 1, 2022 to December 31, 2022'.
 
-If you need the date “before 1 year”, enter “-1y”. If today were March 2, 2021, it would translate to “From January 1, 2020 to December 31, 2020”.
+If you need the date 'before 1 year', enter '-1y'. If today were March 2, 2021, it would translate to 'From January 1, 2020 to December 31, 2020'.
 
 <b>Examples for entire periods:</b>
 
 ![Examples -7d..0d](pictures/examples-seven-days-ago.png)
  
-If you need “the last 7 days”, enter “-7d..0d”. If today were March 2, 2021, it would translate to “From February 24, 2021 to March 2, 2021”.
+If you need 'the last 7 days', enter '-7d..0d'. If today were March 2, 2021, it would translate to 'From February 24, 2021 to March 2, 2021'.
 
-If you need “the next 7 days”, enter “0d..+7d”. If today were March 2, 2021, it would translate to “From March 2, 2021 to March 9, 2021”.
+If you need “the next 7 days', enter '0d..+7d'. If today were March 2, 2021, it would translate to 'From March 2, 2021 to March 9, 2021'.
 
-If you need “last week", enter “-1w..-1w”. If today were March 2, 2021, it would translate to “From February 24, 2021 to March 2, 2021”.
+If you need 'last week', enter '-1w..-1w'. If today were March 2, 2021, it would translate to 'From February 24, 2021 to March 2, 2021'.
 
-If you need “this week”, enter “0w..0w”. If today were March 2, 2021 (Tuesday), it would translate to “From March 1, 2021 to March 7, 2021”.
+If you need 'this week', enter '0w..0w'. If today were March 2, 2021 (Tuesday), it would translate to 'From March 1, 2021 to March 7, 2021'.
 
-If you need “the last 3 months”, enter “-3m..-1m”. If today were March 2, 2021, it would translate to “From December 1, 2021 to February 28, 2021”.
+If you need “the last 3 months”, enter “-3m..-1m”. If today were March 2, 2021, it would translate to 'From December 1, 2021 to February 28, 2021'.
 
 If you need “the last 3 months to today”, enter “-3m..0d”. If today were March 2, 2021, it would translate to “From December 1, 2020 to March 2, 2021”.
 
@@ -135,11 +135,11 @@ You can use more than absolute, relative and predefined expressions - the mixed 
 
 ![Examples -7d..0d](pictures/examples-seven-days-ago.png)
 
-If you need the date to “from the beginning of last week to yesterday”, enter “(lw)..-1d”. If today were March 2, 2021, it would translate to “From February 22, 2021 to March 1, 2021”.
+If you need the date to 'from the beginning of last week to yesterday', enter '(lw)..-1d'. If today were March 2, 2021, it would translate to 'From February 22, 2021 to March 1, 2021'.
 
-If you need the date to “from the beginning of March to the end of this week”, enter “3..(tw)”. If today were March 2, 2021, it would translate to “From March 1, 2021 to March 7, 2021”
+If you need the date to 'from the beginning of March to the end of this week', enter '3..(tw)'. If today were March 2, 2021, it would translate to 'From March 1, 2021 to March 7, 2021'.
 
-If you need the date to “from today to the end of this month”, enter “0d..(tm)”. If today were March 2, 2021, it would translate to “From March 2, 2021 to March 31, 2021”.
+If you need the date to 'from today to the end of this month', enter '0d..(tm)'. If today were March 2, 2021, it would translate to 'From March 2, 2021 to March 31, 2021'.
 
 ## Graph editor
 
@@ -156,10 +156,10 @@ The panel of the years is under the number pad for the months. It shows 4 years 
 
 **Example:**
 
-If you need the period "from the beginning of January to the end of March", enter "1" on the left and "3" on the right:
+If you need the period 'from the beginning of January to the end of March', enter '1' on the left and '3' on the right:
 
 ![Expample with months](pictures/example-months.png)
  
-If you need the period "from the beginning of January 2019 to the end of June 2021", enter "1" and '19' on the left and "6" and "21" on the right:
+If you need the period 'from the beginning of January 2019 to the end of June 2021', enter '1' and '19' on the left and '6' and '21' on the right:
 
 ![Example with years](pictures/examples-years.png)
