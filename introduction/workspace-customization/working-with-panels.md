@@ -51,4 +51,4 @@ Following is an example of a *floating panel*:
 
 The *floating panels* are separate windows and you could position it wherever needed, not taking the regions sizes and positions into account.
 
-If you would like to take the panel back to the main system’s form, right click the panel name and select Docked. If you save the *View* with *floating panels*, these panels will be floating again when the *View* is open.
+If you would like to take the panel back to the main system’s form, right click the panel name and select **Docked**. If you save the *View* with *floating panels*, these panels will be floating again when the *View* is open.
