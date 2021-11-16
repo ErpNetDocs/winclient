@@ -59,7 +59,7 @@ Similarly, you can set the format for editting – what will be visible when you
 
 - <b>Security</b>
 
-From the *Security* panel, you can choose the *Security type* of the field, using a *private* access key or *shared* access key. By default, it will be not secured. 
+From the **Security** panel, you can choose the *Security type* of the field, using a *private* access key or *shared* access key. By default, it will be not secured. 
 
 ![Security](pictures/security.png)
 
