@@ -5,7 +5,7 @@
 
 The tables currently copied to the new product are: 
 
-- **Identification** - only product name is copied. The description is not copied and the part number is inherited by the value of the field _Next part number_ of the product group.
+- **Identification** - only product name is copied. The description is not copied and the part number is inherited by the value of the field _Next Part Number_ of the product group.
 - **Data**
 - **Product dimensions**
 - **Variants**
