@@ -13,7 +13,7 @@ In this case, we could:
 
 > [!NOTE]
 > 
-> The product has already been selected manually or through the [Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html).
+> The product has already been selected manually or through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)**.
 
 **Method 1:**
 
@@ -38,7 +38,7 @@ The **SEQUENCE END of serial numbers (from ... count)** mode can be selected:
 
 - **manually** from the dropdown list in the Barcode panel.  
 - **manually** by entering the **fast command #SEQEND#**  in the main field when the panel is operating in one of the serial number modes.
-- **automatically** after the selection of the product through the [Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html) - 
+- **automatically** after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - 
 
 as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the product ‘_Is serialized_’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**) 
 
