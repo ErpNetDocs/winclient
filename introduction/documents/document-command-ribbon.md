@@ -27,7 +27,7 @@ The first component in the Context menu is the Definition of the selected elemen
  
 ![Definition](pictures/definition.png)
 
-**For example**, when you click on the *Customer* field (in the Header of the Offer дocument), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
+**For example**, when you click on the *Customer* field (in the Header of the Offer document), the name of the selected item (in this case, the customer’s name) will appear in the context menu. This way, when selected, the context menu will show the definition form of the currently selected customer.
  
 ![More…](pictures/definition-more.png)
 
