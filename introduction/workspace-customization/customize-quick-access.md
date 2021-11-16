@@ -39,7 +39,7 @@ Depending on your preferences, you can position the quick access toolbar above o
 
 ![Show Quick Access Toolbar Below the Ribbon](pictures/above-the-ribbon.png)
 
-3. The *Quick Access Toolbar* gets positioned below the command ribbon for all forms:
+3. The Quick Access Toolbar gets positioned below the command ribbon for all forms:
 
 ![Show Quick Access Toolbar Above the Ribbon](pictures/below-the-ribbon.png)
 
