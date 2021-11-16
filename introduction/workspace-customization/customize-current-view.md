@@ -14,4 +14,4 @@ Activate *Customize Current View* mode through <b>Command ribbon >> View >> Cust
 
 ![Customize Current View](pictures/customize-current-view.png) 
 
-Before you exit the form, you should save the View if you need to save the changes.
+Before you exit the form, you should save the *View* if you need to save the changes.
