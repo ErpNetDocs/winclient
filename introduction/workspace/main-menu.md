@@ -59,7 +59,7 @@ From the list with available panels you can select the ones you wish to be part 
 > If there are no visible panels, the `START` group will be empty and therefore will not be displayed.
 
 For more information how to customize a `View`, please check out our separate docs topic: 
-[Customize the workspace](https://docs.erp.net/winclient/introduction/workspace-customization/index.html?q=Customize%20the%20workspace) / [Working with views](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-views.html?q=%20Working%20with%20views).
+**[Customize the workspace](https://docs.erp.net/winclient/introduction/workspace-customization/index.html?q=Customize%20the%20workspace) / [Working with views](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-views.html?q=%20Working%20with%20views)**.
 
 In addition to the customization, some panels content depends on the `View`, of which is part of. An example for this
 is the `Dashboard` panel. You can create multiple views with totally different set of tiles for each `Dashboard`. It
