@@ -15,6 +15,6 @@ If the user does not open the notifications right away, they move above the comm
 
 The icon disappears after it's opened.
 
-In case the user wants to ignore the received notification, the command *Dismiss all* must be **selected**.
+In case the user wants to ignore the received notification, the command **Dismiss all** must be **selected**.
 
 
