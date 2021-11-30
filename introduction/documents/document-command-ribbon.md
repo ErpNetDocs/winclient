@@ -60,7 +60,7 @@ This function can only be used for tabular data. Therefore, it is available only
 -	<b>Expression fields</b> – clicking on it will open a window that contains all the expression fields available for the selected panel /if any exists/. Then you are able to enter new ones or to delete some of them. Expression fields are fields with real-time calculated values (after opening the form) and their values are not saved into the database. They are used for processing already existing data by recalculating them via different formulas.
 
 ## View tab
-The **View tab** contains tools for changing the appearance of the document. This includes showing/hiding shared panels common for all documents. 
+The **View** tab contains tools for changing the appearance of the document. This includes showing/hiding shared panels common for all documents. 
  
 ![View tab](pictures/view-tab.png)
 
