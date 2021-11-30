@@ -532,6 +532,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/data-tab2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/data-tab2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/definition-more.png",
       "output": {
         "resource": {
@@ -598,10 +609,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/freeze-columns2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/freeze-columns2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/frozen-column.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/documents/pictures/frozen-column.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/frozen-column2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/frozen-column2.png"
         }
       },
       "is_incremental": false,
