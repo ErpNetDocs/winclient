@@ -30,6 +30,7 @@ Open <b>Field properties</b> by clicking the ![Properties button](pictures/prope
 
 The ‘Visible’ checkbox shows whether the field is visible for the current form.
 The ‘Enter stop’ shows whether the cursor stops in the field after pressing ’enter’ or it would reposition to the next field.
+The ‘Numeric sort’ indicates whether the field will be sorted numerically or by a string.
 
 The text formats for the values in this field are:
 
