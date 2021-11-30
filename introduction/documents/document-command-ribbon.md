@@ -82,7 +82,7 @@ The additional functions in the navigators are:
 -	<b>Filter row</b> – shows a row, where you can set your search criteria;
 -	<b>Freeze columns</b> – fixes a column that does not shift when scrolled horizontally. The columns in front of it also remain static.
  
-![Freeze columns](pictures/freeze-columns.png)
+![Freeze columns](pictures/freeze-columns2.png)
 
 This way you can overlap columns without changing up the view:
  
