@@ -34,7 +34,7 @@ The ‘Numeric sort’ indicates whether the field will be sorted numerically or
 
 The text formats for the values in this field are:
 
-## <b>Display format</b>
+#### Display format
 Shows how the field displays into the form.
 Click the ![Dots button](pictures/dots.png)   button to open the <b>String format</b>. 
 
@@ -56,7 +56,7 @@ Click 'OK'.
 
 ![String format numbers](pictures/sf-numbers.png)
 
-## Edit format
+#### Edit format
 Displays the editing format and what will be seen when the field is clicked upon.
 Click on the ![dots button](pictures/dots.png) button to open the String format form.
 
