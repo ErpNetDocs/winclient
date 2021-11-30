@@ -40,13 +40,13 @@ Click the ![Dots button](pictures/dots.png)   button to open the <b>String forma
 
 ![String format datetime](pictures/sf-datetime.png)
  
-The 'Category' section on the left has the unit categories for the field such as ‘currency’ or ‘percentage’.
+The **Category** section on the left has the unit categories for the field such as ‘number’ or ‘currency’.
 
-The left part is separated into three panels – **Sample**, **Standard types** and **Custom**:
+The right part is separated into three panels – **Sample**, **Standard types** and **Custom**:
 
-- <b>Sample</b> - the visual representation of what is going to be inside the field
-- <b>Standard Types</b> - Encoded unit standards for the settings. The content of 'Sample' will change right after clicking on the standard type of choice.
-- <b>Custom</b> - types set by the customer. Used the same way as the Standard. 
+- **Sample** - the visual representation of what is going to be inside the field
+- **Standard Types** - Encoded unit standards for the settings. The content of 'Sample' will change right after clicking on the standard type of choice.
+- **Custom** - types set by the customer. Used the same way as the Standard. 
 
 **Example**:
 A number is typed out with three digits after the decimal separator. It must be displayed with 2 symbols only.
