@@ -5818,7 +5818,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-command-ribbon.html",
-          "hash": "wHgs2zCsA0uOEFsQXECiRw=="
+          "hash": "+bhRaxPXsZBeNcLuQVTu9w=="
         }
       },
       "is_incremental": false,
@@ -5873,10 +5873,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/documents/pictures/data-tab.png",
+      "source_relative_path": "introduction/documents/pictures/data-tab2.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/documents/pictures/data-tab.png"
+          "relative_path": "introduction/documents/pictures/data-tab2.png"
         }
       },
       "is_incremental": false,
@@ -5939,10 +5939,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/documents/pictures/freeze-columns.png",
+      "source_relative_path": "introduction/documents/pictures/freeze-columns2.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/documents/pictures/freeze-columns.png"
+          "relative_path": "introduction/documents/pictures/freeze-columns2.png"
         }
       },
       "is_incremental": false,
@@ -5950,10 +5950,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/documents/pictures/frozen-column.png",
+      "source_relative_path": "introduction/documents/pictures/frozen-column2.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/documents/pictures/frozen-column.png"
+          "relative_path": "introduction/documents/pictures/frozen-column2.png"
         }
       },
       "is_incremental": false,
