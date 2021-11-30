@@ -47,7 +47,7 @@ Choosing another field from the header, which has a definition, will cause the e
 ## Data tab
 The **Data** tab includes:
  
-![Data tab](pictures/data-tab.png)
+![Data tab](pictures/data-tab2.png)
 -	<b>Cut</b> – removes the selected text and temporarily stores it in the clipboard. It moves the data from their initial location to a new one. This function is most commonly used for corrections;
 -	<b>Copy</b> – copies the selected text and temporarily stores it in the clipboard. This function allows you to easily type in the same data multiple times;
 -	<b>Paste</b> – puts the text you just copied where you need it;
