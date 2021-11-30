@@ -1,5 +1,5 @@
 # Document command ribbon
-The <b>Command ribbon</b> in a document system form contains both the primary functions for all system forms and some commands that are specific for this type of a form.
+The <b>command ribbon</b> in a document system form contains both the primary functions for all system forms and some commands that are specific for this type of a form.
 
 ## Home tab
 Here is how the <b>Home</b> tab looks like:
