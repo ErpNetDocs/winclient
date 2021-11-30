@@ -61,6 +61,6 @@ In the field we can directly set a mask to specify how to visualize the field wh
 Using the edit form you can adjust the format of the document number field.
 
 **Example**:
-MaskType = Numeric, EditMask = 0000000000. 
+MaskType = Numeric, EditMask = 0000000000. <br>
 Its behavior is as follows - when we click in the field the marker is finally positioned and to the left of it are the numbers in the format for example 0000004568, or 0000000000 if the field is empty. 
 When we start entering numbers from the keyboard, it replaces the existing ones from right to left of the marker.
