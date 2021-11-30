@@ -117,9 +117,9 @@ The Document tab contains the following sub-menus and functions:
 -	<b>Create New from Current</b> - creates a copy of the document. The new document will be with the current date, but it will contain the same data as in the original document;
 -	<b>Duplicate</b> - gives you the opportunity to create a duplicate of the original document which will have the status New and the opportunity to be changed. If you have a type of document that has a numerator, the duplicate creates a new number; 
 -	<b>Create Adjustment</b> - gives you the opportunity to create an adjustment document;
--	<b>Create Adjustment to Zero</b> - allows you to create an adjustment document with values that resets all quantitative and fields of values.
+-	<b>Create Adjustment to Zero</b> - allows you to create an adjustment document with values that resets all quantitative and value fields.
 
 ## Relations tab
-In this tab, you can see generated, canceled or transit sub-documents (if any) for the current document. You will also find the sub-documents that you can manually create for this Document. 
+In this tab, you can see generated, voided or transit sub-documents (if any) for the current document. You will also find the sub-documents that you can manually create for this document. 
  
 ![Relations tab](pictures/relations-tab.png)
