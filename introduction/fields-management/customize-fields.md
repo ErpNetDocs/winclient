@@ -1,7 +1,7 @@
 # Customize fields
 Use the <b>customize fields</b> form to edit fields, hide them or make them visible, or customize their settings in a certain form panel.
 
-Open the form with the ![Customize fields icon](pictures/customize-ficon.png) button in the *View* tab of the command ribbon for the current form or by right-clicking on the panel which will open a context menu.
+Open the form with the ![Customize fields icon](pictures/customize-ficon.png) button in the **View** tab of the command ribbon for the current form or by right-clicking on the panel which will open a context menu.
 
 ![Customize fields form](pictures/customize-fform.png)
 
