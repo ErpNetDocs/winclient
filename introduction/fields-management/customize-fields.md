@@ -7,7 +7,7 @@ Open the form with the ![Customize fields icon](pictures/customize-ficon.png) bu
 
 The fields that appear in the form are located on the right side.
 
-Reposition the fields around the form in the desired order with the **Up** ![Up arrow](pictures/up-arrow.png) and **Down**![Down arrow](pictures/down-arrow.png) buttons.
+Reposition the fields around the form in the desired order with the **Up** ![Up arrow](pictures/up-arrow.png) and **Down** ![Down arrow](pictures/down-arrow.png) buttons.
 
 Click the ![Close button](pictures/close-button.png) button to close the customize fields form. 
 
