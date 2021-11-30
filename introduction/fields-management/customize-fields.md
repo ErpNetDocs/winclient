@@ -57,10 +57,11 @@ Click 'OK'.
 ![String format numbers](pictures/sf-numbers.png)
 
 #### Edit format
-Displays the editing format and what will be seen when the field is clicked upon.
-Click on the ![dots button](pictures/dots.png) button to open the String format form.
+In the field we can directly set a mask to specify how to visualize the field while editing it.
 
- **Example**:
-A number is typed out with 2 digits after the decimal separator. It must be displayed with 3 symbols only after the change in the field. 
-Open <b>String format</b>. Select ‘Number’ category. Select ‘n3’ Standard type, then click ‘OK’.
-The number in the field has two digits after the separator. However, when clicked upon, it comes out as 3 symbols long.
+**Example**
+Using the edit form you can adjust the format of the document number field. <br>
+For example MaskType = Numeric, EditMask = 0000000000. 
+Its behavior is as follows - when we click in the field the marker is finally positioned and to the left of it are the numbers in the format for example 0000004568, or 0000000000 if the field is empty. 
+When we start entering numbers from the keyboard, it replaces the existing ones from right to left of the marker.
+
