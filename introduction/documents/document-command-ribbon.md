@@ -86,7 +86,7 @@ The additional functions in the navigators are:
 
 This way you can overlap columns without changing up the view:
  
-![Frozen column](pictures/frozen-column.png)
+![Frozen column](pictures/frozen-column2.png)
 
 -	<b>Record Navigation</b> – shows and hides the navigation buttons from the lower left corner. You can use these buttons to scroll through consecutive records or pages.
 -	<b>Cell Selection Mode</b> – allows you to switch between two modes. When this mode is deactivated, you will be selecting the entire rows in the navigator. But if it is active, you will be able to select single or multiple fields.  
