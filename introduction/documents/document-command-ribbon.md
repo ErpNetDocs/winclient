@@ -42,14 +42,14 @@ When the document is in a **New**, **Planned** or **Firm Planned** state, this f
 -	<b>Refresh display values (F9)</b> – refresh the values for the drop menu of the current field;
 -	<b>Create from Internet</b> – automatically retrieves all the data for a given company from the Internet, by entering the VAT number.
  
-Choosing another field from the header, which has a definition, will cause the elements of the context menu to change. **For example**, when clicking on the *Document Type* field in the **Document** panel.
+Choosing another field from the header, which refers to a definition, will refresh the elements of the context. **For example**, when clicking on the *Document Type* field in the **Document** panel.
 
 ## Data tab
 The **Data** tab includes:
  
 ![Data tab](pictures/data-tab2.png)
--	<b>Cut</b> – removes the selected text and temporarily stores it in the clipboard. It moves the data from their initial location to a new one. This function is most commonly used for corrections;
--	<b>Copy</b> – copies the selected text and temporarily stores it in the clipboard. This function allows you to easily type in the same data multiple times;
+-	<b>Cut</b> – removes the selected text and temporarily stores it in the clipboard. Usually used when moving the data from their initial location to a new one. This function is most commonly used for corrections;
+-	<b>Copy</b> – copies the selected text and temporarily stores it in the clipboard. This function allows you to easily enter the same data multiple times;
 -	<b>Paste</b> – puts the text you just copied where you need it;
 -	<b>Find</b> – searches for a word or a number in documents, navigators or reports.
 
@@ -57,7 +57,7 @@ Copy and Cut are useful when you want to save yourself the time to reapply the s
 -	<b>Paste Top Cell</b> – you can use this function to quickly edit multiple records in a table panel. It applies the value of the top cell to the ones below it;
 -	<b>Export to Excel</b> – clicking on it will export all the selected rows to Excel. 
 This function can only be used for tabular data. Therefore, it is available only in the navigators, reports or in the panels of a document form that contains information in tabular form (**For example**, Sales Order Lines panel in the Sales Order)
--	<b>Expression fields</b> – clicking on it will open a window that contains all the expression fields available for the selected panel /if any exists/. Then you are able to enter new ones or to delete some of them. Expression fields are fields with real-time calculated values (after opening the form) and their values are not saved into the database. They are used for processing already existing data by recalculating them via different formulas.
+-	<b>Expression fields</b> – clicking on it will open a window that contains all the expression fields available for the selected panel /if any exists/. Then you are able to enter new ones or to delete some of existing ones. Expression fields are fields with real-time calculated values (after opening the form) and their values are not saved into the database. They are used for calculations based on the already existing data by via different formulas.
 
 ## View tab
 The **View** tab contains tools for changing the appearance of the document. This includes showing/hiding shared panels common for all documents. 
@@ -65,7 +65,7 @@ The **View** tab contains tools for changing the appearance of the document. Thi
 ![View tab](pictures/view-tab.png)
 
 -	<b>Current view</b> – shows the different types of views;
--	<b>Customize Current View</b> – allows you to edit system forms;
+-	<b>Customize Current View</b> – allows you to edit the view of the system form;
 -	<b>Customize Fields</b> – serves for editing, showing, hiding, managing properties and settings of the fields in a particular panel;
 -	<b>Save layout changes</b> – saves the changes you have made on the view;
 -	<b>Discard layout changes</b> – resets the view back to its initial look;
@@ -99,9 +99,7 @@ The **Functions** tab of the document form has various functions for each type o
 ![Functions tab](pictures/functions.png)
  
 ## Reports tab
-Here you can design views. The idea is to have a universal system for creating a printout for a query. It contains various templates for each table in the data source.
-
-When you open a navigator, a default value is set. So, when you enter through a navigator panel and create a new report, the query on that panel loads.
+Here you can acces the printouts templates that are already available into the database or to design new ones. The idea is to have a universal system for creating a printouts for various business purposes, which are be easily accessible in different systemn forms.
 
 Here is how the tab looks like:
  
@@ -112,14 +110,14 @@ Here is how the tab looks like:
 ![Document tab](pictures/document-tab.png)
 
 The Document tab contains the following sub-menus and functions:
--	<b>Adjustment Documents</b> - shows you the list of adjusted documents that were previously created for this document;
+-	<b>Adjustment Documents</b> - shows you the list of adjustment documents that were previously created for this document;
 -	<b>Versions</b> - shows the versions of a document before and after any changes or adjustments were made; 
 -	<b>Create New from Current</b> - creates a copy of the document. The new document will be with the current date, but it will contain the same data as in the original document;
--	<b>Duplicate</b> - gives you the opportunity to create a duplicate of the original document which will have the status New and the opportunity to be changed. If you have a type of document that has a numerator, the duplicate creates a new number; 
--	<b>Create Adjustment</b> - gives you the opportunity to create an adjustment document;
--	<b>Create Adjustment to Zero</b> - allows you to create an adjustment document with values that resets all quantitative and value fields.
+-	<b>Duplicate</b> - gives you the opportunity to create a duplicate of the original document which will have the status New and the opportunity to be changed. If the document type which is being created has a numerator, the duplicate gets a new document number;
+-	<b>Create Adjustment</b> - creates an adjustment document;
+-	<b>Create Adjustment to Zero</b> - creates an adjustment document with compensating values which adjust to zero all quantitative and amount fields.
 
 ## Relations tab
-In this tab, you can see generated, voided or transit sub-documents (if any) for the current document. You will also find the sub-documents that you can manually create for this document. 
+In this tab, you can see the related documents such as the parent document and the generated, voided or transitional child documents (if any) of the current document. Here you will also find the Create Child Documents button which is used to manully create the sub-documents using the active document type routes. 
  
 ![Relations tab](pictures/relations-tab.png)
