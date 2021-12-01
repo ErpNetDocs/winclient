@@ -5851,7 +5851,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-command-ribbon.html",
-          "hash": "+bhRaxPXsZBeNcLuQVTu9w=="
+          "hash": "W8IUhU2Ym2vq0JYVkNAwbQ=="
         }
       },
       "is_incremental": false,
@@ -6960,7 +6960,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-row.html",
-          "hash": "tAkU/rdxbP6hXJ3uJZfNPA=="
+          "hash": "1X3u41FJyzI3s0qQFZZ8jg=="
         }
       },
       "is_incremental": false,
@@ -7007,6 +7007,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/navigators/coloring/pictures/colored-cell.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/navigators/coloring/pictures/colored-rows.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/coloring/pictures/colored-rows.png"
         }
       },
       "is_incremental": false,
