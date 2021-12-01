@@ -2,7 +2,7 @@
 
 This procedure will show you how to view the rows of overdue payments in color (for any navigator). 
 
-As an example, we will set all payments, overdue with more than 30 days, to show up in red. For that purpose, you can first open the respective navigator: 
+As an example, we will set all payments, overdue for more than 30 days, to show up in red. For that purpose, you can first open the respective navigator: 
 
 <b>Main Menu -> Finance -> Payments -> Payments Status</b>
 
@@ -21,7 +21,7 @@ A window will open for you to enter the desired conditions:
 
 ![Condition expression editor](pictures/condition-expression-editor.png)
  
-As an example, we will set all payments more then 30 days overdue to light up in red. For that purpose, double click on the <b>'Overdue Days'</b> field (it will be added to the expression at the top of the window). Then manually type in '> 30' (the greater-than sign and the number 30 without the quotes) after [Overdue Days].
+As an example, we will set all payments, overdue for more then 30 days, to light up in red. For that purpose, double click on the <b>'Overdue Days'</b> field (it will be added to the expression at the top of the window). Then manually type in '> 30' (the greater-than sign and the number 30 without the quotes) after [Overdue Days].
 
 Click on the <b>'OK'</b> button
 
@@ -31,6 +31,6 @@ Click on the <b>'OK'</b> button
 
 ![Selecting color](pictures/select-color.png)
 
-5.	With that, the program will color all payments overdue more then 30 days in red.
+5.	With that, the program will color all the rows with payments, overdue for more than 30 days, in red:
 
 ![Colored lines](pictures/colored-rows.png)
