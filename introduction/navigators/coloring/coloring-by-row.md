@@ -33,4 +33,4 @@ Click on the <b>'OK'</b> button
 
 5.	With that, the program will color all payments overdue more then 30 days in red.
 
-![Colored lines](pictures/colored-lines.png)
+![Colored lines](pictures/colored-rows.png)
