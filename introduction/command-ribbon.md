@@ -18,7 +18,7 @@ The command ribbon has two main states - *minimized (compact)* and *expanded*. Y
  
 ![Minimize the ribbon with a button](pictures/minimize-ribbon-button.png) 
 
-Another way you can minimize the command ribbon is with right click on the **Customize Quick Access Toolbar** button. Choose the function <b>Minimize the ribbon</b> there:
+Another way you can minimize the command ribbon is with right click on the **Customize Quick Access Toolbar** button. Choose the function <b>Minimize the Ribbon</b> there:
 
 ![Minimize the ribbon with an action](pictures/minimize-ribbon-action.png) 
 
