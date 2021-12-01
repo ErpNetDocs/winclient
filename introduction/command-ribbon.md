@@ -8,7 +8,7 @@ What is special about the command ribbon in @@winclientfull is the adaptive cont
 
 ## Quick access buttons
 
-The command ribbon contains two main pages - [Home](../introduction/workspace/main-menu.md) and [File](../introduction/workspace/file.md), which you can find in any system form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon there.
+The command ribbon contains two main pages - [Home](../introduction/workspace/main-menu.md) and [File](../introduction/workspace/file-page.md), which you can find in any system form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon there.
 
 ![Command ribbon home](pictures/ribbon-home.png)     ![Command ribbon file](pictures/ribbon-file.png) 
 
