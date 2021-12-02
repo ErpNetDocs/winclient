@@ -6225,7 +6225,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/field-types.html",
-          "hash": "6zhkEmIy/25T+qf1EQWssA=="
+          "hash": "KD5sfNkBzr1Jxn0hiZ0M3A=="
         }
       },
       "is_incremental": false,
@@ -6991,7 +6991,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/conditional-formatting.html",
-          "hash": "xXzbFSkLiQJWxzmd2UW6VQ=="
+          "hash": "Zfq7kIvq+DRCZvoKYyZCbQ=="
         }
       },
       "is_incremental": false,
@@ -7121,10 +7121,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/navigators/coloring/pictures/new-state-condition.png",
+      "source_relative_path": "introduction/navigators/coloring/pictures/new-state-condition2.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/navigators/coloring/pictures/new-state-condition.png"
+          "relative_path": "introduction/navigators/coloring/pictures/new-state-condition2.png"
         }
       },
       "is_incremental": false,
@@ -7132,10 +7132,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold.png",
+      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold2.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold.png"
+          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold2.png"
         }
       },
       "is_incremental": false,
