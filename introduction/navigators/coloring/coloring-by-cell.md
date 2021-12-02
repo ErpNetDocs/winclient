@@ -9,7 +9,7 @@ As an example, we will set all sales orders with an amount to pay greater than 7
 The <b> Sales Orders </b> navigator shows the sales orders issued to our clients.
 
 1.	Click on <b>Show Data</b> and then right-click on the rows of the navigator. From the displayed menu select <b>Customize fields</b>; 
-2.	Select a given field. In this case, click **Amount To Pay** and then **Properties…**>: <br>
+2.	Select a given field. In this case, click **Amount To Pay** and then **Properties…**:
 
 ![Amount to pay](pictures/amount-to-pay.png)
 
