@@ -1027,6 +1027,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/expression-formula3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/expression-formula3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/fields-management/pictures/file-attachment.png",
       "output": {
         "resource": {
@@ -1207,6 +1218,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/fields-management/pictures/newVAT-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/fields-management/pictures/newVAT-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/fields-management/pictures/newVAT-field1.png"
         }
       },
       "is_incremental": false,
@@ -1592,6 +1614,17 @@
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold4.png"
         }
       },
       "is_incremental": false,
@@ -7024,7 +7057,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/conditional-formatting.html",
-          "hash": "TsDlPl/cTYws0Zf+BNZa6A=="
+          "hash": "rncUQ2IuwrbyJ8RWoF/YcA=="
         }
       },
       "is_incremental": false,
@@ -7165,10 +7198,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold4.png",
+      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold5.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold4.png"
+          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold5.png"
         }
       },
       "is_incremental": false,
