@@ -28,4 +28,4 @@ Click the '**OK**' button.
 
 5.	After you close the window, the program will display all new sales orders in bold and in a red font color:
 
-![Orders in bold](pictures/orders-in-bold2.png)
+![Orders in bold](pictures/orders-in-bold3.png)
