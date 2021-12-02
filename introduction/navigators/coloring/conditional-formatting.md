@@ -26,6 +26,6 @@ Click the '**OK**' button.
 ![New state condition](pictures/new-state-condition2.png)
  
 
-5.	After you close the window, the program will display all new sales orders in bold:
+5.	After you close the window, the program will display all new sales orders in bold and in a red font color:
 
 ![Orders in bold](pictures/orders-in-bold.png)
