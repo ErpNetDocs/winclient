@@ -63,8 +63,6 @@ There are two ways to attach the file:
 - Embedded file – when attached, the contents of the file will be copied to the database
 - File location (stores only the path to the file) – the file itself will not be copied to the database but can be located on the file server)
 
-![File path](pictures/file-path.png)
-
 ## Picture field
 A picture can be inserted in the field.
 
