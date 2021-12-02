@@ -6244,15 +6244,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "invalid-note-section"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/fields-management/multilanguage-fields.md",
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "547zi+ri/f1QluM7Fh8M5w=="
+          "hash": "bkXuL/NWMt335sxypqhlZg=="
         }
       },
       "is_incremental": false,
