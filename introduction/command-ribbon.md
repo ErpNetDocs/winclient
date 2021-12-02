@@ -2,15 +2,21 @@
 
 The <b>Command ribbon</b> is a modern alternative to the classic menus. The actions in it are visualized through buttons. It is easy to use with a single tap or mouse click. 
 
+The command ribbon contains two main pages - [Home](../introduction/workspace/main-menu.md) and [File](../introduction/workspace/file-page.md), which you can find in any system form.
+
 What is special about the command ribbon in @@winclientfull is the adaptive context. The buttons change and provide specific functions, needed for the workflow you are currently working with. This way, you always see the exact buttons you need.
+
+
  
 ![The command ribbon](pictures/command-ribbon.png)
 
-## Quick access buttons
+## Quick access toolbar
 
-The command ribbon contains two main pages - [Home](../introduction/workspace/main-menu.md) and [File](../introduction/workspace/file-page.md), which you can find in any system form. You can also add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon there.
+ You can add personalized buttons for quick access. This is an additional row, which contains fixed and always visible buttons. It is created by the user and therefore it is specific for every user and every company. You can add buttons from different tabs of the command ribbon in it by right-clicking on the desired button and selecting **Add to Quick Acces Toolbar**.
 
-![Command ribbon home](pictures/ribbon-home.png)     ![Command ribbon file](pictures/ribbon-file.png) 
+![Command ribbon home](pictures/ribbon-home.png)  
+![Command ribbon ](pictures/ribbon-add-button.png)   
+![Command ribbon file](pictures/ribbon-file.png) 
 
 ## Minimize the ribbon
 
