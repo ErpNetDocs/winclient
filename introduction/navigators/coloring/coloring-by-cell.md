@@ -19,6 +19,6 @@ The <b> Sales Orders </b> navigator shows the sales orders issued to our clients
 
 The check box <b>Apply To Row</b> gives you the opportunity to only color the selected cell (when it is unchecked) or to color the entire row when the field conditions are met.   
 
-4.	Click “OK” and close the Fields Properties window. Now every cell with an amount to pay over 7 000 BGN is colored in red:
+4.	Click **OK** and close the Fields Properties window. Now every cell with an amount to pay over 7 000 BGN is colored in red:
  
 ![Colored cell](pictures/colored-cell.png)
