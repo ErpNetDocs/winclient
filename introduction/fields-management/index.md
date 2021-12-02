@@ -12,4 +12,4 @@ In this section, you can learn more about:
 
 LIST TEST
 
-[!list filder="fields-management" limit=100]
+[!list filder="*" limit=100]
