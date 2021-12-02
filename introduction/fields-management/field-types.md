@@ -68,7 +68,7 @@ A picture can be inserted in the field.
 
 ![Insert image](pictures/insert-image.png)
  
-An image can also be created using the built-in <b>picture editor</b>, suitable for tablet users.
+An image can also be created using the built-in <b>Picture Editor</b>, suitable for tablet users.
 
 ![Graphics editor](pictures/graph-edit.png)
 
