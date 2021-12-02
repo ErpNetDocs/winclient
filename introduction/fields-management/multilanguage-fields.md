@@ -25,7 +25,7 @@ To set transliteration in some of the listed languages, click on the <b>Translit
   
 To set transliteration for all of the available languages, click on <b>Transliterate Current to Others</b> located on the bottom of the list.
 
->[!Note]:
-- The <b>Transliterate</b> button is set to only work from English to Bulgarian and vice versa.
-- Unless the <b>Transliterate</b> button is clicked upon, the multilanguage field will be written out using Latin (English) symbols when the system is switched from English to Bulgarian language.
-- The <b>Transliterate</b> button allows for writing out initial text that can be edited afterwards.
+> [!Note]:
+>  The <b>Transliterate</b> button is set to only work from English to Bulgarian and vice versa.
+>  Unless the <b>Transliterate</b> button is clicked upon, the multilanguage field will be written out using Latin (English) symbols when the system is switched from English to Bulgarian language.
+>  The <b>Transliterate</b> button allows for writing out initial text that can be edited afterwards.
