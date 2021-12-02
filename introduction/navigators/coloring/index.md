@@ -16,4 +16,4 @@ The program prioritizes the color you set for a specific field over the color fo
 
 After coloring the fields, you can 
 
-You can also edit not only the color of the fields but also the size and font, the border color, etc. These additional settings are available in **Appearance** section of the **Format Condition** tab of *Field Properties*.
+You can also edit not only the color but also the size and font, the border color, etc. These additional settings are available in **Appearance** section of the **Format Condition** tab of *Field Properties*.
