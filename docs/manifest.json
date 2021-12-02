@@ -6235,7 +6235,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/expression-fields.html",
-          "hash": "CeS4RPiXUOm/T3g3tWrqqw=="
+          "hash": "e10JRTJd/AlgwyUyJEY0RA=="
         }
       },
       "is_incremental": false,
@@ -6532,10 +6532,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/fields-management/pictures/expression-formula.png",
+      "source_relative_path": "introduction/fields-management/pictures/expression-formula3.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/fields-management/pictures/expression-formula.png"
+          "relative_path": "introduction/fields-management/pictures/expression-formula3.png"
         }
       },
       "is_incremental": false,
@@ -6723,6 +6723,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/newVAT-field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/fields-management/pictures/newVAT-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/fields-management/pictures/newVAT-field1.png"
         }
       },
       "is_incremental": false,
@@ -7013,7 +7024,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/conditional-formatting.html",
-          "hash": "Zfq7kIvq+DRCZvoKYyZCbQ=="
+          "hash": "TsDlPl/cTYws0Zf+BNZa6A=="
         }
       },
       "is_incremental": false,
@@ -7154,10 +7165,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold2.png",
+      "source_relative_path": "introduction/navigators/coloring/pictures/orders-in-bold4.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold2.png"
+          "relative_path": "introduction/navigators/coloring/pictures/orders-in-bold4.png"
         }
       },
       "is_incremental": false,
