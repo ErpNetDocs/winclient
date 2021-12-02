@@ -2,7 +2,7 @@
 
 <b>Expression fields</b> are created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.
 
-![Expression formula2](pictures/expression-formula2.png)
+![Expression formula](pictures/expression-formula3.png)
  
 Open the expression fields form from: <b>Data→Expression fields</b>
 
