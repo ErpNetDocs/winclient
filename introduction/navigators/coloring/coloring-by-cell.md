@@ -2,7 +2,7 @@
 
 This procedure will show you how to color individual cells (fields) in a navigator.
 
-As an example, we will set all sales orders with an amount to pay greater than 7000 BGN to color in red, in the Sales orders navigator. For this purpose you can go to:
+As an example, we will set all sales orders with an amount to pay greater than 7000 BGN to color in red, in the Sales Orders navigator. For this purpose you can go to:
 
 <b> Main Menu -> Sales -> Orders Navigator </b>.
 
