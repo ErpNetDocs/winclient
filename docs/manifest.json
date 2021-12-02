@@ -1467,6 +1467,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/colored-rows.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/colored-rows.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/coloring.png",
       "output": {
         "resource": {
@@ -5815,7 +5826,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/command-ribbon.html",
-          "hash": "DEbZoCXeMsioe9JdL0OgxA=="
+          "hash": "cusMfyKOViTSzNKeA2a8Wg=="
         }
       },
       "is_incremental": false,
@@ -6948,7 +6959,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-cell.html",
-          "hash": "zHGH0FohJvg3xU1nP1I/kw=="
+          "hash": "ut1WHiqW+x4QwI/j3QPZrQ=="
         }
       },
       "is_incremental": false,
@@ -8266,6 +8277,17 @@
       "output": {
         "resource": {
           "relative_path": "introduction/pictures/products-tablet-view.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "introduction/pictures/ribbon-add-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/pictures/ribbon-add-button.png"
         }
       },
       "is_incremental": false,
