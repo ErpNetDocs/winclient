@@ -2567,6 +2567,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/pictures/ribbon-add-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/pictures/ribbon-add-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/pictures/ribbon-file.png",
       "output": {
         "resource": {
@@ -6241,7 +6252,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "bAC5C2BZ0YPuy9Dwbm+dLw=="
+          "hash": "547zi+ri/f1QluM7Fh8M5w=="
         }
       },
       "is_incremental": false,
@@ -6959,7 +6970,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-cell.html",
-          "hash": "ut1WHiqW+x4QwI/j3QPZrQ=="
+          "hash": "NLx26alj1VcWKTXVcalZpw=="
         }
       },
       "is_incremental": false,
