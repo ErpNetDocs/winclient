@@ -2,7 +2,7 @@
 
 <b>Expression fields</b> are created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.
 
-![Expression formula](pictures/expression-formula.png)
+![Expression formula](pictures/expression-formula1.png)
  
 Open the expression fields form from: <b>Data→Expression fields</b>
 
@@ -30,4 +30,4 @@ Click <b>OK</b> to close the <b>Expression editor</b> or the <b>Expression field
 
 The <b>VAT</b> field shows up in the data panel.
 
-![New field](pictures/newVAT-field.png)  
+![New field](pictures/newVAT-field1.png)  
