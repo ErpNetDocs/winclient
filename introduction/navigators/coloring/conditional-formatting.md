@@ -21,9 +21,11 @@ In this case, we will set all new sales orders to show in bold. For that purpose
 
 Click the '**OK**' button.
 
+4.	After you set the condition, you can choose a color and set a bold font, as you see in the picture below.
+
 ![New state condition](pictures/new-state-condition.png)
  
-4.	After you set the condition, you can choose a color and set a bold font, as you see in the picture above.
+
 5.	After you close the window, the program will display all new sales orders in bold:
 
 ![Orders in bold](pictures/orders-in-bold.png)
