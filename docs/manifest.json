@@ -1566,10 +1566,32 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/new-state-condition2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/new-state-condition2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold.png",
       "output": {
         "resource": {
           "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold2.png"
         }
       },
       "is_incremental": false,
@@ -6225,7 +6247,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/field-types.html",
-          "hash": "KD5sfNkBzr1Jxn0hiZ0M3A=="
+          "hash": "I8YEZ9+cvJXV8MGpvStCOg=="
         }
       },
       "is_incremental": false,
@@ -7003,7 +7025,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/index.html",
-          "hash": "nFR/sqoDfs/1UAH6/mmNwQ=="
+          "hash": "E/25gkY0RZ3yXMSO9KJEVg=="
         }
       },
       "is_incremental": false,
