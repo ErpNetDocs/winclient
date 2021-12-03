@@ -1632,6 +1632,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/navigators/coloring/pictures/orders-in-bold5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/navigators/coloring/pictures/overdue-days.png",
       "output": {
         "resource": {
@@ -6256,7 +6267,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/default-values-management.html",
-          "hash": "OYQqPGO0zx/iEPuVI5LJvA=="
+          "hash": "KEGMDbap5fgy+0vmSaLBaw=="
         }
       },
       "is_incremental": false,
@@ -7040,12 +7051,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/navigators/coloring/coloring-by-row.md",
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-row.html",
-          "hash": "1X3u41FJyzI3s0qQFZZ8jg=="
+          "hash": "FccOs0ZISYN4+5dEjP6EEg=="
         }
       },
       "is_incremental": false,
