@@ -7020,7 +7020,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/index.html",
-          "hash": "hJPFxQr5LXlBoLIPKMQvJQ=="
+          "hash": "o7e/9taKSx4A/37DvLNhew=="
         }
       },
       "is_incremental": false,
@@ -7056,7 +7056,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-row.html",
-          "hash": "bRIEDxwNP5Rcdgc7/3rczw=="
+          "hash": "1X3u41FJyzI3s0qQFZZ8jg=="
         }
       },
       "is_incremental": false,
@@ -7293,11 +7293,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "introduction/navigators/filtering/overview.md",
+      "source_relative_path": "introduction/navigators/filtering/index.md",
       "output": {
         ".html": {
-          "relative_path": "introduction/navigators/filtering/overview.html",
-          "hash": "3mTAj0Gt7071rRu2j/6QuQ=="
+          "relative_path": "introduction/navigators/filtering/index.html",
+          "hash": "B3M/xFZEtxfPqNYUfHHbaA=="
         }
       },
       "is_incremental": false,
@@ -8756,7 +8756,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "hlmuEz5F3+lflP50mqA8Mg=="
+          "hash": "ad8k2jOguvPCszx4jtmQAQ=="
         }
       },
       "is_incremental": false,
