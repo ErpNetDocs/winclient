@@ -7051,15 +7051,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/navigators/coloring/coloring-by-row.md",
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/coloring-by-row.html",
-          "hash": "ceItWYilcMYELO9zTQ9l4Q=="
+          "hash": "bRIEDxwNP5Rcdgc7/3rczw=="
         }
       },
       "is_incremental": false,
