@@ -1,5 +1,5 @@
 - name: Topics
-  href: introduction/toc.yml
+  href: introduction/
   topicHref: introduction/index.md
 - name: Step By Step
   href: step-by-step/
