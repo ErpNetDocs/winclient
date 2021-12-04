@@ -21,7 +21,7 @@
   href: edit-mode.md
 - name: Navigators
   href: navigators/toc.yml
-  topicHref: nagivators/index.md
+  topicHref: navigators/index.md
 - name: Documents
   href: documents/toc.yml
   topicHref: documents/index.md
