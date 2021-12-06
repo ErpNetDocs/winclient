@@ -1,11 +1,11 @@
 # Document state
 
-<b>Document state</b> is a system characteristic that shows you at what stage of completion your document is. The document state has a business meaning, as well as a specific to the program meaning. The additional business meaning can come from the user state. The document system state can be:
+<b>Document state</b> is a system characteristic that shows you at what stage of completion your document is. The document state has a business meaning, as well as a specific to the program meaning. Additional business meaning can be set via the user statuses. The document system state can be:
 
--	<b>New</b> - every new manually created document initially has a new state. This document acts as a <b>draft</b> and traditionally no actions will be initiated by the program for it;
--	<b>Firm Planned</b> - this is a document, usually automatically created by the system, which usually needs additional processing. Such documents show <b>events with a possible, but uncertain nature</b>. You can use the documents with the firm planned state in the planning subsystem of @@winclientfull. The system will delete these documents after they are planned;
--	<b>Confirmed</b> - this is a document, confirmed by an authorized user of the system. It has a <b>probable</b> nature. The confirmed documents reflect the <b>intention for a future</b> release of the document. This is taken into consideration by the system and it <b>does not</b> delete them after they are planned;
--	<b>Released</b> - a document that is released for execution. The released state has a specific meaning in the system. It notes that the document has gained its <b>final</b> form and the system <b>forbids</b> any edits, including changing its state to a lower one. You can use the released state to start a sequence of system actions. This allows you to create sub-documents; 
+-	<b>New</b> - every new manually created document initially has a New state. This document acts as a <b>draft</b> and traditionally no actions will be initiated by the program for it;
+-	<b>Firm Planned</b> - this is a document, usually automatically created by the system, which usually needs additional processing. Such documents show <b>events with a possible, but uncertain nature</b>. You can use the documents with the Firm Planned state in the planning subsystem of @@winclientfull. When re-planning, the system will delete these documents. They cannot be deleted if no numerator is applied - in this case, they will be voided;
+-	<b>Confirmed</b> - this is a document, confirmed by an authorized user of the system. It has a <b>probable</b> nature. The confirmed documents reflect the <b>intention for a future</b> release of the document. This is taken into consideration by the planning system and the confirmed documents <b>will not</b> be deleted when re-planning;
+-	<b>Released</b> - a document that is released for execution. The Released state has a specific meaning in the system. It notes that the document has gained its <b>final</b> form and the system <b>forbids</b> any edits, including changing its state to a lower one. Usually, the Released state starts a sequence of system actions. This allows you to create sub-documents; 
 -	<b>Completed</b> - this shows the completion of the active work on the document;
 -	<b>Closed</b> - this allows you to see the completion of the entire work on a specific document (process). By using the closed state, you can optimize the speed of your work by selecting to work only with the open documents in the system;
 -	<b>Adjustment</b> - you can only use this state for a document that is an adjustment of another one. By selecting this state, you put the adjustment document into action;
@@ -13,13 +13,23 @@
 
 ## Changing state
 
-You can change the state of a document from the <b>Command ribbon >> Home</b> by clicking on the desired state.
+You can change the state of a document from the <b>command ribbon >> Home tab</b> by clicking on the desired state.
 	
 ![Document State](pictures/document-state.png)
  
-If you need to change the document’s user state, click on the arrow under the appropriate state and choose the desired option.
+If you need to set or change the document’s user status, click on the arrow under the appropriate system state and choose the desired option.
 
-![User state](pictures/user-state.png)
+![User status](pictures/user-status.png)
+
+When choosing a state (including the current one), the execution of the document routes is activated.<br>
+The state **cannot** be changed in the following cases:
+
+- From Released state to a lower one (New, Firm Planned, Confirmed);<br>
+- From Void state to no other;<br>
+- From Adjustment state to no other, excluding Void state;<br>
+- In case of a lower state of the sub-documents (e.g., the state of the Sales Order cannot be changed to Completed, if the Store Order's state is Released);<br>
+- In some cases when the document flow is being branched.
+
  
 ## Voiding
 
