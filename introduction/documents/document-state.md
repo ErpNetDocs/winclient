@@ -33,9 +33,9 @@ The state **cannot** be changed in the following cases:
  
 ## Voiding
 
-@@winclientfull has proven its security and reliability as a system. We do not allow information loss of any form. Part of this concept is the <b>inability to delete documents</b> irreversibly and completely. When necessary, you can void a document. This will save a copy in the database, but it won’t display is the Definitions (unless you specify that you need to see those copies).
+@@winclientfull has proven its security and reliability as a system. We do not allow information loss of any form. Part of this concept is the <b>inability to delete documents</b> irreversibly and completely. When necessary, you can void a document. This will save a copy in the database, but it won’t display is the reports (unless you specify that you need to see those copies).
 
-Void has three variations – Void (only the current document); Void with sub-documents (if their state is lower than released); Void with sub-documents, including released. The necessity for those variations comes from safety precautions. If a given user can void any document, this may affect the work of other departments (warehouse, finance, accounting). Users can only void documents they have rights to. Users are not able to void sub-documents without having those rights. 
+Void has three variations – Void (only the current document); Void with sub-documents (if their state is lower than released); Void with sub-documents, including released. The necessity for those variations comes from safety precautions. If a given user has rights to void any documents, this may affect the work of other departments (warehouse, finance, accounting). Users can only void documents they have rights to. Users are not able to void sub-documents without having rights to them. 
 	
 When you select to void a document, the system will open a new window first, asking for the reason for voiding this document:
 
@@ -43,11 +43,11 @@ When you select to void a document, the system will open a new window first, ask
 
 If the system does not allow voiding a document, the likely reasons are: <br>
 -	The user does not have the right to void a document. The solution to this problem is giving that user the required rights or making another user execute the voiding operation. <br>
--	Branched flow - it is possible that the document connects to other sub-documents indirectly. In this situation, you need to void the connected sub-documents first (for example, those branches result from selling products through the Navigator). 
+-	Branched flow - it is possible that the document connects to other documents indirectly. In this situation, you need to void the connected documents first (for example, those branches occur when selling goods, using execution navigators, etc.). 
 
 ## Completing
 
-Completed – this State marks the completion of the document. You cannot set the document’s state to completed if any of its sub-documents are in a state lower than released. This preventive function serves as protection. By default, completed documents will not be visible in the Navigators, unless you specifically set them to display in the reports. 
+Completed – this state marks the completion of the document. You cannot set the document state to Completed if any of its sub-documents are in a state lower than released. This preventive function serves as protection. By default, completed documents will not be visible in the navigators, unless you specifically set them to be displayed. 
 
 The Completion has three variations – <b>Complete</b>  (only for the current document), <b>Complete with sub-documents</b>  (if the sub-documens are in a state <b>not</b> lower than released), <b>Complete with sub-documents, including unreleased</b>. The necessity for those variations comes from safety precautions. If a user has the right to complete documents from the flow, this can affect the work of other departments (warehouse, finances, accounting). Users can only complete the documents that they have the right to. They cannot complete sub-documents that they do not have the rights to. 
 When a given user tries to <b>complete</b> a document, the system will automatically stop this process if there is a conflict, such as unfinished sub-documents. When you are completing the current document, the system will check whether you have completed the sub-documents (they have released state). If you have completed them and the user has the required rights, then the process is going to be ready for completion. If they are not, you will see an error and you have to clear it (complete the sub-document) in order to complete the current document.
