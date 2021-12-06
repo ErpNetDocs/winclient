@@ -81,16 +81,16 @@
 
 <h2 id="about-the-mode">About the mode</h2>
 <p>This mode is introduced in Version 2019.1. It is used for <strong>entering an ending serial number</strong> when creating a range of serial numbers starting from a particular serial number and ending to a particular serial number.</p>
-<p>For entering a start number, use <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START of serial numbers (from ... to)</a></strong>.</p>
-<p><strong>Example:</strong> We want to create a range of serial numbers starting from serial number ‘XB0008’ and ending to‘XB0012’.</p>
+<p>For entering a start number, use <strong><a href="range-start.html">RANGE START of serial numbers (from ... to)</a></strong>.</p>
+<h4 id="example-we-want-to-create-a-range-of-serial-numbers-starting-from-serial-number-xb0008-and-ending-toxb0012">Example: We want to create a range of serial numbers starting from serial number ‘XB0008’ and ending to‘XB0012’.</h4>
 <p>In this case, we can:</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>The product has already been selected manually or through the <a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a>.</p>
+<p>The product has already been selected manually or through the <a href="main-mode.html">Main mode</a>.</p>
 </div>
 <p><strong>Method 1:</strong></p>
 <ol>
-<li><p>Select the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START</a></strong> mode and enter the starting number ’XB0008’.</p>
+<li><p>Select the <strong><a href="range-start.html">RANGE START</a></strong> mode and enter the starting number ’XB0008’.</p>
 </li>
 <li><p>The system automatically switches to <strong>RANGE END</strong> mode - enter ’XB0012’</p>
 </li>
@@ -108,15 +108,15 @@
 <ul>
 <li><strong>manually</strong> from the dropdown list in the Barcode panel.</li>
 <li><strong>manually</strong> by entering the <strong>fast command #RNGEND#</strong> in the main field when the panel is operating in one of the serial number modes.</li>
-<li><strong>automatically</strong> after the selection of the product through the <a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a> -</li>
+<li><strong>automatically</strong> after the selection of the product through the <a href="main-mode.html">Main mode</a> -</li>
 </ul>
-<p>as long as the <em>Use serial numbers</em> option from the Barcode settings is activated <strong>AND</strong> the product ‘<em>Is serialized</em>’ <strong>AND</strong> the form type is ‘Receive’ (for more information, see ‘Form types and mode selection’ in <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/index.html">Barcode commands</a></strong>)</p>
+<p>as long as the <em>Use serial numbers</em> option from the Barcode settings is activated <strong>AND</strong> the product ‘<em>Is serialized</em>’ <strong>AND</strong> the form type is ‘Receive’ (for more information, see ‘Form types and mode selection’ in @barcode-commands)</p>
 <p><strong>AND:</strong></p>
 <p>-it is the first use of the panel after opening the form <strong>AND</strong> the current mode is selected in the field <em>Default mode for serial numbers input</em> from the Barcode panel settings</p>
 <p><strong>OR</strong></p>
 <p>-it is <strong>NOT</strong> the first use of the panel after opening the form <strong>AND</strong> the current mode is the last mode used for serial numbers input.</p>
 <ul>
-<li><strong>automatically</strong> after the selection of the starting serial number through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START</a></strong> mode.</li>
+<li><strong>automatically</strong> after the selection of the starting serial number through the <strong><a href="range-start.html">RANGE START</a></strong> mode.</li>
 </ul>
 <h2 id="mode-operation">Mode operation</h2>
 <p>If <strong>RANGE END</strong> mode is set, when scanning/adding a value in the main field, the following actions are completed by the system:</p>
@@ -124,7 +124,7 @@
 <p><strong>(2)</strong> Check if the field <em>Serial numbers</em> has a value. If true =&gt; <strong>(3)</strong> Else =&gt; <strong>(4)</strong></p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>If the field <em>Serial Numbers</em> has a value, then this value is considered the &quot;starting serial number&quot; that has already been entered manually or through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html">RANGE START</a></strong> mode.</p>
+<p>If the field <em>Serial Numbers</em> has a value, then this value is considered the &quot;starting serial number&quot; that has already been entered manually or through the <strong><a href="range-start.html">RANGE START</a></strong> mode.</p>
 </div>
 <p><strong>(3)</strong> Check whether the scanned text is in the format &quot;starting number ...  ending number&quot;. If false - throw <strong>Message2</strong> and clear the scanned text. Wait for another serial number =&gt; <strong>(2)</strong>. Else =&gt; <strong>(4)</strong></p>
 <p><strong>(4)</strong> Check whether the prefixes of the starting and the ending numbers match. If false - throw <strong>Message3</strong> and clear the scanned text. Wait for another serial number =&gt; <strong>(2)</strong>. Else =&gt; <strong>(5)</strong></p>
