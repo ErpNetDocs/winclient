@@ -10,7 +10,7 @@ The mode can be selected:
 
 - **manually** - from the dropdown list in the Barcode panel.  
 - **manually** - by entering the **fast command #LIST#** in the main field when the panel is operating in one of the serial number modes.
-- **automatically** - after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** -
+- **automatically** - after the selection of the product through the **[Main mode](main-mode.md)** -
 as long as the _Use serial numbers_ option from the barcode settings is activated **AND** the product ‘_Is serialized_’ **AND**: 
 <br/>\- it is the first use of the panel after opening the form **AND** the current mode is selected in the field *Default mode for serial numbers input* in the **Barcode** panel settings 
 <br/>**OR**
@@ -29,7 +29,7 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
 
 **(1)** Check the form type. If the form type = ‘Receive’, then =>** (7)** 
 
-For more information see ‘Form types and mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**.
+For more information see ‘Form types and mode selection’ in **@barcode-commands**.
 
 **(2)** Look for the serial numbers related to the product set in the field _Product_. If the serial number exists for the selected product =>** (5)**
 
