@@ -15,11 +15,11 @@ The Barcode tab is accessible only if the **Barcode commands** panel is visible 
 
 There is also a Command list button for convenience, loading a list with ‘easy-access’ commands that are recognized by the panel. 
 
-For more information, see **[Fast barcode panel commands](https://docs.erp.net/winclient/introduction/barcode-commands/fast-commands.html)**.
+For more information, see **[Fast barcode panel commands](fast-commands.md)**.
 
 ## Barcode commands handlers
 
-Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other** **([GS1-128 command handler](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-handler.html)**, **Mettler Toledo / EAN-13 BPRO)** and **Coding systems** (user-defined). 
+Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other** **([GS1-128 Barcode command handler](barcode-handler.md)**, **Mettler Toledo / EAN-13 BPRO)** and **[Coding systems](xref:coding-systems)** (user-defined). 
 
 Barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered using drag and drop.
 
@@ -27,12 +27,12 @@ Barcode commands are handled only by the active command handlers in the specifie
 
  Two additional options can also be activated from the barcode settings in the Barcode tab: 
  
-- If ‘Use lots’ is on, when the system recognizes the product (if the product is allowed or required to use lots), it does not create a line immediately, but changes the barcode panel mode and waits until information about the lot number is received. The lot number can be added via a barcode label, manually in the main field or from the drop-down list in the lot field.
+- Use lots - if ‘Use lots’ is on, when the system recognizes the product (if the product is allowed or required to use lots), it does not create a line immediately, but changes the barcode panel mode and waits until information about the lot number is received. The lot number can be added via a barcode label, manually in the main field or from the drop-down list in the lot field.
 
-- If ‘Use serial numbers’ is on, when the system recognizes the product (if the product is serialized), it does not create a line immediately, but changes the *Barcode* panel mode and waits until information about the serial number is received. The lot number can be added via barcode label and manually in the *Main* field or in the *Serial number* field.
+- Use serial numbers - if ‘Use serial numbers’ is on, when the system recognizes the product (if the product is serialized), it does not create a line immediately, but changes the *Barcode* panel mode and waits until information about the serial number is received. The lot number can be added via barcode label and manually in the *Main* field or in the *Serial number* field.
 
 ## Barcode panel modes
 
 The barcode panel supports multiple modes which allow entering quantities, lots and serial numbers. 
 
-For more information, see **[Barcode panel modes](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/index.html).**
+For more information, see **[Barcode panel modes](barcode-modes/index.md).**
