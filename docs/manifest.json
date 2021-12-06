@@ -5771,19 +5771,22 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/fast-commands.html",
-          "hash": "cJjZSINduCHMKT4b+im5tg=="
+          "hash": "bl7SE8M2611YCOV6+G+nQg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/barcode-commands/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/index.html",
-          "hash": "Qs45jpwFXve5/V4IpgFAQQ=="
+          "hash": "EIx9L9PehTr68yh4pQ1dQQ=="
         }
       },
       "is_incremental": false,
@@ -5963,7 +5966,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-state.html",
-          "hash": "qY/6CVyYCkVYY2xMS69Jcg=="
+          "hash": "7J2STw7PMICuiEfseMRnnw=="
         }
       },
       "is_incremental": false,
@@ -6170,10 +6173,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "introduction/documents/pictures/user-state.png",
+      "source_relative_path": "introduction/documents/pictures/user-status.png",
       "output": {
         "resource": {
-          "relative_path": "introduction/documents/pictures/user-state.png"
+          "relative_path": "introduction/documents/pictures/user-status.png"
         }
       },
       "is_incremental": false,
@@ -8753,7 +8756,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "sQAjuiul86R/d5AYooZZew=="
+          "hash": "jZ/L9N2GRETqNF7zJZNGVA=="
         }
       },
       "is_incremental": false,
