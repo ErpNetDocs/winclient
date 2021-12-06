@@ -1,6 +1,9 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: barcode-commands
+  name: Barcode commands
+  href: introduction/barcode-commands/index.html
 - uid: erpnet
   name: erpnet
   href: includes/erpnet.html

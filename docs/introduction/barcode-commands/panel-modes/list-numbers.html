@@ -86,23 +86,21 @@
 <ul>
 <li><strong>manually</strong> - from the dropdown list in the Barcode panel.</li>
 <li><strong>manually</strong> - by entering the <strong>fast command #LIST#</strong> in the main field when the panel is operating in one of the serial number modes.</li>
-<li><strong>automatically</strong> - after the selection of the product through the <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html">Main mode</a></strong> -
-as long as the <em>Use serial numbers</em> option from the barcode settings is activated <strong>AND</strong> the product ‘<em>Is serialized</em>’ <strong>AND</strong>:</li>
-<li>it is the first use of the panel after opening the form <strong>AND</strong> the current mode is selected in the field <em>Default mode for serial numbers input</em> in the <strong>Barcode</strong> panel settings</li>
-</ul>
-<p><strong>OR</strong></p>
-<ul>
-<li>it is <strong>NOT</strong> the first use of the panel after opening the form <strong>AND</strong> the current mode is the last used mode for serial numbers input.</li>
+<li><strong>automatically</strong> - after the selection of the product through the <strong><a href="main-mode.html">Main mode</a></strong> -
+as long as the <em>Use serial numbers</em> option from the barcode settings is activated <strong>AND</strong> the product ‘<em>Is serialized</em>’ <strong>AND</strong>:
+<br>- it is the first use of the panel after opening the form <strong>AND</strong> the current mode is selected in the field <em>Default mode for serial numbers input</em> in the <strong>Barcode</strong> panel settings
+<br><strong>OR</strong>
+<br>-  it is <strong>NOT</strong> the first use of the panel after opening the form <strong>AND</strong> the current mode is the last used mode for serial numbers input.</li>
 </ul>
 <h2 id="mode-operation">Mode operation</h2>
 <p>If <strong>List</strong> mode is set, when scanning/adding a serial number in the main field, the following actions are completed:</p>
 <p><strong>(0)</strong> scan # ADD # =&gt; <strong>(9)</strong></p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>This command means that we want to stop listing serial numbers and add new product lines. Here, it is included only for clarity. This is a global command and it will be executed regardless of the mode.</p>
+<p>This command means that we want to stop listing serial numbers and add new product lines. Here, the command is included only for clarity. This is a global command and it will be executed regardless of the mode.</p>
 </div>
 <p><strong>(1)</strong> Check the form type. If the form type = ‘Receive’, then =&gt;** (7)**</p>
-<p>For more information see ‘Form types and mode selection’ in <strong><a href="https://docs.erp.net/winclient/introduction/barcode-commands/index.html">Barcode commands</a></strong>.</p>
+<p>For more information see ‘Form types and mode selection’ in **@barcode-commands**.</p>
 <p><strong>(2)</strong> Look for the serial numbers related to the product set in the field <em>Product</em>. If the serial number exists for the selected product =&gt;** (5)**</p>
 <p><strong>(3)</strong> The serial number does not exist. Clear the code. Wait for another serial number.</p>
 <p><strong>(4)</strong> STOP</p>
