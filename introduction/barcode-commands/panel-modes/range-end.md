@@ -76,6 +76,8 @@ If **RANGE END** mode is set, when scanning/adding a value in the main field, th
 **(7)** Create a count of serial numbers – from the initial to the final. It is possible some serial numbers exist, but this fact won’t interfere with the process.
  
 **(8)** Add new lines using current values of the fields in the panel.
+
+
  
 **Message1**:<br>
 The "{0}" mode is available only when all lines in the form are with the movement type "Receipt".
