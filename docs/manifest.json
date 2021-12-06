@@ -741,6 +741,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/introduction/documents/pictures/user-status.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/introduction/documents/pictures/user-status.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/introduction/documents/pictures/view-tab.png",
       "output": {
         "resource": {
@@ -5966,7 +5977,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/documents/document-state.html",
-          "hash": "7J2STw7PMICuiEfseMRnnw=="
+          "hash": "6ur4fgn0nkx4O4YXpH6hVQ=="
         }
       },
       "is_incremental": false,
