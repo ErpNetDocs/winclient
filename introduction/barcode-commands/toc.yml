@@ -3,9 +3,9 @@
 - name: Panel modes
   href: panel-modes/toc.yml
   topicHref: panel-modes/index.md
-- name: GS1-128 Command handler
+- name: GS1-128 command handler
   href: command-handler.md
-- name: Fast panel commands
+- name: Fast commands
   href: fast-commands.md
 
 
