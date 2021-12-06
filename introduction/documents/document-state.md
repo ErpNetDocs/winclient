@@ -22,8 +22,7 @@ If you need to set or change the document’s user status, click on the arrow un
 ![User status](pictures/user-status.png)
 
 When choosing a state (including the current one), the execution of the document routes is activated.<br>
-The state **cannot** be changed in the following cases:
-
+The state **cannot** be changed in the following cases:<br>
 - From Released state to a lower one (New, Firm Planned, Confirmed);<br>
 - From Void state to no other;<br>
 - From Adjustment state to no other, excluding Void state;<br>
