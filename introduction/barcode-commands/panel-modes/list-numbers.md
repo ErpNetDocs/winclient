@@ -11,12 +11,10 @@ The mode can be selected:
 - **manually** - from the dropdown list in the Barcode panel.  
 - **manually** - by entering the **fast command #LIST#** in the main field when the panel is operating in one of the serial number modes.
 - **automatically** - after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** -
-as long as the _Use serial numbers_ option from the barcode settings is activated **AND** the product ‘_Is serialized_’ **AND**:
-- it is the first use of the panel after opening the form **AND** the current mode is selected in the field *Default mode for serial numbers input* in the **Barcode** panel settings 
-
-**OR**
-
--  it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
+as long as the _Use serial numbers_ option from the barcode settings is activated **AND** the product ‘_Is serialized_’ **AND**: 
+<br/>\- it is the first use of the panel after opening the form **AND** the current mode is selected in the field *Default mode for serial numbers input* in the **Barcode** panel settings 
+<br/>**OR**
+<br/>\-  it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
  
  
 ## Mode operation
@@ -27,7 +25,7 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
 
 > [!NOTE]
 > 
-> This command means that we want to stop listing serial numbers and add new product lines. Here, it is included only for clarity. This is a global command and it will be executed regardless of the mode.
+> This command means that we want to stop listing serial numbers and add new product lines. Here, the command is included only for clarity. This is a global command and it will be executed regardless of the mode.
 
 **(1)** Check the form type. If the form type = ‘Receive’, then =>** (7)** 
 
