@@ -1,4 +1,4 @@
-# GS1-128 Barcode command handler
+# GS1-128 barcode command handler
 
 **GS1-128** is an application standard of the GS1 implementation using the code 128 barcode specification. In the past, GS1-128 was also known as UCC/EAN-128. **GS1-128** uses a list of different application identifiers (AI) in order to include additional data such as quantity, lot and serial numbers and many others.
 
