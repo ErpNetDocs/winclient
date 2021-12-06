@@ -29,7 +29,7 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
 
 **(1)** Check the form type. If the form type = ‘Receive’, then =>** (7)** 
 
-For more information see ‘Form types and mode selection’ in **@barcode-commands**.
+For more information see ‘Form types and mode selection’ in @barcode-commands.
 
 **(2)** Look for the serial numbers related to the product set in the field _Product_. If the serial number exists for the selected product =>** (5)**
 
