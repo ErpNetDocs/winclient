@@ -35,4 +35,4 @@ Barcode commands are handled only by the active command handlers in the specifie
 
 The barcode panel supports multiple modes which allow entering quantities, lots and serial numbers. 
 
-For more information, see **[Barcode panel modes](barcode-modes/index.md).**
+For more information, see **[Barcode panel modes](../barcode-modes/index.md).**
