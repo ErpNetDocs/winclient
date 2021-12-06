@@ -1,3 +1,7 @@
+---
+uid: barcode-commands
+---
+
 # Barcode commands
 
 
