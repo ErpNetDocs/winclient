@@ -5,19 +5,19 @@
 
 This mode is introduced in Version 2019.1. It is used for **entering a count of numbers** when a sequence of an exact count of serial numbers starting from a particular number is created.
 
-For entering a start serial number, use  **[SEQUENCE START of serial numbers (from ... count)](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)**
+For entering a start serial number, use  **[SEQUENCE START of serial numbers (from ... count)](sequence-start.md)**
 
-**Example:** We want to create 5 serial numbers starting from serial number ‘XB0008’. 
+#### Example: We want to create 5 serial numbers starting from serial number ‘XB0008’. 
 
 In this case, we could:
 
 > [!NOTE]
 > 
-> The product has already been selected manually or through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)**.
+> The product has already been selected manually or through the **[Main mode](main-mode.md)**.
 
 **Method 1:**
 
-1. Select the **[SEQUENCE START](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)** mode and enter the starting number ’XB0008’.
+1. Select the **[SEQUENCE START](sequence-start.md)** mode and enter the starting number ’XB0008’.
 
 2. The system automatically switches to the current mode **SEQUENCE END** - enter ‘5’
 
@@ -38,9 +38,9 @@ The **SEQUENCE END of serial numbers (from ... count)** mode can be selected:
 
 - **manually** from the dropdown list in the Barcode panel.  
 - **manually** by entering the **fast command #SEQEND#**  in the main field when the panel is operating in one of the serial number modes.
-- **automatically** after the selection of the product through the **[Main mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/main-mode.html)** - 
+- **automatically** after the selection of the product through the **[Main mode](main-mode.md)** - 
 
-as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the product ‘_Is serialized_’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ in **[Barcode commands](https://docs.erp.net/winclient/introduction/barcode-commands/index.html)**) 
+as long as the _Use serial numbers_ option from the Barcode settings is activated **AND** the product ‘_Is serialized_’ **AND** the form type is ‘Receive’ (for more information see ‘Form types and Mode selection’ in @barcode-commands ) 
 
 **AND**:
   
@@ -50,7 +50,7 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
 
   -it is **NOT** the first use of the panel after opening the form **AND** the current mode is the last used mode for serial numbers input.
 
-- **automatically** after the selection of the starting serial number through **[SEQUENCE START](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)**.
+- **automatically** after the selection of the starting serial number through **[SEQUENCE START](sequence-start.md)**.
 
 ## Mode operation
 
@@ -62,7 +62,7 @@ If **SEQUENCE END** mode is set, when scanning/adding a value in the main field,
 
 > [!NOTE]
 > 
-> If the field _Serial Numbers_ has a value, then this value is considered the ‘starting serial number’ that has already been entered manually or through the **[SEQUENCE START](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)** mode. 
+> If the field _Serial Numbers_ has a value, then this value is considered the ‘starting serial number’ that has already been entered manually or through the **[SEQUENCE START](sequence-start.md)** mode. 
 
 **(3)** Check whether the scanned text is in the format ‘starting number ...  count of numbers’. If false - throw **Message2** and clear the scanned text. Wait for another serial number => **(2)**. Else =>**(4)**
 
