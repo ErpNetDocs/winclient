@@ -14,7 +14,7 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
  
 ### Quantity commands:
 
-- *, which resets the entered quantity.
+- * /- resets the entered quantity.
 - q*, where ‘q’ is a number i.e. 1, 10, 50, 500..:</br>
 
     - q* adds the entered number (q) to the current value of the **Barcode** panel’s *Quantity* field.</br>
@@ -49,10 +49,10 @@ For convenience, there is a predefined command list with ‘easy-access’ comma
 
 ### Serial number commands:
  
-- #SERIAL# - Switches to **[Serial number mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/serial-number-mode.html)** used for entering a single serial number.
-- #LIST# - Switches to **[LIST of serial numbers mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/list-numbers.html)** used for entering serial numbers until the # ADD # command is executed.
-- #RNGSTART# - Switches to **[RANGE START of serial numbers mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-start.html)** used for entering the starting serial number when creating a range of serial numbers.
-- #RNGEND# - Switches to **[RANGE END of serial numbers mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/range-end.html)** used for entering the ending serial number when creating a range of serial numbers. 
-- #SEQSTART# - Switches to **[SEQUENCE START of serial numbers mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-start.html)** used for entering the starting serial number when creating a sequence of serial numbers.
-- #SEQEND# - Switches to **[SEQUENCE END of serial numbers mode](https://docs.erp.net/winclient/introduction/barcode-commands/barcode-modes/sequence-end.html)** used for entering of the count of numbers when creating a sequence of serial numbers.
+- #SERIAL# - Switches to **[Serial number mode](panel-modes/serial-number-mode.md)** used for entering a single serial number.
+- #LIST# - Switches to **[LIST of serial numbers mode](panel-modes/list-numbers.md)** used for entering serial numbers until the # ADD # command is executed.
+- #RNGSTART# - Switches to **[RANGE START of serial numbers mode](panel-modes//range-start.md)** used for entering the starting serial number when creating a range of serial numbers.
+- #RNGEND# - Switches to **[RANGE END of serial numbers mode](panel-modes//range-end.md)** used for entering the ending serial number when creating a range of serial numbers. 
+- #SEQSTART# - Switches to **[SEQUENCE START of serial numbers mode](panel-modes//sequence-start.md)** used for entering the starting serial number when creating a sequence of serial numbers.
+- #SEQEND# - Switches to **[SEQUENCE END of serial numbers mode](panel-modes//sequence-end.md)** used for entering of the count of numbers when creating a sequence of serial numbers.
 
