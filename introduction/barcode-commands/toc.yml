@@ -1,10 +1,12 @@
 - name: Overview
   href: index.md
-- name: Fast panel commands
-  href: fast-commands.md
-- name: GS1-128 Command handler
-  href: command-handler.md
 - name: Panel modes
   href: panel-modes/toc.yml
   topicHref: panel-modes/index.md
+- name: GS1-128 Command handler
+  href: command-handler.md
+- name: Fast panel commands
+  href: fast-commands.md
+
+
   
