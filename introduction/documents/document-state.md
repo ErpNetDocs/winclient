@@ -7,7 +7,7 @@
 -	<b>Confirmed</b> - this is a document, confirmed by an authorized user of the system. It has a <b>probable</b> nature. The confirmed documents reflect the <b>intention for a future</b> release of the document. This is taken into consideration by the planning system and the confirmed documents <b>will not</b> be deleted when re-planning;
 -	<b>Released</b> - a document that is released for execution. The Released state has a specific meaning in the system. It notes that the document has gained its <b>final</b> form and the system <b>forbids</b> any edits, including changing its state to a lower one. Usually, the Released state starts a sequence of system actions. This allows you to create sub-documents; 
 -	<b>Completed</b> - this shows the completion of the active work on the document;
--	<b>Closed</b> - this allows you to see the completion of the entire work on a specific document (process). By using the closed state, you can optimize the speed of your work by selecting to work only with the open documents in the system;
+-	<b>Closed</b> - this shows the completion of the entire work on a specific document (process). By using the Closed state, you can optimize the speed of your work by working only with the open documents in the system;
 -	<b>Adjustment</b> - you can only use this state for a document that is an adjustment of another one. By selecting this state, you put the adjustment document into action;
 -	<b>Void</b>.
 
