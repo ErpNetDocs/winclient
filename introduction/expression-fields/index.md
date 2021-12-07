@@ -3,7 +3,7 @@
 
 Expression fields are user-defined fields that can be created in different forms in the database. With them, users can create calculated columns, which contain a value calculated from other columns or from the column values of multiple rows in the table. 
 
-Аt first glance, еxpression fields and **[calculated attributes](https://docs.erp.net/tech/advanced/calculated-attributes/index.html)**, which are introduced in Version 2017, have a similar purpose, but the calculated attributes are recommended for advanced users. Unlike them, expression fields can’t be used by **[user business rules](https://docs.erp.net/tech/advanced/user-business-rules/index.html)**.
+Аt first glance, еxpression fields and **[calculated attributes](xref:ca)**, which are introduced in Version 2017, have a similar purpose, but the calculated attributes are recommended for advanced users. Unlike them, expression fields can’t be used by **[user business rules](xref:ubr)**.
  
 Like regular system fields, expression fields can be managed from the Customise fields form.
 
@@ -24,7 +24,7 @@ An expression consists of a number of possible elements that you can use, alone 
 Those elements include:
 
 - **Identifiers** - the names of table fields. In the editor, we can refer to a target field in the expressions by its ‘Field name’ surrounded by square brackets without spaces;
-- **Operators** - such as + (plus) or - (minus). <br> For more information, see **[Expression fields - operators](https://docs.erp.net/winclient/introduction/expression-fields/operators.html)** ;
-- **Functions** - such as IFF or ISNULL. <br> For more information, see **[Expression fields - functions](https://docs.erp.net/winclient/introduction/expression-fields/functions.html)**;
+- **Operators** - such as + (plus) or - (minus). <br> For more information, see **[Expression fields - operators](operators.md)** ;
+- **Functions** - such as IFF or ISNULL. <br> For more information, see **[Expression fields - functions](functions.md)**;
 - **Constants**  - values that do not change, such as strings of text, or numbers that are not calculated by an expression.
 
