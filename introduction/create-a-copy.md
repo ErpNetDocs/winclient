@@ -1,7 +1,7 @@
 # Create a copy of a product
 
 
-**Create a copy** is a function that is available in the **Functions** tab (product's definition). This function allows us to create a new product from the current one. Note that not all data from the base product is copied to the new one. 
+**Create a copy** is a function that is available in the **Functions** tab in the product's definition. This function allows us to create a new product from the current one. Note that not all data from the base product is copied to the new one. 
 
 The tables currently copied to the new product are: 
 
@@ -15,7 +15,7 @@ The tables currently copied to the new product are:
 - **Product pictures**
 - **Product distribution channels**
 
-The lots, serial numbers, product codes, prices, purchase prices and discounts are NOT copied to the new product.
+The lots, serial numbers, product codes, prices, purchase prices, and discounts are NOT copied to the new product.
 
 > [!NOTE]
 > 
