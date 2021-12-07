@@ -7288,15 +7288,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "invalid-note-section"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/navigators/filtering/filtering-by-values.md",
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/filtering/filtering-by-values.html",
-          "hash": "Ze7iI7SAIaPPaZUU7FZ9MQ=="
+          "hash": "cRlm9bEkAvSzJXzMKRlUbw=="
         }
       },
       "is_incremental": false,
