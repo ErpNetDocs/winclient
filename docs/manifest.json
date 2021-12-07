@@ -5789,15 +5789,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/barcode-commands/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/index.html",
-          "hash": "Jc8hCbObjQiokMo1xE9rNw=="
+          "hash": "O9drrpqKKzjF8/rb8oCTyQ=="
         }
       },
       "is_incremental": false,
@@ -6240,15 +6237,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/expression-fields/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/index.html",
-          "hash": "Ts94DdOIQXUqE9/nWHo01g=="
+          "hash": "UeBhPgTTeAXRQes8xEoCnA=="
         }
       },
       "is_incremental": false,
