@@ -23,7 +23,7 @@ For more information, see **[Fast barcode panel commands](fast-commands.md)**.
 
 ## Barcode commands handlers
 
-Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other** **([GS1-128 Barcode command handler](barcode-handler.md)**, **Mettler Toledo / EAN-13 BPRO)** and **[Coding systems](xref:coding-systems)** (user-defined). 
+Different barcode command handlers by which the information from the barcode label is recognized can be activated from the barcode settings in the **Barcode tab**. Currently, there are three types of handlers: **General (quantity, product name)**, **Other** **([GS1-128 Barcode command handler](gs1-128.md)**, **Mettler Toledo / EAN-13 BPRO)** and **[Coding systems](xref:coding-systems)** (user-defined). 
 
 Barcode commands are handled only by the active command handlers in the specified order. The active command handler list can be reordered using drag and drop.
 
