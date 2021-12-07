@@ -5782,7 +5782,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/barcode-commands/gs1-128.html",
-          "hash": "au80YRH8d7lUEcsQJBTZ/w=="
+          "hash": "znXizuFfbM9WCqJ+mmOpdA=="
         }
       },
       "is_incremental": false,
@@ -5941,7 +5941,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/create-a-copy.html",
-          "hash": "vOP8DBUHr5RHz6Zyl4WRDg=="
+          "hash": "R5Sv6FsDqM+9UcwwcmoQLg=="
         }
       },
       "is_incremental": false,
@@ -6240,12 +6240,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Conceptual",
       "source_relative_path": "introduction/expression-fields/index.md",
       "output": {
         ".html": {
           "relative_path": "introduction/expression-fields/index.html",
-          "hash": "sKPTpbAihf6m0TqEq5JnUg=="
+          "hash": "Ts94DdOIQXUqE9/nWHo01g=="
         }
       },
       "is_incremental": false,

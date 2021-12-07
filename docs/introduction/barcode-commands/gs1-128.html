@@ -98,7 +98,7 @@
 <tr>
 <td style="text-align: left;">01</td>
 <td style="text-align: left;">Global trade item number (GTIN)</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Product</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@
 <p>If the text contains a segment with code 10, its ‘yyy ... y’ part is used for the recognition of a lot (as standardly done in the barcode panel). If the system finds such a lot, it is saved in the already generated record in the lines of the document/ report (if the record in the input data table was not created after the search for the product – it is created now).</p>
 <p>The same happens with a segment with code 21 – through its ‘yyy ... y’ part the system searches for a serial number and if such is found, it needs to be inputted in the record (if the record in the input data table was not created after the search for the product – it is created now).</p>
 <p>And if there is a segment with a code 37, its ‘yyy ... y’ part is converted to a positive integer. If this is possible, the value is inputted in the field Quantity of the generated record. The system searches for the coding system with which the record is added and also inputs its default unit in the Quantity unit field (if the record in the input data table was not created after the search for the product – it is created now).</p>
-<p>If the ‘GS1-128’ handler has failed during some of the steps, then the system proceeds to the next handler of the list (the whole text is transmitted to the next handler).</p>
+<p><br><br>If the ‘GS1-128’ handler has failed during some of the steps, then the system proceeds to the next handler of the list (the whole text is transmitted to the next handler).</p>
 <p>If ‘GS1-128’ did not fail and the product, the lot, the serial number and the quantity are successfully retrieved (filled in the input record), the system does nothing much. i.e. does not proceed to subsequent handlers in the list.</p>
 <p>And if any of the product, lot, serial number or quantity is not extracted (for example, because a product with this barcode/part number is not found in the base), then the system proceeds to the following handles which can be able to fill in the empty values.</p>
 </article>
