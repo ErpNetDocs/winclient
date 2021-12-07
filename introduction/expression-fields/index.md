@@ -13,7 +13,7 @@ The expression fields have the following properties:
 - **Caption** - the display name of the field; it is multi-language;
 - **Expression** - numbers, symbols and operators or functions grouped together, which yields a new value by performing calculations, comparisons, or other operations;
 - **Running total** - when activated, the sequence of numbers is summed and updated progressively, by adding the value of the new number to the previous running total;
-- **Data type** - a format that contains the specific type of the value: boolean, integer, decimal, string, DateTime or unset.
+- **Data type** - a format that contains the specific type of the value: boolean, integer, decimal, string, datetime or unset.
 
 ## Expressions
  
