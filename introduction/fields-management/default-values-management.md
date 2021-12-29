@@ -7,7 +7,7 @@ To pick a default value, go to the field of choice, right-click it and from the 
 
 <b>Default value→ Set as default value</b>.
 
-> [!Note:] 
+> [!Note]
 > the default value function requires enabled *Customize Current View* mode.
 
 ![Customize current view](pictures/customize-view.png)  
