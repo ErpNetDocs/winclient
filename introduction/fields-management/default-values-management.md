@@ -24,7 +24,7 @@ Press **OK** to save the selected options.
 
 You want to set *Account EUR* as default payment account in a sales order document. 
 
-- Select the following: ***for the current user*** and ***for the current document type***. 
+- Select the following: ***For the current user*** and ***For the current document type***. 
 
 Any time you open a new sales order document, the *Account EUR* value will automatically appear in the *Payment account* field. 
 
