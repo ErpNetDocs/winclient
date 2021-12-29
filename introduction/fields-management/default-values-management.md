@@ -22,7 +22,7 @@ Press **OK** to save the selected options.
 
 **Example 1:**
 
-You want to set *Account EUR* as default Payment account in a sales order document. 
+You want to set *Account EUR* as default payment account in a sales order document. 
 
 - Select the following: ***for the current user*** and ***for the current document type***. 
 
