@@ -79,7 +79,8 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="expression-fields">Expression fields</h1>
 
-<p><b>Expression fields</b> are created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied. The formula <b>cannot</b> include values from other expression fields.</p>
+<p><b>Expression fields</b> are created by the customer in the database. You can use them to generate formulas and create new fields where the formula calculations are applied.
+The formula can include values from other expression fields. In this case, the expression fields which are included should also be shown in the view and its position have to precede the expression field in whose formula they participate in.</p>
 <p><img src="pictures/expression-formula3.png" alt="Expression formula"></p>
 <p>Open the expression fields form from: <b>Data→Expression fields</b></p>
 <p><img src="pictures/expf-ribbon.png" alt="Expression fields ribbon"></p>
@@ -89,14 +90,14 @@
 <li><b>Title</b>: VAT</li>
 <li><b>Formula</b>: press the <img src="pictures/etc.png" alt="etc">  button</li>
 </ul>
-<p>A <b>formula editor</b> opens. It is separated into three regions – the first one shows the formula; the middle one – various actions than can be executed; the last one is a fields panel where the fields included in the formula can be selected.</p>
+<p>A <b>formula editor</b> opens. It is separated into three regions – the first one shows the formula; the middle one – is a quick acces toolbar for adding symbols into the formula; the last one is a fields panel where can be selected the fields which can be included to the formula.</p>
 <p><strong>Example</strong>:</p>
 <ul>
-<li>select <b>Amount to pay</b></li>
+<li>select <b>Amount To Pay</b></li>
 <li>select the ‘<b>-</b>’ symbol</li>
-<li>select <b>Lines total</b></li>
+<li>select <b>Lines Total</b></li>
 </ul>
-<p>The value in the new field will be summed by the formula: <b>Amount to pay</b> – <b>Lines total</b> = <b>VAT</b> field</p>
+<p>The value in the new field will be summed by the formula: <b>[Amount_To_Pay]</b> – <b>[Lines_Total]</b> = <b>VAT</b> field</p>
 <p><img src="pictures/Calculated-fform.png" alt="Expression fields form"></p>
 <p>Click <b>OK</b> to close the <b>Expression editor</b> or the <b>Expression fields </b> form.</p>
 <p>The <b>VAT</b> field shows up in the data panel.</p>
