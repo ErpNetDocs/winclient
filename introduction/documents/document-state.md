@@ -24,10 +24,11 @@ The state **cannot** be changed in the following cases:<br>
 
 @@winclientfull has proven its security and reliability as a system. Information loss of any form is not allowed. Part of this concept is the <b>inability to delete documents</b> irreversibly and completely. When necessary, you can void a document. This will save a copy in the database, but it won’t display in the reports (unless you specify that you need to see those copies).
 
-Void has three variations 
-– **Void** (only the current document);
+Void has three variations:
+- **Void** (only the current document);
 - **Void with sub-documents** (if their state is lower than released); 
 - **Void with sub-documents, including released**. 
+
 The necessity for those variations comes from safety precautions. If a given user has the right to void any documents from the flow, this may affect the work of other departments (warehouse, finance, accounting). Users can only void the documents they have rights to. They are not able to void sub-documents without having rights to them. 
 	
 When you select to void a document, the system will open a new window first, asking for the reason for voiding this document:
@@ -35,13 +36,18 @@ When you select to void a document, the system will open a new window first, ask
 ![Void](pictures/void.png)
 
 If the system does not allow voiding a document, the likely reasons are: <br>
--	The user does not have the right to void documents. The solution to this problem is giving that user the required rights or making another user execute the voiding operation. <br>
--	Branched flow - it is possible that the document connects to other documents indirectly. In this situation, you need to void the connected documents first (for example, those branches occur when selling goods, using execution navigators, etc.). 
+-	The user does not have the right to void the document. The solution to this problem is giving that user the required rights or making another user execute the voiding operation. <br>
+-	The document is referencing another document - it is possible that the document connects to other documents indirectly. In this situation, you need to void the referencied documents first (for example, those references occur when using functional navigators, etc.). 
 
 ## Completing
 
-Completed – this state marks the completion of the document. By default, completed documents will not be visible in the navigators, unless you specifically set them to be displayed.<br> 
+Completed – this state marks the completion of the document. By default, completed documents will not be visible in the navigators, unless you explicitly show them.<br> 
 
-The Completion has three variations – <b>Complete</b>  (only for the current document), <b>Complete with sub-documents</b>  (if the sub-documents are in a state <b>not</b> lower than released), <b>Complete with sub-documents, including unreleased</b>. The necessity for those variations comes from safety precautions. If a user has the right to complete any documents from the flow, this can affect the work of other departments (warehouse, finances, accounting). Users can only complete the documents that they have the right to. They are not able to complete sub-documents without having rights to them.<br>
+The Completion has three variations:
+- <b>Complete</b>  (only for the current document);
+- <b>Complete with sub-documents</b>  (if the sub-documents are in a state <b>not</b> lower than released)
+- <b>Complete with sub-documents, including unreleased</b>. 
 
-When a given user tries to <b>complete</b> a document with sub-documents, the system will automatically stop this process if there is a conflict, such as unreleased sub-documents. The system will check whether you have completed the sub-documents (they must have Released state at least). If you have released/completed them and the user has the required rights, then the process is going to be ready for completion. If they are not, you will see an error and you have to clear it (release the sub-documents) in order to complete the current document.
+The necessity for those variations comes from safety precautions. If a user has the right to complete any documents from the flow, this can affect the work of other departments (warehouse, finances, accounting). Users can only complete the documents that they have the right to. They are not able to complete sub-documents without having rights to them.<br>
+
+When a given user tries to <b>complete</b> a document with sub-documents, the system will automatically stop this process if there is a conflict, such as unreleased sub-documents. The system will check whether you have completed the sub-documents (they must have Released state at least). If you have released/completed them and the user has the required rights, then the process is going to be ready for completion. If not, you will see an error.
