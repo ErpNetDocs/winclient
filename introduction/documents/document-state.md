@@ -24,7 +24,11 @@ The state **cannot** be changed in the following cases:<br>
 
 @@winclientfull has proven its security and reliability as a system. Information loss of any form is not allowed. Part of this concept is the <b>inability to delete documents</b> irreversibly and completely. When necessary, you can void a document. This will save a copy in the database, but it won’t display in the reports (unless you specify that you need to see those copies).
 
-Void has three variations – **Void** (only the current document); **Void with sub-documents** (if their state is lower than released); **Void with sub-documents, including released**. The necessity for those variations comes from safety precautions. If a given user has the right to void any documents from the flow, this may affect the work of other departments (warehouse, finance, accounting). Users can only void the documents they have rights to. They are not able to void sub-documents without having rights to them. 
+Void has three variations 
+– **Void** (only the current document);
+- **Void with sub-documents** (if their state is lower than released); 
+- **Void with sub-documents, including released**. 
+The necessity for those variations comes from safety precautions. If a given user has the right to void any documents from the flow, this may affect the work of other departments (warehouse, finance, accounting). Users can only void the documents they have rights to. They are not able to void sub-documents without having rights to them. 
 	
 When you select to void a document, the system will open a new window first, asking for the reason for voiding this document:
 
