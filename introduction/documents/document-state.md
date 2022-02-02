@@ -1,5 +1,5 @@
 # Document state
-The documents in the system have a current STATE. This state determines the effect on the system and whether the document can be updated. The allowed states of the document are **New, Planned, Firm Planned, Released, Completed, Closed and Adjusment**. For more information on the system and business logic of document states, see the [Document states](xref: states) topic in the Tech documentation.
+The documents in the system have a current STATE. This state determines the effect on the system and whether the document can be updated. The allowed states of the document are **New, Planned, Firm Planned, Released, Completed, Closed and Adjusment**. For more information on the system and business logic of document states, see the [Document states](xref:states) topic in the Tech documentation.
 
 
 ## Document State Changing
