@@ -4,17 +4,7 @@
 
 You can transliterate the values in these fields using the text translations form or manually translate them if needed.
 
-## Manual translation
-
-Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
-
-![Dropdown menu](pictures/dd-menut.png) 
-
-Then manually enter the desired translation.
-
-## Automatic transliteration
-
-To open the transliteration menu, you can:
+to work with multilanguage fields you can:
 
 - open a ‘Product group’ form
 - open a ‘Product group’ field
@@ -25,9 +15,9 @@ To open the transliteration menu, you can:
 
 The <b>Text translations</b> form opens
 
-![Text translations](pictures/text-translations.png)
+## Automatic transliteration
  
-Click on <b>Transliterate</b> and a list with the available languages will appear on the side.
+To perform automatic transliteration, click on <b>Transliterate</b> and a list with the available languages will appear on the side.
 
 The name of the product group displays in the first field (reserved for the main language).
 
@@ -39,3 +29,11 @@ To set transliteration for all of the available languages, click on <b>Translite
 >  - The <b>Transliterate</b> button is set to only work from English to Bulgarian and vice versa. 
 >  - Unless the <b>Transliterate</b> button is clicked upon, the multilanguage field will be written out using Latin (English) symbols when the system is switched from English to Bulgarian language. 
 >  - The <b>Transliterate</b> button allows for writing out initial text that can be edited afterwards.
+
+## Manual translation
+
+Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
+
+![Dropdown menu](pictures/dd-menut.png) 
+
+Then manually enter the desired translation.
