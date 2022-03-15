@@ -10,17 +10,20 @@ Open the form by clicking the ![…](pictures/dots.png) button or by selecting i
 
 ![Dropdown menu](pictures/dd-menut.png) 
 
-**Example** :
-- by opening a ‘Product group’ form
-- by opening a ‘Product group’ field
-- by selecting the function from the dropdown menu or
-- by clicking the ![…](pictures/dots.png)  button
+Then manually enter the desired translation.
+
+## Automatic transliteration
+
+To open the transliteration menu, you can:
+
+- open a ‘Product group’ form
+- open a ‘Product group’ field
+- select the function from the dropdown menu or
+- click the ![…](pictures/dots.png)  button
 
 ![Identificator](pictures/identificator.png)
 
 The <b>Text translations</b> form opens
-
-## Automatic transliteration
 
 ![Text translations](pictures/text-translations.png)
  
