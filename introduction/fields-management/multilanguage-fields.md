@@ -32,8 +32,8 @@ To set transliteration for all of the available languages, click on <b>Translite
 
 ## Manual translation
 
-Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu:
+Open the form by clicking the ![…](pictures/dots.png) button or by selecting it in the dropdown menu and manually enter the desired translation:
 
 ![Dropdown menu](pictures/dd-menut.png) 
 
-Then manually enter the desired translation.
+
