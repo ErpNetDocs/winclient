@@ -13,7 +13,7 @@ to work with multilanguage fields you can:
 
 ![Identificator](pictures/identificator.png)
 
-The <b>Text translations</b> form opens
+The <b>Text translations</b> form opens.
 
 ## Automatic transliteration
  
