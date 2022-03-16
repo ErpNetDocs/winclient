@@ -15,6 +15,8 @@ to work with multilanguage fields you can:
 
 The <b>Text translations</b> form opens.
 
+![Text translations](pictures/text-translations.png)
+
 ## Automatic transliteration
  
 To perform automatic transliteration, click on <b>Transliterate</b> and a list with the available languages will appear on the side.
