@@ -6302,7 +6302,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/field-types.html",
-          "hash": "I8YEZ9+cvJXV8MGpvStCOg=="
+          "hash": "iPD/vPYtoz4/o/9+rrKtZQ=="
         }
       },
       "is_incremental": false,
@@ -6326,7 +6326,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/multilanguage-fields.html",
-          "hash": "Tkze9MnzWL6corOerLSMLw=="
+          "hash": "qRbCKIQLv8jxT2+kRgsvEw=="
         }
       },
       "is_incremental": false,
@@ -6734,17 +6734,6 @@
       "output": {
         "resource": {
           "relative_path": "introduction/fields-management/pictures/longtext-field.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "introduction/fields-management/pictures/longtext-field1.png",
-      "output": {
-        "resource": {
-          "relative_path": "introduction/fields-management/pictures/longtext-field1.png"
         }
       },
       "is_incremental": false,
