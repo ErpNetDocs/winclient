@@ -27,7 +27,7 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
 > 
 > This command means that we want to stop listing serial numbers and add new product lines. Here, the command is included only for clarity. This is a global command and it will be executed regardless of the mode.
 
-**(1)** Check the form type. If the form type = ‘Receive’, then =>** (7)** 
+**(1)** Check the form type. If the form type = ‘Receive’, then =>** (9)** 
 
 For more information see ‘Form types and mode selection’ in @barcode-commands.
 
