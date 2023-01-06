@@ -1,42 +1,38 @@
 # Customize fields
-Use the <b>customize fields</b> form to edit fields, hide them or make them visible, or customize their settings in a certain form panel.
+The <b>customize fields</b> form is used to show more available fields in the panel, hide some of the fields that were already shown or to customize their settings e.g. to make the field read-only.
 
-Open the form with the ![Customize fields icon](pictures/customize-ficon.png) button in the **View** tab of the command ribbon for the current form or by right-clicking on the panel which will open a context menu.
+The form is opened through the ![Customize fields icon](pictures/customize-ficon.png) button in the **View** tab of the command ribbon or by right-clicking into the panel whose fields you would like to customize.
+
+
+The left side contains all the fields that are available to show for a particular panel. 
+The tick ![Tick](pictures/tick-show.png) marks the fields that are currently shown in the panel.
+![Invisible](pictures/invisible.png) marks the fields that hidden. 
 
 ![Customize fields form](pictures/customize-fform.png)
 
-The fields that appear in the form are located on the right side.
-
-Reposition the fields around the form in the desired order with the **Up** ![Up arrow](pictures/up-arrow.png) and **Down** ![Down arrow](pictures/down-arrow.png) buttons.
+On the right side you have a full list with the fields that are currently shown.
+You can reposition the fields around the form in the desired order with the **Up** ![Up arrow](pictures/up-arrow.png) and **Down** ![Down arrow](pictures/down-arrow.png) buttons.
 
 Click the ![Close button](pictures/close-button.png) button to close the customize fields form. 
 
-All the fields that are present in a certain panel are shown on the left side.
-
-The tick ![Tick](pictures/tick-show.png) shows the fields, displayed in the panel when the form opens.
-
-![Invisible](pictures/invisible.png) shows the fields that are not displayed. 
 
 The ![Expression fields button](pictures/expression-fbutton.png) button opens the expression fields form.
 
-The ![Expand all button](pictures/expand-abutton.png) opens all the groups and shows the existing fields.
+The ![Expand all button](pictures/expand-abutton.png) expands all hierarchical groups of fields on the left side of the form.
 
-**Example** : 
-The fields *Enterprise company* and *Enterprise company location* are to expand with the use of this form without having to click on the menu displaying them.
 
 Open <b>Field properties</b> by clicking the ![Properties button](pictures/propertiesbutton.png) button.
 
 ![Field properties form](pictures/fp-form.png)  
 
-The ‘Visible’ checkbox shows whether the field is visible for the current form.
+The ‘Visible’ checkbox shows whether the field is shown in the current form.
 The ‘Enter stop’ shows whether the cursor stops in the field after pressing ’enter’ or it would reposition to the next field.
 The ‘Numeric sort’ indicates whether the field will be sorted numerically or by a string.
 
-The text formats for the values in this field are:
 
 #### Display format
-Shows how the field displays into the form.
-Click the ![Dots button](pictures/dots.png)   button to open the <b>String format</b>. 
+Shows how the format in which the field's value is displayed into the form.
+Click the ![Dots button](pictures/dots.png) button to open the <b>String format</b>. 
 
 ![String format datetime](pictures/sf-datetime.png)
  
@@ -57,7 +53,7 @@ Click 'OK'.
 ![String format numbers](pictures/sf-numbers.png)
 
 #### Edit format
-In the field we can directly set a mask to specify how to visualize the field while editing it.
+In the field we can directly set a mask to specify how to visualize the field's value while editing it.
 Using the edit form you can adjust the format of the document number field.
 
 **Example**:
