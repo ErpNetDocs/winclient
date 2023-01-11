@@ -11,4 +11,5 @@
 - name: Searching
   href: searching.md
 - name: Conditional coloring
-  href: coloring/toc.yml  
+  href: coloring/toc.yml
+  topicHref: coloring/index.md
