@@ -27,13 +27,11 @@ as long as the _Use serial numbers_ option from the barcode settings is activate
 > 
 > This command means that we want to stop listing serial numbers and add new product lines. Here, the command is included only for clarity. This is a global command and it will be executed regardless of the mode.
 
-**(1)** Check the form type. If the form type = ‘Receive’, then =>** (9)** 
+**(1)** Look for the serial numbers related to the product set in the field _Product_. If the serial number exists for the selected product =>**(5)**
 
-For more information see ‘Form types and mode selection’ in @barcode-commands.
+**(2)** The serial number does not exist. Check the form type. If the form type = ‘Receive’, then =>**(7)** 
 
-**(2)** Look for the serial numbers related to the product set in the field _Product_. If the serial number exists for the selected product =>** (5)**
-
-**(3)** The serial number does not exist. Clear the code. Wait for another serial number.
+**(3)** If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Throw an error *"New serial numbers can only be created if all lines are in "Receipt" direction.".* Wait for another serial number. For more information, see ‘Form types and Mode selection’ in @barcode-commands
 
 **(4)** STOP
 
