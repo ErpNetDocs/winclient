@@ -30,9 +30,9 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
 
 **(2)** The serial number does not exist. If the form type = ‘Receive’, a new serial number can be created. Then => **(5)**.
 
-**(3)** If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Wait for another serial number.
+**(3)** If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Throw an error *"New serial numbers can only be created if all lines are in "Receipt" direction.".*
 
-For more information, see ‘Form types and Mode selection’ in @barcode-commands
+Wait for another serial number. For more information, see ‘Form types and Mode selection’ in @barcode-commands
 
 **(4)** STOP
 
