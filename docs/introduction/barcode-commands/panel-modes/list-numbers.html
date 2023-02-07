@@ -99,10 +99,9 @@ as long as the <em>Use serial numbers</em> option from the barcode settings is a
 <h5>Note</h5>
 <p>This command means that we want to stop listing serial numbers and add new product lines. Here, the command is included only for clarity. This is a global command and it will be executed regardless of the mode.</p>
 </div>
-<p><strong>(1)</strong> Check the form type. If the form type = ‘Receive’, then =&gt;** (9)**</p>
-<p>For more information see ‘Form types and mode selection’ in <a class="xref" href="../index.html">Barcode commands</a>.</p>
-<p><strong>(2)</strong> Look for the serial numbers related to the product set in the field <em>Product</em>. If the serial number exists for the selected product =&gt;** (5)**</p>
-<p><strong>(3)</strong> The serial number does not exist. Clear the code. Wait for another serial number.</p>
+<p><strong>(1)</strong> Look for the serial numbers related to the product set in the field <em>Product</em>. If the serial number exists for the selected product =&gt;<strong>(5)</strong></p>
+<p><strong>(2)</strong> The serial number does not exist. Check the form type. If the form type = ‘Receive’, then =&gt;<strong>(7)</strong></p>
+<p><strong>(3)</strong> If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Throw an error <em>&quot;New serial numbers can only be created if all lines are in &quot;Receipt&quot; direction.&quot;.</em> Wait for another serial number. For more information, see ‘Form types and Mode selection’ in <a class="xref" href="../index.html">Barcode commands</a></p>
 <p><strong>(4)</strong> STOP</p>
 <p><strong>(5)</strong> Add the serial number (separated with comma) to the list of serial numbers in the field <em>Serial Numbers</em>.</p>
 <p><strong>(6)</strong> STOP</p>

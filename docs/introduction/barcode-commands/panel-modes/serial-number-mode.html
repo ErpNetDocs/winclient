@@ -97,8 +97,7 @@
 <p>If this mode is set, when scanning/adding a serial number in the main field, the following actions are completed by the system:</p>
 <p><strong>(1)</strong> Look through the serial numbers related to the product set in the field <em>Product</em>. If the serial number exists for the selected product =&gt; <strong>(5)</strong></p>
 <p><strong>(2)</strong> The serial number does not exist. If the form type = ‘Receive’, a new serial number can be created. Then =&gt; <strong>(5)</strong>.</p>
-<p><strong>(3)</strong> If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Wait for another serial number.</p>
-<p>For more information, see ‘Form types and Mode selection’ in <a class="xref" href="../index.html">Barcode commands</a></p>
+<p><strong>(3)</strong> If the form type = ‘Issue’ or ‘Indefinite’. Clear the code. Throw an error <em>&quot;New serial numbers can only be created if all lines are in &quot;Receipt&quot; direction.&quot;.</em> Wait for another serial number. For more information, see ‘Form types and Mode selection’ in <a class="xref" href="../index.html">Barcode commands</a></p>
 <p><strong>(4)</strong> STOP</p>
 <p><strong>(5)</strong> Create a new line using current values of the fields in the panel.</p>
 </article>
