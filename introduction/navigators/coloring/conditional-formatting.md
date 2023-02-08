@@ -17,7 +17,7 @@ A window will open for you to enter the desired conditions:
 
 ![Condition expression editor](pictures/condition-expression-editor.png)
  
-In this case, we will set all new sales orders to show in bold. For that purpose, double click on the <b>State</b> field (it will show up at the top of the window). Then manually type in there <b> == ‘New’</b> (two times the equal-to sign and the word New in single quotes).
+In this case, we will make all new sales orders to be bolded. For that purpose, double click on the <b>State</b> field (it will show up at the top of the window). Then manually type in there <b> == ‘New’</b> (two times the equal-to sign and the word New in single quotes).
 
 Click the '**OK**' button.
 
