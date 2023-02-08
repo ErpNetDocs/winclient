@@ -6278,7 +6278,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/fields-management/default-values-management.html",
-          "hash": "xZ1sIAAZZcBraROVeDGV1w=="
+          "hash": "a+K5UWS/IoKXzHIRkmjIxA=="
         }
       },
       "is_incremental": false,
@@ -7068,7 +7068,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/navigators/coloring/conditional-formatting.html",
-          "hash": "rncUQ2IuwrbyJ8RWoF/YcA=="
+          "hash": "ATfIH6vQNs7hn4AtT547qg=="
         }
       },
       "is_incremental": false,
@@ -8750,7 +8750,7 @@
       "output": {
         ".html": {
           "relative_path": "introduction/toc.html",
-          "hash": "Mnnlw3SOuGME5kHGDHnH+g=="
+          "hash": "CKQ5XaxFry6ZusvG285G5A=="
         }
       },
       "is_incremental": false,
@@ -8787,18 +8787,6 @@
         ".html": {
           "relative_path": "introduction/workspace-customization/customize-quick-access.html",
           "hash": "/vXhwd/ZlA3T8ZvZsDAiUw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "introduction/workspace-customization/default-values.md",
-      "output": {
-        ".html": {
-          "relative_path": "introduction/workspace-customization/default-values.html",
-          "hash": "3NSYs64jFE2Eni15zVwQ5Q=="
         }
       },
       "is_incremental": false,
