@@ -72,5 +72,14 @@ The current topic contains a list with the keyboard shortcuts which can be used 
 | **Esc**            | Discard changes to the current field                         |
 |                    |                                                              |
 | **Shift + F10**    | Open context menu                                            |
-| **Ctrl + Shift + R**| Записва отпечатка отчет във файл източник на данни и изглед заедно |
-| **Ctrl + Shift + O**| Прочита отпечатка отчет от файл източник на данни и изглед заедно|
+| **Ctrl + Shift + S**| Saves a report to a file - data source and view together. |
+| **Ctrl + Shift + O**| Reads a report from a file  - data source and view together |
+| **Ctrl + P**| Print preview. |
+| **Ctrl + Shift + P**| Print multiple. |
+| **Ctrl + 1**| Changes the status to New. |
+| **Ctrl + 2**| Changes the status to Planned. |
+| **Ctrl + 3**| Changes the status to Confirmed. |
+| **Ctrl + 4**| Changes the status to Released. |
+| **Ctrl + 5**| Changes the status to Completed. |
+| **Ctrl + 6**| Changes the status to Closed. |
+| **Ctrl + 9**| Changes the status to Void. |
