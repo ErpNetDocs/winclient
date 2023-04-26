@@ -72,5 +72,5 @@ The current topic contains a list with the keyboard shortcuts which can be used 
 | **Esc**            | Discard changes to the current field                         |
 |                    |                                                              |
 | **Shift + F10**    | Open context menu                                            |
-| **Ctrl + Shift + R**| Save отпечатка отчет във файл източник на данни и изглед заедно |
+| **Ctrl + Shift + R**| Записва отпечатка отчет във файл източник на данни и изглед заедно |
 | **Ctrl + Shift + O**| Прочита отпечатка отчет от файл източник на данни и изглед заедно|
