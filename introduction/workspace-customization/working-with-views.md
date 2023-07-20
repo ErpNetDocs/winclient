@@ -20,7 +20,7 @@ There are two *Standard views* – one for All Users and one for the specific Us
 The *Views*, created by a User (in brackets behind the name of a *view* you can see the user who created it), could be opened and edited only by that specific user. They are not visible to the rest of the users in the system (including administrators). The *views*, assigned to a Role (in the form *View name (Role name)*) could be opened and edited by any user, who has that role assigned or by an administrator. The All Users Views could be opened by all users of the system and edited only by administrators.
 
 When opening a specific form, by default the form is opened in the *Standard View*. With the highest priority is the standard view for the user, then the standard view for the role, and with the lowest priority is the standard view for all users.
-*Named Views* are not loaded upon opening the form. They can only be selected once the form is open in a *Standard view*.
+*Named Views* are not loaded upon opening the form. They can only be selected once the form is opened in a *Standard view*.
 
 ## Saving views
 
