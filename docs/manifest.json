@@ -9858,6 +9858,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "specific-functionality/image-20231006155529750.png",
+      "output": {
+        "resource": {
+          "relative_path": "specific-functionality/image-20231006155529750.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "specific-functionality/index.md",
       "output": {
@@ -9930,6 +9941,18 @@
       "output": {
         "resource": {
           "relative_path": "specific-functionality/pictures/web-browser-visible-panels-popup.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "specific-functionality/print-on-fiscal-device.md",
+      "output": {
+        ".html": {
+          "relative_path": "specific-functionality/print-on-fiscal-device.html",
+          "hash": "feEUJY7wQnMl1jY4iVUZQg=="
         }
       },
       "is_incremental": false,
