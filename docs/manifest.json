@@ -3931,6 +3931,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/image-20231006155529750.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/image-20231006155529750.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/specific-functionality/pictures/web-browser-config-empty.png",
       "output": {
         "resource": {
