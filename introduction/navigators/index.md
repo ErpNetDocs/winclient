@@ -5,7 +5,7 @@ The <b>Navigators</b> are system forms that show a lot of information in a summa
  Their main functions are:
 
 - Better orientation in large amounts of data;
-- Allowing сearching and opening documents or definitions;
+- Allowing searching and opening documents or definitions;
 - Filtering data by your criteria to narrow down the visible records; 
 - Grouping and Summing data to extract total values;
 - Sorting – setting an order for better organization;
