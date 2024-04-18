@@ -9870,6 +9870,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "logo_old.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo_old.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "specific-functionality/image-20231006155529750.png",
       "output": {
         "resource": {
