@@ -3931,6 +3931,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/logo_old.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo_old.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/specific-functionality/image-20231006155529750.png",
       "output": {
         "resource": {
