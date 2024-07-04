@@ -13,6 +13,12 @@ references:
 - uid: name
   name: name
   href: includes/name.html
+- uid: spec-PoFD
+  name: Print of fiscal device panel
+  href: specific-functionality/print-on-fiscal-device.html
+- uid: spec-WeB
+  name: Web browser
+  href: specific-functionality/web-browser.html
 - uid: winclient
   name: winclient
   href: includes/winclient.html
