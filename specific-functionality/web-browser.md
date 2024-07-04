@@ -1,3 +1,7 @@
+---
+uid: spec-WeB
+items: Specific-functionality
+---
 # Web browser
 
 They are everywhere. Each form in @@winclient supports up to 3 instances of a web browser panel. You can show them in the usual way - **[Customize the workspace](https://docs.erp.net/winclient/introduction/workspace-customization/index.html?q=Customize%20the%20workspace)** / **[Working with panels.](https://docs.erp.net/winclient/introduction/workspace-customization/working-with-panels.html?q=Working%20with%20panels)**
