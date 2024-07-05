@@ -90,6 +90,27 @@ If an invoice already exists or more than 5 days have passed since the receipt w
 <p><img src="image-20231006155529750.png" alt="image-20231006155529750"></p>
 <pre><code>
 </code></pre>
+<p>The Invoice button performs the following actions:</p>
+<ol>
+<li><p>Release the Store Order</p>
+</li>
+<li><p>Generates an Invoice from the created Invoice Order, using the configured manual generation</p>
+</li>
+<li><p>Opens the generated invoice on the screen</p>
+</li>
+</ol>
+<p>Prerequisites:</p>
+<ol>
+<li><p>When the sale is released, a Store Order with the status &quot;Planned&quot; and Invoice Order with the status &quot;Released&quot; are generated.</p>
+</li>
+<li><p>When the Store Order is released, a released Store transaction is generated.</p>
+</li>
+<li><p>The Invoice Order has a document workflow configured on status &quot;Released&quot; for the manual generation of an Invoice with the status &quot;Planned.&quot;</p>
+<p><img src="pictures/print-on-fiscal-device/image-20240705154930313.png" alt="image-20240705154930313"></p>
+<p><img src="pictures/print-on-fiscal-device/image-20240705155204639.png" alt="image-20240705155204639"></p>
+<p><img src="pictures/print-on-fiscal-device/image-20240705155307214.png" alt="image-20240705155307214"></p>
+</li>
+</ol>
 </article>
           </div>
           
