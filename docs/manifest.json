@@ -3953,6 +3953,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705154930313.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705154930313.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155204639.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155204639.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155307214.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155307214.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/specific-functionality/pictures/web-browser-config-empty.png",
       "output": {
         "resource": {
@@ -10018,7 +10051,7 @@
       "output": {
         ".html": {
           "relative_path": "specific-functionality/print-on-fiscal-device.html",
-          "hash": "bpHdLkbFCYBYe3FPHjCIhA=="
+          "hash": "mjC7rGl4bjsnsovBzVYmuw=="
         }
       },
       "is_incremental": false,
