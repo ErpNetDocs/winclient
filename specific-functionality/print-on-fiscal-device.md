@@ -38,7 +38,7 @@ The Invoice button performs the following actions:
 
 Prerequisites:
 
-1. When the sale is released, a Store Order with the status "Planned" and Invoice Order with the status "Released" are generated.
+1. When the Sales Order is released, a Store Order with the status "Planned" and Invoice Order with the status "Released" are generated.
 
 2. When the Store Order is released, a released Store transaction is generated.
 
