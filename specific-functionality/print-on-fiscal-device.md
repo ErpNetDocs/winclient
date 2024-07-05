@@ -24,3 +24,37 @@ The button's functionality heavily depends on the configuration of the  document
 ```
 
 ```
+
+
+The Invoice button performs the following actions:
+
+1. Release the Store Order
+
+2. Generates an Invoice from the created Invoice Order, using the configured manual generation
+
+3. Opens the generated invoice on the screen
+
+   
+
+Prerequisites:
+
+1. When the sale is released, a Store Order with the status "Planned" and Invoice Order with the status "Released" are generated.
+
+2. When the Store Order is released, a released Store transaction is generated.
+
+3. The Invoice Order has a document workflow configured on status "Released" for the manual generation of an Invoice with the status "Planned."
+
+   ![image-20240705154930313](pictures/print-on-fiscal-device/image-20240705154930313.png)
+
+   ![image-20240705155204639](pictures/print-on-fiscal-device/image-20240705155204639.png)
+
+   ![image-20240705155307214](pictures/print-on-fiscal-device/image-20240705155307214.png)
+
+   
+
+   
+
+   
+
+   
+
