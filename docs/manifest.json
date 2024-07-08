@@ -22,6 +22,5206 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/docs/docs/fonts/glyphicons-halflings-regular.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/fonts/glyphicons-halflings-regular.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-change-company.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-change-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-change-location.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-change-role.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-change-role.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-change-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-change-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-create-child.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-create-child.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-definition-of.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-definition-of.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-home.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-modify-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-modify-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-new-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-new-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-new-sales-order.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-open.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-open.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-print.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-settings-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-settings-change-company.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-show-data.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/commands-style.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/commands-style.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/close-and-save-all.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/close-and-save-all.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/create-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/create-new-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard-search.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/dashboard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/delete.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/documentation-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/exit.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/exit.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/file-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/file-page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/help-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/language.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/log-off.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/log-off.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-sections.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-subsections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/main-subsections.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/open-url.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/open-url.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/print-properties-send.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/print-properties-send.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/products-search.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/quick-access-tool.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/recent.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/recent.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/remote-support-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/system-forms.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/touch-only.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/dashboard/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/dashboard/pictures/what's-new-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/connect-to-customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/connect-to-customer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/data-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/data-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/data-tab2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/data-tab2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/definition-more.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/definition-more.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/definition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/definition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/document-flow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/document-flow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/document-state.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/document-state.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/document-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/document-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/freeze-columns.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/freeze-columns.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/freeze-columns2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/freeze-columns2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/frozen-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/frozen-column.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/frozen-column2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/frozen-column2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/functions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/functions.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/home-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/home-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/navigators-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/navigators-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/print.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/relations-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/relations-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/relations-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/relations-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/reports-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/reports-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/start.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/start.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/user-state.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/user-state.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/user-status.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/user-status.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/view-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/view-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/documents/pictures/void.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/documents/pictures/void.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/Calculated-fform.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/Calculated-fform.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/EF-FORM.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/EF-FORM.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/checked.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/checked.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/clear-defaultvalue1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/clear-defaultvalue1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/close-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/close-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-fform.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-fform.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-ficon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-ficon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/customize-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/datetime-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/datetime-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/dd-clist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/dd-clist.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/dd-menut.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/dd-menut.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/ddlist-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/ddlist-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/ddlist-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/ddlist-field1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/delete-rows.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/delete-rows.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/detailed-look.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/dots.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/dots.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/down-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/down-arrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/edit-mode.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/etc.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/etc.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expand-abutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expand-abutton.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expand-ddlist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expand-ddlist.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expf-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expf-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-fbutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-fbutton.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-formula.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-formula.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-formula3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/expression-formula3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/file-attachment.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/file-attachment.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/file-path.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/file-path.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter-buttons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter-condition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/filter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/fmp.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/fmp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/form-description.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/fp-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/fp-form.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/graph-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/graph-edit.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/identificator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/identificator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/insert-image.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/insert-image.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/invisible.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/invisible.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/longtext-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/longtext-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/longtext-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/longtext-field1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/ltf.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/ltf.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/navigation-buttons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/newVAT-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/newVAT-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/newVAT-field1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/newVAT-field1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/num-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/num-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/propertiesbutton.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/propertiesbutton.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/recorded-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/recorded-values.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/save-on-query.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/searching-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/searching-values.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/set-defaultvalue1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/set-defaultvalue1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/sf-datetime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/sf-datetime.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/sf-numbers.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/sf-numbers.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/simple-layout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/status-bar.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/system-settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/text-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/text-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/text-translations.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/text-translations.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/tick-show.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/tick-show.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/time.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/tree-checklist.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/tree-checklist.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/unchecked.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/unchecked.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/up-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/up-arrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/value-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/value-form.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/void.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/void.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/fields-management/pictures/xicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/fields-management/pictures/xicon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/amount-to-pay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/amount-to-pay.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/colored-cell.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/colored-cell.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/colored-rows.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/colored-rows.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/coloring.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/coloring.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/condition-expression-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/condition-expression-editor.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/customize-fileds.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/customize-fileds.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/format-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/format-condition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/format-conditions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/format-conditions.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/greater-than-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/greater-than-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-sales-orders.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-sales-orders.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-state-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-state-condition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-state-condition2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/new-state-condition2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/orders-in-bold5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/overdue-days.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/overdue-days.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/select-color.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/coloring/pictures/select-color.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/add-a-contition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/add-a-contition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/change-the-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/change-the-condition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/change-the-field.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/change-the-field.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/clear-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/clear-filter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/column.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/customer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/customizing-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/customizing-filters.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/down-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/down-arrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/edit-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/edit-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/edit-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/edit-filter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/example-months.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/example-months.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-one-day.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-one-day.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-seven-days-ago.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-seven-days-ago.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-t.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-t.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-years.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/examples-years.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/field-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/field-value.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filter-calendar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filter-calendar.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filter-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filter-editor.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-by-cell-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-by-cell-values.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-by-column-values.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-by-column-values.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-period.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-period.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/filtering-row.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/graph-editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/graph-editor.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/max-row-count.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/max-row-count.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/refresh.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/refresh.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/relative-periods-examples.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/relative-periods-examples.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/remove-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/remove-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/right-arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/right-arrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/right-click-filtering.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/right-click-filtering.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/search-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/search-panel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-data.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-filter-row.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-filter-row.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-hide-filters.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/show-hide-filters.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/timeout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/timeout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/view-filter-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/view-filter-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/view-filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/filtering/pictures/view-filter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/ascending.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/ascending.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/closed-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/closed-group.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/descening.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/descening.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/down.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/down.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/find-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/find-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/find.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/find.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/first-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/first-record.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/group-levels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/group-levels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/grouping-by-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/grouping-by-column.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/grouping.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/grouping.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/last-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/last-record.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/next-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/next-page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/next-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/next-record.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/numeric-sort.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/numeric-sort.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/numeric-sorted-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/numeric-sorted-form.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/open-all-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/open-all-groups.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/open-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/open-groups.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/previous-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/previous-page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/previous-record.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/previous-record.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/quick-searching.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/quick-searching.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/record-navigation-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/record-navigation-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/record-navigation.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/record-navigation.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/sorted-main-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/sorted-main-column.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/sorted-second-column.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/sorted-second-column.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/string-sorted-fort.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/string-sorted-fort.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/sum-group.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/sum-group.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/sum.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/sum.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/total-sum.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/total-sum.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/navigators/pictures/up.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/navigators/pictures/up.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/change-company.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/change-location.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/change-location.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/change-role.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/change-role.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/command-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/command-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/create-child.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/create-child.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/definition-of.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/definition-of.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/detailed-look.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/detailed-look.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/edit-mode.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/edit-mode.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/expand-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/expand-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/filter-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/filter-buttons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/form-description.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/form-description.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/home.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/minimize-ribbon-action.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/minimize-ribbon-action.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/minimize-ribbon-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/minimize-ribbon-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/minimized-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/minimized-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/modify-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/modify-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/navigation-buttons.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/navigation-buttons.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/new-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/new-sales-order.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/new-sales-order.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/open.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/open.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/optimization.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/optimization.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/print.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/print.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/products-tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/products-tablet-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/ribbon-add-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/ribbon-add-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/ribbon-file.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/ribbon-file.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/ribbon-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/ribbon-home.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/sales-tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/sales-tablet-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/save-on-query.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/save-on-query.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/settings-change-company.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/settings-change-company.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/show-data.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/show-data.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/simple-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/simple-layout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/status-bar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/status-bar.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/style.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/style.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/system-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/system-settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/tablet-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/tablet-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/time.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/time.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/pictures/views.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/pictures/views.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/show-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/show-panel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/definition-form-customer.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/definition-form-customer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/definition-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/definition-form.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/document-properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/document-properties.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/export-formats.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/export-formats.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/general-properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/general-properties.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/mail-a-printout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/mail-a-printout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/optional-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/optional-settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-color.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-color.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-orientation.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-orientation.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-size.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/page-size.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-preview.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-scale.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/print-scale.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/system-forms/pictures/security-properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/system-forms/pictures/security-properties.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/visible-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/visible-panels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/floating-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/floating-panels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/floating-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/floating-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/hide-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/hide-panel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/more-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/more-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/panel-left-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/panel-left-position.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/panel-position.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/panel-position.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/above-the-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/above-the-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/add-to-quick-access.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/add-to-quick-access.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/arrow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/below-the-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/below-the-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/change-fix-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/change-fix-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/changed-fix-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/changed-fix-button.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/clear-default-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/clear-default-value.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/create-new-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/create-new-region.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/created-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/created-region.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/cursor-change.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/cursor-change.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/customize-current-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/customize-current-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/customize-fields.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/customize-fields.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/default-value-cases.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/default-value-cases.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/display-format.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/display-format.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/down.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/down.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/edit-format.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/edit-format.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/fixing-button-low.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/fixing-button-low.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/fixing-button-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/fixing-button-up.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/format-condition.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/format-condition.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/hidden.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/hidden.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/left.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/left.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/multiple-pannels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/multiple-pannels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/open-sepatate-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/open-sepatate-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/panels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/properties-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/properties-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/properties.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/quick-access-toolbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/quick-access-toolbar.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/regions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/regions.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/remove-from-quick-access.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/remove-from-quick-access.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/remove-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/remove-region.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/removed-quick-access.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/removed-quick-access.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/resize-regions.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/resize-regions.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/resized-region.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/resized-region.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/right.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/right.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/sample.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/sample.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/security.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/security.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/separate-window.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/separate-window.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/separation-line.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/separation-line.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/set-default-value.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/set-default-value.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/up.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/up.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/visible.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/pictures/visible.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/save-layout-as.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/save-layout-as.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/save-layout.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/save-layout.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/save-view.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/save-view.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/show-panel.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/show-panel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/view-tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/view-tab.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace-customization/visible-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace-customization/visible-panels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/close-and-save-all.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/close-and-save-all.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/create-new-document.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/create-new-document.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard-ribbon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard-ribbon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard-search.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/dashboard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/delete.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/documentation-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/documentation-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/exit.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/exit.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/file-page.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/file-page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/help-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/help-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/language.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/language.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/log-off.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/log-off.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-customers-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-customers-sections.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-groups.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-start-panels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-start-panels.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-start.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu-start.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-menu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-sections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-sections.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/main-subsections.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/main-subsections.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/mouse-and-keyboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/mouse-and-keyboard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/mouse-keyboard-and-touch.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/mouse-keyboard-and-touch.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/open-url.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/open-url.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/print-properties-send.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/print-properties-send.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/products-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/products-search.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/quick-access-tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/quick-access-tool.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/recent.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/recent.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/remote-support-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/remote-support-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/settings.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/system-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/system-forms.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/touch-only.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/touch-only.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/introduction/workspace/pictures/what's-new-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/introduction/workspace/pictures/what's-new-icon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/logo_old.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/logo_old.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/image-20231006155529750.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/image-20231006155529750.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705154930313.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705154930313.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155204639.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155204639.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155307214.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/print-on-fiscal-device/image-20240705155307214.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-config-empty.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-config-empty.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-config.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-config.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-full.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-full.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-google-maps.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-google-maps.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-result.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-result.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-visible-panels-popup.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/specific-functionality/pictures/web-browser-visible-panels-popup.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Amountpay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Amountpay.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Amounttopay.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Amounttopay.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Amounttopays.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Amounttopays.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Createinvoices.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Createinvoices.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Createnewpurchaseorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Createnewpurchaseorder.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Createnewreceivingorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Createnewreceivingorder.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Createsalesorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Createsalesorder.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Customers.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Customers.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Documentflow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Documentflow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Documentflowopendocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Documentflowopendocument.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Documentnumb.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Documentnumb.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Invoicess.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Invoicess.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Invoicingnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Invoicingnavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Measurements.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Measurements.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Measurementunitname.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Measurementunitname.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Measurementunitnames.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Measurementunitnames.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Ordersnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Ordersnavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Productcodeandproductname.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Productcodeandproductname.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Productcodeandproductnames.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Productcodeandproductnames.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Purchaseordernavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Purchaseordernavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Quantities.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Quantities.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Quantity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Quantity.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Quantitys.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Quantitys.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Receivingordersnavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Receivingordersnavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Releasethedoc.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Releasethedoc.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Releasethedocu.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Releasethedocu.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Salesorderss.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Salesorderss.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Store.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Store.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Stores.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Stores.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Storing.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Storing.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Subject.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Subject.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Supplier.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Supplier.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Systemtype.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Systemtype.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Uniprice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Uniprice.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Unitprice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Unitprice.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/Unitprices.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/Unitprices.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activity8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activity8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/activitynavigator.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/activitynavigator.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/createnewactivity.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/createnewactivity.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/createnewinvoiceorder.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/createnewinvoiceorder.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/customersinvoicing.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/customersinvoicing.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/customersinvoicing1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/customersinvoicing1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/deadlinetime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/deadlinetime.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/df1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/df1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/df2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/df2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/documentflowopeninvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/documentflowopeninvoice.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/documentnumber.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/documentnumber.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/endtime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/endtime.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/invoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/invoice1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/invoiceonthescreen.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/invoiceonthescreen.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/invoiceopened.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/invoiceopened.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/io1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/io1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/io2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/io2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/io3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/io3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/io4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/io4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/io5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/io5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/openthesale.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/openthesale.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/openthesale1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/openthesale1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po0.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/po9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/po9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/poo5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/poo5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ppp.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ppp.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/printicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/printicon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/printinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/printinvoice.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/printinvoice1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/printinvoice1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder0.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder0.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/purchaseorder9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/releasedocument (1).png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/releasedocument (1).png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/releasedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/releasedocument.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/releasethedocument.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/releasethedocument.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/ro9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/ro9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvo4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice15.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice15.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice16.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice16.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesinvoice9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salesnvo9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvo9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvo9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/salinvoice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/salinvoice.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si11.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si11.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si12.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si12.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si13.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si13.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si14.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si14.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si15.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si15.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si16.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si16.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si5.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si5.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/si9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/si9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so10.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so11.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so11.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so3.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so4.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so4.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so6.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so6.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so7.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so7.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so8.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so8.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/so9.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/so9.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/starttime.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/starttime.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/docs/step-by-step/pictures/toprintwide.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/docs/step-by-step/pictures/toprintwide.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
         "resource": {
