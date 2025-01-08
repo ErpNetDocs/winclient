@@ -2,7 +2,7 @@
 uid: spec-PoFD
 items: Specific-functionality
 ---
-# Print of fiscal device panel
+# Print Receipt and issue Invoice
 
 In Sales and Payments, there is a 'Fiscal Printer Print' panel that enables the fiscalization of sales and payments. The panel contains two buttons:
 
