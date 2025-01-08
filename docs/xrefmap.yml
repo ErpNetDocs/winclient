@@ -14,8 +14,8 @@ references:
   name: name
   href: includes/name.html
 - uid: spec-PoFD
-  name: Print of fiscal device panel
-  href: specific-functionality/print-on-fiscal-device.html
+  name: Print Receipt and issue Invoice
+  href: country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.html
 - uid: spec-WeB
   name: Web browser
   href: specific-functionality/web-browser.html
