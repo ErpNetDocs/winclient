@@ -7,12 +7,12 @@
   "country-specific/bulgaria/index.html": {
     "href": "country-specific/bulgaria/index.html",
     "title": "| ERP.net Windows Client",
-    "keywords": "Bulgaria"
+    "keywords": "Print on fiscal devices"
   },
   "country-specific/bulgaria/print-on-fiscal-devices/index.html": {
     "href": "country-specific/bulgaria/print-on-fiscal-devices/index.html",
-    "title": "Specific functionality | ERP.net Windows Client",
-    "keywords": "Specific functionality Print Receipt and issue Invoice Печат на документи на фискално устройство"
+    "title": "Печат на фискални устройства | ERP.net Windows Client",
+    "keywords": "Печат на фискални устройства Print Receipt and issue Invoice Печат на документи на фискално устройство"
   },
   "country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.html": {
     "href": "country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.html",
@@ -27,7 +27,7 @@
   "country-specific/index.html": {
     "href": "country-specific/index.html",
     "title": "| ERP.net Windows Client",
-    "keywords": "Print on fiscal devices"
+    "keywords": "Bulgaria"
   },
   "edit-mode.html": {
     "href": "edit-mode.html",
