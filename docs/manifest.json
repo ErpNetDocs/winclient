@@ -22,6 +22,206 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183337956.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183337956.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183443418.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183443418.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183502490.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183502490.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183533653.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183533653.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183615246.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183615246.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183657762.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183657762.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183800124.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183800124.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183833134.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183833134.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183919300.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108183919300.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184000572.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184000572.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184032379.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184032379.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184143702.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184143702.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184221686.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184221686.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184244121.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184244121.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184312027.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/image-20250108184312027.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/print-on-fiscal-device.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/print-on-fiscal-device.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "edit-mode.md",
       "output": {
         ".html": {
@@ -4012,16 +4212,6 @@
       "output": {
         "resource": {
           "relative_path": "specific-functionality/pictures/web-browser-visible-panels-popup.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "specific-functionality/print-on-fiscal-device.md",
-      "output": {
-        ".html": {
-          "relative_path": "specific-functionality/print-on-fiscal-device.html"
         }
       },
       "version": ""
