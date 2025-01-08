@@ -1,4 +1,4 @@
-# Specific functionality
+# Печат на фискални устройства
 
 
 
