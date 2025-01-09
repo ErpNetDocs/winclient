@@ -6,7 +6,7 @@
   topicHref: step-by-step/index.md
 - name: Specific functionality
   href: specific-functionality/
-  topicHref: specific-functionality/index.md 
+  topicHref: specific-functionality/toc.yml 
   - name: Country specific functionality
   href: country-specific/
-  topicHref: country-specific/index.md  
+  topicHref: country-specific/toc.yml
