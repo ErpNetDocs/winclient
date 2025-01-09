@@ -1,0 +1,4 @@
+- name: Print on fiscal devices
+  href: print-on-fiscal-device.md
+- name: Print receipt and create Invoice
+  href: invoice-and-receipt.md

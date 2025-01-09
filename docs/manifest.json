@@ -211,11 +211,50 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/toc.html"
+        },
+        ".json": {
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "country-specific/bulgaria/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/toc.html"
+        },
+        ".json": {
+          "relative_path": "country-specific/bulgaria/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "country-specific/index.md",
       "output": {
         ".html": {
           "relative_path": "country-specific/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "country-specific/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/toc.html"
+        },
+        ".json": {
+          "relative_path": "country-specific/toc.json"
         }
       },
       "version": ""
@@ -5848,19 +5887,6 @@
         },
         ".json": {
           "relative_path": "step-by-step/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "toc.html"
-        },
-        ".json": {
-          "relative_path": "toc.json"
         }
       },
       "version": ""
