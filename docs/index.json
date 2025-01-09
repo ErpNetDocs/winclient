@@ -4,11 +4,6 @@
     "title": "Welcome to the ERP.net Windows Desktop Client documentation | ERP.net Windows Client",
     "keywords": "Welcome to the ERP.net Windows Desktop Client documentation The documentation uses DocFX to build."
   },
-  "Table of Contents.html": {
-    "href": "Table of Contents.html",
-    "title": "| ERP.net Windows Client",
-    "keywords": "[TOC]"
-  },
   "country-specific/bulgaria/index.html": {
     "href": "country-specific/bulgaria/index.html",
     "title": "| ERP.net Windows Client",
