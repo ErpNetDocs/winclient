@@ -22,6 +22,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Table of Contents.md",
+      "output": {
+        ".html": {
+          "relative_path": "Table of Contents.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "country-specific/bulgaria/index.md",
       "output": {
         ".html": {
