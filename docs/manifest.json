@@ -247,19 +247,6 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "country-specific/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "country-specific/toc.html"
-        },
-        ".json": {
-          "relative_path": "country-specific/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "edit-mode.md",
       "output": {
