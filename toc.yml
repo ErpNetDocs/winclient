@@ -1,12 +1,15 @@
+pdf: true
+pdfFileName: WindowsClient.pdf
+items:
 - name: Topics
-  href: introduction/
+  href: introduction/toc.yml
   topicHref: introduction/index.md
 - name: Step By Step
-  href: step-by-step/
+  href: step-by-step/toc.yml
   topicHref: step-by-step/index.md
 - name: Specific functionality
   href: specific-functionality/toc.yml 
   topicHref: specific-functionality/index.md
-  - name: Country specific functionality
+- name: Country specific functionality
   href: country-specific/toc.yml
   topicHref: country-specific/index.md
