@@ -17,7 +17,7 @@ If an invoice already exists or more than 5 days have passed since the receipt w
 
 The button's functionality heavily depends on the configuration of the  document flow. It is expected that there will be a planned store order  in the flow, which is released first. Afterward, a invoicing order with a configured manual document route for invoice creation is sought out.
 
-![image-20231006155529750](image-20231006155529750.png)
+![image-20250523162033248](pictures/invoice-and-receipt/image-20250523162033248.png)
 
 
 
@@ -44,11 +44,7 @@ Prerequisites:
 
 3. The Invoice Order has a document workflow configured on status "Released" for the manual generation of an Invoice with the status "Planned."
 
-   ![image-20240705154930313](pictures/print-on-fiscal-device/image-20240705154930313.png)
-
-   ![image-20240705155204639](pictures/print-on-fiscal-device/image-20240705155204639.png)
-
-   ![image-20240705155307214](pictures/print-on-fiscal-device/image-20240705155307214.png)
+   
 
    
 
