@@ -32,6 +32,266 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/intrastat/arrivals.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/intrastat/arrivals.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/intrastat/dispatches.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/intrastat/dispatches.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/intrastat/export.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/intrastat/export.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/intrastat/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/intrastat/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523135946134.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523135946134.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523135953884.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523135953884.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140023566.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140023566.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140043618.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140043618.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140132140.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/Intrastat/image-20250523140132140.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523144033691.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523144033691.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523144732819.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523144732819.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523145745598.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523145745598.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523145840811.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523145840811.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150117771.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150117771.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150145762-1748001708889-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150145762-1748001708889-1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150238445.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/arrivals/image-20250523150238445.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150526849.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150526849.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150659795.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150659795.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150728647.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150728647.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150804499.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150804499.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150949696.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523150949696.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523151046621.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/dispatches/image-20250523151046621.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151602458.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151602458.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151626936.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151626936.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151728610.png",
+      "output": {
+        "resource": {
+          "relative_path": "country-specific/bulgaria/intrastat/pictures/export/image-20250523151728610.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "country-specific/bulgaria/intrastat/preliminary-setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "country-specific/bulgaria/intrastat/preliminary-setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/index.md",
       "output": {
         ".html": {
