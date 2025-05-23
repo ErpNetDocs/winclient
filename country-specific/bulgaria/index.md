@@ -1,4 +1,5 @@
 # Bulgaria
 
-[!list folder="." depth=0 style="bullet" limit=200]
+Intrastat
+Print on fiscal devices
 
