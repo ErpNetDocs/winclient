@@ -95,7 +95,7 @@ Invoice + Receipt - which allows for easy issuance of an invoice for the current
 If the receipt has already been printed, it simply creates the invoice and displays it on the screen.
 If an invoice already exists or more than 5 days have passed since the receipt was printed, the button is inactive.</p>
 <p>The button's functionality heavily depends on the configuration of the  document flow. It is expected that there will be a planned store order  in the flow, which is released first. Afterward, a invoicing order with a configured manual document route for invoice creation is sought out.</p>
-<p><img src="image-20231006155529750.png" alt="image-20231006155529750"></p>
+<p><img src="pictures/invoice-and-receipt/image-20250523162033248.png" alt="image-20250523162033248"></p>
 <pre><code>
 </code></pre>
 <p>The Invoice button performs the following actions:</p>
@@ -114,9 +114,6 @@ If an invoice already exists or more than 5 days have passed since the receipt w
 <li><p>When the Store Order is released, a released Store transaction is generated.</p>
 </li>
 <li><p>The Invoice Order has a document workflow configured on status &quot;Released&quot; for the manual generation of an Invoice with the status &quot;Planned.&quot;</p>
-<p><img src="pictures/print-on-fiscal-device/image-20240705154930313.png" alt="image-20240705154930313"></p>
-<p><img src="pictures/print-on-fiscal-device/image-20240705155204639.png" alt="image-20240705155204639"></p>
-<p><img src="pictures/print-on-fiscal-device/image-20240705155307214.png" alt="image-20240705155307214"></p>
 </li>
 </ol>
 
