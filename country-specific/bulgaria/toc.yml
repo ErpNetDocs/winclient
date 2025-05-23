@@ -1,3 +1,6 @@
 - name: Print on fiscal devices
   href: print-on-fiscal-devices/toc.yml
   topicHref: print-on-fiscal-devices/index.md
+- name: Intrastat
+  href: intrastat/toc.yml
+  topicHref: intrastat/index.md
