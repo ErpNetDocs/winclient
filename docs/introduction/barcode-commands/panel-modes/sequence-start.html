@@ -118,16 +118,16 @@
 <p>-it is <strong>NOT</strong> the first use of the panel after opening the form <strong>AND</strong> the current mode is the last used mode for serial numbers input.</p>
 <h2 id="mode-operation">Mode operation</h2>
 <p>If <strong>SEQUENCE START</strong> mode is selected, when scanning/adding a serial number in the main field, the following actions are completed by the system:</p>
-<p><strong>(1)</strong> If the form type is different from ‘Receive’ - throw <strong>Message1</strong> and return to the previous mode.  Else =&gt;<strong>(2)</strong></p>
-<p><strong>(2)</strong> Add the scanned/added record in the field <em>Serial Numbers</em> followed by ellipsis (three dots ‘...’).</p>
+<p><strong>(1)</strong> Add the scanned/added record in the field <em>Serial Numbers</em> followed by ellipsis (three dots ‘...’).</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>If the field <em>Serial Numbers</em> already has a value, the value is cleared.</p>
 </div>
-<p><strong>(3)</strong> Proceed to <strong><a href="sequence-end.html">SEQUENCE END</a></strong>.</p>
-<p><strong>Message1:</strong><br>
-The ‘{0}’ mode is available only when all lines in the form are with movement type ‘Receipt’.<br>
-{0} - ModeName</p>
+<p><strong>(2)</strong> Proceed to <strong><a href="sequence-end.html">SEQUENCE END</a></strong>.</p>
+<h2 id="direction-dependent-behavior">Direction-dependent behavior</h2>
+<p>The <strong>SEQUENCE START</strong> mode does not validate the movement type of the document lines. It only stores the starting serial number and transfers control to <strong><a href="sequence-end.html">SEQUENCE END</a></strong>.</p>
+<p>The validation of the movement type (Receipt / Issue) and the decision whether new serial numbers can be generated or existing ones should be used is performed in <strong>SEQUENCE END</strong>.</p>
+<p>If the document contains mixed movement types, <strong>SEQUENCE END</strong> finalizes the behavior. When used on Receipt lines (generation), the mode requires all lines to be with movement type Receipt.</p>
 
 </article>
 

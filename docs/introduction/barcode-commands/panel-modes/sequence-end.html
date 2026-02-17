@@ -128,7 +128,7 @@
 </ul>
 <h2 id="mode-operation">Mode operation</h2>
 <p>If <strong>SEQUENCE END</strong> mode is set, when scanning/adding a value in the main field, the following actions are completed by the system:</p>
-<p><strong>(1)</strong> If the form type is different from ‘Receive’ - throw <strong>Message1</strong> and return to the previous mode.  Else =&gt;<strong>(2)</strong></p>
+<p><strong>(1)</strong> Validate the movement type of the current line. If the current line is ‘Receipt’ and the form contains lines with movement type different from ‘Receipt’ - throw Message1 and return to the previous mode. Else =&gt; (2)</p>
 <p><strong>(2)</strong>  Check if the field <em>Serial Numbers</em> has a value. If true =&gt; <strong>(3)</strong> Else =&gt; <strong>(4)</strong></p>
 <div class="NOTE">
 <h5>Note</h5>
