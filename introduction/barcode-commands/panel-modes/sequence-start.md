@@ -59,4 +59,4 @@ The **SEQUENCE START** mode does not validate the movement type of the document 
 
 The validation of the movement type (Receipt / Issue) and the decision whether new serial numbers can be generated or existing ones should be used is performed in **SEQUENCE END**.
 
-If the document contains mixed movement types, the behavior depends on the type of the current line and is finalized in **SEQUENCE END**.
+If the document contains mixed movement types, **SEQUENCE END** finalizes the behavior. When used on Receipt lines (generation), the mode requires all lines to be with movement type Receipt.
