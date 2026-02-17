@@ -56,7 +56,7 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
 
 If **SEQUENCE END** mode is set, when scanning/adding a value in the main field, the following actions are completed by the system:
 
-**(1)** If the form type is different from ‘Receive’ - throw **Message1** and return to the previous mode.  Else =>**(2)**
+**(1)** Validate the movement type of the current line. If the current line is ‘Receipt’ and the form contains lines with movement type different from ‘Receipt’ - throw Message1 and return to the previous mode. Else => (2)
 
 **(2)**  Check if the field _Serial Numbers_ has a value. If true => **(3)** Else => **(4)**
 
