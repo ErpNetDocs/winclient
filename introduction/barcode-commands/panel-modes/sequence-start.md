@@ -1,7 +1,7 @@
 # SEQUENCE START of serial numbers (from ... count)
 
 
- ## About the mode
+## About the mode
  
 This mode is introduced in Version 2019.1. It is used for **entering a starting serial number** when creating a sequence of an exact count of serial numbers starting from a particular serial number. 
 
@@ -45,17 +45,18 @@ as long as the _Use serial numbers_ option from the Barcode settings is activate
  
 If **SEQUENCE START** mode is selected, when scanning/adding a serial number in the main field, the following actions are completed by the system:
 
-**(1)** If the form type is different from ‘Receive’ - throw **Message1** and return to the previous mode.  Else =>**(2)**
-
-**(2)** Add the scanned/added record in the field _Serial Numbers_ followed by ellipsis (three dots ‘...’).
+**(1)** Add the scanned/added record in the field _Serial Numbers_ followed by ellipsis (three dots ‘...’).
 
 > [!NOTE]
 > 
 > If the field _Serial Numbers_ already has a value, the value is cleared.
 
-**(3)** Proceed to **[SEQUENCE END](sequence-end.md)**.
- 
-**Message1:**<br>
-The ‘{0}’ mode is available only when all lines in the form are with movement type ‘Receipt’.</br>
-{0} - ModeName
+**(2)** Proceed to **[SEQUENCE END](sequence-end.md)**.
 
+## Direction-dependent behavior
+
+The **SEQUENCE START** mode does not validate the movement type of the document lines. It only stores the starting serial number and transfers control to **[SEQUENCE END](sequence-end.md)**.
+
+The validation of the movement type (Receipt / Issue) and the decision whether new serial numbers can be generated or existing ones should be used is performed in **SEQUENCE END**.
+
+If the document contains mixed movement types, the behavior depends on the type of the current line and is finalized in **SEQUENCE END**.
