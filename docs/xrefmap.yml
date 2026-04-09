@@ -13,9 +13,6 @@ references:
 - uid: name
   name: name
   href: includes/name.html
-- uid: print-on-fiscal-devices
-  name: Печат на документи на фискално устройство
-  href: country-specific/bulgaria/print-on-fiscal-devices/print-on-fiscal-device.html
 - uid: spec-PoFD
   name: Print Receipt and issue Invoice
   href: country-specific/bulgaria/print-on-fiscal-devices/invoice-and-receipt.html
