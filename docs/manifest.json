@@ -2372,6 +2372,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "introduction/navigators/filtering/pictures/search-filter-fields.png",
+      "output": {
+        "resource": {
+          "relative_path": "introduction/navigators/filtering/pictures/search-filter-fields.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "introduction/navigators/filtering/pictures/search-panel.png",
       "output": {
         "resource": {
