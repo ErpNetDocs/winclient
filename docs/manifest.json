@@ -325,10 +325,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/fiscal-print-from-invoice.png",
+      "source_relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/fiscal-print-from-invoice2.png",
       "output": {
         "resource": {
-          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/fiscal-print-from-invoice.png"
+          "relative_path": "country-specific/bulgaria/print-on-fiscal-devices/pictures/how-to/fiscal-print-from-invoice2.png"
         }
       },
       "version": ""
