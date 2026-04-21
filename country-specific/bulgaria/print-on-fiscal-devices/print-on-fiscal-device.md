@@ -167,7 +167,7 @@ https://docs.erp.net/tech/config-options-reference-178749455.html
 
 Ако няма допустими плащания, бутонът **Печат (F7)** е неактивен.
 
-![Fiscal print from Invoice](pictures/how-to/fiscal-print-from-invoice.png)
+![Fiscal print from Invoice](pictures/how-to/fiscal-print-from-invoice2.png)
 
 # X. Сторно „Операторска грешка“
 
