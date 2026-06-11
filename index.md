@@ -17,4 +17,4 @@ For more information about @@name, you can view:
 
 - **[Technical Documentation](https://docs.erp.net/tech)** - business logic and implementation information.
 - **[Domain Model](https://erpnetdocs.github.io/model)** - reference information about the business entities.
-- **[Developer Documentation](https://erpnetdocs.github.io/dev)** - information for developers...
+- **[Developer Documentation](https://erpnetdocs.github.io/dev)** - information for developers.
