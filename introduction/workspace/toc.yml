@@ -4,4 +4,5 @@
   href: main-menu.md
 - name: File page
   href: file-page.md
-  
+- name: File management
+  href: file-manager.md
