@@ -18,7 +18,7 @@ In this case, being able to upload them in an accessible storage, **unattached**
 
 To solve this, **@@name** now comes with the updated functionality **File Management v2.0**.  
 
-![picture](../pictures/file1.png)
+![picture](./pictures/files1.png)
 
 Built upon the proven and trusted functionality of **attaching documents to specific objects**, **File Manager of @@name** now extends its abilities featuring a way to **also store an unattached file**.  
 
@@ -79,7 +79,7 @@ Files can be uploaded and stored in your **@@name storage** using one of the ava
 * **Linked file** - allows you to create **a shortcut** linked to the **physical location of the file** (a physical drive with shared access, or its shared partition or folder)  
 * **Internet URL** - create **a shortcut** linked to **an object located on the Internet** using a URL (for example, a shortcut to a website opened by your browser)  
 
-![picture](../pictures/file2.png)
+![picture](./pictures/files2.png)
 
 The **Embedded file** option is best suitable for **small-sized file** that are **frequently used** by your @@name instance's users.  
 
