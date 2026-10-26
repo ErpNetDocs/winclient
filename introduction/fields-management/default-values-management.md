@@ -1,5 +1,5 @@
 
-# Default values management
+# Default values 
 
 The <b>Set as default value</b> function is used to avoid repeated entering of data for similar objects.
 
@@ -45,3 +45,9 @@ Mark the row in the panel with a mouse click, then right-click and select the <b
 The default value that you set – *Account EUR*, in the *Payment account* field of the sales order document, needs to be cleared. 
 
 After clearing the default value following the steps above, if you open a sales order document, the *Payment account* field will be empty.
+
+## A new approach introduced in v.27
+
+The new **Entity Attribute Default Values]((https://docs.erp.net/model/entities/Systems.Core.EntityAttributeDefaultValues.html)** entity is the preferred place to create default-value settings, and its values can also be applied in the Desktop Client. It is available under the WEB Client only.
+
+The existing **Data Entry Default Values** settings remain in use, however. When both entities contain an applicable default for the same field, the Desktop Client uses the value from **Data Entry Default Values**, even if the new setting matches more conditions. If no old setting is applicable, it can use the value from **Entity Attribute Default Values**. Before adding a default, review applicable settings in both entities to avoid an unexpected result.
