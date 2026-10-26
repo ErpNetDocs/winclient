@@ -53,4 +53,5 @@ The new [Entity Attribute Default Values](https://docs.erp.net/model/entities/Sy
 The existing **Data Entry Default Values** settings remain in use, however. When both entities contain an applicable default for the same field, the Desktop Client uses the value from **Data Entry Default Values**, even if the new setting matches more conditions. If no old setting is applicable, it can use the value from **Entity Attribute Default Values**. Before adding a default, review applicable settings in both entities to avoid an unexpected result.
 
 Learn more from the dedicated page [HERE](https://docs.erp.net/tech/advanced/concepts/default-value.html)
+
 Learn how to use the new entity from [HERE](https://docs.erp.net/webclient/introduction/how-to/create-default-value.html)
